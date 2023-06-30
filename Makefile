@@ -11,7 +11,13 @@ serve:
 	docker run --rm --init -v $(PWD):/home/marp/app -e LANG=$(LANG) -p 8080:8080 -p 37717:37717 marpteam/marp-cli -s .
 
 outline: prepare
-	pandoc outline.md -o $(BUILD_DIR)/outline.pdf
+	pandoc  outline.md -o $(BUILD_DIR)/outline.pdf
+
+begrippen: prepare
+	pandoc --include-in-header=nohyphenation --from markdown_phpextra+pandoc_title_block begrippen.md -o $(BUILD_DIR)/begrippen.pdf
+
+vbegrippen: begrippen
+	evince $(BUILD_DIR)/begrippen.pdf
 
 voutline: outline
 	evince $(BUILD_DIR)/outline.pdf

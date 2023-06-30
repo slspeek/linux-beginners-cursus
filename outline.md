@@ -1,4 +1,6 @@
-# []{#anchor}Linux beginners les structuur
+% Linux beginners les structuur
+% Steven Speek
+% 30 juni 2023
 
 ## []{#anchor-1}Les 1 Rondleiding GNOME
 
