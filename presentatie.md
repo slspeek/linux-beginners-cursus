@@ -8,7 +8,7 @@ theme: gaia
     - voorziet in icons, toolbars, wallpapers en desktop widgets
     - werkt met twee modi:
         i. Normale modus
-        ii. Activiteiten modus
+        i. Activiteiten modus
 
 ---
 # Inloggen in GDM

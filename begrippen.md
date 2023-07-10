@@ -1,6 +1,6 @@
-% Begrippen
+% Begrippenlijst Linux beginners cursus
 % Steven Speek
-% 30 juni 2023
+% \today{}
 
 Besturingssysteem
 

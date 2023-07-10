@@ -1,7 +1,7 @@
 BUILD_DIR=build
-
+PANDOC_CMD=pandoc --include-in-header=header.tex --from markdown
 install-deps:
-	sudo apt-get install pandoc texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-extra docker.io docker-compose
+	sudo apt-get install pandoc texlive-lang-european texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-extra docker.io docker-compose
 	sudo adduser $(USER) docker
 
 install-marp: install-deps
@@ -10,21 +10,26 @@ install-marp: install-deps
 serve:
 	docker run --rm --init -v $(PWD):/home/marp/app -e LANG=$(LANG) -p 8080:8080 -p 37717:37717 marpteam/marp-cli -s .
 
-outline: prepare
-	pandoc  outline.md -o $(BUILD_DIR)/outline.pdf
+presentatie: prepare
+	docker run --rm --init -e MARP_USER="$(id -u):$(id -g)" -v $(PWD):/home/marp/app/ -e LANG=$(LANG) marpteam/marp-cli --allow-local-files presentatie.md --pdf -o $(BUILD_DIR)/presentatie.pdf
+
+samenvatting: prepare
+	$(PANDOC_CMD) samenvatting.md -o $(BUILD_DIR)/samenvatting.pdf
 
 begrippen: prepare
-	pandoc --include-in-header=nohyphenation --from markdown_phpextra+pandoc_title_block begrippen.md -o $(BUILD_DIR)/begrippen.pdf
+	$(PANDOC_CMD) begrippen.md -o $(BUILD_DIR)/begrippen.pdf
 
 vbegrippen: begrippen
 	evince $(BUILD_DIR)/begrippen.pdf
 
-voutline: outline
-	evince $(BUILD_DIR)/outline.pdf
+vsamenvatting: samenvatting
+	evince $(BUILD_DIR)/samenvatting.pdf
 
 clean: 
 	rm -rf $(BUILD_DIR)
 
 prepare:
 	mkdir -p $(BUILD_DIR)
+
+all: begrippen samenvatting presentatie
 
