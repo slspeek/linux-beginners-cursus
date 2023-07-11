@@ -1,6 +1,8 @@
-% Linux beginners les structuur
-% Steven Speek
-% \today{}
+---
+title: Linux beginners les structuur
+author: Steven Speek
+date: \today{}
+...
 
 ## Rondleiding GNOME
 
@@ -8,7 +10,7 @@
 
 1.  Hulp openen (SUPER+F1)
 
-    a.  Zoeken in Hulp met CTRL+S, zoeken op 1 pagina met CTRL+F
+    a.  Zoeken in Hulp met CTRL+S, zoeken op één pagina met CTRL+F
 
 1.  Schermbeveiliging
 

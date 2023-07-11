@@ -1,5 +1,5 @@
 BUILD_DIR=build
-PANDOC_CMD=pandoc --include-in-header=header.tex --from markdown
+PANDOC_CMD=pandoc --include-in-header=header.tex --from markdown layout.yaml 
 install-deps:
 	sudo apt-get install pandoc texlive-lang-european texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-extra docker.io docker-compose
 	sudo adduser $(USER) docker

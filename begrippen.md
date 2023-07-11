@@ -1,6 +1,8 @@
-% Begrippenlijst Linux beginners cursus
-% Steven Speek
-% \today{}
+---
+title: Begrippenlijst Linux beginners cursus
+author: Steven Speek
+date: \today{}
+...
 
 Besturingssysteem
 
@@ -32,3 +34,7 @@ Open software
 Super	
 
 :    De toets op het toetsenbord tussen de control en alt toets in.
+
+Systeemmenu
+
+: Menu aan de rechterzijde van de bovenbalk in GNOME.
