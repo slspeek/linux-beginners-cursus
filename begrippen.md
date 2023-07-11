@@ -4,17 +4,32 @@ author: Steven Speek
 date: \today{}
 ...
 
+Activiteiten modus
+
+:   Toestand van het GNOME desktop systeem om van programma te wisselen, van desktop te wisselen of om een programma te starten
+
+Activiteiten knop
+
+: Linksboven in de bovenbalk vindt u de activiteiten knop die u 
+naar activiteiten modus brengt en van daar weer terug naar normale modus.
+
+![Activiteiten knop](img/activiteiten-knop.png)
+
 Besturingssysteem
 
 :	Verzameling programma’s die de hardware aanstuurt en zorgt dat toepassingen kunnen draaien.
 
 Bovenbalk
 
-:	Onderdeel van de GNOME desktop. De zwarte balk aan de bovenzijde van het scherm met links activiteiten, in het midden de tijdsaanduiding en met systeemmenu rechts
+:	Onderdeel van de GNOME desktop. De zwarte balk aan de bovenzijde van het scherm met links activiteiten, in het midden de tijdsaanduiding en met systeemmenu rechts.
+
+![Bovenbalk](img/bovenbalk.png)
 
 Dash
 
 :	Onderdeel van de GNOME desktop. Hier staan je favoriete programma’s en je vindt hier de geopende programma’s.
+
+![Dash](img/dash.png)
 
 Desktop manager
 
@@ -38,3 +53,7 @@ Super
 Systeemmenu
 
 : Menu aan de rechterzijde van de bovenbalk in GNOME.
+
+![Systeemmenu in gesloten toestand](img/systeem-menu-gesloten.png)
+
+![Systeemmenu geopend](img/systeem-menu-geopend.png){width=50%}
