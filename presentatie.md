@@ -26,6 +26,17 @@ theme: gaia
 - Inloggen met ```(gebruikersnaam='tux', wachtwoord='tux')```
 - GNOME opent in 'activiteiten modus'
 ---
-
 # Activiteiten modus
-![width:1000px](./img/activiteiten-modus.png)
+![width:900px](./img/activiteiten-modus.png)
+
+---
+# In activiteiten modus
+
+- kunt u typen in het zoekvak
+  ![](img/zoekvak.png)
+    - om een ander programma te openen
+    - een document te zoeken
+- ziet u de dash ![width:500px](img/dash.png) en kunt u met de muis één van de programma's hieruit openen
+
+
+

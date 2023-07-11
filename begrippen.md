@@ -57,3 +57,9 @@ Systeemmenu
 ![Systeemmenu in gesloten toestand](img/systeem-menu-gesloten.png)
 
 ![Systeemmenu geopend](img/systeem-menu-geopend.png){width=50%}
+
+Zoekvak
+
+: Onderdeel van de activiteiten modus. Het heeft automatisch de focus (aandacht) van het toetsenbord. Hiermee kunt u snel programma's openen, documenten zoeken of instellingen vinden.
+
+![Zoekvak](img/zoekvak.png)
