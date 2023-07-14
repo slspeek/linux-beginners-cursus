@@ -6,7 +6,8 @@ install-deps: install-pandoc
 	sudo adduser $(USER) docker
 
 install-pandoc:
-		sudo apt-get install pandoc texlive-lang-european texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-extra
+	sudo apt-get update
+	sudo apt-get install pandoc texlive-lang-european texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-extra
 
 install-marp: install-deps
 	docker pull marpteam/marp-cli
