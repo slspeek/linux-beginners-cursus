@@ -1,8 +1,12 @@
 BUILD_DIR=build
 PANDOC_CMD=pandoc --include-in-header=header.tex --from markdown layout.yaml 
-install-deps:
-	sudo apt-get install pandoc texlive-lang-european texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-extra docker.io docker-compose
+
+install-deps: install-pandoc
+	sudo apt-get install docker.io docker-compose
 	sudo adduser $(USER) docker
+
+install-pandoc:
+		sudo apt-get install pandoc texlive-lang-european texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-extra
 
 install-marp: install-deps
 	docker pull marpteam/marp-cli
