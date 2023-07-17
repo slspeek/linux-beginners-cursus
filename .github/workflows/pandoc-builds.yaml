@@ -3,7 +3,7 @@ name: Pandoc builds
 on: push
 
 jobs:
-  build:
+  pandoc:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -11,11 +11,13 @@ jobs:
       - name: Install pandoc
         run: make install-pandoc
       - name: Create PDF
-        run: make samenvatting
+        run: make samenvatting begrippen
       - name: Test existence
         run: file build/samenvatting.pdf
       - name: Release
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
         with:
-          files: build/samenvatting.pdf
+          files: |
+            build/samenvatting.pdf
+            build/begrippen.pdf
