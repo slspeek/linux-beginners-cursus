@@ -13,9 +13,9 @@ jobs:
       - uses: docker://marp/marp-cli
         with:
           args: --allow-local-files presentatie.md --pdf -o build/presentatie.pdf
-       - name: Release marp generated pdfs
-         uses: softprops/action-gh-release@v1
-         if: startsWith(github.ref, 'refs/tags/')
-         with:
-           files: |
-             build/presentatie.pdf
+      - name: Release marp generated pdfs
+        uses: softprops/action-gh-release@v1
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: |
+            build/presentatie.pdf
