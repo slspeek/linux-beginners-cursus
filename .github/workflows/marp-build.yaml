@@ -1,0 +1,15 @@
+name: Marp build
+
+on: push
+
+jobs:
+  marp:
+    - name: Checkout 
+      uses: actions/checkout@v2 # Required to mount the Github Workspace to a volume 
+    - uses: addnab/docker-run-action@v3
+      with:
+        registry: hub.docker.com
+        image: marp/marp-cli
+        options: -v ${{ github.workspace }}:/home/marp/app/ -e LANG=nl_NL.UTF-8
+        run: |
+          marp-cli --allow-local-files presentatie.md --pdf -o build/presentatie.pdf
