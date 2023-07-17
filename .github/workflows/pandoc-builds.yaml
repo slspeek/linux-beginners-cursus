@@ -6,13 +6,13 @@ jobs:
   pandoc:
     runs-on: ubuntu-22.04
     steps:
-      - name: Create build directory
-        run: mkdir build
       - name: Checkout
         uses: actions/checkout@v3
+      - name: Create build directory
+        run: mkdir build
       - uses: docker://pandoc/latex:2.9
         with:
-          args: samenvatting.md -o build/samenvatting.pdf
+          args: --include-in-header=header.tex --from markdown layout.yaml samenvatting.md -o build/samenvatting.pdf
       - uses: docker://pandoc/latex:2.9
         with:
           args: --output=build/begrippen.pdf begrippen.md
