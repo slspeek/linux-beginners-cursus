@@ -12,6 +12,7 @@ jobs:
         run: make prepare
       - uses: docker://marpteam/marp-cli
         with:
+          options: -u 1001:115
           args: --allow-local-files presentatie.md --pdf -o build/presentatie.pdf
       - name: Release marp generated pdfs
         uses: softprops/action-gh-release@v1

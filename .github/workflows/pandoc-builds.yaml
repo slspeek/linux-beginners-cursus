@@ -15,7 +15,7 @@ jobs:
           args: --include-in-header=header.tex --from markdown layout.yaml samenvatting.md -o build/samenvatting.pdf
       - uses: docker://pandoc/latex:2.9
         with:
-          args: --include-in-header=header.tex --from markdown layout.yaml begrippen.md --output=build/begrippen.pdf 
+          args: --include-in-header=header.tex --from markdown layout.yaml begrippen.md --output=build/begrippen.pdf
       - name: Release pandoc generated pdfs
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
