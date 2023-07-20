@@ -13,7 +13,7 @@ jobs:
       - name: Open build directory
         run: | 
             # echo UID: ${{ github.uid }} GID: ${{ github.gid }}
-            chmod -v o+w build
+            # chmod -v o+w build
             ls -ld build
       - uses: docker://marpteam/marp-cli:v3.1.0
         with:
