@@ -10,11 +10,6 @@ jobs:
         uses: actions/checkout@v3
       - name: Prepare
         run: make prepare
-      - name: Open build directory
-        run: | 
-            # echo UID: ${{ github.uid }} GID: ${{ github.gid }}
-            # chmod -v o+w build
-            ls -ld build
       - uses: docker://marpteam/marp-cli:v3.1.0
         with:
           args: --allow-local-files presentatie.md --pdf -o build/presentatie.pdf
