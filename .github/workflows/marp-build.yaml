@@ -18,7 +18,7 @@ jobs:
       - uses: docker://marpteam/marp-cli:v3.1.0
         with:
           args: --allow-local-files presentatie.md --pdf -o build/presentatie.pdf
-          env: LANG=nl_NL.UTF-8 MARP_USER=1001:115
+          environment: LANG=nl_NL.UTF-8 MARP_USER=1001:115
       - name: Release marp generated pdfs
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
