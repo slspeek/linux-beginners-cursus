@@ -12,7 +12,7 @@ jobs:
         run: make prepare
       - name: Open build directory
         run: | 
-            chmod -v +w build
+            chmod -v og+w build
             ls -ld build
       - uses: docker://marpteam/marp-cli
         with:
