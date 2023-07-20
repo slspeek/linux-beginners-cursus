@@ -1,5 +1,6 @@
 BUILD_DIR=build
 PANDOC_CMD=pandoc --include-in-header=header.tex --from markdown layout.yaml 
+MARP=marpteam/marp-cli:v3.1.0
 
 install-deps: install-pandoc
 	sudo apt-get install docker.io docker-compose
@@ -10,13 +11,13 @@ install-pandoc:
 	sudo apt-get install pandoc texlive-lang-european texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-extra
 
 install-marp: install-deps
-	docker pull marpteam/marp-cli
+	docker pull marpteam/marp-cli:v3.1.0
 
 serve:
-	docker run --rm --init -v $(PWD):/home/marp/app -e LANG=$(LANG) -p 8080:8080 -p 37717:37717 marpteam/marp-cli -s .
+	docker run --rm --init -v $(PWD):/home/marp/app -e LANG=$(LANG) -p 8080:8080 -p 37717:37717 $(MARP) -s .
 
 presentatie: prepare
-	docker run --rm --init -e MARP_USER="$(id -u):$(id -g)" -v $(PWD):/home/marp/app/ -e LANG=$(LANG) marpteam/marp-cli --allow-local-files presentatie.md --pdf -o $(BUILD_DIR)/presentatie.pdf
+	docker run --rm --init -e MARP_USER="$(id -u):$(id -g)" -v $(PWD):/home/marp/app/ -e LANG=$(LANG) $(MARP) --allow-local-files presentatie.md --pdf -o $(BUILD_DIR)/presentatie.pdf
 
 samenvatting: prepare
 	$(PANDOC_CMD) samenvatting.md -o $(BUILD_DIR)/samenvatting.pdf
