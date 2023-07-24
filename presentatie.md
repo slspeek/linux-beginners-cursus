@@ -15,28 +15,41 @@ theme: gaia
 - Toestand die u van de computer bent gewend met programma's in vensters
 
 # Activiteiten modus
-- Programma starten
-- Document zoeken
-- Programma wisselen
+- Programma's starten
+- Programma's wisselen
 - Overzicht geopende programma's
 - Dash tonen
+- Documenten zoeken
+
+
 ---
 # Inloggen in GDM
 - GDM is de **display manager**, die regelt de graphische logins
 - Inloggen met ```(gebruikersnaam='tux', wachtwoord='tux')```
-- GNOME opent in 'activiteiten modus'
+- GNOME desktopmanager opent in 'activiteiten modus'
 ---
 # Activiteiten modus
 ![width:900px](./img/activiteiten-modus.png)
 
 ---
 # In activiteiten modus
-
 - kunt u typen in het zoekvak
   ![](img/zoekvak.png)
     - om een ander programma te openen
     - een document te zoeken
 - ziet u de dash ![width:500px](img/dash.png) en kunt u met de muis één van de programma's hieruit openen
+    - met CTRL ingedrukt klikken om een nieuw venster van een reeds geopend programma te verkrijgen
+---
+# Applicatie modus
+Om applicatie modus binnen te gaan
+- kunt u op de 3x3 puntjes aan de rechterzijde van de dash klikken of
+- SUPER+A op het toetsenbord indrukken
+![width:600px](img/geinstalleerde-programmas.png)
+---
+## In applicatie modus
+- kunt u een programma openen door erop te klikken of
+- een programma slepen naar een werkblad om het te openen
+![width:700px](img/slepen-in-activiteiten-modus.gif)
 
 
 
