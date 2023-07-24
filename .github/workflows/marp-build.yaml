@@ -18,10 +18,9 @@ jobs:
           MARP_USER: "1001:115"
       - name: Copy images
         run: cp -r img build/presentatie
-      - name: Release marp presentatie html
-        uses: softprops/action-gh-release@v1
-        if: startsWith(github.ref, 'refs/tags/')
+      - name: Deploy to github pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          files: |
-            build/presentatie/presentatie.html
-            build/presentatie/img/**
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build/presentatie
+          
