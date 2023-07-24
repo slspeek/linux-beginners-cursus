@@ -2,7 +2,7 @@
 marp: true
 theme: gaia
 ---
-# GNOME
+# GNOME desktop manager
 - GNOME is de standaard **desktop-manager**
     - regelt het tekenen van de window decoraties
     - voorziet in icons, toolbars, wallpapers en desktop widgets
