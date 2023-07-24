@@ -23,4 +23,5 @@ jobs:
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: |
-            build/presentatie
+            build/presentatie/presentatie.html
+            build/presentatie/img/**
