@@ -12,7 +12,7 @@ jobs:
         run: make prepare
       - uses: docker://marpteam/marp-cli:v3.1.0
         with:
-          args: --allow-local-files presentatie.md -o build/presentatie/presentatie.html
+          args: --allow-local-files presentatie.md -o build/presentatie/index.html
         env: 
           LANG: "nl_NL.UTF-8"
           MARP_USER: "1001:115"
@@ -23,4 +23,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build/presentatie
-          
