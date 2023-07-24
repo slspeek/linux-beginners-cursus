@@ -36,13 +36,15 @@ date: \today{}
 
 1.  Systeemmenu
 
-    a.  Volume regeling
+    a. Volume regeling
+    
+    a. Instellingen
 
-    a.  Netwerk instellingen
+    a. Netwerk instellingen
 
-    a.  Vergrendeling
+    a. Vergrendeling
 
-    a.  Uitschakelen en afmelden
+    a. Uitschakelen en afmelden
 
 1.  Afmelden/Uitzetten
 
@@ -80,7 +82,7 @@ date: \today{}
 1.  Hulp openen en sluiten 4
 
     a.  Open de hulp door op SUPER te drukken, en dan op het reddingsboei
-        symbool te klikken
+        symbool op de dash te klikken
 
     a.  Gebruik CTRL-S en zoek op 'sneltoetsen', ga naar 'Sneltoetsen
         > instellen'
@@ -147,7 +149,7 @@ date: \today{}
 
     a.  SUPER+I voor Instellingen
 
-    a.  SUPER+T voor Afstellingen (Tweaks)
+    a.  SUPER+SHIFT+I voor Afstellingen
 
     a.  ALT+CTRL+T voor Terminal
 

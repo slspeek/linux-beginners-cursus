@@ -16,11 +16,10 @@ theme: gaia
 
 # Activiteiten modus
 - Programma's starten
+- Documenten zoeken
 - Programma's wisselen
 - Overzicht geopende programma's
 - Dash tonen
-- Documenten zoeken
-
 
 ---
 # Inloggen in GDM
@@ -32,13 +31,24 @@ theme: gaia
 ![width:900px](./img/activiteiten-modus.png)
 
 ---
-# In activiteiten modus
-- kunt u typen in het zoekvak
-  ![](img/zoekvak.png)
-    - om een ander programma te openen
-    - een document te zoeken
-- ziet u de dash ![width:500px](img/dash.png) en kunt u met de muis één van de programma's hieruit openen
+- kunt u typen in het zoekvak om een programma te openen
+
+![width:900px](img/openen-door-typen.gif)
+
+---
+- kunt u typen in het zoekvak om een document te zoeken
+
+![width:900px](img/document-openen-met-typen.gif)
+
+---
+- kunt u van programma of werkblad wisselen
+![width:900px](img/activiteiten-modus-wisselen.gif)
+
+---
+- ziet u de dash ![width:500px](img/dash.png) 
+    - kunt u met de muis één van de programma's hieruit openen
     - met CTRL ingedrukt klikken om een nieuw venster van een reeds geopend programma te verkrijgen
+    - op de 3x3 puntjes aan de rechterzijde klikken op applicatie modus in te gaan
 ---
 # Applicatie modus
 Om applicatie modus binnen te gaan
