@@ -1,7 +1,12 @@
 name: Marp build
 
-on: push
-
+on:
+  push:
+    branches:
+      - main
+    tags:
+      - 'v*.*.*'
+    
 jobs:
   marp:
     runs-on: ubuntu-latest
