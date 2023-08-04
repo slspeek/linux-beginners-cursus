@@ -15,6 +15,11 @@ naar activiteiten modus brengt en van daar weer terug naar normale modus.
 
 ![Activiteiten knop](img/activiteiten-knop.png)
 
+Applicatie modus
+
+: Onderdeel van de activiteiten modus waarin alle geïnstalleerde programma's worden getoond.
+U komt in deze modus door ```SUPER+A``` in te drukken.
+
 Besturingssysteem
 
 :	Verzameling programma’s die de hardware aanstuurt en zorgt dat toepassingen kunnen draaien.
@@ -49,6 +54,8 @@ Open software
 Super	
 
 :    De toets op het toetsenbord tussen de control en alt toets in.
+
+![Super toets](img/super-toets.jpeg){width=300px}
 
 Systeemmenu
 
