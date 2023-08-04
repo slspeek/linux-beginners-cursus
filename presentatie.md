@@ -2,7 +2,7 @@
 marp: true
 theme: gaia
 ---
-# GNOME desktop manager
+# GNOME desktop manager ![width:100px](img/GNOME-logo.png)
 - GNOME is de standaard **desktop-manager**
     - regelt het tekenen van de window decoraties
     - voorziet in icons, toolbars, wallpapers en desktop widgets
@@ -40,25 +40,34 @@ theme: gaia
 ![width:300px](img/super-toets.jpeg)
 
 ---
+# Activiteiten modus verlaat u door
+- op de activiteiten knop linksboven op de bovenbalk te klikken
+
+![](img/activiteiten-knop.png)
+- ```SUPER``` of ```ESC``` in te drukken
+
+![width:300px](img/super-toets.jpeg) ![width:300px](img/ESC-toets.jpeg)
+
+
 ## In activiteiten modus 
 - kunt u typen in het zoekvak om een programma te openen
 ![width:850px](img/openen-door-typen.gif)
 
 ---
-- kunt u typen in het zoekvak om een document te zoeken
-
-![width:900px](img/document-openen-met-typen.gif)
+- kunt u typen in het zoekvak om een document te zoeken en openen
+![width:950px](img/document-openen-met-typen.gif)
 
 ---
 - kunt u van programma of werkblad wisselen
-![width:900px](img/activiteiten-modus-wisselen.gif)
+![width:950px](img/activiteiten-modus-wisselen.gif)
 
 ---
 - ziet u de dash ![width:500px](img/dash.png), daarmee kunt u
     - met de muis één van de programma's hieruit openen
     - met ```CTRL``` ingedrukt klikken om een nieuw venster van een reeds geopend programma te verkrijgen
+    - zien welke programma's er zijn geopend
     - op de 3x3 puntjes aan de rechterzijde klikken op applicatie modus in te gaan
-    ![width:300px](img/3x3-puntjes-op-dash.png)
+    ![width:200px](img/3x3-puntjes-op-dash.png)
 ---
 # Met de dash kunt u
 - één van de programma's openen door met de muis op het icon te klikken
@@ -67,6 +76,10 @@ theme: gaia
 ---
 - een tweede venster van een programma openen door ```CTRL``` ingedrukt te houden terwijl u klikt
 ![width:800px](img/dash-tweede-venster-openen.gif)
+
+---
+- zien welke programma's geopend zijn door de punt onder het icon
+![width:950px](img/dash-toont-geopende-programma_s.png)
 
 ---
 - applicatie modus binnen gaan door op de 3x3 puntjes aan de rechterzijde te klikken
@@ -112,3 +125,62 @@ Is een onderdeel van activiteiten modus
 ---
 - kunt u een programma uit de dash verwijderen door het naar de 3x3 puntjes rechts te slepen
 ![width:960px](img/dash-toepassing-verwijderen.gif)
+
+---
+# Bovenbalk
+![width:1000px](img/bovenbalk.png)
+bestaat uit
+- de activiteiten knop om in en uit activiteiten te gaan (```SUPER```)
+![](img/activiteiten-knop.png)
+- de datum- en tijdsaanduiding om het kalender en notificatie venster te openen of sluiten (```SUPER+V```)
+![](img/datum-tijdsaanduiding.png)
+- het systeemmenu
+![](img/systeem-menu-gesloten.png)
+
+---
+# Notificatie venster
+![bg width:600px right](img/notificatie-venster.png)
+- toont de kalender 
+    - koppelen via instellingen -> online accounts
+![width:400px](img/instellingen-online-accounts.png)
+
+---
+## Openen en sluiten notificatie venster
+![bg width:600px right](img/notificatie-venster.png)
+- op ![](img/datum-tijdsaanduiding.png) te klikken
+- ```SUPER+V``` in te drukken
+
+---
+# Systeemmenu
+![bg width:600px right](img/systeem-menu-geopend.png)
+- met ![](img/schermafdruk-knop.png) kunt u schermafdrukken en screencasts maken
+    - ```PrintScreen``` voor schermafdrukken
+    - ```CTRL+ALT+SHIFT+R``` voor screencasts
+
+---
+## Systeemmenu vervolg
+![bg width:600px right](img/systeem-menu-geopend.png)
+- ![](img/instellingen-knop.png) brengt u naar de instellingen
+- ![](img/vergrendelings-knop.png) vergrendelt de computer (```SUPER+L```)
+- ![](img/volume-regelaar.png) regelt het volume
+
+---
+## Afsluit menu
+![bg width:600px right](img/systeemmenu-afsluiten.png)
+- ![](img/afsluit-menu-knop.png) opent het submenu om te kunnen
+    - gaan naar pauzestand
+    - herstarten
+    - afsluiten (```ALT+CTRL+DEL```)
+    - afmelden
+
+---
+## Ethernet internet
+![bg width:600px right](img/systeemmenu-ethernet.png)
+- ![](img/ethernet-in-uit.png) schakelt het bedrade internet aan of uit
+- ![](img/ethernet-totaal.png) de pijl aan de rechterzijde van deze knop opent de bedrade netwerk instellingen
+---
+## Wifi instellingen
+![bg width:600px right](img/systeemmenu-wifi.png)
+- ![](img/wifi-in-uit.png) schakelt de wifi aan of uit
+- ![](img/wifi-totaal.png) de pijl aan de rechterzijde van deze knop opent de draadloze netwerk instellingen
+    - u kunt eventueel een ander draadloos netwerk selecteren

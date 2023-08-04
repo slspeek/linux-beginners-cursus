@@ -6,7 +6,7 @@ date: \today{}
 
 Activiteiten modus
 
-:   Toestand van het GNOME desktop systeem om van programma te wisselen, van desktop te wisselen of om een programma te starten
+:   Toestand van het GNOME desktop systeem om van programma te wisselen, van desktop te wisselen of om een programma te starten. U komt in deze modus met ```SUPER```. U verlaat hem met ```SUPER``` of ```ESC```.
 
 Activiteiten knop
 
