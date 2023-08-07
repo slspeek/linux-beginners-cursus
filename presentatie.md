@@ -231,11 +231,11 @@ of
 
 ---
 ### Voorbeelden
-- klik op een bestanden icon ![width:80px](img/bestanden-icon.png) op de dash ![](img/dash.png)
+- klik op het bestanden icon ![width:80px](img/bestanden-icon.png) op de dash ![](img/dash.png)
     - Ga activiteiten in via 
         - op ![](img/activiteiten-knop.png) te klikken of
         - ```SUPER``` in te drukken
-    - Klik op ![width:80px](img/bestanden-icon.png) bestanden te openen
+    - Klik op ![width:80px](img/bestanden-icon.png) om de bestanden toepassing te openen
 ---
 - ```SUPER+1``` om firefox ![width:100px](img/firefox-icon.png) te openen
 - ```SUPER+3``` om writer ![width:100px](img/writer-icon.png) te openen
