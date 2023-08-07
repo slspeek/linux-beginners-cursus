@@ -201,3 +201,58 @@ bestaat uit
 - ![](img/wifi-in-uit.png) schakelt de wifi aan of uit
 - ![](img/wifi-totaal.png) de pijl aan de rechterzijde van deze knop opent de draadloze netwerk instellingen
     - u kunt eventueel een ander draadloos netwerk selecteren
+
+---
+## Toepassingen starten
+![width:100px](img/firefox-icon.png) ![width:100px](img/terminal-icon.png) ![width:100px](img/bestanden-icon.png) ![width:100px](img/kaarten-icon.png) ![width:100px](img/writer-icon.png) ![width:100px](img/software-icon.png) ![width:100px](img/patience-icon.png) ![width:100px](img/rekenmachine.png)
+- Activiteiten zoekvak
+- Dash  
+- Applicatie modus
+- Sneltoetsen
+---
+
+### Toepassing starten via zoekvak
+- Druk ```SUPER``` en type het begin van de naam van de toepassing tot haar icon er staat en druk ```ENTER```
+
+![width:750px](img/openen-door-typen.gif)
+
+---
+### Voorbeelden
+- Druk ```SUPER``` in, type ```kaar``` en ```ENTER``` om kaarten  ![width:100px](img/kaarten-icon.png) te starten
+- ```SUPER```, type ```ter``` en ```ENTER``` om een terminal ![width:100px](img/terminal-icon.png) te starten. Sluit de terminal door ```CTRL+D``` te geven, of ```ALT+F4```, of op het kruisje rechtersboven in het venster te klikken
+- ```SUPER```, type ```wri``` en ```ENTER``` om writer ![width:100px](img/writer-icon.png)
+
+---
+### Indien de toepassing op de dash staat kun je ook
+- Activiteiten modus ingaan en op het icon van de toepassing op de dash klikken
+
+of
+- ```SUPER+1``` gebruiken voor de meest linkse toepassing, ```SUPER+2``` voor de tweede toepassing van links, enzovoort.
+
+---
+### Voorbeelden
+- ```SUPER+1``` om firefox ![width:100px](img/firefox-icon.png) te openen
+- ```SUPER+3``` om writer ![width:100px](img/writer-icon.png) te openen
+- ```SUPER+4``` om bestanden ![width:100px](img/bestanden-icon.png) te openen
+- ```SUPER+5``` om software ![width:100px](img/software-icon.png) te openen
+
+---
+- Via klikken op een icon op de dash ![](img/dash.png)
+    - Ga activiteiten in via 
+        - op ![](img/activiteiten-knop.png) te klikken
+        - ```SUPER``` in te drukken
+    - Klik op ![width:100px](img/bestanden-icon.png) betanden te openen
+
+---
+### De dash aanpassen
+![width:900px](img/geinstalleerde-programmas.png)
+
+---
+- sleep een icon naar de dash
+![width:1000px](img/dash-toepassing-toevoegen.gif)
+
+---
+- sleep een icon naar de 3x3 puntjes rechts
+![width:960px](img/dash-toepassing-verwijderen.gif)
+
+---
