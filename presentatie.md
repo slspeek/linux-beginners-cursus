@@ -47,7 +47,7 @@ theme: gaia
 ![width:950px](./img/activiteiten-modus.png)
 
 ---
-### Activiteiten modus komt in door
+### Activiteiten modus komt u in door
 - op de activiteiten knop linksboven op de bovenbalk te klikken
 
 ![](img/activiteiten-knop.png)
@@ -231,18 +231,16 @@ of
 
 ---
 ### Voorbeelden
+- klik op een bestanden icon ![width:80px](img/bestanden-icon.png) op de dash ![](img/dash.png)
+    - Ga activiteiten in via 
+        - op ![](img/activiteiten-knop.png) te klikken of
+        - ```SUPER``` in te drukken
+    - Klik op ![width:80px](img/bestanden-icon.png) bestanden te openen
+---
 - ```SUPER+1``` om firefox ![width:100px](img/firefox-icon.png) te openen
 - ```SUPER+3``` om writer ![width:100px](img/writer-icon.png) te openen
 - ```SUPER+4``` om bestanden ![width:100px](img/bestanden-icon.png) te openen
 - ```SUPER+5``` om software ![width:100px](img/software-icon.png) te openen
-
----
-- Via klikken op een icon op de dash ![](img/dash.png)
-    - Ga activiteiten in via 
-        - op ![](img/activiteiten-knop.png) te klikken
-        - ```SUPER``` in te drukken
-    - Klik op ![width:100px](img/bestanden-icon.png) betanden te openen
-
 ---
 ### De dash aanpassen
 ![width:900px](img/geinstalleerde-programmas.png)
