@@ -15,6 +15,10 @@ naar activiteiten modus brengt en van daar weer terug naar normale modus.
 
 ![Activiteiten knop](img/activiteiten-knop.png)
 
+Applicatie
+
+: Zie toepassing
+
 Applicatie modus
 
 : Onderdeel van de activiteiten modus waarin alle geïnstalleerde programma's worden getoond.
@@ -49,7 +53,12 @@ GUI
 :	Graphical user interface.
 
 Open software
+
 :	Software met de broncode erbij. In tegenstelling tot gesloten software kan en mag een programmeur zien wat de software doet.
+
+Programma
+
+: zie toepassing
 
 Super	
 
@@ -61,9 +70,20 @@ Systeemmenu
 
 : Menu aan de rechterzijde van de bovenbalk in GNOME.
 
-![Systeemmenu in gesloten toestand](img/systeem-menu-gesloten.png)
+![Systeemmenu in gesloten toestand](img/systeem-menu-gesloten.png) ![Systeemmenu geopend](img/systeem-menu-geopend.png){width=50%}
 
-![Systeemmenu geopend](img/systeem-menu-geopend.png){width=50%}
+Toepassing
+
+: Een stuk software dat een bepaalde functionaliteit biedt. Bijvoorbeeld:
+
+1. Met Firefox ![](img/firefox-icon.png){width=40px} kunt u websurfen
+
+1. Met LibreOffice Writer ![](img/writer-icon.png){width=40px} kunt u documenten maken
+
+1. Met Bestanden ![](img/bestanden-icon.png){width=40px} kunt u uw bestanden beheren
+
+1. Met Software ![](img/software-icon.png){width=40px} kunt u toepassingen installeren of verwijderen
+
 
 Zoekvak
 

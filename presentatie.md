@@ -2,7 +2,23 @@
 marp: true
 theme: gaia
 ---
-# GNOME desktop manager ![width:100px](img/GNOME-logo.png)
+# Debian 12 Bookworm
+![bg right](img/debian-logo.png)
+
+---
+## Rondleiding GNOME
+1. Wat is GNOME
+1. Modussen
+1. Dash
+1. Bovenbalk
+1. Notificatie venster
+1. Systeemmenu
+
+![bg right](img/GNOME-logo.png)
+
+---
+
+### GNOME desktop manager ![width:100px](img/GNOME-logo.png)
 - GNOME is de standaard **desktop-manager**
     - regelt het tekenen van de window decoraties
     - voorziet in icons, toolbars, wallpapers en desktop widgets
@@ -11,10 +27,10 @@ theme: gaia
         i. Activiteiten modus
 
 ---
-# Normale modus
+### Normale modus
 - Toestand die u van de computer bent gewend met programma's in vensters
 
-# Activiteiten modus
+### Activiteiten modus
 - Programma's starten
 - Documenten zoeken
 - Programma's wisselen
@@ -22,16 +38,16 @@ theme: gaia
 - Dash tonen
 
 ---
-# Inloggen in GDM
+### Inloggen in GDM
 - GDM is de **display manager**, die regelt de graphische logins
 - Inloggen met ```(gebruikersnaam='tux', wachtwoord='tux')```
 - GNOME desktopmanager opent in activiteiten modus
 ---
-# Activiteiten modus
-![width:900px](./img/activiteiten-modus.png)
+### Activiteiten modus
+![width:950px](./img/activiteiten-modus.png)
 
 ---
-# Activiteiten modus komt in door
+### Activiteiten modus komt in door
 - op de activiteiten knop linksboven op de bovenbalk te klikken
 
 ![](img/activiteiten-knop.png)
@@ -40,7 +56,7 @@ theme: gaia
 ![width:300px](img/super-toets.jpeg)
 
 ---
-# Activiteiten modus verlaat u door
+### Activiteiten modus verlaat u door
 - op de activiteiten knop linksboven op de bovenbalk te klikken
 
 ![](img/activiteiten-knop.png)
@@ -48,18 +64,19 @@ theme: gaia
 
 ![width:300px](img/super-toets.jpeg) ![width:300px](img/ESC-toets.jpeg)
 
+---
 
-## In activiteiten modus 
+### In activiteiten modus 
 - kunt u typen in het zoekvak om een programma te openen
-![width:850px](img/openen-door-typen.gif)
+![width:880px](img/openen-door-typen.gif)
 
 ---
 - kunt u typen in het zoekvak om een document te zoeken en openen
-![width:950px](img/document-openen-met-typen.gif)
+![width:1000px](img/document-openen-met-typen.gif)
 
 ---
 - kunt u van programma of werkblad wisselen
-![width:950px](img/activiteiten-modus-wisselen.gif)
+![width:1000px](img/activiteiten-modus-wisselen.gif)
 
 ---
 - ziet u de dash ![width:500px](img/dash.png), daarmee kunt u
@@ -69,30 +86,30 @@ theme: gaia
     - op de 3x3 puntjes aan de rechterzijde klikken op applicatie modus in te gaan
     ![width:200px](img/3x3-puntjes-op-dash.png)
 ---
-# Met de dash kunt u
-- één van de programma's openen door met de muis op het icon te klikken
-![width:700px](img/dash-toepassing-openen.gif)
+### Met de dash kunt u
+- een programma openen door met de muis op het icon te klikken
+![width:880px](img/dash-toepassing-openen.gif)
 
 ---
 - een tweede venster van een programma openen door ```CTRL``` ingedrukt te houden terwijl u klikt
-![width:800px](img/dash-tweede-venster-openen.gif)
+![width:950px](img/dash-tweede-venster-openen.gif)
 
 ---
 - zien welke programma's geopend zijn door de punt onder het icon
-![width:950px](img/dash-toont-geopende-programma_s.png)
+![width:1000px](img/dash-toont-geopende-programma_s.png)
 
 ---
 - applicatie modus binnen gaan door op de 3x3 puntjes aan de rechterzijde te klikken
-![width:900px](img/dash-naar-applicatie-modus.gif)
+![width:950px](img/dash-naar-applicatie-modus.gif)
 
 ---
-# Applicatie modus
+### Applicatie modus
 Is een onderdeel van activiteiten modus 
-![width:800px](img/geinstalleerde-programmas.png)
+![width:850px](img/geinstalleerde-programmas.png)
 
 ---
 
-# U gaat applicatie modus binnen door
+### U gaat applicatie modus binnen door
 - op de 3x3 puntjes aan de rechterzijde van de dash klikken als u in activiteiten modus bent
 
 ![width:300px](img/3x3-puntjes-op-dash.png)
@@ -101,7 +118,7 @@ Is een onderdeel van activiteiten modus
 
 
 ---
-# Applicatie modus verlaat u door
+### Applicatie modus verlaat u door
 - op de 3x3 puntjes aan de rechterzijde van de dash te klikken om in activiteiten modus te blijven
 ![width:200px](img/3x3-puntjes-op-dash.png)
 - ```ESC``` in te drukken om in activiteiten modus te blijven
@@ -110,9 +127,9 @@ Is een onderdeel van activiteiten modus
 - ```SUPER``` in te drukken om naar normale modus te komen
 
 ---
-## In applicatie modus
+### In applicatie modus
 - kunt u een programma openen door erop te klikken of
-![width:800px](img/applicatie-modus-toepassing-openen.gif)
+![width:880px](img/applicatie-modus-toepassing-openen.gif)
 
 ---
 - een programma slepen naar een werkblad om het te openen
@@ -127,7 +144,7 @@ Is een onderdeel van activiteiten modus
 ![width:960px](img/dash-toepassing-verwijderen.gif)
 
 ---
-# Bovenbalk
+### Bovenbalk
 ![width:1000px](img/bovenbalk.png)
 bestaat uit
 - de activiteiten knop om in en uit activiteiten te gaan (```SUPER```)
@@ -138,34 +155,34 @@ bestaat uit
 ![](img/systeem-menu-gesloten.png)
 
 ---
-# Notificatie venster
+### Notificatie venster
 ![bg width:600px right](img/notificatie-venster.png)
 - toont de kalender 
     - koppelen via instellingen -> online accounts
 ![width:400px](img/instellingen-online-accounts.png)
 
 ---
-## Openen en sluiten notificatie venster
+### Openen en sluiten notificatie venster
 ![bg width:600px right](img/notificatie-venster.png)
 - op ![](img/datum-tijdsaanduiding.png) te klikken
 - ```SUPER+V``` in te drukken
 
 ---
-# Systeemmenu
+### Systeemmenu
 ![bg width:600px right](img/systeem-menu-geopend.png)
 - met ![](img/schermafdruk-knop.png) kunt u schermafdrukken en screencasts maken
     - ```PrintScreen``` voor schermafdrukken
     - ```CTRL+ALT+SHIFT+R``` voor screencasts
 
 ---
-## Systeemmenu vervolg
+### Systeemmenu vervolg
 ![bg width:600px right](img/systeem-menu-geopend.png)
 - ![](img/instellingen-knop.png) brengt u naar de instellingen
 - ![](img/vergrendelings-knop.png) vergrendelt de computer (```SUPER+L```)
 - ![](img/volume-regelaar.png) regelt het volume
 
 ---
-## Afsluit menu
+### Afsluit menu
 ![bg width:600px right](img/systeemmenu-afsluiten.png)
 - ![](img/afsluit-menu-knop.png) opent het submenu om te kunnen
     - gaan naar pauzestand
@@ -174,12 +191,12 @@ bestaat uit
     - afmelden
 
 ---
-## Ethernet internet
+### Ethernet internet
 ![bg width:600px right](img/systeemmenu-ethernet.png)
 - ![](img/ethernet-in-uit.png) schakelt het bedrade internet aan of uit
 - ![](img/ethernet-totaal.png) de pijl aan de rechterzijde van deze knop opent de bedrade netwerk instellingen
 ---
-## Wifi instellingen
+### Wifi instellingen
 ![bg width:600px right](img/systeemmenu-wifi.png)
 - ![](img/wifi-in-uit.png) schakelt de wifi aan of uit
 - ![](img/wifi-totaal.png) de pijl aan de rechterzijde van deze knop opent de draadloze netwerk instellingen
