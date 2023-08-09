@@ -105,7 +105,7 @@ theme: gaia
 ---
 ### Applicatie modus
 Is een onderdeel van activiteiten modus 
-![width:850px](img/geinstalleerde-programmas.png)
+![width:850px](img/applicatie-modus.png)
 
 ---
 
@@ -133,7 +133,7 @@ Is een onderdeel van activiteiten modus
 
 ---
 - een programma slepen naar een werkblad om het te openen
-![width:1000px](img/slepen-in-activiteiten-modus.gif)
+![width:1000px](img/slepen-in-applicatie-modus.gif)
 
 ---
 - kunt u een programma toevoegen aan de dash
@@ -232,7 +232,7 @@ of
 ---
 ### Voorbeelden
 - klik op het bestanden icon ![width:80px](img/bestanden-icon.png) op de dash ![](img/dash.png)
-    - Ga activiteiten in via 
+    - Ga activiteiten in door
         - op ![](img/activiteiten-knop.png) te klikken of
         - ```SUPER``` in te drukken
     - Klik op ![width:80px](img/bestanden-icon.png) om de bestanden toepassing te openen
@@ -243,7 +243,7 @@ of
 - ```SUPER+5``` om software ![width:100px](img/software-icon.png) te openen
 ---
 ### De dash aanpassen
-![width:900px](img/geinstalleerde-programmas.png)
+![width:900px](img/applicatie-modus.png)
 
 ---
 - sleep een icon naar de dash
@@ -254,3 +254,60 @@ of
 ![width:960px](img/dash-toepassing-verwijderen.gif)
 
 ---
+### Toepassing openen via applicatie modus
+![width:900px](img/applicatie-modus.png)
+
+---
+#### Applicatie modus gaat u binnen door
+- ```SUPER+A``` in te drukken
+- Op ![](img/activiteiten-knop.png) te klikken
+    - dan op ![](img/3x3-puntjes-op-dash.png) te klikken
+#### Toepassing starten door op het icon te klikken
+- bijvoorbeeld: ![width:100px](img/kaarten-icon.png) voor de kaarten toepassing
+---
+#### Voorbeeld: tetris openen
+![width:880px](img/applicatie-modus-toepassing-openen.gif)
+
+---
+#### Toepassing naar werkblad slepen
+U kunt een icon naar een werkblad slepen om de toepassing op dat werkblad te openen
+![bg right width:100%](img/werkblad-in-applicatie-modus.png)
+
+---
+Kaarten op eerste werkblad en firefox op het tweede werkblad
+![width:1000px](img/slepen-in-applicatie-modus.gif)
+
+---
+### Toepassing openen via sneltoets
+
+- standaard is alleen hulp aan de toets ```SUPER+F1``` gekoppeld
+- ```SUPER+1```, ```SUPER+2```, ```SUPER+3``` aan de eerste, tweede en derde toepassing op de dash
+![](img/dash.png)
+
+---
+#### Toepassing aan een sneltoets koppelen
+- Druk ```SUPER``` in
+- type ```snel```
+![](img/instellingen-sneltoetsen-openen.png)
+- druk ```ENTER``` in
+
+---
+![height:500px](img/instellingen-toetsenbord.png)
+
+klik hier op "Sneltoetsen bekijken of aanpassen", dan komt u in
+
+---
+- open hier "Starters" om aan "Persoonlijke map" de bekende sneltoets ```SUPER+E``` toe te kennen
+- scroll hier neer beneden om bij "Aangepaste starters" te komen om een willekeurige toepassing een sneltoets toe te kennen 
+![bg right width:100%](img/sneltoetsen.png)
+
+---
+Voorbeeld: persoonlijke map aan sneltoets ```SUPER+E``` 
+
+![width:1000px](img/sneltoets-persoonlijke-map.gif)
+
+---
+Voorbeeld: terminal aan sneltoets ```CTRL+ALT+T```
+
+![width:1000px](img/sneltoets-terminal.gif)
+

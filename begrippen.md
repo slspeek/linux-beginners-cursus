@@ -84,6 +84,11 @@ Toepassing
 
 1. Met Software ![](img/software-icon.png){width=40px} kunt u toepassingen installeren of verwijderen
 
+Werkblad
+
+: Een virtueel bureaublad, u kunt er meerdere van aanmaken. Het dient om geopende toepassingen te groeperen. Zie [GNOME documentatie](https://help.gnome.org/users/gnome-help/stable/shell-workspaces.html.nl).
+
+![Werkblad in applicatie modus](img/werkblad-in-applicatie-modus.png){height=200px}
 
 Zoekvak
 
