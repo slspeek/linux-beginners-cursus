@@ -6,7 +6,7 @@ date: \today{}
 
 Activiteiten modus
 
-:   Toestand van het GNOME desktop systeem om van programma te wisselen, van desktop te wisselen of om een programma te starten. U komt in deze modus met ```SUPER```. U verlaat hem met ```SUPER``` of ```ESC```.
+:   Toestand van het GNOME desktop systeem om van programma te wisselen, van desktop te wisselen of om een programma te starten. U komt in deze modus met ```SUPER```. U verlaat hem met ```SUPER``` of ```ESC```. Zie [GNOME docs](https://help.gnome.org/users/gnome-help/stable/shell-introduction.html.nl#activities).
 
 Activiteiten knop
 
@@ -48,6 +48,10 @@ Display manager
 
 :	Graphisch inlogscherm. Als een geldige gebruikersnaam en wachtwoord wordt ingevoerd wordt daarna een bureaublad getoond.
 
+GNOME
+
+:   Standaard desktop manager onder debian. Zie [GNOME docs](https://help.gnome.org/users/gnome-help/stable/index.html.nl)
+
 GUI
 
 :	Graphical user interface.
@@ -68,7 +72,7 @@ Super
 
 Systeemmenu
 
-: Menu aan de rechterzijde van de bovenbalk in GNOME.
+: Menu aan de rechterzijde van de bovenbalk in GNOME. Zie [GNOME docs](https://help.gnome.org/users/gnome-help/stable/shell-introduction.html.nl#systemmenu).
 
 ![Systeemmenu in gesloten toestand](img/systeem-menu-gesloten.png) ![Systeemmenu geopend](img/systeem-menu-geopend.png){width=50%}
 
