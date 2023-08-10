@@ -6,33 +6,43 @@ date: \today{}
 
 ## Rondleiding GNOME
 
-1.  Je meldt je aan in GDM3 met account (gebruikersnaam='tux', wachtwoord='tux')
-
-1.  Hulp openen (SUPER+F1)
-
-    a.  Zoeken in Hulp met CTRL+S, zoeken op één pagina met CTRL+F
+1.  Je meldt je aan in GDM3 met account (gebruikersnaam=```tux```, wachtwoord=```tux```)
 
 1.  Schermbeveiliging
 
-    a.  Expres aanzetten (SUPER+L)
+    a.  Expres aanzetten (```SUPER+L```)
 
     a.  Wachtwoord invoeren om verder te kunnen gaan
 
-1.  Bovenbalk
+1.  GNOME is een desktop manager
 
-    a.  Activiteiten knop (later)
+1.  Modussen
 
-    a.  Toepassingen menu (later)
+    a. Normale modus
 
-    a.  Kalender (later)
-
-    a.  Systeemmenu
+    a. Activiteiten modus
+        
+        i. Applicatie modus
 
 1.  Dash
 
     a.  snelstarters voor veelgebruikte programma's
 
     a.  overzicht open programma's
+
+    a.  Sneltoetsen ```SUPER+1```, ```SUPER+2```, etc
+
+1.  Bovenbalk
+
+    a.  Activiteiten knop (later)
+
+    a.  Notificatie venster / Kalender 
+
+    a.  Toepassingen menu (later)
+
+    a.  Systeemmenu
+
+1.  Notificatie venster
 
 1.  Systeemmenu
 
@@ -46,72 +56,89 @@ date: \today{}
 
     a. Uitschakelen en afmelden
 
-1.  Afmelden/Uitzetten
+1.  Uitschakelen
 
 ### Oefeningen
 
 1.  Aanmelden en afmelden
 
     a.  Start computer en wacht op het inlogscherm;
-        meld je aan met het account (gebruikersnaam='tux',
-        wachtwoord='tux')
+        meld je aan met het account (gebruikersnaam=```tux```, wachtwoord=```tux```)
 
     a.  afmelden en terug naar display manager
 
+1.  Schermbeveiliging activeren
+
+    a.  Activeer de schermbeveiliging met ```SUPER+L```
+
+    a.  Maak de computer weer los
+
 1.  Hulp openen en sluiten 1
 
-    a.  Log in
-
-    a.  Hulp openen en sluiten
-
-        i.  open hulp met SUPER+F1
-        i. sluit Hulp met ALT+F4
+    a.  open hulp met ```SUPER+F1```
+    
+    a.  sluit Hulp met ```ALT+F4```
 
 1.  Hulp openen en sluiten 2
 
-    a.  open hulp met SUPER+6
+    a.  open hulp met ```SUPER+6```
 
     a.  sluit Hulp met kruisje rechtsboven
 
 1.  Hulp openen en sluiten 3
 
-    a.  Open Hulp met SUPER, type 'hulp' en druk ENTER
+    a.  Open Hulp met ```SUPER```, type ```hulp``` en druk ```ENTER```
 
-    a.  Sluit de hulp met CTRL-W
+    a.  Sluit de hulp met ```CTRL-W```
 
-1.  Hulp openen en sluiten 4
+1.  Hulp openen en sluiten 4 (moeilijk)
 
-    a.  Open de hulp door op SUPER te drukken, en dan op het reddingsboei
+    a.  Open de hulp door op ```SUPER``` te drukken, en dan op het reddingsboei
         symbool op de dash te klikken
 
-    a.  Gebruik CTRL-S en zoek op 'sneltoetsen', ga naar 'Sneltoetsen
+    a.  Gebruik ```CTRL-S``` en zoek op 'sneltoetsen', ga naar 'Sneltoetsen
         > instellen'
 
         i.  Ga naar beneden naar 'Vooraf gedefinieerde sneltoetsen'
-        i. Klap 'Systeem' open en zoek de sneltoets voor
+        i.  Klap 'Systeem' open en zoek de sneltoets voor
             'Toepassingenmenu openen'.
-        i. Gebruik deze toets. Sluit de hulp dan met ENTER of
-             SPATIEBALK.
+        i.  Gebruik deze toets. Sluit de hulp dan met ```ENTER``` of
+             ```SPATIEBALK```.
 
-1.  Schermbeveiliging activeren
+1. Ga activiteiten modus in en verlaat haar onverrichter zake weer 
 
-    a.  Activeer de schermbeveiliging met SUPER+L
+    a. met het toetsenbord ```SUPER```
+        
+        i. verlaten met ```ESC``` of ```SUPER```
 
-    a.  Maak de computer weer los
+        i. verlaten via de knop ![](img/activiteiten-knop.png){height=20px}
 
-    a.  Log uit
+    a. met de muis ![](img/activiteiten-knop.png){height=20px}
+
+        i. verlaten met ```ESC``` of ```SUPER```
+
+        i. verlaten via de knop ![](img/activiteiten-knop.png){height=20px}
+
 
 ## Toepassingen openen
 
-1.  Applicaties (SUPER+A)
+1.  Applicaties (```SUPER+A```)
 
 1.  Dash efficiënt gebruiken
 
-    a.  Sneltoetsen: SUPER+1, etc.
+    a.  Sneltoetsen: ```SUPER+1```, etc.
 
     a.  Dash aanpassen
 
-1.  Activiteitenoverzicht (SUPER)
+1.  Activiteitenoverzicht (```SUPER```)
+
+1.  Toepassingsmenu
+
+    a. Nieuw venster
+
+    a. Details in Software
+
+    a. Aflsuiten
 
 1.  Programma's openen
 
@@ -119,10 +146,18 @@ date: \today{}
 
         i.  links klik
         i. rechts klik voor een nieuw venster
-        i. SUPER+1, SUPER+2 ....
-        i. SUPER+A en slepen naar werkblad
+        i. ```SUPER+1```, ```SUPER+2``` ... om te openen en later om focus terug te geven
+        i. ```SUPER+A``` en slepen naar werkblad
 
-    a.  Via activiteiten (SUPER) en (begin) van de naam typen
+    a.  Via activiteiten (```SUPER```) en (begin) van de naam typen
+
+1.  Extra venster openen
+
+    a. Via ```CTRL``` en muisklik op dash
+
+    a. Via toepassingsmenu
+
+    a. Via menu binnen applicatie
 
 1.  Veel gebruikte toepassingen laten zien:
 
@@ -134,6 +169,10 @@ date: \today{}
 
 1.  Sneltoetsen
 
+1.  Hulp openen (```SUPER+F1```)
+
+    a.  Zoeken in Hulp met ```CTRL+S```, zoeken op één pagina met ```CTRL+F```
+
 ### Oefeningen
 
 1.  Sneltoetsen toevoegen
@@ -143,27 +182,27 @@ date: \today{}
         i.  Wat is de toets voor maximaliseren
         i. Wat is de toets voor herstellen
 
-    a.  SUPER+E voor bestanden
+    a.  ```SUPER+E``` voor bestanden
 
-    a.  SUPER+C voor Rekenmachine
+    a.  ```SUPER+C``` voor Rekenmachine
 
-    a.  SUPER+I voor Instellingen
+    a.  ```SUPER+I``` voor Instellingen
 
-    a.  SUPER+SHIFT+I voor Afstellingen
+    a.  ```SUPER+SHIFT+I``` voor Afstellingen
 
-    a.  ALT+CTRL+T voor Terminal
+    a.  ```ALT+CTRL+T``` voor Terminal
 
 1.  Open en sluit terminal 1
 
-    a.  open met ALT+CTRL+T
+    a.  open met ```ALT+CTRL+T```
 
-    a.  sluit met CTRL+D (betekent end of file in UNIX)
+    a.  sluit met ```CTRL+D``` (betekent end of file in UNIX)
 
 1.  Open en sluit terminal 2
 
-    a.  open SUPER, ter, ENTER
+    a.  open ```SUPER```, ```ter```, ```ENTER```
 
-    a.  sluit met CTRL+D
+    a.  sluit met ```CTRL+D```
 
 
 ## Toepassingen installeren
@@ -187,7 +226,7 @@ date: \today{}
 
              1.  Stellarium/KStars
 
-             1. KDEnlive
+             1.  KDEnlive
     a. Vanuit een .deb bestand
         i. Google chrome
         i. Edge
@@ -220,11 +259,11 @@ date: \today{}
 
 1.  Wisselen tussen open programma's
 
-    a.  ALT+TAB, SUPER+TAB wisselen tussen open programma
+    a.  ```ALT+TAB```, ```SUPER+TAB``` wisselen tussen open programma
 
-    a.  focus bovenbalk ALT+CTRL+TAB
+    a.  focus bovenbalk ```ALT+CTRL+TAB```
 
-    a.  ALT+ESC wisselt tussen open vensters van het programma dat nu de
+    a.  ```ALT+ESC``` wisselt tussen open vensters van het programma dat nu de
         focus heeft
 
 1.  Werkbladen
@@ -250,7 +289,7 @@ date: \today{}
 
 1. Schermbeveiliging uitschakelen
 
-    i. Open 'Scherm' in instellingen (SUPER, scherm ENTER)
+    i. Open 'Scherm' in instellingen (```SUPER```, ```schermin``` ```ENTER```)
 
     i. Schakel schermbeveiliging uit
     
@@ -261,7 +300,7 @@ date: \today{}
     a.  Instellingen: voeg bij voorkeur een Google-account toe
 
         i.  toon kalender
-        i. drive
+        i.  drive
 
     b.  helaas werkt Microsoft account **niet**
 
@@ -292,15 +331,15 @@ date: \today{}
 
 ### Oefeningen
 
-1. Gebruiker toevoegen (Linus)
+1. Gebruiker toevoegen (```Linus```)
 
-1. Wachtwoord veranderen (Linus)
+1. Wachtwoord veranderen (```linus```)
 
-1. Plaatje veranderen (Linus)
+1. Plaatje veranderen (```Linus```)
 
-1. Gebruiker wisselen (Van tux naar linus)
+1. Gebruiker wisselen (Van ```tux``` naar ```linus```)
 
-1. Log uit van linus
+1. Log uit van ```linus```
 
 
 
@@ -308,23 +347,23 @@ date: \today{}
 
 1.  Bestanden
 
-    a.  geen drive-letters, maar /
+    a.  geen drive-letters, maar ```/```
 
     b.  geen backslashes, maar forward-slashes
 
     c.  [*FHS*](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html)
 
-        i.  /home
-        ii. /usr/bin
-        iii. /media
+        i.  ```/home```
+        ii. ```/usr/bin```
+        iii. ```/media```
 
-    d.  thuismap /home/tux
+    d.  thuismap ```/home/tux```
 
-    e.  Starten SUPER+4
+    e.  Starten ```SUPER+4```
 
 2.  Backups maken
 
-    a.  Open bestanden (SUPER+4)
+    a.  Open bestanden (```SUPER+4```)
 
     b.  Rechtsklikken op map
 
@@ -333,56 +372,52 @@ date: \today{}
 
 ### Oefeningen
 
-1.  Open bestanden (SUPER+4)
+1.  Open bestanden (```SUPER+4```)
 
-    a.  Schakel tussen list view CTRL+1 en Icon view CTRL+2
+    a.  Schakel tussen list view ```CTRL+1``` en Icon view ```CTRL+2```
 
-    b.  Verberg linker zijpaneel F9
+    b.  Verberg linker zijpaneel ```F9```
 
-    c.  Schakel focus tussen linker en rechter paneel met F6
+    c.  Schakel focus tussen linker en rechter paneel met ```F6```
 
-    d.  Toon verberg verborgen bestanden CTRL+H
+    d.  Toon verberg verborgen bestanden ```CTRL+H```
 
-    e.  Toon shortcuts CTRL+?, schakel met ALT+1, ALT+2, ALT+3
+    e.  Toon shortcuts ```CTRL+?```, schakel met ```ALT+1```, ```ALT+2```, ```ALT+3```
 
     f.  Zoeken
 
-        i.  Ga naar home directory ALT+HOME
-        ii. Gebruik CTRL+F
+        i.  Ga naar home directory ```ALT+HOME```
+        ii. Gebruik ```CTRL+F```
 
 2.  In en uitzoomen met plaatjes
 
-    a.  In zoomen met CTRL++
+    a.  In zoomen met ```CTRL+PLUS```
 
-    b.  Uitzoomen met CTRL+-
+    b.  Uitzoomen met ```CTRL+MINUS```
 
-    c.  Terug naar standaard met CTRL+0
+    c.  Terug naar standaard met ```CTRL+0```
 
 3.  Bestand aanmaken het gedit en verwijderen
 
-    a.  SUPER, gedit, ENTER
+    a.  ```SUPER```, ```gedit```, ```ENTER```
 
     b.  Type je naam
 
-    c.  CTRL+S
+    c.  ```CTRL+S```
 
     d.  Sla het op in documenten, onder naam test
 
-        i.  Type Do
-        ii. Druk pijltje naar beneden, en ENTER
-        i.  Voeg Test toe
-        ii. ENTER
+        i.  Type ```Do```
+        ii. Druk pijltje naar beneden, en ```ENTER```
+        i.  Voeg ```Test``` toe
+        ii. ```ENTER```
 
 ## Speciale tekens
 
 1.  Euroteken invoeren
 
-    a.  Ctrl-Shift-U 20ac spatie
+    a.  ```Ctrl-Shift-U 20ac SPATIE```
 
-    a. E accent invoeren: CTRL-SHIFT-U 00e9 spatie
+    a. E accent invoeren: ```CTRL-SHIFT-U 00e9 SPATIE```
 
 3.  [GNOME tip speciale tekens](https://help.gnome.org/users/gnome-help/stable/tips-specialchars.html.nl)
-
-## Later
-
-1.  Terminal uitleg

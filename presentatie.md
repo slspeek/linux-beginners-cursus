@@ -7,17 +7,40 @@ theme: gaia
 
 ---
 ## Rondleiding GNOME
+1. Inloggen in GDM
+1. Schermbeveiliging
 1. Wat is GNOME
 1. Modussen
 1. Dash
 1. Bovenbalk
-1. Notificatie venster
 1. Systeemmenu
+1. Afsluiten
 
 ![bg right](img/GNOME-logo.png)
 
 ---
+### Inloggen in GDM
+- GDM is de **display manager**, die regelt de graphische logins
+- Inloggen met ```(gebruikersnaam='tux', wachtwoord='tux')```
+- GNOME desktopmanager opent in activiteiten modus
+---
+### Schermbeveiliging
 
+- om te zorgen dat anderen uw gebruikers account kunnen misbruiken
+- activeren door:
+    - de computer een tijd inactief te laten (standaard 5 minuten)
+    - op ![](img/vergrendelings-knop.png) klikken uit het systeemmenu ![](img/systeem-menu-gesloten.png)
+    - ```SUPER+L``` in te drukken
+
+---
+#### Voorbeeld
+![width:950px](img/schermvergrendeling-klok.png)
+
+---
+Losmaken door je wachtwoord in te voeren
+![width:950px](img/schermvergrendeling-wachtwoord-invoeren.png)
+
+---
 ### GNOME desktop manager ![width:100px](img/GNOME-logo.png)
 - GNOME is de standaard **desktop-manager**
     - regelt het tekenen van de window decoraties
@@ -37,12 +60,7 @@ theme: gaia
 - Overzicht geopende programma's
 - Dash tonen
 
----
-### Inloggen in GDM
-- GDM is de **display manager**, die regelt de graphische logins
-- Inloggen met ```(gebruikersnaam='tux', wachtwoord='tux')```
-- GNOME desktopmanager opent in activiteiten modus
----
+
 ### Activiteiten modus
 ![width:950px](./img/activiteiten-modus.png)
 
@@ -143,7 +161,7 @@ Is een onderdeel van activiteiten modus
 - kunt u een programma uit de dash verwijderen door het naar de 3x3 puntjes rechts te slepen
 ![width:960px](img/dash-toepassing-verwijderen.gif)
 
----
+--- 
 ### Bovenbalk
 ![width:1000px](img/bovenbalk.png)
 bestaat uit
@@ -163,27 +181,27 @@ bestaat uit
 
 ---
 ### Openen en sluiten notificatie venster
-![bg width:600px right](img/notificatie-venster.png)
+![bg height:100% right](img/notificatie-venster.png)
 - op ![](img/datum-tijdsaanduiding.png) te klikken
 - ```SUPER+V``` in te drukken
 
 ---
 ### Systeemmenu
-![bg width:600px right](img/systeem-menu-geopend.png)
+![bg width:100% right](img/systeem-menu-geopend.png)
 - met ![](img/schermafdruk-knop.png) kunt u schermafdrukken en screencasts maken
     - ```PrintScreen``` voor schermafdrukken
     - ```CTRL+ALT+SHIFT+R``` voor screencasts
 
 ---
 ### Systeemmenu vervolg
-![bg width:600px right](img/systeem-menu-geopend.png)
+![bg width:100% right](img/systeem-menu-geopend.png)
 - ![](img/instellingen-knop.png) brengt u naar de instellingen
 - ![](img/vergrendelings-knop.png) vergrendelt de computer (```SUPER+L```)
-- ![](img/volume-regelaar.png) regelt het volume
+- ![width:350px](img/volume-regelaar.png) regelt het volume
 
 ---
-### Afsluit menu
-![bg width:600px right](img/systeemmenu-afsluiten.png)
+### Uitschakelen menu
+![bg height:100% right](img/systeemmenu-afsluiten.png)
 - ![](img/afsluit-menu-knop.png) opent het submenu om te kunnen
     - gaan naar pauzestand
     - herstarten
@@ -192,15 +210,26 @@ bestaat uit
 
 ---
 ### Ethernet internet
-![bg width:600px right](img/systeemmenu-ethernet.png)
+![bg height:100% right](img/systeemmenu-ethernet.png)
 - ![](img/ethernet-in-uit.png) schakelt het bedrade internet aan of uit
 - ![](img/ethernet-totaal.png) de pijl aan de rechterzijde van deze knop opent de bedrade netwerk instellingen
 ---
 ### Wifi instellingen
-![bg width:600px right](img/systeemmenu-wifi.png)
+![bg height:100% right](img/systeemmenu-wifi.png)
 - ![](img/wifi-in-uit.png) schakelt de wifi aan of uit
 - ![](img/wifi-totaal.png) de pijl aan de rechterzijde van deze knop opent de draadloze netwerk instellingen
     - u kunt eventueel een ander draadloos netwerk selecteren
+
+---
+### Uitschakelen
+Om de computer af te sluiten 
+- drukt u op ```ALT+CTRL+DELETE``` 
+- klikt u in het systeemmenu ![](img/systeem-menu-gesloten.png) op ![](img/afsluit-menu-knop.png) en dan op "Uitschakelen"
+![bg right height:100%](img/systeemmenu-afsluiten.png)
+
+---
+#### Voorbeeld
+![width:960px](img/uitschakelen.gif)
 
 ---
 ## Toepassingen starten
@@ -311,3 +340,4 @@ Voorbeeld: terminal aan sneltoets ```CTRL+ALT+T```
 
 ![width:1000px](img/sneltoets-terminal.gif)
 
+---
