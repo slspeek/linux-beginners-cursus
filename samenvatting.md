@@ -1,10 +1,18 @@
 ---
-title: Linux beginners les structuur
-author: Steven Speek
+title: | 
+    | Samenvatting en oefeningen voor de Linux beginners les
+author: |
+    | Steven Speek 
+    |  \tt{slspeek@gmail.com}
 date: \today{}
 ...
 
-## Rondleiding GNOME
+# Notatie
+Het lettertype ```Courier``` wordt gebruikt om iets op te schrijven dat u op het toetsenbord kunt typen.
+Uitzondering hierop zijn de volgende speciale toetsen:
+```SPATIEBALK```, ```CTRL```, ```ALT```, ```SUPER```, ```ESC```, ```DELETE```, ```PageDown```, ```PageUp```, ```F1```, ```F2``` ... en ```ENTER```, hier dient u betreffende toets in te drukken in plaats van het woord in te typen.
+
+# Rondleiding GNOME
 
 1.  Je meldt je aan in GDM3 met account (gebruikersnaam=```tux```, wachtwoord=```tux```)
 
@@ -16,7 +24,7 @@ date: \today{}
 
 1.  GNOME is een desktop manager
 
-1.  Modussen
+1.  Modi
 
     a. Normale modus
 
@@ -58,20 +66,29 @@ date: \today{}
 
 1.  Uitschakelen
 
-### Oefeningen
+## Oefeningen
 
 1.  Aanmelden en afmelden
 
-    a.  Start computer en wacht op het inlogscherm;
-        meld je aan met het account (gebruikersnaam=```tux```, wachtwoord=```tux```)
+    a.  meld u aan met het account (gebruikersnaam=```tux```, wachtwoord=```tux```)
 
-    a.  afmelden en terug naar display manager
+    a.  afmelden 
+
+        i. klik op ![](img/systeem-menu-gesloten.png){height=20px} 
+
+        i. klik op ![](img/afsluit-menu-knop.png){height=20px}
+
+        i. klik op "Afmelden ..."
+
+        i. bevestig in de popup
+
+        i. log opnieuw aan
 
 1.  Schermbeveiliging activeren
 
     a.  Activeer de schermbeveiliging met ```SUPER+L```
 
-    a.  Maak de computer weer los
+    a.  Maak de computer weer los door het wachtwoord van gebruiker Tux in te voeren: ```tux```
 
 1.  Hulp openen en sluiten 1
 
@@ -87,25 +104,27 @@ date: \today{}
 
 1.  Hulp openen en sluiten 3
 
-    a.  Open Hulp met ```SUPER```, type ```hulp``` en druk ```ENTER```
+    a.  open Hulp met ```SUPER```, type ```hulp``` en druk ```ENTER```
 
-    a.  Sluit de hulp met ```CTRL-W```
+    a.  sluit de hulp met ```CTRL+W```
 
 1.  Hulp openen en sluiten 4 (moeilijk)
 
-    a.  Open de hulp door op ```SUPER``` te drukken, en dan op het reddingsboei
+    a.  open de hulp door op ```SUPER``` te drukken, en dan op het reddingsboei
         symbool op de dash te klikken
 
-    a.  Gebruik ```CTRL-S``` en zoek op 'sneltoetsen', ga naar 'Sneltoetsen
+    a.  gebruik ```CTRL-S``` en zoek op 'sneltoetsen', ga naar 'Sneltoetsen
         > instellen'
 
-        i.  Ga naar beneden naar 'Vooraf gedefinieerde sneltoetsen'
-        i.  Klap 'Systeem' open en zoek de sneltoets voor
+        i.  ga naar beneden naar 'Vooraf gedefinieerde sneltoetsen'
+
+        i.  klap 'Systeem' open en zoek de sneltoets voor
             'Toepassingenmenu openen'.
-        i.  Gebruik deze toets. Sluit de hulp dan met ```ENTER``` of
+
+        i.  gebruik deze toets. Sluit de hulp dan met ```ENTER``` of
              ```SPATIEBALK```.
 
-1. Ga activiteiten modus in en verlaat haar onverrichter zake weer 
+1. Ga activiteiten modus in en verlaat haar onverrichter zake weer (zes keer)
 
     a. met het toetsenbord ```SUPER```
         
@@ -115,12 +134,155 @@ date: \today{}
 
     a. met de muis ![](img/activiteiten-knop.png){height=20px}
 
-        i. verlaten met ```ESC``` of ```SUPER```
+        i. verlaten met ```ESC```
+        
+        i. verlaten via ```SUPER```
 
         i. verlaten via de knop ![](img/activiteiten-knop.png){height=20px}
 
+1. Open de samenvatting van deze cursus:
+    
+    a. druk ```SUPER``` in
 
-## Toepassingen openen
+    a. type ```samenv``` en ```ENTER```
+
+    a. druk ```CTRL+W``` om haar weer te sluiten
+
+1. Ga applicatie modus in en verlaat haar onverrichter zake weer
+    
+    a. ga binnen via ```SUPER+A```
+
+        i. verlaten via ```SUPER```
+
+        i. verlaten via ```ESC ESC```
+
+        i. verlaten via ![](img/activiteiten-knop.png){height=20px}
+
+    a. ga binnen via ![](img/activiteiten-knop.png){height=20px}
+
+        i. verlaten via ```SUPER```
+
+        i. verlaten via ```ESC ESC```
+
+        i. verlaten via ![](img/activiteiten-knop.png){height=20px}
+
+1. Ga applicatie modus binnen op een wijze naar keuze en
+    
+    a. sleep firefox ![](img/firefox-icon.png){height=20px} naar het eerste (linker) werkblad
+
+    a. sleep kaarten ![](img/kaarten-icon.png){height=20px} naar het tweede (rechter) werkblad
+
+    a. ga naar gewone modus op een wijze naar keuze
+
+    a. sluit beide toepassingen
+
+        i. ```ALT+F4``` om firefox te sluiten
+
+        i. ```SUPER+PageDown``` om naar tweede werkblad te gaan
+
+        i. ```ALT+F4``` om kaarten te sluiten
+
+1. Open en sluit het notificatie venster
+
+    a. open met een klik op ![](img/datum-tijdsaanduiding.png){height=20px}
+
+        i. sluit met een klik op ![](img/datum-tijdsaanduiding.png){height=20px}
+    
+    a. open met ```SUPER+V```
+
+        i. sluit met ```ESC```
+
+        i. sluit met ```SUPER+V```
+
+1. Open het systeemmenu en sluit haar onverrichter zake weer
+
+    a. open met klik op ![](img/systeem-menu-gesloten.png){height=20px}
+
+        i. sluit met klik op ![](img/systeem-menu-gesloten.png){height=20px}
+
+    a. open met klik op ![](img/systeem-menu-gesloten.png){height=20px}
+
+        i. sluit met ```ESC```
+
+1. Netwerk uitschakelen en opnieuw inschakelen
+
+    a. start ![](img/firefox-icon.png){height=20px} en ga naar ```tldp.org```.
+
+    a. open het systeemmenu
+
+    a. klik ![](img/ethernet-in-uit.png){height=20px}, knop wordt grijs
+
+    a. sluit systeemmenu
+
+    a. start ![](img/firefox-icon.png){height=20px} en ga naar ```debian.org```, dit zal niet gaan
+    
+    a. klik ![](img/ethernet-in-uit-grijs.png){height=20px}, knop krijgt weer kleur
+
+    a. sluit systeemmenu
+
+    a. ga naar ![](img/firefox-icon.png){height=20px} en herlaad de pagina met ```F5```
+
+1. Afmelden op twee manieren
+
+    a. met muis
+        
+        i. klik op ![](img/systeem-menu-gesloten.png){height=20px} 
+
+        i. klik op ![](img/afsluit-menu-knop.png){height=20px}
+
+        i. klik op "Afmelden ..."
+
+        i. annuleer in de popup
+
+    a. met toetsenbord
+
+        i. ```SUPER afme ENTER```
+
+        i. annuleer in de popup door ```SPATIEBALK``` of ```ESC```
+
+1. Uitschakelen op drie manieren
+
+    a. met ```ALT+CTRL+DELETE```
+
+        i. annuleer in de popup met ```ESC```
+
+    a. met muis
+
+        i. klik op ![](img/systeem-menu-gesloten.png){height=20px} 
+
+        i. klik op ![](img/afsluit-menu-knop.png){height=20px}
+
+        i. klik op "Uitschakelen ..."
+
+        i. annuleer in de popup met ```ESC```
+
+    a. met toetsenbord
+
+        i. ```SUPER uits ENTER```
+
+        i. annuleer in de popup door ```SPATIEBALK``` of ```ESC```
+
+
+1. Herstarten op twee manieren
+
+    a. met muis
+
+        i. klik op ![](img/systeem-menu-gesloten.png){height=20px} 
+
+        i. klik op ![](img/afsluit-menu-knop.png){height=20px}
+
+        i. klik op "Herstarten ..."
+
+        i. annuleer in de popup met ```ESC```
+
+    a. met toetsenbord
+
+        i. ```SUPER hersta ENTER```
+
+        i. annuleer in de popup door ```SPATIEBALK``` of ```ESC```
+
+
+# Toepassingen openen
 
 1.  Applicaties (```SUPER+A```)
 
@@ -145,8 +307,11 @@ date: \today{}
     a.  Via dash met muis of toets
 
         i.  links klik
+
         i. rechts klik voor een nieuw venster
+
         i. ```SUPER+1```, ```SUPER+2``` ... om te openen en later om focus terug te geven
+
         i. ```SUPER+A``` en slepen naar werkblad
 
     a.  Via activiteiten (```SUPER```) en (begin) van de naam typen
@@ -173,7 +338,7 @@ date: \today{}
 
     a.  Zoeken in Hulp met ```CTRL+S```, zoeken op één pagina met ```CTRL+F```
 
-### Oefeningen
+## Oefeningen
 
 1.  Sneltoetsen toevoegen
 
@@ -205,7 +370,7 @@ date: \today{}
     a.  sluit met ```CTRL+D```
 
 
-## Toepassingen installeren
+# Toepassingen installeren
 
 1. Installeren 
     a.  Via Software
@@ -228,8 +393,11 @@ date: \today{}
 
              1.  KDEnlive
     a. Vanuit een .deb bestand
+
         i. Google chrome
+
         i. Edge
+
         i. Visual studio
 
 1.  Standaardtoepassingen
@@ -237,7 +405,7 @@ date: \today{}
 1.  [*Opstarttoepassingen*](https://help.gnome.org/users/gnome-help/stable/shell-apps-auto-start.html.en)
 
 
-### Oefeningen
+## Oefeningen
 
 1.  Standaard applicatie wijzigen
 
@@ -247,7 +415,7 @@ date: \today{}
 
 1. Verwijder terminal als opstart toepassing
 
-##  Vensters, werkbladen en bureaubladen
+#  Vensters, werkbladen en bureaubladen
 
 1.  Vensterbeheer
 
@@ -279,7 +447,7 @@ date: \today{}
 
     a.  Schermbeveiliging uitschakelen
 
-### Oefeningen
+## Oefeningen
 
 1. Pas achtergrond aan:
 
@@ -293,30 +461,34 @@ date: \today{}
 
     i. Schakel schermbeveiliging uit
     
-## Online accounts
+# Online accounts
 
 1.  Online account toevoegen
 
     a.  Instellingen: voeg bij voorkeur een Google-account toe
 
         i.  toon kalender
+
         i.  drive
 
     b.  helaas werkt Microsoft account **niet**
 
-### Oefeningen
+## Oefeningen
 
 1. Voeg een online account toe
 
 1. Inspecteer de kalender
+
     a. Voeg een afspraak toe
 
 1. Bekijk je drive
+
     a. Maak een bestand aan in drive
 
 1. Verwijder je online account
 
-## Gebruikersbeheer
+# Gebruikersbeheer
+
 1.  Wachtwoord wijzigen
 
     a.  Via instellingen
@@ -329,7 +501,7 @@ date: \today{}
 
 1.  Automatisch aanmelden
 
-### Oefeningen
+## Oefeningen
 
 1. Gebruiker toevoegen (```Linus```)
 
@@ -347,7 +519,7 @@ date: \today{}
 
 1.  Bestanden
 
-    a.  geen drive-letters, maar ```/```
+    a.  geen drive-letters, maar ```/```, ```/``` heet root (spreek uit als __roet__).
 
     b.  geen backslashes, maar forward-slashes
 
@@ -416,8 +588,8 @@ date: \today{}
 
 1.  Euroteken invoeren
 
-    a.  ```Ctrl-Shift-U 20ac SPATIE```
+    a.  ```Ctrl-Shift-U 20ac SPATIEBALK```
 
-    a. E accent invoeren: ```CTRL-SHIFT-U 00e9 SPATIE```
+    a. E accent invoeren: ```CTRL-SHIFT-U 00e9 SPATIEBALK```
 
 3.  [GNOME tip speciale tekens](https://help.gnome.org/users/gnome-help/stable/tips-specialchars.html.nl)

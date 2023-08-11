@@ -1,6 +1,8 @@
 ---
-title: Begrippenlijst Linux beginners cursus
-author: Steven Speek
+title: Begrippenlijst voor Linux beginners cursus
+author: |
+    | Steven Speek 
+    |  \tt{slspeek@gmail.com}
 date: \today{}
 ...
 
@@ -56,6 +58,12 @@ GUI
 
 :	Graphical user interface.
 
+Notificatie venster
+
+: Venster met systeem notificaties, kalender en weer. Openen en sluiten met ```SUPER+V```. Actieve notificatie focus geven met ```SUPER+N```.
+
+![Notificatie venster](img/notificatie-venster.png){width=400px}
+
 Open software
 
 :	Software met de broncode erbij. In tegenstelling tot gesloten software kan en mag een programmeur zien wat de software doet.
@@ -64,9 +72,9 @@ Programma
 
 : zie toepassing
 
-Super	
+\tt{SUPER}
 
-:    De toets op het toetsenbord tussen de control en alt toets in.
+:    De toets met het Windows logo. Op het toetsenbord ligt hij tussen de control en alt toets in. Ook wel de Windows-toets genoemd.
 
 ![Super toets](img/super-toets.jpeg){width=300px}
 

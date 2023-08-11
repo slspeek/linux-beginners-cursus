@@ -10,7 +10,7 @@ theme: gaia
 1. Inloggen in GDM
 1. Schermbeveiliging
 1. Wat is GNOME
-1. Modussen
+1. Modi
 1. Dash
 1. Bovenbalk
 1. Systeemmenu
@@ -26,7 +26,7 @@ theme: gaia
 ---
 ### Schermbeveiliging
 
-- om te zorgen dat anderen uw gebruikers account kunnen misbruiken
+- om te zorgen dat anderen uw gebruikers account niet kunnen misbruiken
 - activeren door:
     - de computer een tijd inactief te laten (standaard 5 minuten)
     - op ![](img/vergrendelings-knop.png) klikken uit het systeemmenu ![](img/systeem-menu-gesloten.png)
@@ -214,6 +214,10 @@ bestaat uit
 - ![](img/ethernet-in-uit.png) schakelt het bedrade internet aan of uit
 - ![](img/ethernet-totaal.png) de pijl aan de rechterzijde van deze knop opent de bedrade netwerk instellingen
 ---
+#### Voorbeeld netwerk uit en weer aan
+![width:980px](img/netwerk-aan-uit.gif)
+
+---
 ### Wifi instellingen
 ![bg height:100% right](img/systeemmenu-wifi.png)
 - ![](img/wifi-in-uit.png) schakelt de wifi aan of uit
@@ -339,5 +343,3 @@ Voorbeeld: persoonlijke map aan sneltoets ```SUPER+E```
 Voorbeeld: terminal aan sneltoets ```CTRL+ALT+T```
 
 ![width:1000px](img/sneltoets-terminal.gif)
-
----
