@@ -7,6 +7,6 @@ Deze cursus is bedoeld voor mensen die zelf hun Windows of Mac computer kunnen b
 
 ## Onderdelen
 1. [Presentatie](https://slspeek.github.io/linux-beginners-cursus)
-1. [Begrippenlijst](https://github.com/slspeek/linux-beginners-cursus/releases/download/latest/begrippen.pdf)
-1. [Samenvatting met oefeningen](https://github.com/slspeek/linux-beginners-cursus/releases/download/latest/samenvatting.pdf)
+1. [Begrippenlijst](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/begrippen.pdf)
+1. [Samenvatting met oefeningen](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/samenvatting.pdf)
 
