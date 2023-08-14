@@ -2,9 +2,17 @@
 marp: true
 theme: gaia
 ---
-# Debian 12 Bookworm
-![bg right](img/debian-logo.png)
+# Linux beginners cursus
+### GNOME op Debian 12
+![height:290px](img/debian-logo.png)
+![bg right](img/qr-link-linux-beginners-cursus.png)
 
+---
+## Onderdelen van de cursus
+1. Presentatie
+1. [Samenvatting en oefeningen](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/samenvatting.pdf)
+1. [Begrippenlijst](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/begrippen.pdf)
+![bg right width:100%](img/tux-gnu_linux.png)
 ---
 ## Rondleiding GNOME
 1. Inloggen in GDM
