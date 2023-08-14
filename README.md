@@ -1,5 +1,5 @@
 # Linux beginners cursus
-Rondleiding langs de standaard window manager [GNOME 43.6](https://www.gnome.org) van [debian 12](https://debian.org). De
+Rondleiding langs de standaard window manager [GNOME 43.6](https://help.gnome.org/) van [debian 12](https://debian.org). De
 cursus werkt uitsluitend met de graphische interface.
 
 ## Publiek
