@@ -10,7 +10,8 @@ theme: gaia
 ---
 ## Onderdelen van de cursus
 1. Presentatie
-1. [Samenvatting en oefeningen](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/samenvatting.pdf)
+1. [Samenvatting](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/samenvatting.pdf)
+1. [Oefeningen](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/oefeningen.pdf)
 1. [Begrippenlijst](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/begrippen.pdf)
 ![bg right width:100%](img/tux-gnu_linux.png)
 ---
