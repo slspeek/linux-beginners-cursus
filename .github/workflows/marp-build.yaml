@@ -18,9 +18,18 @@ jobs:
           MARP_USER: "1001:115"
       - name: Copy images
         run: cp -r img build/presentatie
+      - name: Zip the offline presentatie
+        run: |
+           | cd build
+           | zip presentatie.zip presentatie 
       - name: Deploy to github pages
         uses: peaceiris/actions-gh-pages@v3
         if: startsWith(github.ref, 'refs/tags/')
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build/presentatie
+      - name: Release pandoc generated pdfs
+        uses: softprops/action-gh-release@v1
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: build/presentatie.zip
