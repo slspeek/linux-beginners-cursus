@@ -223,13 +223,13 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     b.  geen backslashes, maar forward-slashes
 
-    c.  [*FHS*](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html)
+    c.  [Filesystem Hierarchy Standard](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html)
 
         i.  ```/home```
         ii. ```/usr/bin```
         iii. ```/media```
 
-    d.  thuismap ```/home/tux```
+    d.  [thuismap](https://nl.wikipedia.org/wiki/Homedirectory) ```/home/tux```
 
     e.  Starten ```SUPER+4```
 
