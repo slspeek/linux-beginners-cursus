@@ -4,6 +4,8 @@ PANDOC_IMAGE=pandoc/latex:2.9
 PANDOC_CMD=docker run --rm --init -v "$(PWD):/data" -u $(id -u):$(id -g) $(PANDOC_IMAGE) --include-in-header=header.tex --from markdown layout.yaml 
 MARP=marpteam/marp-cli:v3.1.0
 
+all: begrippen oefeningen presentatie samenvatting
+
 install-deps:
 	sudo apt-get install docker.io docker-compose
 	sudo adduser $(USER) docker
@@ -39,6 +41,4 @@ clean:
 
 prepare:
 	mkdir -p $(BUILD_DIR)/presentatie
-
-all: begrippen oefeningen presentatie samenvatting
 
