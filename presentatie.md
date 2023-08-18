@@ -245,12 +245,25 @@ Om de computer af te sluiten
 ![width:960px](img/uitschakelen.gif)
 
 ---
-## Toepassingen starten
+## Toepassingen starten en sluiten
 ![width:100px](img/firefox-icon.png) ![width:100px](img/terminal-icon.png) ![width:100px](img/bestanden-icon.png) ![width:100px](img/kaarten-icon.png) ![width:100px](img/writer-icon.png) ![width:100px](img/software-icon.png) ![width:100px](img/patience-icon.png) ![width:100px](img/rekenmachine.png)
+
+---
+### Toepassingen starten
 - Activiteiten zoekvak
 - Dash  
 - Applicatie modus
 - Sneltoetsen
+### Toepassingsmenu
+- Nieuw venster openen
+- Details van de toepassing in Software toepassing
+- Venster sluiten
+
+---
+### Toepassingen sluiten
+- ```ALT+F4```
+- Druk op het kruisje rechtsboven in de titelbalk van een venster ![width:50px](img/kruisje-in-titelbalk-van-toepassing.png)
+- Via toepassingsmenu
 ---
 
 ### Toepassing starten via zoekvak
@@ -266,6 +279,7 @@ Om de computer af te sluiten
 
 ---
 ### Indien de toepassing op de dash staat kun je ook
+![](img/dash.png)
 - Activiteiten modus ingaan en op het icon van de toepassing op de dash klikken
 
 of
@@ -284,6 +298,18 @@ of
 - ```SUPER+4``` om bestanden ![width:100px](img/bestanden-icon.png) te openen
 - ```SUPER+5``` om software ![width:100px](img/software-icon.png) te openen
 ---
+### Focus teruggeven met ```SUPER+1```, ```SUPER+2``` ...
+Naast het starten van het eerste programma van links met ```SUPER+1``` kunt u ook de focus teruggeven aan dat programma (standaard firefox ![width:100px](img/firefox-icon.png))
+
+#### Handig
+- plaats al uw veelgebruikte toepassingen op de dash
+
+---
+#### Voorbeeld focus terug naar firefox met ```SUPER+1```
+![width:960px](img/focus-terug-firefox-super1.gif)
+
+---
+
 ### De dash aanpassen
 ![width:900px](img/applicatie-modus.png)
 
@@ -352,3 +378,51 @@ Voorbeeld: persoonlijke map aan sneltoets ```SUPER+E```
 Voorbeeld: terminal aan sneltoets ```CTRL+ALT+T```
 
 ![width:1000px](img/sneltoets-terminal.gif)
+
+---
+### Toepasingsmenu
+![width:900px](img/firefox-focus.png)
+
+---
+- Menu aan de linkerzijde op bovenbalk
+![width:1000px](img/bovenbalk-toepassingsmenu-firefox.png)
+- Hoort bij het venster van toepassing dat de focus heeft
+![width:100%](img/toepassingsmenu-firefox-geopend.png)
+
+---
+#### Wat kunt u met het toepassingsmenu
+- Extra venster openen
+- Details in de Software toepassing zien
+- Toepassing sluiten
+
+---
+##### Voorbeeld extra venster
+![width:1000px](img/toepassingsmenu-firefox-extra-venster.gif)
+
+---
+##### Voorbeeld venster sluiten
+![width:1000px](img/toepassingmenu-firefox-afsluiten.gif)
+
+---
+### Extra venster openen van een toepassing
+__N.B.__ Niet iedere toepassing staat dit toe, bijvoorbeeld Kaarten niet.
+- met controltoets ingedrukt op het icon op de dash klikken
+- via het toepassingsmenu
+- via de toepassing zelf (bestandsmenu)
+
+---
+##### Voorbeeld extra venster met ```CTRL+Click``` op dash
+![width:930px](img/dash-tweede-venster-openen.gif)
+
+---
+##### Voorbeeld extra venster met ```CTRL+Click``` op dash
+![width:960px](img/teksteditor-tweede-venster-ctrl-dash.gif)
+
+---
+##### Voorbeeld extra venster via toepassingsmenu
+![width:1000px](img/toepassingsmenu-firefox-extra-venster.gif)
+
+---
+##### Voorbeeld extra venster via Betandsmenu van de toepassing
+![width:1000px](img/extra-venster-calc-menu.gif)
+

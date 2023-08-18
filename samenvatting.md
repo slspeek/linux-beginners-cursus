@@ -68,11 +68,17 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
 # Toepassingen openen
 
+1.  Type applicatie naam in zoekvak
+
 1.  Applicaties (```SUPER+A```)
 
 1.  Dash efficiënt gebruiken
 
     a.  Sneltoetsen: ```SUPER+1```, etc.
+        
+        i. Openen
+
+        i. Focus terug te krijgen
 
     a.  Dash aanpassen
 
