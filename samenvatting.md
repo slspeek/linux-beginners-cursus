@@ -28,9 +28,25 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     a. Normale modus
 
-    a. Activiteiten modus
+    a. Activiteiten modus (```SUPER```)
+
+        - Toepassingen starten
+
+        - Documenten zoeken
+
+        - Toepassing wisselen
+
+        - Applicatie modus 
         
-        i. Applicatie modus
+    a. Applicatie modus (```SUPER+A```)
+
+        - Toepassingen openen
+           
+        - Werkblad wisselen
+
+        - Toepassing slepen naar werkblad
+
+        - Dash aanpassen
 
 1.  Dash
 
@@ -38,19 +54,24 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     a.  overzicht open programma's
 
-    a.  Sneltoetsen ```SUPER+1```, ```SUPER+2```, etc
+    a.  Sneltoetsen ```SUPER+1```, ```SUPER+2```, ...
+        Om te openen en later focus terug te geven
 
 1.  Bovenbalk
 
-    a.  Activiteiten knop (later)
-
-    a.  Notificatie venster / Kalender 
+    a.  Activiteiten knop 
 
     a.  Toepassingen menu (later)
 
+    a.  Notificatie venster / Kalender (```SUPER+V```)
+
+    a.  Toegankelijkheidsmenu (indien er een toegankelijkheids optie aanstaat)
+
     a.  Systeemmenu
 
-1.  Notificatie venster
+1.  Notificatie venster (```SUPER+V```)
+
+    - kalender activeren met online-account
 
 1.  Systeemmenu
 
@@ -64,7 +85,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     a. Uitschakelen en afmelden
 
-1.  Uitschakelen
+1.  Uitschakelen (```ALT+CTRL+DEL```)
 
 # Toepassingen openen
 
@@ -98,13 +119,15 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
         i.  links klik
 
-        i. rechts klik voor een nieuw venster
+        i. ```CTRL``` klik voor een nieuw venster
 
         i. ```SUPER+1```, ```SUPER+2``` ... om te openen en later om focus terug te geven
 
         i. ```SUPER+A``` en slepen naar werkblad
 
     a.  Via activiteiten (```SUPER```) en (begin) van de naam typen
+
+    a. Via sneltoets
 
 1.  Extra venster openen
 
@@ -131,6 +154,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 # Toepassingen installeren
 
 1. Installeren 
+
     a.  Via Software
 
         i.  Bladeren
@@ -150,6 +174,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
              1.  Stellarium/KStars
 
              1.  KDEnlive
+
     a. Vanuit een .deb bestand
 
         i. Google chrome

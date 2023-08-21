@@ -52,11 +52,16 @@ Losmaken door je wachtwoord in te voeren
 ---
 ### GNOME desktop manager ![width:100px](img/GNOME-logo.png)
 - GNOME is de standaard **desktop-manager**
+
     - regelt het tekenen van de window decoraties
+
     - voorziet in icons, toolbars, wallpapers en desktop widgets
+
     - werkt met twee modi:
-        i. Normale modus
-        i. Activiteiten modus
+
+        1. Normale modus
+
+        1. Activiteiten modus
 
 ---
 ### Normale modus
@@ -257,7 +262,7 @@ Om de computer af te sluiten
 ### Toepassingsmenu
 - Nieuw venster openen
 - Details van de toepassing in Software toepassing
-- Venster sluiten
+- Toepassing afsluiten (sluit alle vensters van deze toepassing)
 
 ---
 ### Toepassingen sluiten
