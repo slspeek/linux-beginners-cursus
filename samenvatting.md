@@ -87,56 +87,75 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
 1.  Uitschakelen (```ALT+CTRL+DEL```)
 
-# Toepassingen openen
+# Toepassingen starten en afsluiten 
 
-1.  Type applicatie naam in zoekvak
+## Toepassingen starten op zes manieren
 
-1.  Applicaties (```SUPER+A```)
+1. Via sneltoets
 
-1.  Dash efficiënt gebruiken
+### Activiteiten modus (```SUPER```)
 
-    a.  Sneltoetsen: ```SUPER+1```, etc.
-        
-        i. Openen
+2.  Type de naam van de toepassing in zoekvak
 
-        i. Focus terug te krijgen
+#### Dash
 
-    a.  Dash aanpassen
+3. Sneltoetsen: ```SUPER+1```, etc.
 
-1.  Activiteitenoverzicht (```SUPER```)
+    a. Openen
 
-1.  Toepassingsmenu
+    a. Focus terug te krijgen
 
-    a. Nieuw venster
+4. Klik op icon om toepassing te starten
 
-    a. Details in Software
+    a. ```CTRL``` klik voor een nieuw venster
 
-    a. Aflsuiten
+### Applicatie modus (```SUPER+A```)
 
-1.  Programma's openen
+5. Klik icon om toepassing te starten
 
-    a.  Via dash met muis of toets
+6. Slepen naar werkblad
 
-        i.  links klik
+##  Toepassingsmenu (```SUPER+F10```)
 
-        i. ```CTRL``` klik voor een nieuw venster
+1. Wisselen tussen vensters
 
-        i. ```SUPER+1```, ```SUPER+2``` ... om te openen en later om focus terug te geven
+1. Nieuw venster
 
-        i. ```SUPER+A``` en slepen naar werkblad
+1. Details in Software
 
-    a.  Via activiteiten (```SUPER```) en (begin) van de naam typen
+1. Toepassing afsluiten
 
-    a. Via sneltoets
+## Extra venster openen
 
-1.  Extra venster openen
+1. Via ```CTRL``` en muisklik op dash
 
-    a. Via ```CTRL``` en muisklik op dash
+1. Via toepassingsmenu
 
-    a. Via toepassingsmenu
+1. Via menu binnen applicatie
 
-    a. Via menu binnen applicatie
+1. Via slepen naar werkblad in applicatie modus
 
+## Toepassingen afsluiten of vensters sluiten
+
+Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepassing af.
+
+#### Vensters sluiten
+
+
+- ```ALT+F4```
+
+- Druk op het kruisje rechtsboven in de titelbalk van een venster ![width:50px](img/kruisje-in-titelbalk-van-toepassing.png){width=20px}
+
+- Via bestandmenu van de toepassing
+
+#### Toepassingen afsluiten
+
+- Via toepassingsmenu
+
+- Via bestandsmenu van de toepassing
+
+
+<!-- tot hier gelijk -->
 1.  Veel gebruikte toepassingen laten zien:
 
     a.  Internet browser

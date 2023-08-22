@@ -250,25 +250,21 @@ Om de computer af te sluiten
 ![width:960px](img/uitschakelen.gif)
 
 ---
-## Toepassingen starten en sluiten
+## Toepassingen starten en afsluiten
 ![width:100px](img/firefox-icon.png) ![width:100px](img/terminal-icon.png) ![width:100px](img/bestanden-icon.png) ![width:100px](img/kaarten-icon.png) ![width:100px](img/writer-icon.png) ![width:100px](img/software-icon.png) ![width:100px](img/patience-icon.png) ![width:100px](img/rekenmachine.png)
 
 ---
 ### Toepassingen starten
-- Activiteiten zoekvak
-- Dash  
+- Activiteiten modus
 - Applicatie modus
 - Sneltoetsen
 ### Toepassingsmenu
-- Nieuw venster openen
-- Details van de toepassing in Software toepassing
-- Toepassing afsluiten (sluit alle vensters van deze toepassing)
-
+- Snelle toegang tot afsluiten en nieuw venster
 ---
-### Toepassingen sluiten
-- ```ALT+F4```
-- Druk op het kruisje rechtsboven in de titelbalk van een venster ![width:50px](img/kruisje-in-titelbalk-van-toepassing.png)
-- Via toepassingsmenu
+### Toepassingen afsluiten of vensters sluiten
+- Vensters sluiten
+Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepassing af.
+- Toepassingen afsluiten
 ---
 
 ### Toepassing starten via zoekvak
@@ -385,8 +381,8 @@ Voorbeeld: terminal aan sneltoets ```CTRL+ALT+T```
 ![width:1000px](img/sneltoets-terminal.gif)
 
 ---
-### Toepasingsmenu
-![width:900px](img/firefox-focus.png)
+### Toepassingsmenu
+![width:900px](img/toepassingsmenu-geopend-twee-writers.png)
 
 ---
 - Menu aan de linkerzijde op bovenbalk
@@ -395,18 +391,23 @@ Voorbeeld: terminal aan sneltoets ```CTRL+ALT+T```
 ![width:100%](img/toepassingsmenu-firefox-geopend.png)
 
 ---
-#### Wat kunt u met het toepassingsmenu
+#### Wat kunt u met het toepassingsmenu ```SUPER+F10```
+- Wisselen tussen vensters
 - Extra venster openen
 - Details in de Software toepassing zien
-- Toepassing sluiten
+- Toepassing afsluiten (sluit alle vensters van deze toepassing)
+
+---
+##### Voorbeeld wisselen tussen twee tekstverwerkers
+![width:1000px](img/toepassingsmenu-wisselen-tussen-twee-writers.gif)
 
 ---
 ##### Voorbeeld extra venster
 ![width:1000px](img/toepassingsmenu-firefox-extra-venster.gif)
 
 ---
-##### Voorbeeld venster sluiten
-![width:1000px](img/toepassingmenu-firefox-afsluiten.gif)
+##### Voorbeeld Firefox afsluiten
+![width:1000px](img/toepassingsmenu-firefox-afsluiten.gif)
 
 ---
 ### Extra venster openen van een toepassing
@@ -414,6 +415,7 @@ __N.B.__ Niet iedere toepassing staat dit toe, bijvoorbeeld Kaarten niet.
 - met controltoets ingedrukt op het icon op de dash klikken
 - via het toepassingsmenu
 - via de toepassing zelf (bestandsmenu)
+- in applicatie modus het icon naar een werkblad slepen
 
 ---
 ##### Voorbeeld extra venster met ```CTRL+Click``` op dash
@@ -428,6 +430,38 @@ __N.B.__ Niet iedere toepassing staat dit toe, bijvoorbeeld Kaarten niet.
 ![width:1000px](img/toepassingsmenu-firefox-extra-venster.gif)
 
 ---
-##### Voorbeeld extra venster via Betandsmenu van de toepassing
+##### Voorbeeld extra venster via Bestandsmenu van de toepassing
 ![width:1000px](img/extra-venster-calc-menu.gif)
+
+---
+##### Voorbeeld extra browser door naar werkblad slepen
+![width:1000px](img/extra-venster-via-slepen-naar-werkblad.gif)
+
+---
+## Toepassingen afsluiten of vensters sluiten
+#### Vensters sluiten
+<!-- Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepassing af. -->
+- ```ALT+F4```
+
+- Druk op het kruisje rechtsboven in de titelbalk van een venster ![width:50px](img/kruisje-in-titelbalk-van-toepassing.png)
+
+- Via bestandmenu van de toepassing
+
+#### Toepassingen afsluiten
+
+- Via toepassingsmenu
+
+- Via bestandsmenu van de toepassing
+
+---
+##### Voorbeeld sluit venster via bestandsmenu
+![width:1000px](img/writer-tweede-venster-sluiten-bestandsmenu.gif)
+
+---
+##### Voorbeeld Firefox afsluiten via toepassingsmenu
+![width:1000px](img/toepassingsmenu-firefox-afsluiten.gif)
+
+---
+##### Voorbeeld sluit toepassing af via bestandsmenu
+![width:1000px](img/writer-afsluiten-bestandsmenu.gif)
 
