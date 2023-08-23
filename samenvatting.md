@@ -123,7 +123,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
 1. Details in Software
 
-1. Toepassing afsluiten
+1. Toepassing afsluiten of venster sluiten
 
 ## Extra venster openen
 

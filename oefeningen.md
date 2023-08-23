@@ -227,24 +227,41 @@ Uitzondering hierop zijn de volgende speciale toetsen:
         i. annuleer in de popup door ```SPATIEBALK``` of ```ESC```
 
 
-# Toepassingen openen
+# Toepassingen openen en afsluiten
 
-1.  Sneltoetsen toevoegen
+1.  Sneltoetsen toevoegen. Open sneltoetsen in de Instellingen door:
 
-    a.  opzoeken en bekijken
+    a. ```SUPER snelt ENTER```
 
-        i. wat is de toets voor maximaliseren
-        i. wat is de toets voor herstellen
+    a. Klik op "Sneltoetsen weergeven en aanpassen"
+        
+    a.  Ken onder de afdeling "Starters" ```SUPER+E``` aan "Persoonlijke map"
 
-    a.  ```SUPER+E``` voor bestanden
+    a.  Ken onder de afdeling "Starters" ```SUPER+C``` aan "Rekenmachine starten"
 
-    a.  ```SUPER+C``` voor Rekenmachine
+    a.  Ken onder de afdeling "Starters" ```SUPER+I``` aan Instellingen
 
-    a.  ```SUPER+I``` voor Instellingen
+1.  Aangepaste sneltoetsen toevoegen. Open sneltoetsen in de Instellingen.
 
-    a.  ```SUPER+SHIFT+I``` voor Afstellingen
+    a. Open de afdeling "Aangepaste sneltoets" (onderaan).
 
-    a.  ```ALT+CTRL+T``` voor Terminal
+    a.  ```SUPER+SHIFT+I``` toekennen aan "Afstellingen"
+
+        i. Klik op de + onderaan
+
+        i. Vul onder "Naam" ```Afstellingen``` in
+
+        i. Vul onder "Opdracht" ```gnome-tweaks``` in
+
+        i. Klik op "Sneltoets instellen" en druk ```SUPER+SHIFT+I```
+
+    a.  Ken ```ALT+CTRL+T``` toe aan de opdracht ```gnome-terminal``` onder de naam ```Terminal```.
+
+1.  Sneltoetsen opzoeken. Open de sneltoetsen instellingen zoals in beschreven in de eerste oefening.
+    
+    a. wat is de toets voor maximaliseren
+
+    a. wat is de toets voor herstellen
 
 1.  Open en sluit terminal 1
 
@@ -257,6 +274,174 @@ Uitzondering hierop zijn de volgende speciale toetsen:
     a.  open ```SUPER```, ```ter```, ```ENTER```
 
     a.  sluit met ```CTRL+D```
+
+1. Open en sluit terminal 3
+
+    a. Ga in applicatie modus met ```SUPER+A```
+
+    b. Klik op het terminal venster icon ![](img/terminalvenster-icon.png){width=50px}
+
+    c. Sluit het venster met de muis door op het kruisje rechtsboven te klikken
+
+1. Open en sluit terminal 4
+
+    a. Ga in applicatie modus met de muis:
+
+        i. Klik op ![](img/activiteiten-knop.png){width=100px}
+
+        i. Klik op de 3x3 puntjes op de dash ![](img/3x3-puntjes-op-dash.png){width=100px}
+    
+    a. Sleep het ![](img/terminalvenster-icon.png){width=50px} naar het eerste werkblad
+
+    a. Klik op ![](img/activiteiten-knop.png){width=100px} om applicatie modus te verlaten
+
+    a. Klik op een willekeurige plek van het terminalvenster 
+
+    a. Sluit het terminalvenster door ```ALT+F4``` in te drukken
+
+1. Open met ```ALT+CTRL+T``` een terminalvenster
+
+    a. Gebruik het toepassingmenu om een extra terminalvenster te openen
+
+        i. ```SUPER+F10```
+
+        i. ```ENTER``` op "Nieuw venster"
+    
+    a. Sluit het tweede terminalvenster af via het toepassingsmenu
+
+        i. ```SUPER+F10```
+
+        i. Gebruik de pijltjes toetsen om naar "Afsluiten" te komen
+
+        i. Druk ```SPATIEBALK```
+    
+    a. Herhaal dit voor het eerste terminalvenster
+
+1. Open en sluit twee firefox vensters
+
+    a. Druk ```SUPER+1``` om firefox te openen
+
+    a. Maak een nieuw venster aan via het toepassingsmenu
+
+        i. ```SUPER+F10```
+
+        i. ```ENTER``` op "Nieuw venster"
+    
+    a. Sluit beide vensters met het toepassingsmenu
+        
+        i. ```SUPER+F10```
+
+        i. Gebruik de pijltjes toetsen om naar "Afsluiten" te komen
+
+        i. Druk ```SPATIEBALK```
+
+1. Open en sluit twee LibreOffice writer vensters met het bestandsmenu
+
+    a. Druk ```SUPER+3```
+
+    a. Druk ```F10``` om de menubalk voor Writer te activeren
+
+    a. Druk ```PIJLTJE-OMLAAG```
+
+    a. Druk ```PIJLTJE-NAAR-RECHTS```
+
+    a. Druk ```SPATIEBALK```
+
+    a. Druk ```F10``` om de menubalk voor Writer te activeren
+
+    a. Druk ```PIJLTJE-OMHOOG``` om snel bij "Afsluiten" te komen
+
+    a. Druk ```SPATIEBALK```
+
+1. Open twee LibreOffice writer vensters en sluit ze één voor één
+
+    a. Druk ```SUPER+3```
+
+    a. Druk ```CTRL+N``` om via de sneltoets voor een nieuw venster van LibreOffice een tweede venster te openen
+
+    a. Druk ```CTRL+W``` om het tweede venster te sluiten
+
+    a. Druk ```CTRL+W``` om het eerste venster te sluiten
+
+    a. Druk ```CTRL+Q``` om LibreOffice af te sluiten
+
+1. Open twee LibreOffice writer vensters en sluit ze één voor één
+
+    a. Druk ```SUPER+3```
+
+    a. Druk ```CTRL+N``` om via de sneltoets voor een nieuw venster van LibreOffice een tweede venster te openen
+
+    a. Klik op het kruisje rechtsboven van het tweede venster
+
+    a. Klik op het kruisje rechtsboven van het eerste venster
+
+1. Open en sluit een LibreOffice calc venster
+
+    a. Druk ```SUPER spread ENTER```
+
+    a. Sluit met ```ALT+F4```
+
+1. Open en sluit een eenvoudige (platte) tekst editor
+
+    a. Druk ```SUPER tekst ENTER```
+
+    a. Sluit met ```ALT+F4```
+
+1. Open een rekenmachine en reken 6 keer 7 uit
+
+    a. Druk ```SUPER+C```
+
+    a. Druk ```6*7 ENTER```
+
+    a. Sluit met ```ALT+F4```
+
+1. Reken 6 * 7 uit via het zoekvak
+
+    a. Druk ```SUPER 6*7```
+
+    a. Druk ```SUPER``` om in normale modus terug te keren
+
+1. Open een tekst editor via applicatie modus
+
+    a. Ga met de muis naar applicatie modus (twee stappen)
+
+    a. Klik rechts op > om naar de tweede pagina te komen
+
+    a. Klik op ![](img/teksteditor-icon.png){width=50px}
+
+    a. Open een tweede venster met ```CTRL+N```
+
+    a. Sluit tweede venster met ```ALT+F4```
+
+    a. Sluit eerste venster met ```ALT+F4```
+
+1. Open een tekst editor via applicatie modus
+
+    a. Druk ```SUPER+A```
+
+    a. Druk ```PageDown``` om op de tweede pagina te komen
+
+    a. Sleep ![](img/teksteditor-icon.png){width=50px} naar het eerste werkblad
+
+    a. Druk tweemaal ```ESC``` om in normale modus te komen
+
+    a. Sluit het venster met ```ALT+F4```
+
+1. Open en sluit twee firefox vensters met de muis
+
+    a. Ga activiteiten modus in door op ![](img/activiteiten-knop.png){width=100px} te klikken
+
+    a. Klik op ![](img/firefox-icon.png){width=50px} op de dash
+
+    a. Ga opnieuw activiteiten modus in door op ![](img/activiteiten-knop.png){width=100px} te klikken
+
+    a. Klik met ```CTRL``` ingedrukt op ![](img/firefox-icon.png){width=50px} op de dash
+
+    a. Verlaat activiteiten modus door op ![](img/activiteiten-knop.png){width=100px} te klikken
+
+    a. Klik de beide vensters dicht door op het kruisje rechtsboven te klikken 
+
+        i. Noem twee manieren waarop dit sluiten van beide vensters in één keer had gekunt (er zijn drie manieren)
 
 
 # Toepassingen installeren

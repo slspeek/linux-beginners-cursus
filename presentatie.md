@@ -395,7 +395,7 @@ Voorbeeld: terminal aan sneltoets ```CTRL+ALT+T```
 - Wisselen tussen vensters
 - Extra venster openen
 - Details in de Software toepassing zien
-- Toepassing afsluiten (sluit alle vensters van deze toepassing)
+- Toepassing afsluiten of venster sluiten
 
 ---
 ##### Voorbeeld wisselen tussen twee tekstverwerkers
