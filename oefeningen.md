@@ -395,9 +395,9 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     a. Sluit met ```ALT+F4```
 
-1. Reken 6 * 7 uit via het zoekvak
+1. Reken 2 + 4 x 10 uit via het zoekvak
 
-    a. Druk ```SUPER 6*7```
+    a. Druk ```SUPER 2+4*10```
 
     a. Druk ```SUPER``` om in normale modus terug te keren
 

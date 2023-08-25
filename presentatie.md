@@ -50,6 +50,16 @@ Losmaken door je wachtwoord in te voeren
 ![width:950px](img/schermvergrendeling-wachtwoord-invoeren.png)
 
 ---
+### Hulp openen 
+- Met ```SUPER+F1```
+![bg right width:40%](img/hulp-icon.png)
+- Zoeken in Hulp met ```CTRL+S```
+- Zoeken op één pagina met ```CTRL+F```
+---
+##### Voorbeeld hulp openen en sneltoetsen opzoeken
+![width:1000px](img/hulp-openen-en-sneltoetsen-zoeken.gif)
+
+---
 ### GNOME desktop manager ![width:100px](img/GNOME-logo.png)
 - GNOME is de standaard **desktop-manager**
 
@@ -395,7 +405,8 @@ Voorbeeld: terminal aan sneltoets ```CTRL+ALT+T```
 - Wisselen tussen vensters
 - Extra venster openen
 - Details in de Software toepassing zien
-- Toepassing afsluiten of venster sluiten
+- Toepassing afsluiten
+ <!-- of venster sluiten -->
 
 ---
 ##### Voorbeeld wisselen tussen twee tekstverwerkers
@@ -404,6 +415,10 @@ Voorbeeld: terminal aan sneltoets ```CTRL+ALT+T```
 ---
 ##### Voorbeeld extra venster
 ![width:1000px](img/toepassingsmenu-firefox-extra-venster.gif)
+
+---
+##### Voorbeeld details van schaak toepassing tonen
+![width:1000px](img/toepassingsmenu-details-schaken.gif)
 
 ---
 ##### Voorbeeld Firefox afsluiten
@@ -451,7 +466,7 @@ __N.B.__ Niet iedere toepassing staat dit toe, bijvoorbeeld Kaarten niet.
 
 - Via toepassingsmenu
 
-- Via bestandsmenu van de toepassing
+- Via bestandsmenu van de toepassing (vaak ```CTRL+Q```)
 
 ---
 ##### Voorbeeld sluit venster via bestandsmenu
@@ -464,4 +479,62 @@ __N.B.__ Niet iedere toepassing staat dit toe, bijvoorbeeld Kaarten niet.
 ---
 ##### Voorbeeld sluit toepassing af via bestandsmenu
 ![width:1000px](img/writer-afsluiten-bestandsmenu.gif)
+
+---
+## Veelgebruikte toepassingen
+
+- Internet browser: Firefox ![height:100px](img/firefox-icon.png)
+
+- Bestanden ![height:100px](img/bestanden-icon.png)
+
+- LibreOffice Writer ![height:100px](img/writer-icon.png)
+---
+### Internet browser: Firefox ![height:100px](img/firefox-icon.png)
+
+- Belangrijke sneltoetsen
+
+- Essentiële extensies
+
+- Hulp over Firefox
+---
+#### Sneltoetsen voor Firefox
+- Nieuw tabblad openen ```CTRL+T``` 
+
+![](img/firefox-tabblad.png)
+
+- Tabblad sluiten ```CTRL+W```
+
+- Focus naar adresbalk ```CTRL+L``` (locatie)
+
+![](img/firefox-locatiebalk.png)
+
+---
+#### Sneltoetsen voor Firefox vervolg
+
+- Zoeken met een zoekmachine naar keuze ```CTRL+K```
+    
+    - ```CTRL+PIJLTJE_OMLAAG```, ```CTRL+PIJLTJE_OMHOOG``` om zoekmachine te selecteren
+
+    - ```ALT+PIJLTJE_OMLAAG```, ```ALT+PIJLTJE_OMHOOG``` om zoekmachine te selecteren als u al iets ingetyped hebt
+
+- Nieuw venster ```CTRL+N```
+
+- Afsluiten ```CTRL+Q```
+---
+##### Voorbeeld zoeken op Wikipedia
+![width:1000px](img/firefox-zoeken-op-wikipedia.gif)
+
+---
+#### Essentiële extensies installeren
+
+- [Adblocker for Youtube](https://addons.mozilla.org/nl/firefox/addon/adblock-for-youtube/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) houdt alle advertentie filmpjes tegen op Youtube
+
+- [Adblocker Ultimate](https://addons.mozilla.org/nl/firefox/addon/adblocker-ultimate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) houdt advertenties tegen
+
+- [I don't care about cookies](https://addons.mozilla.org/nl/firefox/addon/i-dont-care-about-cookies/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+gaat automatisch akkoord met alle cookies
+
+---
+##### Voorbeeld extensie installeren door te zoeken
+![width:1000px](img/firefox-adblocker-for-youtube-installeren.gif)
 

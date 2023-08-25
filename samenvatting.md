@@ -22,6 +22,10 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     a.  Wachtwoord invoeren om verder te kunnen gaan
 
+1.  Hulp openen (```SUPER+F1```)
+
+    a.  Zoeken in Hulp met ```CTRL+S```, zoeken op één pagina met ```CTRL+F```
+
 1.  GNOME is een desktop manager
 
 1.  Modi
@@ -123,7 +127,8 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
 1. Details in Software
 
-1. Toepassing afsluiten of venster sluiten
+1. Toepassing afsluiten
+ <!-- of venster sluiten -->
 
 ## Extra venster openen
 
@@ -156,19 +161,43 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
 
 
 <!-- tot hier gelijk -->
-1.  Veel gebruikte toepassingen laten zien:
+# Veel gebruikte toepassingen
 
-    a.  Internet browser
+a.  Internet browser
 
-    a.  Bestandsbeheer
+a.  Bestandsbeheer
 
-    a.  LibreOffice
+a.  LibreOffice
 
-1.  Sneltoetsen
+## Firefox
 
-1.  Hulp openen (```SUPER+F1```)
+a. Belangrijkste sneltoetsen
+    
+    i. Nieuw tabblad openen ```CTRL+T```
 
-    a.  Zoeken in Hulp met ```CTRL+S```, zoeken op één pagina met ```CTRL+F```
+    i. Tabblad sluiten ```CTRL+W```
+
+    i. Focus naar adresbalk ```CTRL+L```
+
+    i. Zoeken met een zoekmachine naar keuze ```CTRL+K```
+
+        - ```CTRL+PIJLTJE_OMLAAG```, ```CTRL+PIJLTJE_OMHOOG``` om zoekmachine te selecteren
+
+        - ```ALT+PIJLTJE_OMLAAG```, ```ALT+PIJLTJE_OMHOOG``` om zoekmachine te selecteren als u al iets ingetyped hebt
+
+    i. Nieuw venster ```CTRL+N```
+
+    i. Afsluiten ```CTRL+Q```
+
+a. Essentiële extensies installeren
+
+    i. [Adblocker for Youtube](https://addons.mozilla.org/nl/firefox/addon/adblock-for-youtube/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
+    i. [Adblocker Ultimate](https://addons.mozilla.org/nl/firefox/addon/adblocker-ultimate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
+    i. [I don't care about cookies](https://addons.mozilla.org/nl/firefox/addon/i-dont-care-about-cookies/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
+a. Hulp zoeken over Firefox
 
 # Toepassingen installeren
 
