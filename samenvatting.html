@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>samenvatting</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title"><div class="line-block">Samenvatting voor de Linux beginners cursus</div></h1>
+<p class="author"><div class="line-block">Steven Speek<br />
+ </div></p>
+</header>
+<h1 id="notatie">Notatie</h1>
+<p>Het lettertype <code>Courier</code> wordt gebruikt om iets op te schrijven dat u op het toetsenbord kunt typen. Uitzondering hierop zijn de volgende speciale toetsen: <code>SPATIEBALK</code>, <code>CTRL</code>, <code>ALT</code>, <code>SUPER</code>, <code>ESC</code>, <code>DELETE</code>, <code>PageDown</code>, <code>PageUp</code>, <code>F1</code>, <code>F2</code> … en <code>ENTER</code>, hier dient u betreffende toets in te drukken in plaats van het woord in te typen.</p>
+<h1 id="rondleiding-gnome">Rondleiding GNOME</h1>
+<ol type="1">
+<li><p>Je meldt je aan in GDM3 met account (gebruikersnaam=<code>tux</code>, wachtwoord=<code>tux</code>)</p></li>
+<li><p>Schermbeveiliging</p>
+<ol type="a">
+<li><p>Expres aanzetten (<code>SUPER+L</code>)</p></li>
+<li><p>Wachtwoord invoeren om verder te kunnen gaan</p></li>
+</ol></li>
+<li><p>Hulp openen (<code>SUPER+F1</code>)</p>
+<ol type="a">
+<li>Zoeken in Hulp met <code>CTRL+S</code>, zoeken op één pagina met <code>CTRL+F</code></li>
+</ol></li>
+<li><p>GNOME is een desktop manager</p></li>
+<li><p>Modi</p>
+<ol type="a">
+<li><p>Normale modus</p></li>
+<li><p>Activiteiten modus (<code>SUPER</code>)</p>
+<ul>
+<li><p>Toepassingen starten</p></li>
+<li><p>Documenten zoeken</p></li>
+<li><p>Toepassing wisselen</p></li>
+<li><p>Applicatie modus</p></li>
+</ul></li>
+<li><p>Applicatie modus (<code>SUPER+A</code>)</p>
+<ul>
+<li><p>Toepassingen openen</p></li>
+<li><p>Werkblad wisselen</p></li>
+<li><p>Toepassing slepen naar werkblad</p></li>
+<li><p>Dash aanpassen</p></li>
+</ul></li>
+</ol></li>
+<li><p>Dash</p>
+<ol type="a">
+<li><p>snelstarters voor veelgebruikte programma’s</p></li>
+<li><p>overzicht open programma’s</p></li>
+<li><p>Sneltoetsen <code>SUPER+1</code>, <code>SUPER+2</code>, … Om te openen en later focus terug te geven</p></li>
+</ol></li>
+<li><p>Bovenbalk</p>
+<ol type="a">
+<li><p>Activiteiten knop</p></li>
+<li><p>Toepassingen menu (later)</p></li>
+<li><p>Notificatie venster / Kalender (<code>SUPER+V</code>)</p></li>
+<li><p>Toegankelijkheidsmenu (indien er een toegankelijkheids optie aanstaat)</p></li>
+<li><p>Systeemmenu</p></li>
+</ol></li>
+<li><p>Notificatie venster (<code>SUPER+V</code>)</p>
+<ul>
+<li>kalender activeren met online-account</li>
+</ul></li>
+<li><p>Systeemmenu</p>
+<ol type="a">
+<li><p>Volume regeling</p></li>
+<li><p>Instellingen</p></li>
+<li><p>Netwerk instellingen</p></li>
+<li><p>Vergrendeling</p></li>
+<li><p>Uitschakelen en afmelden</p></li>
+</ol></li>
+<li><p>Uitschakelen (<code>ALT+CTRL+DEL</code>)</p></li>
+</ol>
+<h1 id="toepassingen-starten-en-afsluiten">Toepassingen starten en afsluiten</h1>
+<h2 id="toepassingen-starten-op-zes-manieren">Toepassingen starten op zes manieren</h2>
+<ol type="1">
+<li>Via sneltoets</li>
+</ol>
+<h3 id="activiteiten-modus-super">Activiteiten modus (<code>SUPER</code>)</h3>
+<ol start="2" type="1">
+<li>Type de naam van de toepassing in zoekvak</li>
+</ol>
+<h4 id="dash">Dash</h4>
+<ol start="3" type="1">
+<li><p>Sneltoetsen: <code>SUPER+1</code>, etc.</p>
+<ol type="a">
+<li><p>Openen</p></li>
+<li><p>Focus terug te krijgen</p></li>
+</ol></li>
+<li><p>Klik op icon om toepassing te starten</p>
+<ol type="a">
+<li><code>CTRL</code> klik voor een nieuw venster</li>
+</ol></li>
+</ol>
+<h3 id="applicatie-modus-supera">Applicatie modus (<code>SUPER+A</code>)</h3>
+<ol start="5" type="1">
+<li><p>Klik icon om toepassing te starten</p></li>
+<li><p>Slepen naar werkblad</p></li>
+</ol>
+<h2 id="toepassingsmenu-superf10">Toepassingsmenu (<code>SUPER+F10</code>)</h2>
+<ol type="1">
+<li><p>Wisselen tussen vensters</p></li>
+<li><p>Nieuw venster</p></li>
+<li><p>Details in Software</p></li>
+<li><p>Toepassing afsluiten <!-- of venster sluiten --></p></li>
+</ol>
+<h2 id="extra-venster-openen">Extra venster openen</h2>
+<ol type="1">
+<li><p>Via <code>CTRL</code> en muisklik op dash</p></li>
+<li><p>Via toepassingsmenu</p></li>
+<li><p>Via menu binnen applicatie</p></li>
+<li><p>Via slepen naar werkblad in applicatie modus</p></li>
+</ol>
+<h2 id="toepassingen-afsluiten-of-vensters-sluiten">Toepassingen afsluiten of vensters sluiten</h2>
+<p>Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepassing af.</p>
+<h4 id="vensters-sluiten">Vensters sluiten</h4>
+<ul>
+<li><p><code>ALT+F4</code></p></li>
+<li><p>Druk op het kruisje rechtsboven in de titelbalk van een venster <img src="img/kruisje-in-titelbalk-van-toepassing.png" width="20" alt="width:50px" /></p></li>
+<li><p>Via bestandmenu van de toepassing</p></li>
+</ul>
+<h4 id="toepassingen-afsluiten">Toepassingen afsluiten</h4>
+<ul>
+<li><p>Via toepassingsmenu</p></li>
+<li><p>Via bestandsmenu van de toepassing</p></li>
+</ul>
+<!-- tot hier gelijk -->
+<h1 id="veel-gebruikte-toepassingen">Veel gebruikte toepassingen</h1>
+<ol type="a">
+<li><p>Internet browser: Firefox</p></li>
+<li><p>Bestandsbeheer</p></li>
+<li><p>LibreOffice</p></li>
+</ol>
+<h2 id="internet-browser-firefox">Internet browser: Firefox</h2>
+<ol type="a">
+<li><p>Belangrijkste sneltoetsen</p>
+<ol type="i">
+<li><p>Nieuw tabblad openen <code>CTRL+T</code></p></li>
+<li><p>Tabblad sluiten <code>CTRL+W</code></p></li>
+<li><p>Focus naar adresbalk <code>CTRL+L</code></p></li>
+<li><p>Zoeken met een zoekmachine naar keuze <code>CTRL+K</code></p>
+<ul>
+<li><p><code>CTRL+PIJLTJE_OMLAAG</code>, <code>CTRL+PIJLTJE_OMHOOG</code> om zoekmachine te selecteren</p></li>
+<li><p><code>ALT+PIJLTJE_OMLAAG</code>, <code>ALT+PIJLTJE_OMHOOG</code> om zoekmachine te selecteren als u al iets ingetyped hebt</p></li>
+</ul></li>
+<li><p>Nieuw venster <code>CTRL+N</code></p></li>
+<li><p>Afsluiten <code>CTRL+Q</code></p></li>
+</ol></li>
+<li><p>Essentiële extensies installeren</p>
+<ol type="i">
+<li><p><a href="https://addons.mozilla.org/nl/firefox/addon/adblock-for-youtube/?utm_source=addons.mozilla.org&amp;utm_medium=referral&amp;utm_content=search">Adblocker for Youtube</a></p></li>
+<li><p><a href="https://addons.mozilla.org/nl/firefox/addon/adblocker-ultimate/?utm_source=addons.mozilla.org&amp;utm_medium=referral&amp;utm_content=search">Adblocker Ultimate</a></p></li>
+<li><p><a href="https://addons.mozilla.org/nl/firefox/addon/i-dont-care-about-cookies/?utm_source=addons.mozilla.org&amp;utm_medium=referral&amp;utm_content=search">I don’t care about cookies</a></p></li>
+</ol></li>
+<li><p>Hulp zoeken over Firefox</p></li>
+</ol>
+<h1 id="toepassingen-installeren">Toepassingen installeren</h1>
+<ol type="1">
+<li><p>Installeren</p>
+<ol type="a">
+<li><p>Via Software</p>
+<ol type="i">
+<li><p>Bladeren</p></li>
+<li><p>Zoeken (gewoon beginnen met typen van de zoekterm)</p></li>
+<li><p>Installeren</p>
+<ol type="1">
+<li><p>VLC-player</p></li>
+<li><p>Chromium</p></li>
+<li><p>GIMP</p></li>
+<li><p>Inkscape</p></li>
+<li><p>Stellarium/KStars</p></li>
+<li><p>KDEnlive</p></li>
+</ol></li>
+</ol></li>
+<li><p>Vanuit een .deb bestand</p>
+<ol type="i">
+<li><p>Google chrome</p></li>
+<li><p>Edge</p></li>
+<li><p>Visual studio</p></li>
+</ol></li>
+</ol></li>
+<li><p>Standaardtoepassingen</p></li>
+<li><p><a href="https://help.gnome.org/users/gnome-help/stable/shell-apps-auto-start.html.en"><em>Opstarttoepassingen</em></a></p></li>
+</ol>
+<h1 id="vensters-werkbladen-en-bureaubladen">Vensters, werkbladen en bureaubladen</h1>
+<ol type="1">
+<li><p>Vensterbeheer</p>
+<ol type="a">
+<li><p>groot maken</p></li>
+<li><p>verbergen</p></li>
+<li><p>helft scherm gebruiken</p></li>
+</ol></li>
+<li><p>Wisselen tussen open programma’s</p>
+<ol type="a">
+<li><p><code>ALT+TAB</code>, <code>SUPER+TAB</code> wisselen tussen open programma</p></li>
+<li><p>focus bovenbalk <code>ALT+CTRL+TAB</code></p></li>
+<li><p><code>ALT+ESC</code> wisselt tussen open vensters van het programma dat nu de focus heeft</p></li>
+</ol></li>
+<li><p>Werkbladen</p>
+<ol type="a">
+<li><p>Wat zijn werkbladen</p></li>
+<li><p>Schakelen tussen werkbladen</p></li>
+</ol></li>
+<li><p>Bureaubladen aanpassen</p>
+<ol type="a">
+<li><p>Achtergrond aanpassen</p></li>
+<li><p>Schermbeveiliging uitschakelen</p></li>
+</ol></li>
+</ol>
+<h1 id="online-accounts">Online accounts</h1>
+<ol type="1">
+<li><p>Online account toevoegen</p>
+<ol type="a">
+<li><p>Instellingen: voeg bij voorkeur een Google-account toe</p>
+<ol type="i">
+<li><p>toon kalender</p></li>
+<li><p>drive</p></li>
+</ol></li>
+<li><p>helaas werkt Microsoft account <strong>niet</strong></p></li>
+</ol></li>
+</ol>
+<h1 id="gebruikersbeheer">Gebruikersbeheer</h1>
+<ol type="1">
+<li><p>Wachtwoord wijzigen</p>
+<ol type="a">
+<li><p>Via instellingen</p></li>
+<li><p>Plaatje veranderen</p></li>
+</ol></li>
+<li><p>Gebruiker toevoegen</p></li>
+<li><p>Beheerdersrechten toekennen</p></li>
+<li><p>Automatisch aanmelden</p></li>
+</ol>
+<h2 id="bestanden">Bestanden</h2>
+<ol type="1">
+<li><p>Bestanden</p>
+<ol type="a">
+<li><p>geen drive-letters, maar <code>/</code>, <code>/</code> heet root (spreek uit als <strong>roet</strong>).</p></li>
+<li><p>geen backslashes, maar forward-slashes</p></li>
+<li><p><a href="https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html">Filesystem Hierarchy Standard</a></p>
+<ol type="i">
+<li><code>/home</code></li>
+<li><code>/usr/bin</code></li>
+<li><code>/media</code></li>
+</ol></li>
+<li><p><a href="https://nl.wikipedia.org/wiki/Homedirectory">thuismap</a> <code>/home/tux</code></p></li>
+<li><p>Starten <code>SUPER+4</code></p></li>
+</ol></li>
+<li><p>Backups maken</p>
+<ol type="a">
+<li><p>Open bestanden (<code>SUPER+4</code>)</p></li>
+<li><p>Rechtsklikken op map</p>
+<ol type="i">
+<li>Versturen …</li>
+<li>Inpakken …</li>
+</ol></li>
+</ol></li>
+</ol>
+<h1 id="speciale-tekens">Speciale tekens</h1>
+<ol type="1">
+<li><p>Euroteken invoeren</p>
+<ol type="a">
+<li><p>zoekvak ‘euro sign’</p></li>
+<li><p>via speciale tekens toepassing</p></li>
+<li><p><code>CTRL-SHIFT-U 20ac SPATIEBALK</code></p></li>
+</ol></li>
+<li><p>é (e accent) invoeren: <code>CTRL-SHIFT-U 00e9 SPATIEBALK</code></p></li>
+<li><p><a href="https://help.gnome.org/users/gnome-help/stable/tips-specialchars.html.nl">GNOME tip speciale tekens</a></p></li>
+</ol>
+</body>
+</html>

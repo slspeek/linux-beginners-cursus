@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>oefeningen</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title"><div class="line-block">Oefeningen voor de Linux beginners cursus</div></h1>
+<p class="author"><div class="line-block">Steven Speek<br />
+ </div></p>
+</header>
+<h1 id="notatie">Notatie</h1>
+<p>Het lettertype <code>Courier</code> wordt gebruikt om iets op te schrijven dat u op het toetsenbord kunt typen. Uitzondering hierop zijn de volgende speciale toetsen: <code>SPATIEBALK</code>, <code>CTRL</code>, <code>ALT</code>, <code>SUPER</code>, <code>ESC</code>, <code>DELETE</code>, <code>PageDown</code>, <code>PageUp</code>, <code>F1</code>, <code>F2</code> … en <code>ENTER</code>, hier dient u betreffende toets in te drukken in plaats van het woord in te typen.</p>
+<h1 id="rondleiding-gnome">Rondleiding GNOME</h1>
+<ol type="1">
+<li><p>Aanmelden en afmelden</p>
+<ol type="a">
+<li><p>meld u aan met het account (gebruikersnaam=<code>tux</code>, wachtwoord=<code>tux</code>)</p></li>
+<li><p>afmelden</p>
+<ol type="i">
+<li><p>klik op <img src="img/systeem-menu-gesloten.png" height="20" /></p></li>
+<li><p>klik op <img src="img/afsluit-menu-knop.png" height="20" /></p></li>
+<li><p>klik op “Afmelden …”</p></li>
+<li><p>bevestig in de popup</p></li>
+<li><p>log opnieuw aan</p></li>
+</ol></li>
+</ol></li>
+<li><p>Schermbeveiliging activeren</p>
+<ol type="a">
+<li><p>Activeer de schermbeveiliging met <code>SUPER+L</code></p></li>
+<li><p>Maak de computer weer los door het wachtwoord van gebruiker Tux in te voeren: <code>tux</code></p></li>
+</ol></li>
+<li><p>Hulp openen en sluiten 1</p>
+<ol type="a">
+<li><p>open hulp met <code>SUPER+F1</code></p></li>
+<li><p>sluit Hulp met <code>ALT+F4</code></p></li>
+</ol></li>
+<li><p>Hulp openen en sluiten 2</p>
+<ol type="a">
+<li><p>open hulp met <code>SUPER+6</code></p></li>
+<li><p>sluit Hulp met kruisje rechtsboven</p></li>
+</ol></li>
+<li><p>Hulp openen en sluiten 3</p>
+<ol type="a">
+<li><p>open Hulp met <code>SUPER</code>, type <code>hulp</code> en druk <code>ENTER</code></p></li>
+<li><p>sluit de hulp met <code>CTRL+W</code></p></li>
+</ol></li>
+<li><p>Hulp openen en sluiten 4 (moeilijk)</p>
+<ol type="a">
+<li><p>open de hulp door op <code>SUPER</code> te drukken, en dan op het reddingsboei symbool op de dash te klikken</p></li>
+<li><p>gebruik <code>CTRL-S</code> en zoek op ‘sneltoetsen’, ga naar ‘Sneltoetsen &gt; instellen’</p>
+<ol type="i">
+<li><p>ga naar beneden naar ‘Vooraf gedefinieerde sneltoetsen’</p></li>
+<li><p>klap ‘Systeem’ open en zoek de sneltoets voor ‘Toepassingenmenu openen’.</p></li>
+<li><p>gebruik deze toets. Sluit de hulp dan met <code>ENTER</code> of <code>SPATIEBALK</code>.</p></li>
+</ol></li>
+</ol></li>
+<li><p>Ga activiteiten modus in en verlaat haar onverrichter zake weer (zes keer)</p>
+<ol type="a">
+<li><p>met het toetsenbord <code>SUPER</code></p>
+<ol type="i">
+<li><p>verlaten met <code>ESC</code> of <code>SUPER</code></p></li>
+<li><p>verlaten via de knop <img src="img/activiteiten-knop.png" height="20" /></p></li>
+</ol></li>
+<li><p>met de muis <img src="img/activiteiten-knop.png" height="20" /></p>
+<ol type="i">
+<li><p>verlaten met <code>ESC</code></p></li>
+<li><p>verlaten via <code>SUPER</code></p></li>
+<li><p>verlaten via de knop <img src="img/activiteiten-knop.png" height="20" /></p></li>
+</ol></li>
+</ol></li>
+<li><p>Open de samenvatting van deze cursus:</p>
+<ol type="a">
+<li><p>druk <code>SUPER</code> in</p></li>
+<li><p>type <code>samenv</code> en <code>ENTER</code></p></li>
+<li><p>druk <code>CTRL+W</code> om haar weer te sluiten</p></li>
+</ol></li>
+<li><p>Ga applicatie modus in en verlaat haar onverrichter zake weer</p>
+<ol type="a">
+<li><p>ga binnen via <code>SUPER+A</code></p>
+<ol type="i">
+<li><p>verlaten via <code>SUPER</code></p></li>
+<li><p>verlaten via <code>ESC ESC</code></p></li>
+<li><p>verlaten via <img src="img/activiteiten-knop.png" height="20" /></p></li>
+</ol></li>
+<li><p>ga binnen via <img src="img/activiteiten-knop.png" height="20" /></p>
+<ol type="i">
+<li><p>verlaten via <code>SUPER</code></p></li>
+<li><p>verlaten via <code>ESC ESC</code></p></li>
+<li><p>verlaten via <img src="img/activiteiten-knop.png" height="20" /></p></li>
+</ol></li>
+</ol></li>
+<li><p>Ga applicatie modus binnen op een wijze naar keuze en</p>
+<ol type="a">
+<li><p>sleep firefox <img src="img/firefox-icon.png" height="20" /> naar het eerste (linker) werkblad</p></li>
+<li><p>sleep kaarten <img src="img/kaarten-icon.png" height="20" /> naar het tweede (rechter) werkblad</p></li>
+<li><p>ga naar gewone modus op een wijze naar keuze</p></li>
+<li><p>sluit beide toepassingen</p>
+<ol type="i">
+<li><p><code>ALT+F4</code> om firefox te sluiten</p></li>
+<li><p><code>SUPER+PageDown</code> om naar tweede werkblad te gaan</p></li>
+<li><p><code>ALT+F4</code> om kaarten te sluiten</p></li>
+</ol></li>
+</ol></li>
+<li><p>Open en sluit het notificatie venster</p>
+<ol type="a">
+<li><p>open met een klik op <img src="img/datum-tijdsaanduiding.png" height="20" /></p>
+<ol type="i">
+<li>sluit met een klik op <img src="img/datum-tijdsaanduiding.png" height="20" /></li>
+</ol></li>
+<li><p>open met <code>SUPER+V</code></p>
+<ol type="i">
+<li><p>sluit met <code>ESC</code></p></li>
+<li><p>sluit met <code>SUPER+V</code></p></li>
+</ol></li>
+</ol></li>
+<li><p>Open het systeemmenu en sluit haar onverrichter zake weer</p>
+<ol type="a">
+<li><p>open met klik op <img src="img/systeem-menu-gesloten.png" height="20" /></p>
+<ol type="i">
+<li>sluit met klik op <img src="img/systeem-menu-gesloten.png" height="20" /></li>
+</ol></li>
+<li><p>open met klik op <img src="img/systeem-menu-gesloten.png" height="20" /></p>
+<ol type="i">
+<li>sluit met <code>ESC</code></li>
+</ol></li>
+</ol></li>
+<li><p>Netwerk uitschakelen en opnieuw inschakelen</p>
+<ol type="a">
+<li><p>start <img src="img/firefox-icon.png" height="20" /> en ga naar <code>tldp.org</code>.</p></li>
+<li><p>open het systeemmenu</p></li>
+<li><p>klik <img src="img/ethernet-in-uit.png" height="20" />, knop wordt grijs</p></li>
+<li><p>sluit systeemmenu</p></li>
+<li><p>start <img src="img/firefox-icon.png" height="20" /> en ga naar <code>debian.org</code>, dit zal niet gaan</p></li>
+<li><p>klik <img src="img/ethernet-in-uit-grijs.png" height="20" />, knop krijgt weer kleur</p></li>
+<li><p>sluit systeemmenu</p></li>
+<li><p>ga naar <img src="img/firefox-icon.png" height="20" /> en herlaad de pagina met <code>F5</code></p></li>
+</ol></li>
+<li><p>Afmelden op twee manieren</p>
+<ol type="a">
+<li><p>met muis</p>
+<ol type="i">
+<li><p>klik op <img src="img/systeem-menu-gesloten.png" height="20" /></p></li>
+<li><p>klik op <img src="img/afsluit-menu-knop.png" height="20" /></p></li>
+<li><p>klik op “Afmelden …”</p></li>
+<li><p>annuleer in de popup</p></li>
+</ol></li>
+<li><p>met toetsenbord</p>
+<ol type="i">
+<li><p><code>SUPER afme ENTER</code></p></li>
+<li><p>annuleer in de popup door <code>SPATIEBALK</code> of <code>ESC</code></p></li>
+</ol></li>
+</ol></li>
+<li><p>Uitschakelen op drie manieren</p>
+<ol type="a">
+<li><p>met <code>ALT+CTRL+DELETE</code></p>
+<ol type="i">
+<li>annuleer in de popup met <code>ESC</code></li>
+</ol></li>
+<li><p>met muis</p>
+<ol type="i">
+<li><p>klik op <img src="img/systeem-menu-gesloten.png" height="20" /></p></li>
+<li><p>klik op <img src="img/afsluit-menu-knop.png" height="20" /></p></li>
+<li><p>klik op “Uitschakelen …”</p></li>
+<li><p>annuleer in de popup met <code>ESC</code></p></li>
+</ol></li>
+<li><p>met toetsenbord</p>
+<ol type="i">
+<li><p><code>SUPER uits ENTER</code></p></li>
+<li><p>annuleer in de popup door <code>SPATIEBALK</code> of <code>ESC</code></p></li>
+</ol></li>
+</ol></li>
+<li><p>Herstarten op twee manieren</p>
+<ol type="a">
+<li><p>met muis</p>
+<ol type="i">
+<li><p>klik op <img src="img/systeem-menu-gesloten.png" height="20" /></p></li>
+<li><p>klik op <img src="img/afsluit-menu-knop.png" height="20" /></p></li>
+<li><p>klik op “Herstarten …”</p></li>
+<li><p>annuleer in de popup met <code>ESC</code></p></li>
+</ol></li>
+<li><p>met toetsenbord</p>
+<ol type="i">
+<li><p><code>SUPER hersta ENTER</code></p></li>
+<li><p>annuleer in de popup door <code>SPATIEBALK</code> of <code>ESC</code></p></li>
+</ol></li>
+</ol></li>
+</ol>
+<h1 id="toepassingen-openen-en-afsluiten">Toepassingen openen en afsluiten</h1>
+<ol type="1">
+<li><p>Sneltoetsen toevoegen. Open sneltoetsen in de Instellingen door:</p>
+<ol type="a">
+<li><p><code>SUPER snelt ENTER</code></p></li>
+<li><p>Klik op “Sneltoetsen weergeven en aanpassen”</p></li>
+<li><p>Ken onder de afdeling “Starters” <code>SUPER+E</code> aan “Persoonlijke map”</p></li>
+<li><p>Ken onder de afdeling “Starters” <code>SUPER+C</code> aan “Rekenmachine starten”</p></li>
+<li><p>Ken onder de afdeling “Starters” <code>SUPER+I</code> aan Instellingen</p></li>
+</ol></li>
+<li><p>Aangepaste sneltoetsen toevoegen. Open sneltoetsen in de Instellingen.</p>
+<ol type="a">
+<li><p>Open de afdeling “Aangepaste sneltoets” (onderaan).</p></li>
+<li><p><code>SUPER+SHIFT+I</code> toekennen aan “Afstellingen”</p>
+<ol type="i">
+<li><p>Klik op de + onderaan</p></li>
+<li><p>Vul onder “Naam” <code>Afstellingen</code> in</p></li>
+<li><p>Vul onder “Opdracht” <code>gnome-tweaks</code> in</p></li>
+<li><p>Klik op “Sneltoets instellen” en druk <code>SUPER+SHIFT+I</code></p></li>
+</ol></li>
+<li><p>Ken <code>ALT+CTRL+T</code> toe aan de opdracht <code>gnome-terminal</code> onder de naam <code>Terminal</code>.</p></li>
+</ol></li>
+<li><p>Sneltoetsen opzoeken. Open de sneltoetsen instellingen zoals in beschreven in de eerste oefening.</p>
+<ol type="a">
+<li><p>wat is de toets voor maximaliseren</p></li>
+<li><p>wat is de toets voor herstellen</p></li>
+</ol></li>
+<li><p>Open en sluit terminal 1</p>
+<ol type="a">
+<li><p>open met <code>ALT+CTRL+T</code></p></li>
+<li><p>sluit met <code>CTRL+D</code> (betekent end of file in UNIX)</p></li>
+</ol></li>
+<li><p>Open en sluit terminal 2</p>
+<ol type="a">
+<li><p>open <code>SUPER</code>, <code>ter</code>, <code>ENTER</code></p></li>
+<li><p>sluit met <code>CTRL+D</code></p></li>
+</ol></li>
+<li><p>Open en sluit terminal 3</p>
+<ol type="a">
+<li><p>Ga in applicatie modus met <code>SUPER+A</code></p></li>
+<li><p>Klik op het terminal venster icon <img src="img/terminalvenster-icon.png" width="50" /></p></li>
+<li><p>Sluit het venster met de muis door op het kruisje rechtsboven te klikken</p></li>
+</ol></li>
+<li><p>Open en sluit terminal 4</p>
+<ol type="a">
+<li><p>Ga in applicatie modus met de muis:</p>
+<ol type="i">
+<li><p>Klik op <img src="img/activiteiten-knop.png" width="100" /></p></li>
+<li><p>Klik op de 3x3 puntjes op de dash <img src="img/3x3-puntjes-op-dash.png" width="100" /></p></li>
+</ol></li>
+<li><p>Sleep het <img src="img/terminalvenster-icon.png" width="50" /> naar het eerste werkblad</p></li>
+<li><p>Klik op <img src="img/activiteiten-knop.png" width="100" /> om applicatie modus te verlaten</p></li>
+<li><p>Klik op een willekeurige plek van het terminalvenster</p></li>
+<li><p>Sluit het terminalvenster door <code>ALT+F4</code> in te drukken</p></li>
+</ol></li>
+<li><p>Open met <code>ALT+CTRL+T</code> een terminalvenster</p>
+<ol type="a">
+<li><p>Gebruik het toepassingmenu om een extra terminalvenster te openen</p>
+<ol type="i">
+<li><p><code>SUPER+F10</code></p></li>
+<li><p><code>ENTER</code> op “Nieuw venster”</p></li>
+</ol></li>
+<li><p>Sluit het tweede terminalvenster af via het toepassingsmenu</p>
+<ol type="i">
+<li><p><code>SUPER+F10</code></p></li>
+<li><p>Gebruik de pijltjes toetsen om naar “Afsluiten” te komen</p></li>
+<li><p>Druk <code>SPATIEBALK</code></p></li>
+</ol></li>
+<li><p>Herhaal dit voor het eerste terminalvenster</p></li>
+</ol></li>
+<li><p>Open en sluit twee firefox vensters</p>
+<ol type="a">
+<li><p>Druk <code>SUPER+1</code> om firefox te openen</p></li>
+<li><p>Maak een nieuw venster aan via het toepassingsmenu</p>
+<ol type="i">
+<li><p><code>SUPER+F10</code></p></li>
+<li><p><code>ENTER</code> op “Nieuw venster”</p></li>
+</ol></li>
+<li><p>Sluit beide vensters met het toepassingsmenu</p>
+<ol type="i">
+<li><p><code>SUPER+F10</code></p></li>
+<li><p>Gebruik de pijltjes toetsen om naar “Afsluiten” te komen</p></li>
+<li><p>Druk <code>SPATIEBALK</code></p></li>
+</ol></li>
+</ol></li>
+<li><p>Open en sluit twee LibreOffice writer vensters met het bestandsmenu</p>
+<ol type="a">
+<li><p>Druk <code>SUPER+3</code></p></li>
+<li><p>Druk <code>F10</code> om de menubalk voor Writer te activeren</p></li>
+<li><p>Druk <code>PIJLTJE-OMLAAG</code></p></li>
+<li><p>Druk <code>PIJLTJE-NAAR-RECHTS</code></p></li>
+<li><p>Druk <code>SPATIEBALK</code></p></li>
+<li><p>Druk <code>F10</code> om de menubalk voor Writer te activeren</p></li>
+<li><p>Druk <code>PIJLTJE-OMHOOG</code> om snel bij “Afsluiten” te komen</p></li>
+<li><p>Druk <code>SPATIEBALK</code></p></li>
+</ol></li>
+<li><p>Open twee LibreOffice writer vensters en sluit ze één voor één</p>
+<ol type="a">
+<li><p>Druk <code>SUPER+3</code></p></li>
+<li><p>Druk <code>CTRL+N</code> om via de sneltoets voor een nieuw venster van LibreOffice een tweede venster te openen</p></li>
+<li><p>Druk <code>CTRL+W</code> om het tweede venster te sluiten</p></li>
+<li><p>Druk <code>CTRL+W</code> om het eerste venster te sluiten</p></li>
+<li><p>Druk <code>CTRL+Q</code> om LibreOffice af te sluiten</p></li>
+</ol></li>
+<li><p>Open twee LibreOffice writer vensters en sluit ze één voor één</p>
+<ol type="a">
+<li><p>Druk <code>SUPER+3</code></p></li>
+<li><p>Druk <code>CTRL+N</code> om via de sneltoets voor een nieuw venster van LibreOffice een tweede venster te openen</p></li>
+<li><p>Klik op het kruisje rechtsboven van het tweede venster</p></li>
+<li><p>Klik op het kruisje rechtsboven van het eerste venster</p></li>
+</ol></li>
+<li><p>Open en sluit een LibreOffice calc venster</p>
+<ol type="a">
+<li><p>Druk <code>SUPER spread ENTER</code></p></li>
+<li><p>Sluit met <code>ALT+F4</code></p></li>
+</ol></li>
+<li><p>Open en sluit een eenvoudige (platte) tekst editor</p>
+<ol type="a">
+<li><p>Druk <code>SUPER tekst ENTER</code></p></li>
+<li><p>Sluit met <code>ALT+F4</code></p></li>
+</ol></li>
+<li><p>Open een rekenmachine en reken 6 keer 7 uit</p>
+<ol type="a">
+<li><p>Druk <code>SUPER+C</code></p></li>
+<li><p>Druk <code>6*7 ENTER</code></p></li>
+<li><p>Sluit met <code>ALT+F4</code></p></li>
+</ol></li>
+<li><p>Reken 2 + 4 x 10 uit via het zoekvak</p>
+<ol type="a">
+<li><p>Druk <code>SUPER 2+4*10</code></p></li>
+<li><p>Druk <code>SUPER</code> om in normale modus terug te keren</p></li>
+</ol></li>
+<li><p>Open een tekst editor via applicatie modus</p>
+<ol type="a">
+<li><p>Ga met de muis naar applicatie modus (twee stappen)</p></li>
+<li><p>Klik rechts op &gt; om naar de tweede pagina te komen</p></li>
+<li><p>Klik op <img src="img/teksteditor-icon.png" width="50" /></p></li>
+<li><p>Open een tweede venster met <code>CTRL+N</code></p></li>
+<li><p>Sluit tweede venster met <code>ALT+F4</code></p></li>
+<li><p>Sluit eerste venster met <code>ALT+F4</code></p></li>
+</ol></li>
+<li><p>Open een tekst editor via applicatie modus</p>
+<ol type="a">
+<li><p>Druk <code>SUPER+A</code></p></li>
+<li><p>Druk <code>PageDown</code> om op de tweede pagina te komen</p></li>
+<li><p>Sleep <img src="img/teksteditor-icon.png" width="50" /> naar het eerste werkblad</p></li>
+<li><p>Druk tweemaal <code>ESC</code> om in normale modus te komen</p></li>
+<li><p>Sluit het venster met <code>ALT+F4</code></p></li>
+</ol></li>
+<li><p>Open en sluit twee firefox vensters met de muis</p>
+<ol type="a">
+<li><p>Ga activiteiten modus in door op <img src="img/activiteiten-knop.png" width="100" /> te klikken</p></li>
+<li><p>Klik op <img src="img/firefox-icon.png" width="50" /> op de dash</p></li>
+<li><p>Ga opnieuw activiteiten modus in door op <img src="img/activiteiten-knop.png" width="100" /> te klikken</p></li>
+<li><p>Klik met <code>CTRL</code> ingedrukt op <img src="img/firefox-icon.png" width="50" /> op de dash</p></li>
+<li><p>Verlaat activiteiten modus door op <img src="img/activiteiten-knop.png" width="100" /> te klikken</p></li>
+<li><p>Klik de beide vensters dicht door op het kruisje rechtsboven te klikken</p>
+<ol type="i">
+<li>Noem twee manieren waarop dit sluiten van beide vensters in één keer had gekunt (er zijn drie manieren)</li>
+</ol></li>
+</ol></li>
+<li><p>Som manieren waarop een toepassing, waaraan een sneltoets is toegekend, maar niet op de dash staat, kan worden gestart (vier manieren)</p></li>
+<li><p>Som manieren waarop een toepassing, waaraan een sneltoets is toegekend en op de dash staat, kan worden gestart (vijf manieren)</p></li>
+<li><p>Op welke wijzen kan een extra venster worden geopend van toepassingen (die extra vensters toestaan)? (vier manieren)</p></li>
+<li><p>Wat is de toetscombinatie waarmee een venster wordt gesloten?</p></li>
+<li><p>Wat is een gangbare toetscombinatie waarmee een toepassing wordt afgesloten?</p></li>
+<li><p>Waarom is een goed idee om toepassingen die u veel gebruikt aan de dash toe te voegen? (twee redenen) # Belangrijke toepassingen</p></li>
+</ol>
+<h2 id="firefox">Firefox</h2>
+<ol type="1">
+<li>Start Firefox met <code>SUPER+1</code>.</li>
+</ol>
+<ul>
+<li><p>ga naar de URL: <code>github.com/slspeek/beginners-cursus-linux</code>.<br />
+</p></li>
+<li><p>scroll omlaag en ga via de link naar de presentatie van de cursus.</p></li>
+<li><p>sluit de browser af met <code>CTRL+Q</code></p></li>
+</ul>
+<ol type="1">
+<li>Start Firefox.</li>
+</ol>
+<ul>
+<li><p>En ga naar <code>debian.org</code>.</p></li>
+<li><p>Open een extra tabblad met <code>CTRL+T</code>, merk op dat u gelijk het webadres kunt intypen. Ga naar <code>tldp.org</code>.</p></li>
+<li><p>Ga naar het eerste tabblad door <code>CTRL+TAB</code> in te drukken.</p></li>
+<li><p>Sluit <code>debian.org</code>, met <code>CTRL+W</code>.</p></li>
+<li><p>Sluit de browser af door het laatste tabblad te sluiten</p></li>
+</ul>
+<ol type="1">
+<li>Start Firefox met <code>SUPER+1</code></li>
+</ol>
+<ul>
+<li><p>Ga naar ‘Add-ons en thema’s’ met <code>CTRL+SHIFT+A</code> of via het hamburger menu rechtbovenin.</p></li>
+<li><p>Selecteer aan de linkerzijde pagina ‘Extensies’</p></li>
+<li><p>Type in het zoekvak <code>Adblocker for Youtube</code> en installeer deze extensie</p></li>
+<li><p>Sluit de browser af met <code>CTRL+Q</code></p></li>
+</ul>
+<h1 id="toepassingen-installeren">Toepassingen installeren</h1>
+<ol type="1">
+<li><p>Standaard applicatie wijzigen</p>
+<ol type="a">
+<li>Web naar Chromium</li>
+</ol></li>
+<li><p>Terminal als opstart toepassing toevoegen</p>
+<ol type="a">
+<li><p>zet terminal als opstart toepassing</p></li>
+<li><p>meld u af en weer aan en overtuig uzelf ervan dat de terminal toepassing is gestart</p></li>
+<li><p>verwijder terminal als opstart toepassing</p></li>
+</ol></li>
+</ol>
+<h1 id="vensters-werkbladen-en-bureaubladen">Vensters, werkbladen en bureaubladen</h1>
+<ol type="1">
+<li><p>Pas achtergrond aan:</p>
+<ol type="i">
+<li><p>Klik rechts op leeg stuk bureaublad</p></li>
+<li><p>Kies ‘Achtergrond aanpassen …’</p></li>
+</ol></li>
+<li><p>Schermbeveiliging uitschakelen</p>
+<ol type="i">
+<li><p>open ‘Scherm’ in instellingen (<code>SUPER</code>, <code>schermin</code> <code>ENTER</code>)</p></li>
+<li><p>schakel schermbeveiliging uit</p></li>
+</ol></li>
+</ol>
+<h1 id="online-accounts">Online accounts</h1>
+<ol type="1">
+<li><p>Voeg een online account toe</p></li>
+<li><p>Inspecteer de kalender</p>
+<ol type="a">
+<li><p>voeg een afspraak toe</p></li>
+<li><p>controleer op een ander medium (telefoon) dat de afspraak is gemaakt</p></li>
+<li><p>verwijder deze afspraak weer</p></li>
+</ol></li>
+<li><p>Bekijk je drive</p>
+<ol type="a">
+<li><p>maak een bestand aan in drive</p></li>
+<li><p>controleer op een ander medium dat het bestand is aangemaakt</p></li>
+<li><p>verwijder het bestand weer</p></li>
+</ol></li>
+<li><p>Verwijder je online account</p></li>
+</ol>
+<h1 id="gebruikersbeheer">Gebruikersbeheer</h1>
+<ol type="1">
+<li><p>Gebruiker toevoegen (<code>Linus</code>)</p></li>
+<li><p>Wachtwoord veranderen (<code>linus</code>)</p></li>
+<li><p>Plaatje veranderen (<code>Linus</code>)</p></li>
+<li><p>Gebruiker wisselen (Van <code>tux</code> naar <code>linus</code>)</p></li>
+<li><p>Log uit van <code>linus</code></p></li>
+</ol>
+<h1 id="bestanden">Bestanden</h1>
+<ol type="1">
+<li><p>Open bestanden (<code>SUPER+4</code>)</p>
+<ol type="a">
+<li><p>schakel tussen list view <code>CTRL+1</code> en Icon view <code>CTRL+2</code></p></li>
+<li><p>verberg linker zijpaneel <code>F9</code></p></li>
+<li><p>schakel focus tussen linker en rechter paneel met <code>F6</code></p></li>
+<li><p>toon verberg verborgen bestanden <code>CTRL+H</code></p></li>
+<li><p>toon shortcuts <code>CTRL+?</code>, schakel met <code>ALT+1</code>, <code>ALT+2</code>, <code>ALT+3</code></p></li>
+<li><p>zoeken</p>
+<ol type="i">
+<li>ga naar home directory <code>ALT+HOME</code></li>
+<li>gebruik <code>CTRL+F</code></li>
+</ol></li>
+</ol></li>
+<li><p>In en uitzoomen met plaatjes</p>
+<ol type="a">
+<li><p>in zoomen met <code>CTRL+PLUS</code></p></li>
+<li><p>uitzoomen met <code>CTRL+MINUS</code></p></li>
+<li><p>terug naar standaard met <code>CTRL+0</code></p></li>
+</ol></li>
+<li><p>Bestand aanmaken het gedit en verwijderen</p>
+<ol type="a">
+<li><p><code>SUPER</code>, <code>gedit</code>, <code>ENTER</code></p></li>
+<li><p>type je naam</p></li>
+<li><p><code>CTRL+S</code></p></li>
+<li><p>sla het op in documenten, onder naam test</p>
+<ol type="i">
+<li>type <code>Do</code></li>
+<li>druk pijltje naar beneden, en <code>ENTER</code></li>
+<li>voeg <code>Test</code> toe</li>
+<li><code>ENTER</code></li>
+</ol></li>
+</ol></li>
+</ol>
+<h1 id="speciale-tekens">Speciale tekens</h1>
+<ol type="1">
+<li><p>Euroteken invoeren</p>
+<ol type="a">
+<li><p>via speciale tekens toepassing</p></li>
+<li><p><code>Ctrl-Shift-U 20ac SPATIEBALK</code></p></li>
+</ol></li>
+<li><p>é (e accent) invoeren</p>
+<ol type="a">
+<li><p>via speciale tekens toepassing</p></li>
+<li><p><code>CTRL-SHIFT-U 00e9 SPATIEBALK</code></p></li>
+</ol></li>
+</ol>
+</body>
+</html>
