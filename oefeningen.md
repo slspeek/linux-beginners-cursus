@@ -1,6 +1,6 @@
 ---
 title: | 
-    | Oefeningen voor de Linux beginners les
+    | Oefeningen voor de Linux beginners cursus
 author: |
     | Steven Speek 
     |  \tt{slspeek@gmail.com}
@@ -442,6 +442,50 @@ Uitzondering hierop zijn de volgende speciale toetsen:
     a. Klik de beide vensters dicht door op het kruisje rechtsboven te klikken 
 
         i. Noem twee manieren waarop dit sluiten van beide vensters in één keer had gekunt (er zijn drie manieren)
+
+1. Som manieren waarop een toepassing, waaraan een sneltoets is toegekend, maar niet op de dash staat, kan worden gestart (vier manieren)
+
+1. Som manieren waarop een toepassing, waaraan een sneltoets is toegekend en op de dash staat, kan worden gestart (vijf manieren)
+
+1. Op welke wijzen kan een extra venster worden geopend van toepassingen (die extra vensters toestaan)? (vier manieren)
+
+1. Wat is de toetscombinatie waarmee een venster wordt gesloten?
+
+1. Wat is een gangbare toetscombinatie waarmee een toepassing wordt afgesloten?
+
+1. Waarom is een goed idee om toepassingen die u veel gebruikt aan de dash toe te voegen? (twee redenen)
+# Belangrijke toepassingen
+
+## Firefox
+
+1. Start Firefox met ```SUPER+1```.
+
+- ga naar de URL: ```github.com/slspeek/beginners-cursus-linux```.\
+
+- scroll omlaag en ga via de link naar de presentatie van de cursus.
+
+- sluit de browser af met ```CTRL+Q```
+
+1. Start Firefox.
+
+- En ga naar ```debian.org```. 
+
+- Open een extra tabblad met ```CTRL+T```, merk op dat u gelijk het webadres kunt intypen. Ga naar ```tldp.org```.
+
+- Ga naar het eerste tabblad door ```CTRL+TAB``` in te drukken.
+
+- Sluit ```debian.org```, met ```CTRL+W```.
+
+- Sluit de browser af door het laatste tabblad te sluiten
+
+1. Start Firefox met ```SUPER+1```
+- Ga naar 'Add-ons en thema's' met ```CTRL+SHIFT+A``` of via het hamburger menu rechtbovenin.
+
+- Selecteer aan de linkerzijde pagina 'Extensies'
+
+- Type in het zoekvak ```Adblocker for Youtube``` en installeer deze extensie
+
+- Sluit de browser af met ```CTRL+Q```
 
 
 # Toepassingen installeren

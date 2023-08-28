@@ -1,6 +1,6 @@
 ---
 title: | 
-    | Samenvatting voor de Linux beginners les
+    | Samenvatting voor de Linux beginners cursus
 author: |
     | Steven Speek 
     |  \tt{slspeek@gmail.com}
@@ -163,13 +163,13 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
 <!-- tot hier gelijk -->
 # Veel gebruikte toepassingen
 
-a.  Internet browser
+a.  Internet browser: Firefox
 
 a.  Bestandsbeheer
 
 a.  LibreOffice
 
-## Firefox
+## Internet browser: Firefox
 
 a. Belangrijkste sneltoetsen
     

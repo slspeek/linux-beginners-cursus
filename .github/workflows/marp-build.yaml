@@ -18,6 +18,15 @@ jobs:
           MARP_USER: "1001:115"
       - name: Copy images
         run: cp -r img build/presentatie
+      - uses: docker://pandoc/latex:2.9
+        with:
+          args: --standalone --from markdown samenvatting.md --to html --output=build/presentatie/samenvatting.html
+      - uses: docker://pandoc/latex:2.9
+        with:
+          args: --standalone --from markdown begrippen.md --to html --output=build/presentatie/begrippen.html
+      - uses: docker://pandoc/latex:2.9
+        with:
+          args: --standalone --from markdown oefeningen.md --to html --output=build/presentatie/oefeningen.html
       - name: Zip the offline presentatie
         run: cd build && zip -r presentatie.zip presentatie 
       - name: Deploy to github pages
@@ -26,7 +35,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build/presentatie
-      - name: Release pandoc generated pdfs
+      - name: Release presentatie.zip
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
         with:

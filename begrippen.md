@@ -34,7 +34,7 @@ Bovenbalk
 
 :	Onderdeel van de GNOME desktop. De zwarte balk aan de bovenzijde van het scherm met links activiteiten, in het midden de tijdsaanduiding en met systeemmenu rechts.
 
-![Bovenbalk](img/bovenbalk.png)
+![Bovenbalk](img/bovenbalk.png){width=90%}
 
 Dash
 
