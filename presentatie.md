@@ -493,11 +493,14 @@ __N.B.__ Niet iedere toepassing staat dit toe, bijvoorbeeld Kaarten niet.
 
 - Belangrijke sneltoetsen
 
+- Link openen op nieuw tabblad
+
 - Essentiële extensies
 
 - Hulp over Firefox
 ---
 #### Sneltoetsen voor Firefox
+
 - Nieuw tabblad openen ```CTRL+T``` 
 
 ![](img/firefox-tabblad.png)
@@ -520,11 +523,22 @@ __N.B.__ Niet iedere toepassing staat dit toe, bijvoorbeeld Kaarten niet.
 - Nieuw venster ```CTRL+N```
 
 - Afsluiten ```CTRL+Q```
+
 ---
 ##### Voorbeeld zoeken op Wikipedia
 ![width:1000px](img/firefox-zoeken-op-wikipedia.gif)
 
 ---
+#### Link openen op nieuw tabblad
+
+- Op een link klikken met ```CTRL+SHIFT``` ingedrukt opent de link op een nieuw tabblad en navigeert naar dat tabblad toe
+
+- Op een link klikken met ```CTRL``` ingedrukt opent de link op een nieuw tabblad
+---
+##### Voorbeeld link op een nieuw tabblad openen
+![width:1000px](img/firefox-openen-op-nieuw-tabblad.gif)
+---
+
 #### Essentiële extensies installeren
 
 - [Adblocker for Youtube](https://addons.mozilla.org/nl/firefox/addon/adblock-for-youtube/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) houdt alle advertentie filmpjes tegen op Youtube
@@ -538,3 +552,6 @@ gaat automatisch akkoord met alle cookies
 ##### Voorbeeld extensie installeren door te zoeken
 ![width:1000px](img/firefox-adblocker-for-youtube-installeren.gif)
 
+---
+##### Hulp openen in Firefox
+![width:1000px](img/firefox-hulp-openen.gif)

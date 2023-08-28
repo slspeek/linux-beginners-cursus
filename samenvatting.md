@@ -189,6 +189,14 @@ a. Belangrijkste sneltoetsen
 
     i. Afsluiten ```CTRL+Q```
 
+a. Links openen op een nieuw tabblad
+    
+    i. ```CTRL+SHIFT``` met muisklik opent een link op een nieuw tabblad en schakelt naar het nieuw geopende tabblad
+
+    ii. ```CTRL``` met muisklik opent een link op een nieuw tabblad
+
+    iii. Met ```CTRL+TAB``` wisselt u tussen de tabbladden. Met ```CTRL+SHIFT+TAB``` in tegengestelde richting.
+
 a. Essentiële extensies installeren
 
     i. [Adblocker for Youtube](https://addons.mozilla.org/nl/firefox/addon/adblock-for-youtube/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
@@ -205,7 +213,7 @@ a. Hulp zoeken over Firefox
 
     a.  Via Software
 
-        i.  Bladeren
+        i. Bladeren
 
         i. Zoeken (gewoon beginnen met typen van de zoekterm)
 
