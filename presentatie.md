@@ -529,11 +529,14 @@ __N.B.__ Niet iedere toepassing staat dit toe, bijvoorbeeld Kaarten niet.
 ![width:1000px](img/firefox-zoeken-op-wikipedia.gif)
 
 ---
-#### Link openen op nieuw tabblad
+#### Links openen op nieuw tabblad
 
 - Op een link klikken met ```CTRL+SHIFT``` ingedrukt opent de link op een nieuw tabblad en navigeert naar dat tabblad toe
 
 - Op een link klikken met ```CTRL``` ingedrukt opent de link op een nieuw tabblad
+
+- Met ```CTRL+TAB``` wisselt u tussen de tabbladden. Met ```CTRL+SHIFT+TAB``` in tegengestelde richting.
+
 ---
 ##### Voorbeeld link op een nieuw tabblad openen
 ![width:1000px](img/firefox-openen-op-nieuw-tabblad.gif)
