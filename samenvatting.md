@@ -201,6 +201,28 @@ a. Plaatje openen in nieuw tabblad
 
     - Klik rechts op plaatje en kies "Afbeelding openen in nieuw tabblad"
 
+a. Bladwijzers
+    
+    - Aanmaken
+
+        - ```CTRL+D```
+
+        - slepen naar Bladwijzerbalk
+    
+    - Beheren
+
+        - via hamburgermenu "Bladwijzers >" "Bladwijzers beheren"
+        
+        - ```CTRL+SHIFT+O```
+    
+    - Bladwijzerbalk
+
+        - tonen en verbergen
+
+            - via hamburgermenu "Bladwijzers >" "Bladwijzerbalk tonen/verbergen"
+
+            - ```CTRL+SHIFT+B```
+
 a. Essentiële extensies installeren
 
     i. [Adblocker for Youtube](https://addons.mozilla.org/nl/firefox/addon/adblock-for-youtube/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
