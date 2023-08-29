@@ -207,6 +207,60 @@ a. Essentiële extensies installeren
 
 a. Hulp zoeken over Firefox
 
+## Bestandsbeheerder
+
+a. Openen met
+
+    - ```SUPER+E```
+
+    - ```SUPER+4```
+
+    - ```SUPER best ENTER```
+
+    - Klikken op ![](img/bestanden-icon.png){width=30px} op de dash
+
+a. Verschillende views
+
+    - iconen ![](img/knop-icon-weergave.png){width=30px}
+
+    - lijst ![](img/knop-lijst-weergave.png){width=30px}
+
+    - wel of geen verborgen bestanden tonen (```CTRL+H```)
+
+a. Omlaag en omhoog navigeren
+
+    - omlaag navigeren door op een map te dubbelklikken
+    
+    - omhoog te navigeren door in de adresbalk op bovenliggende map te klikken
+
+        - ```ALT+PIJLTJE_OMHOOG```
+
+a. Mappen maken
+
+    - via de drie puntjes boven elkaar ![](img/persoonlijke-map-menu.png){height=20px}
+
+    - ```CTRL+SHIFT+N```
+
+a. Bestanden of mappen verplaatsen
+
+    - sleep ze naar gewenste map
+
+a. Eigenschappen van bestanden en mappen 
+
+    - klik rechts op item en kies "Eigenschappen"
+
+    - ```ALT+ENTER```
+
+a. Bladwijzer maken van map of lokatie
+
+    - Navigeer naar map
+
+        - drie puntjes menu: "Toevoegen aan bladwijzers"
+
+        - ```CTRL+D```
+
+    - Sleep map naar linkerpaneel boven "Nieuwe bladwijzer"
+    
 # Toepassingen installeren
 
 1. Installeren 
