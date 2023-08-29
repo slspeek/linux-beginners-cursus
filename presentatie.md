@@ -541,8 +541,16 @@ __N.B.__ Niet iedere toepassing staat dit toe, bijvoorbeeld Kaarten niet.
 ---
 ##### Voorbeeld link op een nieuw tabblad openen
 ![width:1000px](img/firefox-openen-op-nieuw-tabblad.gif)
----
 
+---
+#### Plaatje openen in nieuw tabblad
+
+- Klik rechts op plaatje en kies "Afbeelding openen in nieuw tabblad"
+---
+##### Voorbeeld afbeelding openen in nieuw tabblad
+![width:1000px](img/firefox-afbeelding-in-nieuw-tabblad.gif)
+
+---
 #### Essentiële extensies installeren
 
 - [Adblocker for Youtube](https://addons.mozilla.org/nl/firefox/addon/adblock-for-youtube/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) houdt alle advertentie filmpjes tegen op Youtube

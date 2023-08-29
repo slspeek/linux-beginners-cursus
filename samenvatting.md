@@ -197,6 +197,10 @@ a. Links openen op een nieuw tabblad
 
     iii. Met ```CTRL+TAB``` wisselt u tussen de tabbladden. Met ```CTRL+SHIFT+TAB``` in tegengestelde richting.
 
+a. Plaatje openen in nieuw tabblad
+
+    - Klik rechts op plaatje en kies "Afbeelding openen in nieuw tabblad"
+
 a. Essentiële extensies installeren
 
     i. [Adblocker for Youtube](https://addons.mozilla.org/nl/firefox/addon/adblock-for-youtube/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
@@ -260,7 +264,7 @@ a. Bladwijzer maken van map of lokatie
         - ```CTRL+D```
 
     - Sleep map naar linkerpaneel boven "Nieuwe bladwijzer"
-    
+
 # Toepassingen installeren
 
 1. Installeren 
