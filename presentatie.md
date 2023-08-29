@@ -5,10 +5,11 @@ theme: gaia
 # Linux beginners cursus
 ### GNOME op Debian 12
 ![height:290px](img/debian-logo.png)
-![bg right](img/qr-link-linux-beginners-cursus.png)
+![bg right width:100%](img/qr-link-linux-beginners-cursus.png)
 
 ---
 ## Onderdelen van de cursus
+1. [Thuispagina](https://github.com/slspeek/linux-beginners-cursus)
 1. Presentatie ([download presentatie voor offline gebruik](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/presentatie.zip))
 1. [Samenvatting](samenvatting.html) [PDF versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/samenvatting.pdf)
 1. [Oefeningen](oefeningen.html) [PDF versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/oefeningen.pdf)
