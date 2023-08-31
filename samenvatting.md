@@ -207,11 +207,24 @@ a. Bladwijzers
 
         - ```CTRL+D```
 
-        - slepen naar Bladwijzerbalk
-    
-    - Beheren
+        - via hamburgermenu ![](img/firefox-hamburgermenu.png){width=30px}, "Bladwijzers >", "Bladwijzer toevoegen"
 
-        - via hamburgermenu "Bladwijzers >" "Bladwijzers beheren"
+        - ![](img/firefox-slotje.png){width=30px} slepen naar Bladwijzerbalk
+
+        - klikken op ster ![](img/firefox-bladwijzer-ster-leeg.png){width=30px} rechts van het adres in de adresbalk
+    
+    - Verwijderen
+
+        - Klik op blauwe ster ![](img/firefox-bladwijzer-ster-blauw.png){width=30px} als u op die pagina bent, kies op de popup
+        "Bladwijzer verwijderen"
+
+        - Via bladwijzers beheren
+
+        - Rechtsklikken op bladwijzer op bladwijzerbalk en "Bladwijzer verwijderen" kiezen
+    
+    - Beheren 
+
+        - via hamburgermenu ![](img/firefox-hamburgermenu.png){width=30px} "Bladwijzers >" "Bladwijzers beheren"
         
         - ```CTRL+SHIFT+O```
     
@@ -219,9 +232,13 @@ a. Bladwijzers
 
         - tonen en verbergen
 
-            - via hamburgermenu "Bladwijzers >" "Bladwijzerbalk tonen/verbergen"
+            - via hamburgermenu ![](img/firefox-hamburgermenu.png){width=30px} "Bladwijzers >" "Bladwijzerbalk tonen/verbergen"
 
             - ```CTRL+SHIFT+B```
+
+    - Bladwijzers groeperen in mappen
+
+        - Via bladwijzers beheren ```CTRL+SHIFT+O```
 
 a. Essentiële extensies installeren
 
@@ -232,6 +249,8 @@ a. Essentiële extensies installeren
     i. [I don't care about cookies](https://addons.mozilla.org/nl/firefox/addon/i-dont-care-about-cookies/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
 a. Hulp zoeken over Firefox
+
+    - Via hamburgermenu ![](img/firefox-hamburgermenu.png){width=30px} "Help >", "Hulp verkrijgen"
 
 ## Bestandsbeheerder
 
@@ -247,11 +266,11 @@ a. Openen met
 
 a. Verschillende views
 
-    - iconen ![](img/knop-icon-weergave.png){width=30px}
+    - rasterweergave ![](img/knop-icon-weergave.png){width=30px} ```CTRL+2```
 
-    - lijst ![](img/knop-lijst-weergave.png){width=30px}
+    - lijstweergave ![](img/knop-lijst-weergave.png){width=30px} ```CTRL+1```
 
-    - wel of geen verborgen bestanden tonen (```CTRL+H```)
+    - wel of geen verborgen bestanden tonen ```CTRL+H```
 
 a. Omlaag en omhoog navigeren
 
