@@ -1,6 +1,5 @@
 ---
-title: | 
-    | Samenvatting voor de Linux beginners cursus
+title:  Samenvatting voor de Linux beginners cursus
 author: |
     | Steven Speek 
     |  \tt{slspeek@gmail.com}

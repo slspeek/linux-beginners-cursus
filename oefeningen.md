@@ -1,6 +1,5 @@
 ---
-title: | 
-    | Oefeningen voor de Linux beginners cursus
+title: Oefeningen voor de Linux beginners cursus
 author: |
     | Steven Speek 
     |  \tt{slspeek@gmail.com}
@@ -461,7 +460,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
 1. Start Firefox met ```SUPER+1```.
 
-    - ga naar de URL: ```github.com/slspeek/beginners-cursus-linux```.\
+    - ga naar de URL: ```github.com/slspeek/beginners-cursus-linux```.
 
     - scroll omlaag en ga via de link naar de presentatie van de cursus.
 
@@ -479,11 +478,34 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     - sluit de browser af door het laatste tabblad te sluiten
 
+1. Start Firefox met ```SUPER+1```.
+
+    - ga naar de URL: ```github.com/slspeek/beginners-cursus-linux```
+
+    - scroll naar "Onderdelen"
+
+    - op de Samenvatting en Oefeningen op een apart tabblad (en blijf op de eerste pagina)
+
+    - gebruik ```CTRL+TAB``` om de twee nieuwe pagina's te bekijken
+
+    - sluit de browser af met ```CTRL+Q```
+    
+1. Start Firefox met ```SUPER+1```.
+
+    - ga naar de URL: ```slspeek.github.io/linux-beginners-cursus/#14```
+
+    - klik rechts in de animatie en kies "Afbeelding openen in nieuw tabblad"
+
+    - bekijk grotere animatie
+
+    - sluit de browser af met ```CTRL+Q```
+
+
 1. Start Firefox met ```SUPER+1```
 
     - ga naar 'Add-ons en thema's' met ```CTRL+SHIFT+A``` of via het hamburger menu rechtbovenin.
 
-    - selecteer aan de linkerzijde pagina 'Extensies'
+    - selecteer aan de linkerzijde van de pagina 'Extensies'
 
     - type in het zoekvak ```Adblocker for Youtube``` en installeer deze extensie
 
@@ -491,7 +513,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
 1. Start Firefox met ```SUPER+1```
 
-    - ga via het hamburgermenu rechtsboven naar 'Hulp' en dan naar 'Hulp verkrijgen'/
+    - ga via het hamburgermenu rechtsboven naar 'Hulp' en dan naar 'Hulp verkrijgen'
 
     - type ```navigatiegeschiedenis```
 
@@ -511,17 +533,6 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     - sluit de browser af met ```CTRL+Q```
 
-1. Start Firefox met ```SUPER+1```.
-
-    - ga naar de URL: ```github.com/slspeek/beginners-cursus-linux```
-
-    - scroll naar "Onderdelen"
-
-    - op de Samenvatting en Oefeningen op een apart tabblad (en blijf op de eerste pagina)
-
-    - gebruik ```CTRL+TAB``` om de twee nieuwe pagina's te bekijken
-
-    
 # Toepassingen installeren
 
 1.  Standaard applicatie wijzigen

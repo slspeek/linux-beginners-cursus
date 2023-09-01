@@ -1,6 +1,7 @@
 ---
 marp: true
 theme: gaia
+title: Linux beginners cursus
 ---
 # Linux beginners cursus
 ### GNOME op Debian 12
