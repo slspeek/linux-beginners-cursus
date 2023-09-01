@@ -460,7 +460,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
 1. Start Firefox met ```SUPER+1```.
 
-    - ga naar de URL: ```github.com/slspeek/beginners-cursus-linux```.
+    - ga naar de URL: ```github.com/slspeek/linux-beginners-cursus```.
 
     - scroll omlaag en ga via de link naar de presentatie van de cursus.
 
@@ -480,7 +480,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
 1. Start Firefox met ```SUPER+1```.
 
-    - ga naar de URL: ```github.com/slspeek/beginners-cursus-linux```
+    - ga naar de URL: ```github.com/slspeek/linux-beginners-cursus```
 
     - scroll naar "Onderdelen"
 
@@ -502,7 +502,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
 1. Start Firefox met ```SUPER+1```.
 
-    - ga naar de URL: ```github.com/slspeek/beginners-cursus-linux```
+    - ga naar de URL: ```github.com/slspeek/linux-beginners-cursus```
 
     - maak een bladwijzer met ```CTRL+D```
 
@@ -510,7 +510,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
 1. Start Firefox met ```SUPER+1```.
 
-    - ga met behulp van de bladwijzer naar de URL: ```github.com/slspeek/beginners-cursus-linux```
+    - ga met behulp van de bladwijzer naar de URL: ```github.com/slspeek/linux-beginners-cursus```
 
         - maak bladwijzerbalk zichtbaar met ```CTRL+SHIFT+B``` als deze verborgen is
     
@@ -518,7 +518,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     - klik op de link "Presentatie"
     
-    - maak een bladwijzer door rechts op ![](img/firefox-bladwijzer-ster-leeg.png) te klikken
+    - maak een bladwijzer door rechts op ![](img/firefox-bladwijzer-ster-leeg.png){width=30px} te klikken
 
     - sluit de browser af met ```CTRL+Q```
 
@@ -530,10 +530,45 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     - klik met op "Samenvatting"
 
-    - maak een bladwijzer door ![](img/firefox-slotje.png) naar de bladwijzerbalk te slepen
+    - maak een bladwijzer door ![](img/firefox-slotje.png){width=30px} naar de bladwijzerbalk te slepen
 
     - sluit de browser af met ```CTRL+Q```
-    
+
+1. Start Firefox met ```SUPER+1```.
+
+    - maak door rechts te klikken op de bladwijzerbalk en "Map toevoegen ..." te kiezen een map "cursus" aan
+
+    - sleep de drie bladwijzers over de cursus naar deze map
+
+    - en order ze zo dat het resultaat er zo uitziet:
+    ![](img/firefox-bladwijzer-map-cursus-3-items.png){height=100px}
+
+    - sluit de browser af met ```CTRL+Q```
+
+1. Start Firefox met ```SUPER+1```.
+
+    - ga met behulp van de bladwijzer naar de "Presentatie" van de cursus
+
+    - ga naar de tweede pagina
+
+    - klik met ```CTRL``` ingedrukt op "Oefeningen" en "Begrippenlijst"
+
+    - breng met behulp van ```CTRL+TAB``` de tabbladen 1 voor 1 naar voren en sleep ![](img/firefox-slotje.png){width=30px} naar de map "cursus" op de bladwijzerbalk
+
+1. Start Firefox met ```SUPER+1```
+
+    - ga naar ```kernel.org```
+
+    - maak een bladwijzer met ```CTRL+D```
+
+    - ga naar "Bladwijzers beheren" met ```CTRL+SHIFT+O```
+
+    - verwijder de bladwijzer naar ```kernel.org```
+
+    - sluit de browser af met ```CTRL+Q```
+
+1. Noem drie manieren waarop je een bladwijzer in Firefox kunt maken.
+
 1. Start Firefox met ```SUPER+1```
 
     - ga naar 'Add-ons en thema's' met ```CTRL+SHIFT+A``` of via het hamburger menu rechtbovenin.
@@ -546,7 +581,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
 1. Start Firefox met ```SUPER+1```.
 
-    - ga naar de URL: ```slspeek.github.io/beginners-cursus-linux/samenvatting.html```.
+    - ga naar de URL: ```slspeek.github.io/linux-beginners-cursus/samenvatting.html```.
 
     - scroll omlaag naar "Internet browser: Firefox" en dan naar "Essentiële extensies installeren", klik op de link van "I don't care about cookies"
 
