@@ -500,7 +500,40 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     - sluit de browser af met ```CTRL+Q```
 
+1. Start Firefox met ```SUPER+1```.
 
+    - ga naar de URL: ```github.com/slspeek/beginners-cursus-linux```
+
+    - maak een bladwijzer met ```CTRL+D```
+
+    - sluit de browser af met ```CTRL+Q```
+
+1. Start Firefox met ```SUPER+1```.
+
+    - ga met behulp van de bladwijzer naar de URL: ```github.com/slspeek/beginners-cursus-linux```
+
+        - maak bladwijzerbalk zichtbaar met ```CTRL+SHIFT+B``` als deze verborgen is
+    
+    - scroll naar beneden naar de README naar "Onderdelen"
+
+    - klik op de link "Presentatie"
+    
+    - maak een bladwijzer door rechts op ![](img/firefox-bladwijzer-ster-leeg.png) te klikken
+
+    - sluit de browser af met ```CTRL+Q```
+
+1. Start Firefox met ```SUPER+1```.
+
+    - ga met behulp van de bladwijzer naar de "Presentatie" van de cursus
+
+    - ga naar de tweede pagina
+
+    - klik met op "Samenvatting"
+
+    - maak een bladwijzer door ![](img/firefox-slotje.png) naar de bladwijzerbalk te slepen
+
+    - sluit de browser af met ```CTRL+Q```
+    
 1. Start Firefox met ```SUPER+1```
 
     - ga naar 'Add-ons en thema's' met ```CTRL+SHIFT+A``` of via het hamburger menu rechtbovenin.
@@ -508,16 +541,6 @@ Uitzondering hierop zijn de volgende speciale toetsen:
     - selecteer aan de linkerzijde van de pagina 'Extensies'
 
     - type in het zoekvak ```Adblocker for Youtube``` en installeer deze extensie
-
-    - sluit de browser af met ```CTRL+Q```
-
-1. Start Firefox met ```SUPER+1```
-
-    - ga via het hamburgermenu rechtsboven naar 'Hulp' en dan naar 'Hulp verkrijgen'
-
-    - type ```navigatiegeschiedenis```
-
-    - wat betekent geschiedenis in Firefox?
 
     - sluit de browser af met ```CTRL+Q```
 
@@ -530,6 +553,16 @@ Uitzondering hierop zijn de volgende speciale toetsen:
     - klik op de knop "Toevoegen aan Firefox"
 
     - ga na met ```CTRL+SHIFT+A``` (Add-ons) of de extensie is geïnstalleerd
+
+    - sluit de browser af met ```CTRL+Q```
+
+1. Start Firefox met ```SUPER+1```
+
+    - ga via het hamburgermenu rechtsboven naar 'Hulp' en dan naar 'Hulp verkrijgen'
+
+    - type ```navigatiegeschiedenis```
+
+    - wat betekent geschiedenis in Firefox?
 
     - sluit de browser af met ```CTRL+Q```
 
