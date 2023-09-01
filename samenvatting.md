@@ -239,6 +239,8 @@ a. Bladwijzers
 
         - Via bladwijzers beheren ```CTRL+SHIFT+O```
 
+        - Via slepen op de bladwijzerbalk
+
 a. Essentiële extensies installeren
 
     i. [Adblocker for Youtube](https://addons.mozilla.org/nl/firefox/addon/adblock-for-youtube/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
@@ -304,6 +306,10 @@ a. Bladwijzer maken van map of lokatie
         - ```CTRL+D```
 
     - Sleep map naar linkerpaneel boven "Nieuwe bladwijzer"
+
+    - Verwijderen door rechts te klikken op de bladwijzer in het linkerpaneel
+    en "Verwijderen uit bladwijzers" in het popup menu te kiezen
+
 
 # Toepassingen installeren
 

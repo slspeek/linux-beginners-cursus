@@ -552,6 +552,95 @@ __N.B.__ Niet iedere toepassing staat dit toe, bijvoorbeeld Kaarten niet.
 ![width:1000px](img/firefox-afbeelding-in-nieuw-tabblad.gif)
 
 ---
+#### Bladwijzers in Firefox ![width:50px](img/firefox-bladwijzer-ster-blauw.png)
+
+- Aanmaken
+
+- Verwijderen
+
+- Bladwijzers beheren
+
+- Bladwijzerbalk
+
+- Bladwijzers organiseren in mappen
+---
+##### Bladwijzer aanmaken in Firefox
+
+- ```CTRL+D```
+
+- via hamburgermenu ![width:50px](img/firefox-hamburgermenu.png), "Bladwijzers >", "Bladwijzer toevoegen"
+
+- ![width:50px](img/firefox-slotje.png) slepen naar Bladwijzerbalk
+
+- klikken op ster ![width:50px](img/firefox-bladwijzer-ster-leeg.png) rechts van het adres in de adresbalk
+---
+###### Voorbeeld bladwijzer aanmaken via de menu's
+![width:1000px](img/firefox-bladwijzer-maken-via-menu.gif)
+
+---
+###### Voorbeeld bladwijzer aanmaken door ![width:50px](img/firefox-slotje.png) te slepen 
+![width:1000px](img/firefox-bladwijzer-maken-slepen.gif)
+
+---
+###### Voorbeeld bladwijzer aanmaken door op ![width:50px](img/firefox-bladwijzer-ster-leeg.png) te klikken
+![width:1000px](img/firefox-bladwijzer-maken-met-ster.gif)
+
+---
+##### Bladwijzer verwijderen in Firefox
+
+- Klik op blauwe ster ![width:50px](img/firefox-bladwijzer-ster-blauw.png) als u op die pagina bent, kies op de popup "Bladwijzer verwijderen"
+
+- Via bladwijzers beheren
+
+- Rechtsklikken op bladwijzer op bladwijzerbalk en "Bladwijzer verwijderen" kiezen
+
+---
+###### Voorbeeld bladwijzer verwijderen door rechts te klikken op bladwijzerbalk
+![width:1000px](img/firefox-bladwijzer-verwijderen-uit-map.gif)
+
+---
+##### Bladwijzers beheren in Firefox
+
+- origaniseren van bladwijzers
+
+    - verwijderen
+
+    - ordenen in mappen
+
+- te bereiken met 
+    - hamburgermenu ![width:50px](img/firefox-hamburgermenu.png) "Bladwijzers >" "Bladwijzers beheren"
+
+    - ```CTRL+SHIFT+O```
+
+---
+###### Voorbeeld bladwijzers beheren, een bladwijzer verwijderen
+![width:1000px](img/firefox-bladwijzers-beheren-verwijderen.gif)
+
+---
+##### Bladwijzerbalk
+
+- tonen en verbergen
+
+    - via hamburgermenu ![width:50px](img/firefox-hamburgermenu.png) "Bladwijzers >" "Bladwijzerbalk tonen/verbergen"
+
+    - ```CTRL+SHIFT+B```
+
+---
+###### Voorbeeld bladwijzerbalk tonen en verbergen
+![width:1000px](img/firefox-bladwijzerbalk-verbergen-tonen.gif)
+
+---
+##### Bladwijzers groeperen in mappen
+
+- Via bladwijzers beheren ```CTRL+SHIFT+O```
+
+- Via slepen op de bladwijzerbalk
+
+---
+###### Voorbeeld bladwijzers groeperen op de bladwijzerbalk
+![width:1000px](img/firefox-bladwijzermap-maken-slepen.gif)
+
+---
 #### Essentiële extensies installeren
 
 - [Adblocker for Youtube](https://addons.mozilla.org/nl/firefox/addon/adblock-for-youtube/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) houdt alle advertentie filmpjes tegen op Youtube

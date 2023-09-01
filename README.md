@@ -3,7 +3,7 @@ Rondleiding langs de standaard window manager [GNOME 43.6](https://help.gnome.or
 cursus werkt uitsluitend met de graphische interface.
 
 ## Publiek
-Deze cursus is bedoeld voor mensen die zelfstandig hun Windows of Mac computer kunnen bedienen.
+Deze cursus is bedoeld voor mensen die zelfstandig hun Windows of Mac computer kunnen gebruiken.
 
 ## Onderdelen
 1. [Presentatie](https://slspeek.github.io/linux-beginners-cursus) ([download presentatie voor offline gebruik](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/presentatie.zip))

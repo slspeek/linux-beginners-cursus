@@ -567,7 +567,9 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     - sluit de browser af met ```CTRL+Q```
 
-1. Noem drie manieren waarop je een bladwijzer in Firefox kunt maken.
+1. Noem drie manieren waarop je een bladwijzer in Firefox kunt maken (er zijn er vier).
+
+1. Noem drie manieren waarop je een bladwijzer in Firefox kunt verwijderen.
 
 1. Start Firefox met ```SUPER+1```
 
