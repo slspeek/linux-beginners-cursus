@@ -603,6 +603,10 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     - sluit de browser af met ```CTRL+Q```
 
+## Bestandsbeheerder
+
+1. Waarvoor hebt u een bestandsbeheerder nodig (noem vier redenen)? 
+
 # Toepassingen installeren
 
 1.  Standaard applicatie wijzigen

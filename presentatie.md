@@ -657,3 +657,217 @@ gaat automatisch akkoord met alle cookies
 ---
 ##### Hulp openen in Firefox
 ![width:1000px](img/firefox-hulp-openen.gif)
+
+---
+### Bestandsbeheer ![width=50px](img/bestanden-icon.png)
+- Wat kunt u met de bestandsbeheerder?
+
+- Openen
+
+- Verschillende views
+
+- Navigeren
+
+- Mappen maken
+
+- Bestanden of mappen verplaatsen
+
+- Eigenschappen van bestanden en mappen 
+---
+### Bestandsbeheer ![width=50px](img/bestanden-icon.png) vervolg
+
+- Zoeken van mappen of bestanden
+    
+- Bladwijzer maken van map of lokatie
+
+- Bestanden inpakken en uitpakken
+
+---
+#### Wat kunt u met de bestandsbeheerder?
+
+- inhoud van map bekijken
+
+- bestanden of mappen verplaatsen of kopiëren
+
+- zoeken in bestanden
+
+- archieven aanmaken, inzien en uitpakken
+
+---
+#### Openen en sluiten van de bestandsbeheerder
+
+- Openen
+
+    - ```SUPER+E```, ```SUPER+4``` of ```SUPER best ENTER```
+
+    - klikken op ![width:50px](img/bestanden-icon.png) op de dash
+
+    - extra venster ```CTRL+N```    
+
+- Sluiten
+
+    - ```CTRL+W``` of ```ALT+F4``` om een venster te sluiten
+
+    - ```CTRL+Q``` af te sluiten (alle vensters sluiten)
+
+---
+#### Verschillende views
+
+- rasterweergave ![width:50px](img/knop-icon-weergave.png) ```CTRL+2```
+
+- lijstweergave ![width:50px](img/knop-lijst-weergave.png) ```CTRL+1```
+
+- wel of geen verborgen bestanden tonen ```CTRL+H```
+
+---
+##### Voorbeeld wisselen tussen raster- en lijstweergave
+
+![width:1000px](img/bestanden-wisselen-raster-lijst.gif)
+
+---
+##### Voorbeeld wel of geen verborgen bestanden tonen
+
+![width:1000px](img/bestanden-wel-niet-verborgen.gif)
+
+---
+#### Omlaag en omhoog navigeren
+
+- omlaag navigeren door op een map te dubbelklikken
+
+- omhoog te navigeren door in de adresbalk op bovenliggende map te klikken
+
+    - ```ALT+PIJLTJE_OMHOOG```
+---
+##### Voorbeeld navigeren in Afbeeldingen map
+
+![width:1000px](img/bestanden-omlaag-omhoog-navigeren.gif)
+
+---
+#### Mappen maken
+
+- via de drie puntjes boven elkaar ![](img/persoonlijke-map-menu.png)
+
+- ```CTRL+SHIFT+N```
+
+---
+#### Bestanden of mappen verplaatsen
+
+- sleep ze naar gewenste map
+
+- knippen ```CTRL+X``` en plakken ```CTRL+V```
+
+---
+##### Voorbeeld bloemen organiseren
+
+![width:1000px](img/bestanden-mappen-maken-en-slepen.gif)
+---
+#### Eigenschappen van bestanden en mappen 
+
+- klik rechts op item en kies "Eigenschappen"
+
+- ```ALT+ENTER```
+
+---
+##### Voorbeeld eigenschappen van een map
+
+![width:1000px](img/bestanden-mapeigenschappen.gif)
+
+---
+##### Voorbeeld afbeeldingseigenschappen
+
+![width:1000px](img/bestanden-afbeeldingseigenschappen.gif)
+
+---
+#### Zoeken van mappen of bestanden
+
+- klik op ![width:50px](img/bestanden-vergrootglas.png)
+
+- ```CTRL+F```
+
+---
+##### Voorbeeld zoeken in document
+
+- opzoeken Trechterbekercultuur op Wikipedia
+
+- pagina als pdf opslaan in "Documenten"
+
+- bestandsbeheerder openen
+
+- zoeken naar "neolithische"
+---
+##### Voorbeeld zoeken in document
+
+![width:1000px](img/bestanden-zoek-in-inhoud.gif)
+
+---
+#### Bladwijzer maken van map of lokatie
+
+- Navigeer naar map
+
+    - drie puntjes menu: "Toevoegen aan bladwijzers"
+
+    - ```CTRL+D```
+
+- Sleep map naar linkerpaneel boven "Nieuwe bladwijzer"
+
+- Verwijderen door rechts te klikken op de bladwijzer in het linkerpaneel
+en "Verwijderen uit bladwijzers" in het popup menu te kiezen
+
+---
+##### Voorbeeld bladwijzer maken met menuoptie
+
+![width:1000px](img/bestanden-bladwijzer-via-menu.gif)
+
+---
+##### Voorbeeld bladwijzer maken door te slepen
+
+![width:1000px](img/bestanden-bladwijzer-slepen.gif)
+
+---
+#### Bestanden inpakken en uitpakken
+
+- Bestanden inpakken
+
+    - meerdere bestanden en of mappen in één archief bestand opslaan
+
+    - klik rechts op map, bestand of bestandsselectie en kies "Inpakken ..."
+        
+        - geef een archief naam op
+
+        - klik op "Maken"
+
+---
+##### Voorbeeld archief aanmaken
+
+![width:1000px](img/bestanden-inpakken.gif)
+
+---
+- Archief bestand uitpakken
+
+    1. Klik rechts op zip archief en kies "Uitpakken naar ..."
+
+        - kies een map waarheen het archief moet worden uitgepakt
+
+        - bevestig dit door op "Selecteren" te klikken
+
+
+    1. Klik rechts op zip archief en kies "Uitpakken". Dit pakt het archief uit in de map waar het archief staat.
+
+---
+##### Voorbeeld archief uitpakken naar ...
+
+![width:1000px](img/bestanden-uitpakken-naar.gif)
+
+---
+##### Voorbeeld archief uitpakken
+
+![width:1000px](img/bestanden-uitpakken.gif)
+
+---
+#### Archief bestand inzien
+
+- dubbelklik zip bestand
+---
+##### Voorbeeld inzien archief
+
+![width:1000px](img/bestanden-inzien-archief.gif)k

@@ -261,7 +261,9 @@ a. Wat kunt u met de bestandsbeheerder?
 
     - bestanden of mappen verplaatsen of kopiëren
 
-    - zoeken op bestandsnaam
+    - zoeken in bestanden
+
+    - archieven aanmaken, inzien en uitpakken
 
 a. Openen met
 
@@ -340,14 +342,6 @@ a. Bestanden inpakken en uitpakken
 
     - Archief bestand uitpakken
 
-        1. Dubbelklik zip archief om toepassing "Archiefbeheer" op dit archief te openen
-
-            - klik "Uitpakken"
-
-            - kies een map waarheen het archief moet worden uitgepakt
-
-            - bevestig dit door op "Selecteren" te klikken
-
         1. Klik rechts op zip archief en kies "Uitpakken naar ..."
 
             - kies een map waarheen het archief moet worden uitgepakt
@@ -355,6 +349,12 @@ a. Bestanden inpakken en uitpakken
             - bevestig dit door op "Uitpakken" te klikken
 
             - geef aan of u wel of niet de uitgepakte bestanden in de bestandsbeheerder wenst te zien
+
+        1. Klik rechts op zip archief en kies "Uitpakken". Dit pakt het archief uit in de map waar het archief staat.
+    
+    - Archief bestand inzien
+
+        - dubbelklik zip bestand
 
 # Toepassingen installeren
 
