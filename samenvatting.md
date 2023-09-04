@@ -310,6 +310,35 @@ a. Bladwijzer maken van map of lokatie
     - Verwijderen door rechts te klikken op de bladwijzer in het linkerpaneel
     en "Verwijderen uit bladwijzers" in het popup menu te kiezen
 
+a. Bestanden inpakken en uitpakken
+
+    - Bestanden inpakken
+
+        - meerdere bestanden en of mappen in één archief bestand opslaan
+
+        - klik rechts op map, bestand of bestandsselectie en kies "Inpakken ..."
+            
+            - geef een archief naam op
+
+            - klik op "Maken"
+
+    - Archief bestand uitpakken
+
+        1. Dubbelklik zip archief om toepassing "Archiefbeheer" op dit archief te openen
+
+            - klik "Uitpakken"
+
+            - kies een map waarheen het archief moet worden uitgepakt
+
+            - bevestig dit door op "Selecteren" te klikken
+
+        1. Klik rechts op zip archief en kies "Uitpakken naar ..."
+
+            - kies een map waarheen het archief moet worden uitgepakt
+
+            - bevestig dit door op "Uitpakken" te klikken
+
+            - geef aan of u wel of niet de uitgepakte bestanden in de bestandsbeheerder wenst te zien
 
 # Toepassingen installeren
 
