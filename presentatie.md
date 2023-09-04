@@ -870,4 +870,4 @@ en "Verwijderen uit bladwijzers" in het popup menu te kiezen
 ---
 ##### Voorbeeld inzien archief
 
-![width:1000px](img/bestanden-inzien-archief.gif)k
+![width:1000px](img/bestanden-inzien-archief.gif)
