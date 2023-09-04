@@ -255,6 +255,14 @@ a. Hulp zoeken over Firefox
 
 ## Bestandsbeheerder
 
+a. Wat kunt u met de bestandsbeheerder?
+
+    - inhoud van map bekijken
+
+    - bestanden of mappen verplaatsen of kopiëren
+
+    - zoeken op bestandsnaam
+
 a. Openen met
 
     - ```SUPER+E```
@@ -264,6 +272,8 @@ a. Openen met
     - ```SUPER best ENTER```
 
     - Klikken op ![](img/bestanden-icon.png){width=30px} op de dash
+
+    - extra venster ```CTRL+N```
 
 a. Verschillende views
 
@@ -297,6 +307,12 @@ a. Eigenschappen van bestanden en mappen
 
     - ```ALT+ENTER```
 
+a. Zoeken van mappen of bestanden
+
+    - klik op ![](img/bestanden-vergrootglas.png){width=30px}
+
+    - ```CTRL+F```
+    
 a. Bladwijzer maken van map of lokatie
 
     - Navigeer naar map
