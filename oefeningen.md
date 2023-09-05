@@ -14,19 +14,19 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 # Rondleiding GNOME
 1.  Aanmelden en afmelden
 
-    a.  meld u aan met het account (gebruikersnaam=```tux```, wachtwoord=```tux```)
+    a.  Meld u aan met het account (gebruikersnaam=```tux```, wachtwoord=```tux```)
 
-    a.  afmelden 
+    a.  Afmelden 
 
-        i. klik op ![](img/systeem-menu-gesloten.png){height=20px} 
+        i. Klik op ![](img/systeem-menu-gesloten.png){height=20px} 
 
-        i. klik op ![](img/afsluit-menu-knop.png){height=20px}
+        i. Klik op ![](img/afsluit-menu-knop.png){height=20px}
 
-        i. klik op "Afmelden ..."
+        i. Klik op "Afmelden ..."
 
-        i. bevestig in de popup
+        i. Bevestig in de popup
 
-        i. log opnieuw aan
+        i. Log opnieuw aan
 
 1.  Schermbeveiliging activeren
 
@@ -36,89 +36,89 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
 1.  Hulp openen en sluiten 1
 
-    a.  open hulp met ```SUPER+F1```
+    a.  Open hulp met ```SUPER+F1```
     
-    a.  sluit Hulp met ```ALT+F4```
+    a.  Sluit Hulp met ```ALT+F4```
 
 1.  Hulp openen en sluiten 2
 
-    a.  open hulp met ```SUPER+6```
+    a.  Open hulp met ```SUPER+6```
 
-    a.  sluit Hulp met kruisje rechtsboven
+    a.  Sluit Hulp met kruisje rechtsboven
 
 1.  Hulp openen en sluiten 3
 
-    a.  open Hulp met ```SUPER```, type ```hulp``` en druk ```ENTER```
+    a.  Open Hulp met ```SUPER```, type ```hulp``` en druk ```ENTER```
 
-    a.  sluit de hulp met ```CTRL+W```
+    a.  Sluit de hulp met ```CTRL+W```
 
 1.  Hulp openen en sluiten 4 (moeilijk)
 
-    a.  open de hulp door op ```SUPER``` te drukken, en dan op het reddingsboei
+    a.  Open de hulp door op ```SUPER``` te drukken, en dan op het reddingsboei
         symbool op de dash te klikken
 
-    a.  gebruik ```CTRL-S``` en zoek op 'sneltoetsen', ga naar 'Sneltoetsen
+    a.  Gebruik ```CTRL-S``` en zoek op 'sneltoetsen', ga naar 'Sneltoetsen
         > instellen'
 
-        i.  ga naar beneden naar 'Vooraf gedefinieerde sneltoetsen'
+        i.  Ga naar beneden naar 'Vooraf gedefinieerde sneltoetsen'
 
-        i.  klap 'Systeem' open en zoek de sneltoets voor
+        i.  Klap 'Systeem' open en zoek de sneltoets voor
             'Toepassingenmenu openen'.
 
-        i.  gebruik deze toets. Sluit de hulp dan met ```ENTER``` of
+        i.  Gebruik deze toets. Sluit de hulp dan met ```ENTER``` of
              ```SPATIEBALK```.
 
 1. Ga activiteiten modus in en verlaat haar onverrichter zake weer (zes keer)
 
-    a. met het toetsenbord ```SUPER```
+    a. Met het toetsenbord ```SUPER```
         
-        i. verlaten met ```ESC``` of ```SUPER```
+        i. Verlaten met ```ESC``` of ```SUPER```
 
-        i. verlaten via de knop ![](img/activiteiten-knop.png){height=20px}
+        i. Verlaten via de knop ![](img/activiteiten-knop.png){height=20px}
 
-    a. met de muis ![](img/activiteiten-knop.png){height=20px}
+    a. Met de muis ![](img/activiteiten-knop.png){height=20px}
 
-        i. verlaten met ```ESC```
+        i. Verlaten met ```ESC```
         
-        i. verlaten via ```SUPER```
+        i. Verlaten via ```SUPER```
 
-        i. verlaten via de knop ![](img/activiteiten-knop.png){height=20px}
+        i. Verlaten via de knop ![](img/activiteiten-knop.png){height=20px}
 
 1. Open de samenvatting van deze cursus:
     
-    a. druk ```SUPER``` in
+    a. Druk ```SUPER``` in
 
-    a. type ```samenv``` en ```ENTER```
+    a. Type ```samenv``` en ```ENTER```
 
-    a. druk ```CTRL+W``` om haar weer te sluiten
+    a. Druk ```CTRL+W``` om haar weer te sluiten
 
 1. Ga applicatie modus in en verlaat haar onverrichter zake weer
     
-    a. ga binnen via ```SUPER+A```
+    a. Ga binnen via ```SUPER+A```
 
-        i. verlaten via ```SUPER```
+        i. Verlaten via ```SUPER```
 
-        i. verlaten via ```ESC ESC```
+        i. Verlaten via ```ESC ESC```
 
-        i. verlaten via ![](img/activiteiten-knop.png){height=20px}
+        i. Verlaten via ![](img/activiteiten-knop.png){height=20px}
 
-    a. ga binnen via ![](img/activiteiten-knop.png){height=20px}
+    a. Ga binnen via ![](img/activiteiten-knop.png){height=20px}
 
-        i. verlaten via ```SUPER```
+        i. Verlaten via ```SUPER```
 
-        i. verlaten via ```ESC ESC```
+        i. Verlaten via ```ESC ESC```
 
-        i. verlaten via ![](img/activiteiten-knop.png){height=20px}
+        i. Verlaten via ![](img/activiteiten-knop.png){height=20px}
 
 1. Ga applicatie modus binnen op een wijze naar keuze en
     
-    a. sleep firefox ![](img/firefox-icon.png){height=20px} naar het eerste (linker) werkblad
+    a. Sleep firefox ![](img/firefox-icon.png){height=20px} naar het eerste (linker) werkblad
 
-    a. sleep kaarten ![](img/kaarten-icon.png){height=20px} naar het tweede (rechter) werkblad
+    a. Sleep kaarten ![](img/kaarten-icon.png){height=20px} naar het tweede (rechter) werkblad
 
-    a. ga naar gewone modus op een wijze naar keuze
+    a. Ga naar gewone modus op een wijze naar keuze
 
-    a. sluit beide toepassingen
+    a. Sluit beide toepassingen
 
         i. ```ALT+F4``` om firefox te sluiten
 
@@ -128,102 +128,102 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
 1. Open en sluit het notificatie venster
 
-    a. open met een klik op ![](img/datum-tijdsaanduiding.png){height=20px}
+    a. Open met een klik op ![](img/datum-tijdsaanduiding.png){height=20px}
 
-        i. sluit met een klik op ![](img/datum-tijdsaanduiding.png){height=20px}
+        i. Sluit met een klik op ![](img/datum-tijdsaanduiding.png){height=20px}
     
-    a. open met ```SUPER+V```
+    a. Open met ```SUPER+V```
 
-        i. sluit met ```ESC```
+        i. Sluit met ```ESC```
 
-        i. sluit met ```SUPER+V```
+        i. Sluit met ```SUPER+V```
 
 1. Open het systeemmenu en sluit haar onverrichter zake weer
 
-    a. open met klik op ![](img/systeem-menu-gesloten.png){height=20px}
+    a. Open met klik op ![](img/systeem-menu-gesloten.png){height=20px}
 
-        i. sluit met klik op ![](img/systeem-menu-gesloten.png){height=20px}
+        i. Sluit met klik op ![](img/systeem-menu-gesloten.png){height=20px}
 
-    a. open met klik op ![](img/systeem-menu-gesloten.png){height=20px}
+    a. Open met klik op ![](img/systeem-menu-gesloten.png){height=20px}
 
-        i. sluit met ```ESC```
+        i. Sluit met ```ESC```
 
 1. Netwerk uitschakelen en opnieuw inschakelen
 
-    a. start ![](img/firefox-icon.png){height=20px} en ga naar ```tldp.org```.
+    a. Start ![](img/firefox-icon.png){height=20px} en ga naar ```tldp.org```.
 
-    a. open het systeemmenu
+    a. Open het systeemmenu
 
-    a. klik ![](img/ethernet-in-uit.png){height=20px}, knop wordt grijs
+    a. Klik ![](img/ethernet-in-uit.png){height=20px}, knop wordt grijs
 
-    a. sluit systeemmenu
+    a. Sluit systeemmenu
 
-    a. start ![](img/firefox-icon.png){height=20px} en ga naar ```debian.org```, dit zal niet gaan
+    a. Start ![](img/firefox-icon.png){height=20px} en ga naar ```debian.org```, dit zal niet gaan
     
-    a. klik ![](img/ethernet-in-uit-grijs.png){height=20px}, knop krijgt weer kleur
+    a. Klik ![](img/ethernet-in-uit-grijs.png){height=20px}, knop krijgt weer kleur
 
-    a. sluit systeemmenu
+    a. Sluit systeemmenu
 
-    a. ga naar ![](img/firefox-icon.png){height=20px} en herlaad de pagina met ```F5```
+    a. Ga naar ![](img/firefox-icon.png){height=20px} en herlaad de pagina met ```F5```
 
 1. Afmelden op twee manieren
 
-    a. met muis
+    a. Met muis
         
-        i. klik op ![](img/systeem-menu-gesloten.png){height=20px} 
+        i. Klik op ![](img/systeem-menu-gesloten.png){height=20px} 
 
-        i. klik op ![](img/afsluit-menu-knop.png){height=20px}
+        i. Klik op ![](img/afsluit-menu-knop.png){height=20px}
 
-        i. klik op "Afmelden ..."
+        i. Klik op "Afmelden ..."
 
-        i. annuleer in de popup
+        i. Annuleer in de popup
 
-    a. met toetsenbord
+    a. Met toetsenbord
 
         i. ```SUPER afme ENTER```
 
-        i. annuleer in de popup door ```SPATIEBALK``` of ```ESC```
+        i. Annuleer in de popup door ```SPATIEBALK``` of ```ESC```
 
 1. Uitschakelen op drie manieren
 
-    a. met ```ALT+CTRL+DELETE```
+    a. Met ```ALT+CTRL+DELETE```
 
-        i. annuleer in de popup met ```ESC```
+        i. Annuleer in de popup met ```ESC```
 
-    a. met muis
+    a. Met muis
 
-        i. klik op ![](img/systeem-menu-gesloten.png){height=20px} 
+        i. Klik op ![](img/systeem-menu-gesloten.png){height=20px} 
 
-        i. klik op ![](img/afsluit-menu-knop.png){height=20px}
+        i. Klik op ![](img/afsluit-menu-knop.png){height=20px}
 
-        i. klik op "Uitschakelen ..."
+        i. Klik op "Uitschakelen ..."
 
-        i. annuleer in de popup met ```ESC```
+        i. Annuleer in de popup met ```ESC```
 
-    a. met toetsenbord
+    a. Met toetsenbord
 
         i. ```SUPER uits ENTER```
 
-        i. annuleer in de popup door ```SPATIEBALK``` of ```ESC```
+        i. Annuleer in de popup door ```SPATIEBALK``` of ```ESC```
 
 
 1. Herstarten op twee manieren
 
-    a. met muis
+    a. Met muis
 
-        i. klik op ![](img/systeem-menu-gesloten.png){height=20px} 
+        i. Klik op ![](img/systeem-menu-gesloten.png){height=20px} 
 
-        i. klik op ![](img/afsluit-menu-knop.png){height=20px}
+        i. Klik op ![](img/afsluit-menu-knop.png){height=20px}
 
-        i. klik op "Herstarten ..."
+        i. Klik op "Herstarten ..."
 
-        i. annuleer in de popup met ```ESC```
+        i. Annuleer in de popup met ```ESC```
 
-    a. met toetsenbord
+    a. Met toetsenbord
 
         i. ```SUPER hersta ENTER```
 
-        i. annuleer in de popup door ```SPATIEBALK``` of ```ESC```
+        i. Annuleer in de popup door ```SPATIEBALK``` of ```ESC```
 
 
 # Toepassingen openen en afsluiten
@@ -232,75 +232,75 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     a. ```SUPER snelt ENTER```
 
-    a. klik op "Sneltoetsen weergeven en aanpassen"
+    a. Klik op "Sneltoetsen weergeven en aanpassen"
         
-    a.  ken onder de afdeling "Starters" ```SUPER+E``` aan "Persoonlijke map"
+    a. Ken onder de afdeling "Starters" ```SUPER+E``` aan "Persoonlijke map"
 
-    a.  ken onder de afdeling "Starters" ```SUPER+C``` aan "Rekenmachine starten"
+    a. Ken onder de afdeling "Starters" ```SUPER+C``` aan "Rekenmachine starten"
 
-    a.  ken onder de afdeling "Starters" ```SUPER+I``` aan Instellingen
+    a. Ken onder de afdeling "Starters" ```SUPER+I``` aan Instellingen
 
 1.  Aangepaste sneltoetsen toevoegen. Open sneltoetsen in de Instellingen.
 
-    a. open de afdeling "Aangepaste sneltoets" (onderaan).
+    a. Open de afdeling "Aangepaste sneltoets" (onderaan).
 
     a.  ```SUPER+SHIFT+I``` toekennen aan "Afstellingen"
 
-        i. klik op de + onderaan
+        i. Klik op de + onderaan
 
-        i. vul onder "Naam" ```Afstellingen``` in
+        i. Vul onder "Naam" ```Afstellingen``` in
 
-        i. vul onder "Opdracht" ```gnome-tweaks``` in
+        i. Vul onder "Opdracht" ```gnome-tweaks``` in
 
-        i. klik op "Sneltoets instellen" en druk ```SUPER+SHIFT+I```
+        i. Klik op "Sneltoets instellen" en druk ```SUPER+SHIFT+I```
 
-    a.  ken ```ALT+CTRL+T``` toe aan de opdracht ```gnome-terminal``` onder de naam ```Terminal```.
+    a.  Ken ```ALT+CTRL+T``` toe aan de opdracht ```gnome-terminal``` onder de naam ```Terminal```.
 
 1.  Sneltoetsen opzoeken. Open de sneltoetsen instellingen zoals in beschreven in de eerste oefening.
     
-    a. wat is de toets voor maximaliseren
+    a. Wat is de toets voor maximaliseren
 
-    a. wat is de toets voor herstellen
+    a. Wat is de toets voor herstellen
 
 1.  Open en sluit terminal 1
 
-    a.  open met ```ALT+CTRL+T```
+    a.  Open met ```ALT+CTRL+T```
 
-    a.  sluit met ```CTRL+D``` (betekent end of file in UNIX)
+    a.  Sluit met ```CTRL+D``` (betekent end of file in UNIX)
 
 1.  Open en sluit terminal 2
 
-    a.  open ```SUPER```, ```ter```, ```ENTER```
+    a.  Open ```SUPER```, ```ter```, ```ENTER```
 
-    a.  sluit met ```CTRL+D```
+    a.  Sluit met ```CTRL+D```
 
 1. Open en sluit terminal 3
 
-    a. ga in applicatie modus met ```SUPER+A```
+    a. Ga in applicatie modus met ```SUPER+A```
 
-    b. klik op het terminal venster icon ![](img/terminalvenster-icon.png){width=50px}
+    b. Klik op het terminal venster icon ![](img/terminalvenster-icon.png){width=50px}
 
-    c. sluit het venster met de muis door op het kruisje rechtsboven te klikken
+    c. Sluit het venster met de muis door op het kruisje rechtsboven te klikken
 
 1. Open en sluit terminal 4
 
-    a. ga in applicatie modus met de muis:
+    a. Ga in applicatie modus met de muis:
 
-        i. klik op ![](img/activiteiten-knop.png){width=100px}
+        i. Klik op ![](img/activiteiten-knop.png){width=100px}
 
-        i. klik op de 3x3 puntjes op de dash ![](img/3x3-puntjes-op-dash.png){width=100px}
+        i. Klik op de 3x3 puntjes op de dash ![](img/3x3-puntjes-op-dash.png){width=100px}
     
-    a. sleep het ![](img/terminalvenster-icon.png){width=50px} naar het eerste werkblad
+    a. Sleep het ![](img/terminalvenster-icon.png){width=50px} naar het eerste werkblad
 
-    a. klik op ![](img/activiteiten-knop.png){width=100px} om applicatie modus te verlaten
+    a. Klik op ![](img/activiteiten-knop.png){width=100px} om applicatie modus te verlaten
 
-    a. klik op een willekeurige plek van het terminalvenster 
+    a. Klik op een willekeurige plek van het terminalvenster 
 
-    a. sluit het terminalvenster door ```ALT+F4``` in te drukken
+    a. Sluit het terminalvenster door ```ALT+F4``` in te drukken
 
 1. Open met ```ALT+CTRL+T``` een terminalvenster
 
-    a. gebruik het toepassingmenu om een extra terminalvenster te openen
+    a. Gebruik het toepassingmenu om een extra terminalvenster te openen
 
         i. ```SUPER+F10```
 
@@ -310,137 +310,137 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
         i. ```SUPER+F10```
 
-        i. gebruik de pijltjes toetsen om naar "Afsluiten" te komen
+        i. Gebruik de pijltjes toetsen om naar "Afsluiten" te komen
 
-        i. druk ```SPATIEBALK```
+        i. Druk ```SPATIEBALK```
     
-    a. herhaal dit voor het eerste terminalvenster
+    a. Herhaal dit voor het eerste terminalvenster
 
 1. Open en sluit twee firefox vensters
 
-    a. druk ```SUPER+1``` om firefox te openen
+    a. Druk ```SUPER+1``` om firefox te openen
 
-    a. maak een nieuw venster aan via het toepassingsmenu
+    a. Maak een nieuw venster aan via het toepassingsmenu
 
         i. ```SUPER+F10```
 
         i. ```ENTER``` op "Nieuw venster"
     
-    a. sluit beide vensters met het toepassingsmenu
+    a. Sluit beide vensters met het toepassingsmenu
         
         i. ```SUPER+F10```
 
-        i. gebruik de pijltjes toetsen om naar "Afsluiten" te komen
+        i. Gebruik de pijltjes toetsen om naar "Afsluiten" te komen
 
-        i. druk ```SPATIEBALK```
+        i. Druk ```SPATIEBALK```
 
 1. Open en sluit twee LibreOffice writer vensters met het bestandsmenu
 
-    a. druk ```SUPER+3```
+    a. Druk ```SUPER+3```
 
-    a. druk ```F10``` om de menubalk voor Writer te activeren
+    a. Druk ```F10``` om de menubalk voor Writer te activeren
 
-    a. druk ```PIJLTJE-OMLAAG```
+    a. Druk ```PIJLTJE-OMLAAG```
 
-    a. druk ```PIJLTJE-NAAR-RECHTS```
+    a. Druk ```PIJLTJE-NAAR-RECHTS```
 
-    a. druk ```SPATIEBALK```
+    a. Druk ```SPATIEBALK```
 
-    a. druk ```F10``` om de menubalk voor Writer te activeren
+    a. Druk ```F10``` om de menubalk voor Writer te activeren
 
-    a. druk ```PIJLTJE-OMHOOG``` om snel bij "Afsluiten" te komen
+    a. Druk ```PIJLTJE-OMHOOG``` om snel bij "Afsluiten" te komen
 
-    a. druk ```SPATIEBALK```
-
-1. Open twee LibreOffice writer vensters en sluit ze één voor één
-
-    a. druk ```SUPER+3```
-
-    a. druk ```CTRL+N``` om via de sneltoets voor een nieuw venster van LibreOffice een tweede venster te openen
-
-    a. druk ```CTRL+W``` om het tweede venster te sluiten
-
-    a. druk ```CTRL+W``` om het eerste venster te sluiten
-
-    a. druk ```CTRL+Q``` om LibreOffice af te sluiten
+    a. Druk ```SPATIEBALK```
 
 1. Open twee LibreOffice writer vensters en sluit ze één voor één
 
-    a. druk ```SUPER+3```
+    a. Druk ```SUPER+3```
 
-    a. druk ```CTRL+N``` om via de sneltoets voor een nieuw venster van LibreOffice een tweede venster te openen
+    a. Druk ```CTRL+N``` om via de sneltoets voor een nieuw venster van LibreOffice een tweede venster te openen
 
-    a. klik op het kruisje rechtsboven van het tweede venster
+    a. Druk ```CTRL+W``` om het tweede venster te sluiten
 
-    a. klik op het kruisje rechtsboven van het eerste venster
+    a. Druk ```CTRL+W``` om het eerste venster te sluiten
+
+    a. Druk ```CTRL+Q``` om LibreOffice af te sluiten
+
+1. Open twee LibreOffice writer vensters en sluit ze één voor één
+
+    a. Druk ```SUPER+3```
+
+    a. Druk ```CTRL+N``` om via de sneltoets voor een nieuw venster van LibreOffice een tweede venster te openen
+
+    a. Klik op het kruisje rechtsboven van het tweede venster
+
+    a. Klik op het kruisje rechtsboven van het eerste venster
 
 1. Open en sluit een LibreOffice calc venster
 
-    a. druk ```SUPER spread ENTER```
+    a. Druk ```SUPER spread ENTER```
 
-    a. sluit met ```ALT+F4```
+    a. Sluit met ```ALT+F4```
 
 1. Open en sluit een eenvoudige (platte) tekst editor
 
-    a. druk ```SUPER tekst ENTER```
+    a. Druk ```SUPER tekst ENTER```
 
-    a. sluit met ```ALT+F4```
+    a. Sluit met ```ALT+F4```
 
 1. Open een rekenmachine en reken 6 keer 7 uit
 
-    a. druk ```SUPER+C```
+    a. Druk ```SUPER+C```
 
-    a. druk ```6*7 ENTER```
+    a. Druk ```6*7 ENTER```
 
-    a. sluit met ```ALT+F4```
+    a. Sluit met ```ALT+F4```
 
 1. Reken 2 + 4 x 10 uit via het zoekvak
 
-    a. druk ```SUPER 2+4*10```
+    a. Druk ```SUPER 2+4*10```
 
-    a. druk ```SUPER``` om in normale modus terug te keren
-
-1. Open een tekst editor via applicatie modus
-
-    a. ga met de muis naar applicatie modus (twee stappen)
-
-    a. klik rechts op > om naar de tweede pagina te komen
-
-    a. klik op ![](img/teksteditor-icon.png){width=50px}
-
-    a. open een tweede venster met ```CTRL+N```
-
-    a. sluit tweede venster met ```ALT+F4```
-
-    a. sluit eerste venster met ```ALT+F4```
+    a. Druk ```SUPER``` om in normale modus terug te keren
 
 1. Open een tekst editor via applicatie modus
 
-    a. druk ```SUPER+A```
+    a. Ga met de muis naar applicatie modus (twee stappen)
 
-    a. druk ```PageDown``` om op de tweede pagina te komen
+    a. Klik rechts op > om naar de tweede pagina te komen
 
-    a. sleep ![](img/teksteditor-icon.png){width=50px} naar het eerste werkblad
+    a. Klik op ![](img/teksteditor-icon.png){width=50px}
 
-    a. druk tweemaal ```ESC``` om in normale modus te komen
+    a. Open een tweede venster met ```CTRL+N```
 
-    a. sluit het venster met ```ALT+F4```
+    a. Sluit tweede venster met ```ALT+F4```
+
+    a. Sluit eerste venster met ```ALT+F4```
+
+1. Open een tekst editor via applicatie modus
+
+    a. Druk ```SUPER+A```
+
+    a. Druk ```PageDown``` om op de tweede pagina te komen
+
+    a. Sleep ![](img/teksteditor-icon.png){width=50px} naar het eerste werkblad
+
+    a. Druk tweemaal ```ESC``` om in normale modus te komen
+
+    a. Sluit het venster met ```ALT+F4```
 
 1. Open en sluit twee firefox vensters met de muis
 
-    a. ga activiteiten modus in door op ![](img/activiteiten-knop.png){width=100px} te klikken
+    a. Ga activiteiten modus in door op ![](img/activiteiten-knop.png){width=100px} te klikken
 
-    a. klik op ![](img/firefox-icon.png){width=50px} op de dash
+    a. Klik op ![](img/firefox-icon.png){width=50px} op de dash
 
-    a. ga opnieuw activiteiten modus in door op ![](img/activiteiten-knop.png){width=100px} te klikken
+    a. Ga opnieuw activiteiten modus in door op ![](img/activiteiten-knop.png){width=100px} te klikken
 
-    a. klik met ```CTRL``` ingedrukt op ![](img/firefox-icon.png){width=50px} op de dash
+    a. Klik met ```CTRL``` ingedrukt op ![](img/firefox-icon.png){width=50px} op de dash
 
-    a. verlaat activiteiten modus door op ![](img/activiteiten-knop.png){width=100px} te klikken
+    a. Verlaat activiteiten modus door op ![](img/activiteiten-knop.png){width=100px} te klikken
 
-    a. klik de beide vensters dicht door op het kruisje rechtsboven te klikken 
+    a. Klik de beide vensters dicht door op het kruisje rechtsboven te klikken 
 
-        i. noem twee manieren waarop dit sluiten van beide vensters in één keer had gekunt (er zijn drie manieren)
+        i. Noem twee manieren waarop dit sluiten van beide vensters in één keer had gekunt (er zijn drie manieren)
 
 1. Som manieren waarop een toepassing, waaraan een sneltoets is toegekend, maar niet op de dash staat, kan worden gestart (vier manieren)
 
@@ -460,112 +460,112 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
 1. Start Firefox met ```SUPER+1```.
 
-    - ga naar de URL: ```github.com/slspeek/linux-beginners-cursus```.
+    - Ga naar de URL: ```github.com/slspeek/linux-beginners-cursus```.
 
-    - scroll omlaag en ga via de link naar de presentatie van de cursus.
+    - Scroll omlaag en ga via de link naar de presentatie van de cursus.
 
-    - sluit de browser af met ```CTRL+Q```
+    - Sluit de browser af met ```CTRL+Q```
 
 1. Start Firefox.
 
-    - ga naar ```debian.org```. 
+    - Ga naar ```debian.org```. 
 
-    - open een extra tabblad met ```CTRL+T```, merk op dat u gelijk het webadres kunt intypen. Ga naar ```tldp.org```.
+    - Open een extra tabblad met ```CTRL+T```, merk op dat u gelijk het webadres kunt intypen. Ga naar ```tldp.org```.
 
-    - ga naar het eerste tabblad door ```CTRL+TAB``` in te drukken.
+    - Ga naar het eerste tabblad door ```CTRL+TAB``` in te drukken.
 
-    - sluit ```debian.org```, met ```CTRL+W```.
+    - Sluit ```debian.org```, met ```CTRL+W```.
 
-    - sluit de browser af door het laatste tabblad te sluiten
+    - Sluit de browser af door het laatste tabblad te sluiten
 
 1. Start Firefox met ```SUPER+1```.
 
-    - ga naar de URL: ```github.com/slspeek/linux-beginners-cursus```
+    - Ga naar de URL: ```github.com/slspeek/linux-beginners-cursus```
 
-    - scroll naar "Onderdelen"
+    - Scroll naar "Onderdelen"
 
-    - op de Samenvatting en Oefeningen op een apart tabblad (en blijf op de eerste pagina)
+    - Op de Samenvatting en Oefeningen op een apart tabblad (en blijf op de eerste pagina)
 
-    - gebruik ```CTRL+TAB``` om de twee nieuwe pagina's te bekijken
+    - Gebruik ```CTRL+TAB``` om de twee nieuwe pagina's te bekijken
 
-    - sluit de browser af met ```CTRL+Q```
+    - Sluit de browser af met ```CTRL+Q```
     
 1. Start Firefox met ```SUPER+1```.
 
-    - ga naar de URL: ```slspeek.github.io/linux-beginners-cursus/#14```
+    - Ga naar de URL: ```slspeek.github.io/linux-beginners-cursus/#14```
 
-    - klik rechts in de animatie en kies "Afbeelding openen in nieuw tabblad"
+    - Klik rechts in de animatie en kies "Afbeelding openen in nieuw tabblad"
 
-    - bekijk grotere animatie
+    - Bekijk grotere animatie
 
-    - sluit de browser af met ```CTRL+Q```
-
-1. Start Firefox met ```SUPER+1```.
-
-    - ga naar de URL: ```github.com/slspeek/linux-beginners-cursus```
-
-    - maak een bladwijzer met ```CTRL+D```
-
-    - sluit de browser af met ```CTRL+Q```
+    - Sluit de browser af met ```CTRL+Q```
 
 1. Start Firefox met ```SUPER+1```.
 
-    - ga met behulp van de bladwijzer naar de URL: ```github.com/slspeek/linux-beginners-cursus```
+    - Ga naar de URL: ```github.com/slspeek/linux-beginners-cursus```
 
-        - maak bladwijzerbalk zichtbaar met ```CTRL+SHIFT+B``` als deze verborgen is
+    - Maak een bladwijzer met ```CTRL+D```
+
+    - Sluit de browser af met ```CTRL+Q```
+
+1. Start Firefox met ```SUPER+1```.
+
+    - Ga met behulp van de bladwijzer naar de URL: ```github.com/slspeek/linux-beginners-cursus```
+
+        - Maak bladwijzerbalk zichtbaar met ```CTRL+SHIFT+B``` als deze verborgen is
     
-    - scroll naar beneden naar de README naar "Onderdelen"
+    - Scroll naar beneden naar de README naar "Onderdelen"
 
-    - klik op de link "Presentatie"
+    - Klik op de link "Presentatie"
     
-    - maak een bladwijzer door rechts op ![](img/firefox-bladwijzer-ster-leeg.png){width=30px} te klikken
+    - Maak een bladwijzer door rechts op ![](img/firefox-bladwijzer-ster-leeg.png){width=30px} te klikken
 
-    - sluit de browser af met ```CTRL+Q```
-
-1. Start Firefox met ```SUPER+1```.
-
-    - ga met behulp van de bladwijzer naar de "Presentatie" van de cursus
-
-    - ga naar de tweede pagina
-
-    - klik met op "Samenvatting"
-
-    - maak een bladwijzer door ![](img/firefox-slotje.png){width=30px} naar de bladwijzerbalk te slepen
-
-    - sluit de browser af met ```CTRL+Q```
+    - Sluit de browser af met ```CTRL+Q```
 
 1. Start Firefox met ```SUPER+1```.
 
-    - maak door rechts te klikken op de bladwijzerbalk en "Map toevoegen ..." te kiezen een map "cursus" aan
+    - Ga met behulp van de bladwijzer naar de "Presentatie" van de cursus
 
-    - sleep de drie bladwijzers over de cursus naar deze map
+    - Ga naar de tweede pagina
 
-    - en order ze zo dat het resultaat er zo uitziet:
+    - Klik met op "Samenvatting"
+
+    - Maak een bladwijzer door ![](img/firefox-slotje.png){width=30px} naar de bladwijzerbalk te slepen
+
+    - Sluit de browser af met ```CTRL+Q```
+
+1. Start Firefox met ```SUPER+1```.
+
+    - Maak door rechts te klikken op de bladwijzerbalk en "Map toevoegen ..." te kiezen een map "cursus" aan
+
+    - Sleep de drie bladwijzers over de cursus naar deze map
+
+    - En order ze zo dat het resultaat er zo uitziet:
     ![](img/firefox-bladwijzer-map-cursus-3-items.png){height=100px}
 
-    - sluit de browser af met ```CTRL+Q```
+    - Sluit de browser af met ```CTRL+Q```
 
 1. Start Firefox met ```SUPER+1```.
 
-    - ga met behulp van de bladwijzer naar de "Presentatie" van de cursus
+    - Ga met behulp van de bladwijzer naar de "Presentatie" van de cursus
 
-    - ga naar de tweede pagina
+    - Ga naar de tweede pagina
 
-    - klik met ```CTRL``` ingedrukt op "Oefeningen" en "Begrippenlijst"
+    - Klik met ```CTRL``` ingedrukt op "Oefeningen" en "Begrippenlijst"
 
-    - breng met behulp van ```CTRL+TAB``` de tabbladen 1 voor 1 naar voren en sleep ![](img/firefox-slotje.png){width=30px} naar de map "cursus" op de bladwijzerbalk
+    - Breng met behulp van ```CTRL+TAB``` de tabbladen 1 voor 1 naar voren en sleep ![](img/firefox-slotje.png){width=30px} naar de map "cursus" op de bladwijzerbalk
 
 1. Start Firefox met ```SUPER+1```
 
-    - ga naar ```kernel.org```
+    - Ga naar ```kernel.org```
 
-    - maak een bladwijzer met ```CTRL+D```
+    - Maak een bladwijzer met ```CTRL+D```
 
-    - ga naar "Bladwijzers beheren" met ```CTRL+SHIFT+O```
+    - Ga naar "Bladwijzers beheren" met ```CTRL+SHIFT+O```
 
-    - verwijder de bladwijzer naar ```kernel.org```
+    - Verwijder de bladwijzer naar ```kernel.org```
 
-    - sluit de browser af met ```CTRL+Q```
+    - Sluit de browser af met ```CTRL+Q```
 
 1. Noem drie manieren waarop je een bladwijzer in Firefox kunt maken (er zijn er vier).
 
@@ -573,39 +573,249 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
 1. Start Firefox met ```SUPER+1```
 
-    - ga naar 'Add-ons en thema's' met ```CTRL+SHIFT+A``` of via het hamburger menu rechtbovenin.
+    - Ga naar 'Add-ons en thema's' met ```CTRL+SHIFT+A``` of via het hamburger menu rechtbovenin.
 
-    - selecteer aan de linkerzijde van de pagina 'Extensies'
+    - Selecteer aan de linkerzijde van de pagina 'Extensies'
 
-    - type in het zoekvak ```Adblocker for Youtube``` en installeer deze extensie
+    - Type in het zoekvak ```Adblocker for Youtube``` en installeer deze extensie
 
-    - sluit de browser af met ```CTRL+Q```
+    - Sluit de browser af met ```CTRL+Q```
 
 1. Start Firefox met ```SUPER+1```.
 
-    - ga naar de URL: ```slspeek.github.io/linux-beginners-cursus/samenvatting.html```.
+    - Ga naar de URL: ```slspeek.github.io/linux-beginners-cursus/samenvatting.html```.
 
-    - scroll omlaag naar "Internet browser: Firefox" en dan naar "Essentiële extensies installeren", klik op de link van "I don't care about cookies"
+    - Scroll omlaag naar "Internet browser: Firefox" en dan naar "Essentiële extensies installeren", klik op de link van "I don't care about cookies"
 
-    - klik op de knop "Toevoegen aan Firefox"
+    - Klik op de knop "Toevoegen aan Firefox"
 
-    - ga na met ```CTRL+SHIFT+A``` (Add-ons) of de extensie is geïnstalleerd
+    - Ga na met ```CTRL+SHIFT+A``` (Add-ons) of de extensie is geïnstalleerd
 
-    - sluit de browser af met ```CTRL+Q```
+    - Sluit de browser af met ```CTRL+Q```
 
 1. Start Firefox met ```SUPER+1```
 
-    - ga via het hamburgermenu rechtsboven naar 'Hulp' en dan naar 'Hulp verkrijgen'
+    - Ga via het hamburgermenu rechtsboven naar 'Hulp' en dan naar 'Hulp verkrijgen'
 
-    - type ```navigatiegeschiedenis```
+    - Type ```navigatiegeschiedenis```
 
-    - wat betekent geschiedenis in Firefox?
+    - Wat betekent geschiedenis in Firefox?
 
-    - sluit de browser af met ```CTRL+Q```
+    - Sluit de browser af met ```CTRL+Q```
 
 ## Bestandsbeheerder
 
 1. Waarvoor hebt u een bestandsbeheerder nodig (noem vier redenen)? 
+
+1. Noem drie manieren waarop u de bestandsbeheerder kunt openen.
+
+1. Wisselen tussen raster- en lijstweergave.
+
+    - Open bestandsbeheerder met ```SUPER+E```
+
+    - Wissel naar  lijstweergave met ```CTRL+1```
+
+    - Wissel naar rasterweergave met ```CTRL+2```
+
+    - Welke weergave geeft meer informatie?
+
+    - Sluit de bestandsbeheerder met ```CTRL+W```
+
+1. Wisselen tussen raster- en lijstweergave.
+
+    - Open bestandsbeheerder met ```SUPER+E```
+
+    - Wissel naar de andere weergave met ![](img/knop-icon-weergave.png){width=20px} of ![](img/knop-lijst-weergave.png){width=20px}
+
+    - Keer terug naar eerste weergave
+
+    - Sluit de bestandsbeheerder met ```CTRL+W```
+
+1. Verborgen bestanden tonen
+
+    - Open bestandsbeheerder met ```SUPER+E```
+
+    - Toon de verborgen bestanden met behulp van het menu met de drie puntjes boven elkaar rechts in de adresbalk
+    ![](img/persoonlijke-map-menu.png){height=20px} 
+
+    - Wat voor soort namen hebben de verborgen bestanden? Ziet u een patroon? (Wissel eventueel meerdere malen met ```CTRL+H```)
+
+    - Sluit de bestandsbeheerder met ```CTRL+W```
+
+1. De map ```Documenten``` ingaan.
+    
+    - Open bestandsbeheerder met ```SUPER+E```
+
+    - Dubbel klik de map ```Documenten```. De adresbalk ziet er nu zo uit: ![](img/bestanden-adresbalk-documenten.png){height=20px}
+
+    - Ga nu weer omhoog door op "Persoonlijke map" in ![](img/bestanden-adresbalk-documenten.png){height=20px} te klikken. De adresbalk ziet er dan weer zo ![](img/persoonlijke-map-menu.png){height=20px} uit.
+
+    - Ga opnieuw de map ```Documenten``` in.
+
+    - Ga terug omhoog met behulp van ```ALT+PIJLTJE_OMHOOG```
+
+    - Sluit de bestandsbeheerder met ```ALT+F4```
+
+1. De map ```Afbeeldingen``` ingaan.
+
+    - Herhaal de zes stappen van de vorige opgave met de map ```Afbeeldingen```
+
+1. Map ```werkstuk-protohistorie``` in de map ```Documenten``` aanmaken.
+
+    - Open bestandsbeheerder met ```SUPER+E```
+
+    - Ga naar de map ```Documenten``` 
+
+    - Maak met behulp van het menu met de drie puntjes boven elkaar rechts in de adresbalk
+    ![](img/persoonlijke-map-menu.png){height=20px} een nieuwe map genaamd ```werkstuk-protohistorie``` aan.
+
+    - Met welke sneltoets had dit ook gekunt (open eventueel opnieuw het drie puntjes boven elkaar menu voor het antwoord)?
+
+    - Sluit de bestandsbeheerder met ```ALT+F4```
+
+1. Welke twee manieren hebt u geleerd om mappen aan te maken?
+
+1. Mappen ```bronstijd``` en ```ijzertijd``` in ```werkstuk-protohistorie``` aanmaken.
+
+    - Open bestandsbeheerder met ```SUPER+E```
+
+    - Navigeer via de map ```Documenten``` naar de map ```werkstuk-protohistorie```.
+
+    - Maak met behulp van de sneltoets ```CTRL+SHIFT+N``` een map ```bronstijd``` aan.
+
+    - Maak met behulp van het drie puntjes menu een map ```ijzertijd``` aan.
+
+    - Sluit de bestandsbeheerder met ```ALT+F4```
+
+1. Bloemen sorteren.
+
+    - Open bestandsbeheerder met ```SUPER+E```
+
+    - Ga naar de map ```bloemen``` in ```Afbeeldingen```
+
+    - Maak mappen ```composietenfamilie```, ```anjerfamilie``` en ```ooievaarsbekfamilie``` aan.
+
+    - Sleep de afbeeldingen van de bloemen naar de juiste map (als u langer dan een halve seconde boven een map hangt met een plaatje voor u het loslaat navigeert u naar de map, gebruik ```ALT+PIJLTJE_OMHOOG``` om weer terug te keren naar ```bloemen```)
+
+        - Akkerdistel, Harig knopkruid, Gewone melkdistel naar ```composietenfamilie```
+
+        - Robertskruid en Beemdooievaarsbek naar ```ooievaarsbekfamilie```
+
+        - De rest naar ```anjerfamilie```
+    
+    - Sluit de bestandsbeheerder met ```ALT+F4```
+
+1. Bladwijzer van een map maken van één uw projecten
+
+    - Open bestandsbeheerder met ```SUPER+E```
+
+    - Maak in ```Documenten``` een map ```werkstuk-protohistorie``` aan.
+
+    - Sleep deze juist aangemaakte map naar het linkerpaneel boven het "Nieuwe bladwijzer"
+    ![](img/bestanden-hint-nieuwe-bladwijzer.png){height=150px}
+
+    - Sluit de bestandsbeheerder met ```ALT+F4```
+
+1. Twee bladwijzers maken
+
+    - Open bestandsbeheerder met ```SUPER+E```
+
+    - ga met behulp van uw bladwijzer naar de eerder aangemaakt map ```werkstuk-protohistorie```
+
+    - maak mappen aan met de namen ```bronstijd``` en ```ijzertijd```
+
+    - navigeer in de map ```bronstijd```
+
+    - maak een bladwijzer aan met ```CTRL+D```
+
+    - navigeer in de map ```ijzertijd```
+
+    - maak een bladwijzer aan met behulp van het menu met de drie puntjes boven elkaar rechts in de adresbalk
+    ![](img/persoonlijke-map-menu.png){height=20px}
+
+    - Sluit de bestandsbeheerder met ```ALT+F4```
+
+1. Op welke drie manieren kunt u een bladwijzer aanmaken in de bestandsbeheerder?
+
+1. Verwijder de bladwijzers naar de mappen ```ijzertijd``` en ```bronstijd```.
+
+    - Open bestandsbeheerder met ```SUPER+E```
+
+    - Verwijder de bladwijzers naar de mappen ```ijzertijd``` en ```bronstijd``` door in het linkerpaneel rechts te klikken op de bladwijzers
+    en uit het menu "Verwijderen uit bladwijzers" te kiezen.
+
+    - Overtuig uzelf ervan dat in de map ```werkstuk-protohistorie``` de mappen ```ijzertijd``` en ```bronstijd``` nog bestaan.
+    
+    - Sluit de bestandsbeheerder met ```ALT+F4```
+
+1. Werkstukje maken over protohistorie.
+
+    - Zoek met Firefox op Wikipedia naar protohistorie
+
+    - Print de pagina [```https://nl.wikipedia.org/wiki/Protohistorie```](https://nl.wikipedia.org/wiki/Protohistorie) naar pdf en sla deze op in de map ```werkstuk-protohistorie``` gebruikmakend van de bladwijzer.
+
+    - Sluit Firefox
+
+    - Open opnieuw bestandsbeheerder met ```SUPER+E```
+
+    - Zoek met ```CTRL+F``` naar het woord ```schrift```, het document ```Protohistorie - Wikipedia.pdf``` uit de map ```werkstuk-protohistorie```
+        moet zich onder de zoekresultaten moeten bevinden.
+
+1. Maak een archief ```bloemen.zip``` in de map ```Afbeeldingen``` van de map ```bloemen```.
+
+    - Open bestandsbeheerder met ```SUPER+E```
+
+    - Navigeer naar ```Afbeeldingen```
+
+    - Klik rechts op de map ```bloemen``` en kies "Inpakken ..."
+
+    - Accepteer de naam ```bloemen```, door op "Maken" te klikken
+
+    - Sluit de bestandsbeheerder met ```ALT+F4```
+
+1. Archief ```bloemen.zip``` inzien.
+
+    - Open bestandsbeheerder met ```SUPER+E```
+
+    - Navigeer naar ```Afbeeldingen```
+
+    - Dubbelklik op ```bloemen.zip```
+
+    - In achiefbeheer kunt u het archief bezien, dubbelklik op ```bloemen``` om de familie mappen te zien, dubbelklik verder op bijvoorbeeld ```anjerfamilie`` om de anjers te zien.
+
+    - Sluit archiefbeheer met ```ALT+F4```
+
+    - Sluit de bestandsbeheerder met ```ALT+F4```
+
+1. Archief uitpakken in nieuwe map
+
+    - Open bestandsbeheerder met ```SUPER+E```
+
+    - Maak map ```plaatjes``` aan 
+
+    - Navigeer naar ```Afbeeldingen``` en kopieer ```bloemen.zip``` door er rechts op te klikken en "Kopieren" te kiezen
+
+    - Navigeer naar de eerder gemaakte ```plaatjes``` map. De druk ```CTRL+V``` om een kopie van het ```bloemen.zip``` archief hier te plaatsen.
+
+    - Klik rechts op ```bloemen.zip``` en kies "Uitpakken". Er is nu een map ```bloemen``` in ```plaatjes``` gemaakt. Overtuig u ervan dat dit precies de families bevat die u gemaakt had.
+
+    - Gooi ```bloemen.zip``` en map ```bloemen``` uit ```plaatjes``` in de prullenbak. Door rechts te klikken en "In de prullenbak gooien" te kiezen.
+
+    - Sluit de bestandsbeheerder met ```ALT+F4```
+
+1. Archief uitpakken naar
+
+    - Open bestandsbeheerder met ```SUPER+E```
+
+    - Navigeer naar ```Afbeeldingen```
+    
+    - Klik rechts op ```bloemen.zip``` en kies "Uitpakken naar". Kies als map ```plaatjes``` in "Persoonlijke map".
+
+    - Navigeer naar de ```plaatjes``` map. Overtuig u ervan dat de map ```bloemen``` de families bevat die u gemaakt had.
+
+    - Gooi vanuit "Persoonlijke map" ```plaatjes``` in de prullenbak.
+    
+    - Sluit de bestandsbeheerder met ```ALT+F4```
 
 # Toepassingen installeren
 
