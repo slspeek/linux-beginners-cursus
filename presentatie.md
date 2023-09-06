@@ -871,3 +871,36 @@ en "Verwijderen uit bladwijzers" in het popup menu te kiezen
 ##### Voorbeeld inzien archief
 
 ![width:1000px](img/bestanden-inzien-archief.gif)
+
+---
+#### Hulp opvragen over de bestandsbeheerder
+
+- Hulp opvragen
+
+    - via het hamburgermenu ![height:40px](img/firefox-hamburgermenu.png) en dan "Hulp"
+
+    - sneltoets ```F1```
+
+    - ```CTRL+W``` om te sluiten
+
+- Sneltoetsen tonen
+
+    - via het hamburgermenu ![height:40px](img/firefox-hamburgermenu.png) en dan "Sneltoetsen"
+
+    - sneltoets ```CTRL+?``` (betekent ```CTRL+SHIFT+/```)
+
+        - ```PAGEUP``` en ```PAGEDOWN``` om tussen de verschillende pagina's te navigeren
+
+        - ```ESC``` om te sluiten 
+---
+##### Voorbeeld hulp over sorteren opvragen
+
+![width:1000px](img/bestanden-hulp-sorteren.gif)
+
+---
+##### Voorbeeld sneltoetsen voor de bestandsbeheerder tonen
+
+![width:1000px](img/bestanden-sneltoetsen-tonen.gif)
+
+
+

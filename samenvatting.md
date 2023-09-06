@@ -259,7 +259,7 @@ a. Wat kunt u met de bestandsbeheerder?
 
     - inhoud van map bekijken
 
-    - bestanden of mappen verplaatsen of kopiëren
+    - bestanden of mappen verplaatsen, kopiëren en verwijderen
 
     - zoeken in bestanden
 
@@ -302,6 +302,18 @@ a. Mappen maken
 a. Bestanden of mappen verplaatsen
 
     - sleep ze naar gewenste map
+
+    - via knippen, kopiëren en plakken
+
+        - ```CTRL+X``` voor knippen, ```CTRL+C``` voor kopiëren en ```CTRL+V``` voor plakken
+
+        - via het rechtsklik menu
+
+a. Bestanden of mappen in de prullenbak gooien
+
+    - geselecteerd bestand of map in de prullenbak gooien met ```DELETE``` toets
+
+    - via het rechtsklik menu "In Prullenbak gooien"
 
 a. Eigenschappen van bestanden en mappen 
 
@@ -355,6 +367,20 @@ a. Bestanden inpakken en uitpakken
     - Archief bestand inzien
 
         - dubbelklik zip bestand
+
+a. Hulp opvragen en sneltoetsen tonen
+
+    - Hulp opvragen
+
+        - ```F1```
+
+        - via hamburgermenu ![](img/firefox-hamburgermenu.png){height=20px}, en dan "Hulp"
+    
+    - Sneltoetsen
+
+        - ```CTRL+?```
+
+        - via hamburgermenu ![](img/firefox-hamburgermenu.png){height=20px}, en dan "Sneltoetsen"
 
 # Toepassingen installeren
 

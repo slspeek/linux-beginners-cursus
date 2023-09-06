@@ -791,7 +791,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     - Open bestandsbeheerder met ```SUPER+E```
 
-    - Maak map ```plaatjes``` aan 
+    - Maak map ```plaatjes``` aan. In welke map wordt ```plaatjes``` aangemaakt?
 
     - Navigeer naar ```Afbeeldingen``` en kopieer ```bloemen.zip``` door er rechts op te klikken en "Kopieren" te kiezen
 
@@ -816,6 +816,40 @@ Uitzondering hierop zijn de volgende speciale toetsen:
     - Gooi vanuit "Persoonlijke map" ```plaatjes``` in de prullenbak.
     
     - Sluit de bestandsbeheerder met ```ALT+F4```
+
+1. De hulp functie gebruiken om op bestandsgrootte te sorteren
+
+    - Open bestandsbeheerder met ```SUPER+E```
+
+    - Ga naar pictogram weergave
+
+    - Open de hulp functie ```F1```
+
+    - Zoek met ```CTRL+S``` naar ```sorteren```, en ga naar "Bestanden en mappen sorteren"
+
+    - Volg de instructies om op bestandsgrootte te sorteren in pictogramweergave
+
+    - Verander van weergave naar lijstweergave
+
+    - Volg de instructies om weer naar alphabetische oplopend sortering terug te keren
+
+    - Sluit de hulp
+    
+    - Sluit de bestandsbeheerder met ```ALT+F4```
+
+1. Open en sluit het sneltoetsen overzicht in de bestandsbeheerder
+
+    - Open bestandsbeheerder met ```SUPER+E```
+
+    - Gebruik ```CTRL+?``` om het sneltoetsen venster te openen
+
+    - Sluit het met ```ESC```
+    
+    - Sluit de bestandsbeheerder met ```ALT+F4```
+
+1. Met welke sneltoets kunt u een map of bestand hernoemen?
+
+1. Met welke sneltoets kunt u in één keer naar uw persoonlijke map terugkeren?
 
 # Toepassingen installeren
 
