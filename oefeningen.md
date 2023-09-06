@@ -748,6 +748,24 @@ Uitzondering hierop zijn de volgende speciale toetsen:
     
     - Sluit de bestandsbeheerder met ```ALT+F4```
 
+1. Gebruik eigenschappen in bestandsbeheerder
+
+    - Open bestandsbeheerder met ```SUPER+E```
+
+    - Navigeer naar ```Afbeeldingen```
+
+    - Hoe groot is de map ```bloemen```.
+        
+        -  Selecteer ```bloemen```
+
+        -  Klik rechts en kies "Eigenschappen"
+
+    - Sluit de bestandsbeheerder met ```ALT+F4```
+
+1. Hoe groot in pixels is het plaatje ```blaassilene.jpg``` (anjerfamilie)?
+
+    - Gebruik "Eigenschappen" van het bestand
+
 1. Werkstukje maken over protohistorie.
 
     - Zoek met Firefox op Wikipedia naar protohistorie
