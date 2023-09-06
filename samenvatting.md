@@ -259,7 +259,7 @@ a. Wat kunt u met de bestandsbeheerder?
 
     - inhoud van map bekijken
 
-    - bestanden of mappen verplaatsen, kopiëren en verwijderen
+    - bestanden of mappen verplaatsen, kopiëren en in de prullenbak gooien
 
     - zoeken in bestanden
 
@@ -295,7 +295,7 @@ a. Omlaag en omhoog navigeren
 
 a. Mappen maken
 
-    - via de drie puntjes boven elkaar ![](img/persoonlijke-map-menu.png){height=20px}
+    - via de drie puntjes boven elkaar ![](img/persoonlijke-map-menu.png){height=20px} (het actiemenu)
 
     - ```CTRL+SHIFT+N```
 
@@ -314,6 +314,17 @@ a. Bestanden of mappen in de prullenbak gooien
     - geselecteerd bestand of map in de prullenbak gooien met ```DELETE``` toets
 
     - via het rechtsklik menu "In Prullenbak gooien"
+
+a. Prullenbak legen
+
+    - Indien u de schijfruimte terug wilt hebben die de bestanden in "Prullenbak" innemen
+      kunt u de prullenbak legen
+
+        - __N.B.__ dit kan niet ongedaan worden gemaakt
+    
+    - Ga naar de "Prullenbak" in de bestandsbeheerder en kies "Prullenbak legen" uit het actiemenu
+      
+      ![](img/bestanden-prullenbak-legen.png)
 
 a. Eigenschappen van bestanden en mappen 
 

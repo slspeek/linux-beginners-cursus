@@ -747,6 +747,8 @@ gaat automatisch akkoord met alle cookies
 
 - via de drie puntjes boven elkaar ![](img/persoonlijke-map-menu.png)
 
+    - dit is het actiemenu (bereikbaar via ```F10```)
+
 - ```CTRL+SHIFT+N```
 
 ---
@@ -760,6 +762,37 @@ gaat automatisch akkoord met alle cookies
 ##### Voorbeeld bloemen organiseren
 
 ![width:1000px](img/bestanden-mappen-maken-en-slepen.gif)
+
+---
+#### In de prullenbak gooien en herstellen uit de prullenbak
+
+- Onnodige bestanden en of mappen kunt u in de prullenbak gooien
+
+    - Ze staan dan niet meer tussen uw belangrijke bestanden
+
+    - rechtsklikken op bestand en "In Prullenbak gooien"
+
+    - ```DELETE```
+
+- Indien u zich bedenkt kunt u ze terughalen uit de prullenbak
+
+    - Ga naar "Prullenbak"
+
+    - rechtsklikken op bestand en "Terughalen uit Prullenbak"
+---
+##### Voorbeeld Video's in de prullenbak gooien
+
+![width:1000px](img/bestanden-in-en-uit-prullenbak.gif)
+
+---
+#### Prullenbak legen
+
+- Indien u de schijfruimte terug wilt hebben die de bestanden in "Prullenbak" innemen kunt u de prullenbak legen
+
+- Ga naar de "Prullenbak" in de bestandsbeheerder en kies "Prullenbak legen" uit het actiemenu
+    
+    ![height:300px](img/bestanden-prullenbak-legen.png)
+
 ---
 #### Eigenschappen van bestanden en mappen 
 
@@ -804,7 +837,7 @@ gaat automatisch akkoord met alle cookies
 
 - Navigeer naar map
 
-    - drie puntjes menu: "Toevoegen aan bladwijzers"
+    - actiemenu: "Toevoegen aan bladwijzers"
 
     - ```CTRL+D```
 
@@ -889,9 +922,7 @@ en "Verwijderen uit bladwijzers" in het popup menu te kiezen
 
     - sneltoets ```CTRL+?``` (betekent ```CTRL+SHIFT+/```)
 
-        - ```PAGEUP``` en ```PAGEDOWN``` om tussen de verschillende pagina's te navigeren
-
-        - ```ESC``` om te sluiten 
+        - ```PAGEUP``` en ```PAGEDOWN``` om te navigeren, ```ESC``` om te sluiten 
 ---
 ##### Voorbeeld hulp over sorteren opvragen
 

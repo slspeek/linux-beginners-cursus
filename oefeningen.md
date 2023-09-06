@@ -705,6 +705,64 @@ Uitzondering hierop zijn de volgende speciale toetsen:
     
     - Sluit de bestandsbeheerder met ```ALT+F4```
 
+1. Map ```Video's``` in de prullenbak gooien en terughalen
+
+    - Open bestandsbeheerder met ```SUPER+E```
+
+    - Klik rechts op ```Video's``` en kies "In Prullenbak gooien"
+
+    - Klik in het linkerpaneel op "Prullenbak"
+
+    - Hier ziet u ```Video's``` staan
+
+    - Klik rechts op ```Video's``` en kies "Uit Prullenbak terughalen"
+
+    - Merk op dat ```Video's``` niet meer in de "Prullenbak" zit
+
+    - Navigeer naar "Persoonlijke map" door op het linkerpaneel op "Persoonlijke map" te klikken
+
+    - U ziet dat de map ```Video's``` er weer staat
+
+    - Sluit de bestandsbeheerder met ```ALT+F4```
+
+1. Een bestand in de prullenbak gooien en er weer uit terughalen.
+
+    - Open bestandsbeheerder met ```SUPER+E```
+
+    - Maak een map ```oefening-prullenbak``` aan
+
+    - Klik rechts op ```oefening-prullenbak``` en kies "In Prullenbak gooien"
+
+    - Merk op dat ```oefening-prullenbak``` niet meer in de "Persoonlijke map" is te zien. Het is weg.
+
+    - Klik in het linkerpaneel op "Prullenbak"
+
+    - Hier ziet u ```oefening-prullenbak``` staan
+
+    - Klik rechts op ```oefening-prullenbak``` en kies "Uit Prullenbak terughalen"
+
+    - Merk op dat ```oefening-prullenbak``` niet meer in de "Prullenbak" zit
+
+    - Navigeer naar "Persoonlijke map" door op het linkerpaneel op "Persoonlijke map" te klikken
+
+    - U ziet dat de map ```oefening-prullenbak``` er weer staat
+
+    - Selecteer ```oefening-prullenbak``` en druk op ```DELETE```
+    
+    - Sluit de bestandsbeheerder met ```ALT+F4```
+
+1. Prullenbak legen
+
+    - Open bestandsbeheerder met ```SUPER+E```
+
+    - Klik in het linkerpaneel op "Prullenbak"
+
+    - Hier ziet u alleen ```oefening-prullenbak``` staan
+
+    - Kies uit het actiemenu (```F10```) "Prullenbak legen"
+
+    - Sluit de bestandsbeheerder met ```ALT+F4```
+
 1. Bladwijzer van een map maken van één uw projecten
 
     - Open bestandsbeheerder met ```SUPER+E```
@@ -854,6 +912,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
     - Sluit de hulp
     
     - Sluit de bestandsbeheerder met ```ALT+F4```
+
 
 1. Open en sluit het sneltoetsen overzicht in de bestandsbeheerder
 
