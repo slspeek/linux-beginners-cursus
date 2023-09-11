@@ -6,6 +6,12 @@ author: |
 date: \today{}
 ...
 
+Actiemenu
+
+: Menu in de bestandsbeheerder te activeren met ```F10``` of de drie puntjes bovenelkaar in de adresbalk
+
+![Actiemenu](img/actiemenu-geopend.png){width=300px}
+
 Activiteiten modus
 
 :   Toestand van het GNOME desktop systeem om van programma te wisselen, van desktop te wisselen of om een programma te starten. U komt in deze modus met ```SUPER```. U verlaat hem met ```SUPER``` of ```ESC```. Zie [GNOME docs](https://help.gnome.org/users/gnome-help/stable/shell-introduction.html.nl#activities).
@@ -35,6 +41,22 @@ Bovenbalk
 :	Onderdeel van de GNOME desktop. De zwarte balk aan de bovenzijde van het scherm met links activiteiten, in het midden de tijdsaanduiding en met systeemmenu rechts.
 
 ![Bovenbalk](img/bovenbalk.png){width=90%}
+
+Context menu
+
+: Een contextmenu, ook wel een rechtermuisknopmenu genoemd, is een pop-upmenu dat verschijnt wanneer je met de rechtermuisknop op een object, zoals een bestand, map, tekst of grafisch element, klikt in een grafische gebruikersinterface, een webbrowser, of een toepassing. Het contextmenu biedt gebruikers snel toegang tot verschillende acties en opties die relevant zijn voor het geselecteerde object, afhankelijk van de context van de klik.
+
+In een contextmenu kun je vaak de volgende soorten opties vinden:
+
+1. **Basisbewerkingen:** Dit omvat opties zoals kopiëren, knippen, plakken, verwijderen en hernoemen van bestanden en mappen.
+
+2. **Openen:** Hiermee kun je een geselecteerd object openen met de standaardtoepassing of met een specifieke toepassing naar keuze.
+
+3. **Eigenschappen:** Hiermee kun je de eigenschappen van een object bekijken, zoals bestandsgrootte, aanmaakdatum, en machtigingen.
+
+4. **Koppelingen:** In webbrowsers kun je links openen in een nieuw tabblad, in een nieuw venster, of ze kopiëren naar het klembord.
+
+U opent het context menu van een item met ```MENU``` (menu toets) of ```SHIFT+F10``` of door rechts te klikken op het item.
 
 Dash
 
@@ -78,6 +100,12 @@ Linux Documentation Project
 
 :   Documentatie (voor gevorderden) over je dingen op Linux voor elkaar krijgt, de zogeheten *Howtos*. Website [tldp.org](https://tldp.org) (afkorting van __The Linux Documentation Project__).
 
+Menu toets
+
+: Toets op het toetsenbord die tussen de rechter super (windows) toets en de rechter control toets ligt. De toets activeert het context menu.
+
+![Menu key](img/menu-key.jpeg)
+
 Notificatie venster
 
 :   Venster met systeem notificaties, kalender en weer. Openen en sluiten met ```SUPER+V```. Actieve notificatie focus geven met ```SUPER+N```.
@@ -92,7 +120,7 @@ Programma
 
 :  zie toepassing.
 
-Super
+Super toets
 
 :   De toets met het Windows logo. Op het toetsenbord ligt hij tussen de control en alt toets in. Ook wel de Windows-toets genoemd.
 

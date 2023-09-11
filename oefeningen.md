@@ -494,7 +494,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     - Ga naar de URL: ```slspeek.github.io/linux-beginners-cursus/#14```
 
-    - Klik rechts in de animatie en kies "Afbeelding openen in nieuw tabblad"
+    - Klik rechts in de animatie om het context menu te openen en kies "Afbeelding openen in nieuw tabblad"
 
     - Bekijk grotere animatie
 
@@ -518,7 +518,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     - Klik op de link "Presentatie"
     
-    - Maak een bladwijzer door rechts op ![](img/firefox-bladwijzer-ster-leeg.png){width=30px} te klikken
+    - Maak een bladwijzer door op ![](img/firefox-bladwijzer-ster-leeg.png){width=30px} aan de rechterzijde te klikken
 
     - Sluit de browser af met ```CTRL+Q```
 
@@ -536,7 +536,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Maak door rechts te klikken op de bladwijzerbalk en "Map toevoegen ..." te kiezen een map "cursus" aan
+    - Open het context menu (rechtsklikken) van de bladwijzerbalk en kies "Map toevoegen ..." en maak een map "cursus" aan
 
     - Sleep de drie bladwijzers over de cursus naar deze map
 
@@ -705,6 +705,42 @@ Uitzondering hierop zijn de volgende speciale toetsen:
     
     - Sluit de bestandsbeheerder met ```ALT+F4```
 
+1. Een kopie maken van de ```Documenten``` map.
+
+    - Open bestandsbeheerder met ```SUPER+E```
+
+    - Open het context menu van de map ```Documenten``` en kies "Kopiëren"
+
+    - Klik rechts op een open plek in de "Persoonlijke map" en kies "Plakken"
+
+    - Hoe heeft de bestandsbeheerder de kopie genoemd?
+
+    - Sluit de bestandsbeheerder met ```ALT+F4```
+
+1. Een schermafdruk verplaatsen
+
+    - Open bestandsbeheerder met ```SUPER+E```
+
+    - Navigeer naar ```Afbeeldingen/Schermafdrukken```
+
+    - Maak een schermafdruk met ```ALT+PrintScreen```
+
+    - Knip deze afbeelding via haar context menu
+
+    - Navigeer naar ```Documenten``` 
+
+    - Plak de schermafdruk via het context menu
+
+    - Ga terug naar ```Afbeeldingen/Schermafdrukken```
+
+    - Staat de schermafdruk hier nog?
+
+    - Navigeer terug naar ```Documenten``` 
+
+    - Gooi de schermafdruk in de prullenbak met ```DELETE```
+
+    - Sluit de bestandsbeheerder met ```ALT+F4```
+
 1. Map ```Video's``` in de prullenbak gooien en terughalen
 
     - Open bestandsbeheerder met ```SUPER+E```
@@ -816,7 +852,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
         
         -  Selecteer ```bloemen```
 
-        -  Klik rechts en kies "Eigenschappen"
+        -  Open het context menu en kies "Eigenschappen"
 
     - Sluit de bestandsbeheerder met ```ALT+F4```
 
@@ -920,6 +956,8 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     - Gebruik ```CTRL+?``` om het sneltoetsen venster te openen
 
+    - Gebruikt ```PageDown``` om tweemaal verder te bladeren
+
     - Sluit het met ```ESC```
     
     - Sluit de bestandsbeheerder met ```ALT+F4```
@@ -927,6 +965,9 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 1. Met welke sneltoets kunt u een map of bestand hernoemen?
 
 1. Met welke sneltoets kunt u in één keer naar uw persoonlijke map terugkeren?
+
+1. Met welke sneltoets kunt terug gaan naar de lokatie waar u was? En met welke weer vooruit  (*Hint: dit heet "Ga terug" en "Ga verder"*)?
+Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Documenten``` en dan naar ```Afbeeldingen/Schermafdrukken``` en probeert de gevonden sneltoetsen uit.
 
 # Toepassingen installeren
 

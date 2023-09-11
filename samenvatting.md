@@ -198,7 +198,7 @@ a. Links openen op een nieuw tabblad
 
 a. Plaatje openen in nieuw tabblad
 
-    - Klik rechts op plaatje en kies "Afbeelding openen in nieuw tabblad"
+    - Klik rechts op plaatje, om het context menu te openen en kies "Afbeelding openen in nieuw tabblad"
 
 a. Bladwijzers
     
@@ -219,7 +219,7 @@ a. Bladwijzers
 
         - Via bladwijzers beheren
 
-        - Rechtsklikken op bladwijzer op bladwijzerbalk en "Bladwijzer verwijderen" kiezen
+        - Rechtsklikken op bladwijzer op bladwijzerbalk om het context menu te openen en "Bladwijzer verwijderen" kiezen
     
     - Beheren 
 
@@ -307,13 +307,13 @@ a. Bestanden of mappen verplaatsen
 
         - ```CTRL+X``` voor knippen, ```CTRL+C``` voor kopiëren en ```CTRL+V``` voor plakken
 
-        - via het rechtsklik menu
+        - via het context menu
 
 a. Bestanden of mappen in de prullenbak gooien
 
     - geselecteerd bestand of map in de prullenbak gooien met ```DELETE``` toets
 
-    - via het rechtsklik menu "In Prullenbak gooien"
+    - via het context menu "In Prullenbak gooien"
 
 a. Prullenbak legen
 
@@ -328,7 +328,7 @@ a. Prullenbak legen
 
 a. Eigenschappen van bestanden en mappen 
 
-    - klik rechts op item en kies "Eigenschappen"
+    - Open het context menu van het item en kies "Eigenschappen"
 
     - ```ALT+ENTER```
 
@@ -365,7 +365,7 @@ a. Bestanden inpakken en uitpakken
 
     - Archief bestand uitpakken
 
-        1. Klik rechts op zip archief en kies "Uitpakken naar ..."
+        1. Kies "Uitpakken naar ..." uit het context menu van het archief
 
             - kies een map waarheen het archief moet worden uitgepakt
 
@@ -373,7 +373,7 @@ a. Bestanden inpakken en uitpakken
 
             - geef aan of u wel of niet de uitgepakte bestanden in de bestandsbeheerder wenst te zien
 
-        1. Klik rechts op zip archief en kies "Uitpakken". Dit pakt het archief uit in de map waar het archief staat.
+        1. Kies "Uitpakken" uit het context menu van het archief. Dit pakt het archief uit in de map waar het archief staat.
     
     - Archief bestand inzien
 

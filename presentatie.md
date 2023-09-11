@@ -546,7 +546,7 @@ __N.B.__ Niet iedere toepassing staat dit toe, bijvoorbeeld Kaarten niet.
 ---
 #### Plaatje openen in nieuw tabblad
 
-- Klik rechts op plaatje en kies "Afbeelding openen in nieuw tabblad"
+- Klik rechts op plaatje om het context menu te openen en kies "Afbeelding openen in nieuw tabblad"
 ---
 ##### Voorbeeld afbeelding openen in nieuw tabblad
 ![width:1000px](img/firefox-afbeelding-in-nieuw-tabblad.gif)
@@ -592,10 +592,10 @@ __N.B.__ Niet iedere toepassing staat dit toe, bijvoorbeeld Kaarten niet.
 
 - Via bladwijzers beheren
 
-- Rechtsklikken op bladwijzer op bladwijzerbalk en "Bladwijzer verwijderen" kiezen
+- Rechtsklikken op bladwijzer op bladwijzerbalk om het context menu te openen en "Bladwijzer verwijderen" kiezen
 
 ---
-###### Voorbeeld bladwijzer verwijderen door rechts te klikken op bladwijzerbalk
+###### Voorbeeld bladwijzer verwijderen van de bladwijzerbalk met het context menu
 ![width:1000px](img/firefox-bladwijzer-verwijderen-uit-map.gif)
 
 ---
@@ -752,16 +752,34 @@ gaat automatisch akkoord met alle cookies
 - ```CTRL+SHIFT+N```
 
 ---
-#### Bestanden of mappen verplaatsen
+#### Bestanden of mappen verplaatsen of kopiëren
 
-- sleep ze naar gewenste map
+- Drag and drop 
+    
+    - sleep ze naar gewenste map voor verplaatsen
 
-- knippen ```CTRL+X``` en plakken ```CTRL+V```
+    - sleep ze met ```CTRL``` ingedrukt om te kopiëren
+
+- Knippen, kopiëren en plakken
+
+    - knippen ```CTRL+X```, kopiëren ```CTRL+C``` en plakken ```CTRL+V```
+
+    - via het context menu van het bestand
 
 ---
 ##### Voorbeeld bloemen organiseren
 
 ![width:1000px](img/bestanden-mappen-maken-en-slepen.gif)
+
+---
+##### Voorbeeld kopie maken van map
+
+![width:1000px](img/bestand-kopieren-via-context-menu.gif)
+
+---
+##### Voorbeeld schermopname verplaatsen
+
+![width:1000px](img/bestanden-schermopname-verplaatsen.gif)
 
 ---
 #### In de prullenbak gooien en herstellen uit de prullenbak
@@ -770,7 +788,7 @@ gaat automatisch akkoord met alle cookies
 
     - Ze staan dan niet meer tussen uw belangrijke bestanden
 
-    - rechtsklikken op bestand en "In Prullenbak gooien"
+    - Rechtsklikken op bestand om het context menu te openen en "In Prullenbak gooien" kiezen
 
     - ```DELETE```
 
@@ -778,7 +796,7 @@ gaat automatisch akkoord met alle cookies
 
     - Ga naar "Prullenbak"
 
-    - rechtsklikken op bestand en "Terughalen uit Prullenbak"
+    - Open het context menu van het bestand en kies "Terughalen uit Prullenbak"
 ---
 ##### Voorbeeld Video's in de prullenbak gooien
 
@@ -796,7 +814,7 @@ gaat automatisch akkoord met alle cookies
 ---
 #### Eigenschappen van bestanden en mappen 
 
-- klik rechts op item en kies "Eigenschappen"
+- Kies "Eigenschappen" uit het context menu
 
 - ```ALT+ENTER```
 
@@ -861,13 +879,13 @@ en "Verwijderen uit bladwijzers" in het popup menu te kiezen
 
 - Bestanden inpakken
 
-    - meerdere bestanden en of mappen in één archief bestand opslaan
+    - Meerdere bestanden en of mappen in één archief bestand opslaan
 
-    - klik rechts op map, bestand of bestandsselectie en kies "Inpakken ..."
+    - Open het context menu van de map, het bestand of de bestandsselectie en kies "Inpakken ..."
         
-        - geef een archief naam op
+        - Geef een archief naam op
 
-        - klik op "Maken"
+        - Klik op "Maken"
 
 ---
 ##### Voorbeeld archief aanmaken
@@ -877,14 +895,14 @@ en "Verwijderen uit bladwijzers" in het popup menu te kiezen
 ---
 - Archief bestand uitpakken
 
-    1. Klik rechts op zip archief en kies "Uitpakken naar ..."
+    1. Kies "Uitpakken naar ..." uit context menu van het zip archief
 
-        - kies een map waarheen het archief moet worden uitgepakt
+        - Kies een map waarheen het archief moet worden uitgepakt
 
-        - bevestig dit door op "Selecteren" te klikken
+        - Bevestig dit door op "Selecteren" te klikken
 
 
-    1. Klik rechts op zip archief en kies "Uitpakken". Dit pakt het archief uit in de map waar het archief staat.
+    1. Kies "Uitpakken" uit het context menu. Dit pakt het archief uit in de map waar het archief staat.
 
 ---
 ##### Voorbeeld archief uitpakken naar ...
