@@ -393,6 +393,115 @@ a. Hulp opvragen en sneltoetsen tonen
 
         - via hamburgermenu ![](img/firefox-hamburgermenu.png){height=20px}, en dan "Sneltoetsen"
 
+#  Schakelen tussen vensters of werkbladen
+
+1.  Vensterbeheer
+
+    a. Venster menu ![](img/venster-menu.png){height=200px}
+
+        - Context menu van titelbalk
+
+        - ```ALT+SPATIEBALK```
+
+    a.  Maximaliseren ```SUPER+PIJLTJE_OMHOOG```/herstellen ```SUPER+PIJLTJE_OMLAAG```
+
+        - Dubbelklikken op de titelbalk
+
+        - Venstermenu
+
+    a. Verplaatsen
+
+        - Aan de titelbalk slepen
+
+        - ```ALT+F7``` of venstermenu
+
+            - muis bewegen, klik is plaatsen
+
+            - ```SHIFT``` met pijltjes grote stappen
+
+            - pijltjes gewone stappen
+
+            - ```CTRL``` met pijltjes kleine stapjes
+
+    a.  Vergroten/verkleinen
+
+        - Aan de randen slepen
+
+        - ```ALT+F8``` of venstermenu
+        
+            - muis bewegen, klik is plaatsen
+
+            - ```SHIFT``` met pijltjes grote stappen
+
+            - pijltjes gewone stappen
+
+            - ```CTRL``` met pijltjes kleine stapjes
+
+    a.  Verbergen
+
+        - ```SUPER+H``` of venstermenu
+
+        - Terughalen 
+             
+             - op klikken in activiteiten modus
+
+             - ```ALT+TAB```, ```SUPER+TAB```
+
+    a.  Helft scherm gebruiken
+
+        - Links ```SUPER+PIJLTJE_NAAR_LINKS```
+
+        - Rechts ```SUPER+PIJLTJE_NAAR_RECHTS```
+
+1.  Wisselen tussen open programma's
+
+    a. Activiteiten modus
+
+    a.  ```ALT+TAB```, ```SUPER+TAB``` wisselen tussen open programma
+
+    a.  ```ALT+ESC``` wisselt tussen open vensters van het programma dat nu de
+        focus heeft
+
+    a.  Focus bovenbalk ```ALT+CTRL+TAB```
+
+1.  Werkbladen
+
+    a.  Wat zijn werkbladen
+
+        - Groeperen van dingen die u doet
+
+    a.  Schakelen tussen werkbladen
+
+        - ```SUPER+PageDown```, ```SUPER+PageUp```
+
+        - Activiteiten modus
+
+        - Applicatie modus
+    
+1.  Achtergrond aanpassen
+
+    - Context menu bureaublad ![](img/bureaublad-context-menu.png){width=200px}
+
+# Instellingen aanpassen
+
+- Schermvergrendeling uitschakelen
+
+    - Instellingen -> Privacy -> Scherm -> Automatische schermvergrendeling
+
+![Schermvergrendeling in de instellingen toepassing](img/instellingen-privacy-scherm.png){width=400px}
+
+- Toegankelijkheid
+
+    - Menu in bovenbalk ![](img/toegankelijkheidsmenu.png){width=30px}
+
+    - Grote letters
+
+- Nachtlicht
+
+    - via Systeemmenu
+
+    - Instellingen -> Schermen -> Nachtlicht
+
 # Toepassingen installeren
 
 1. Installeren 
@@ -428,39 +537,6 @@ a. Hulp opvragen en sneltoetsen tonen
 1.  Standaardtoepassingen
 
 1.  [*Opstarttoepassingen*](https://help.gnome.org/users/gnome-help/stable/shell-apps-auto-start.html.en)
-
-
-#  Vensters, werkbladen en bureaubladen
-
-1.  Vensterbeheer
-
-    a.  groot maken
-
-    a.  verbergen
-
-    a.  helft scherm gebruiken
-
-1.  Wisselen tussen open programma's
-
-    a.  ```ALT+TAB```, ```SUPER+TAB``` wisselen tussen open programma
-
-    a.  focus bovenbalk ```ALT+CTRL+TAB```
-
-    a.  ```ALT+ESC``` wisselt tussen open vensters van het programma dat nu de
-        focus heeft
-
-1.  Werkbladen
-
-    a.  Wat zijn werkbladen
-
-    a.  Schakelen tussen werkbladen
-
-    
-1.  Bureaubladen aanpassen
-
-    a.  Achtergrond aanpassen
-
-    a.  Schermbeveiliging uitschakelen
 
 # Online accounts
 
