@@ -340,15 +340,15 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     a. Druk ```F10``` om de menubalk voor Writer te activeren
 
-    a. Druk ```PIJLTJE-OMLAAG```
+    a. Druk ```↓```
 
-    a. Druk ```PIJLTJE-NAAR-RECHTS```
+    a. Druk ```→```
 
     a. Druk ```SPATIEBALK```
 
     a. Druk ```F10``` om de menubalk voor Writer te activeren
 
-    a. Druk ```PIJLTJE-OMHOOG``` om snel bij "Afsluiten" te komen
+    a. Druk ```↑``` om snel bij "Afsluiten" te komen
 
     a. Druk ```SPATIEBALK```
 
@@ -652,7 +652,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     - Ga opnieuw de map ```Documenten``` in.
 
-    - Ga terug omhoog met behulp van ```ALT+PIJLTJE_OMHOOG```
+    - Ga terug omhoog met behulp van ```ALT+↑```
 
     - Sluit de bestandsbeheerder met ```ALT+F4```
 
@@ -695,7 +695,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     - Maak mappen ```composietenfamilie```, ```anjerfamilie``` en ```ooievaarsbekfamilie``` aan.
 
-    - Sleep de afbeeldingen van de bloemen naar de juiste map (als u langer dan een halve seconde boven een map hangt met een plaatje voor u het loslaat navigeert u naar de map, gebruik ```ALT+PIJLTJE_OMHOOG``` om weer terug te keren naar ```bloemen```)
+    - Sleep de afbeeldingen van de bloemen naar de juiste map (als u langer dan een halve seconde boven een map hangt met een plaatje voor u het loslaat navigeert u naar de map, gebruik ```ALT+↑``` om weer terug te keren naar ```bloemen```)
 
         - Akkerdistel, Harig knopkruid, Gewone melkdistel naar ```composietenfamilie```
 

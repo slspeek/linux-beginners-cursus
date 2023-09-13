@@ -180,9 +180,9 @@ a. Belangrijkste sneltoetsen
 
     i. Zoeken met een zoekmachine naar keuze ```CTRL+K```
 
-        - ```CTRL+PIJLTJE_OMLAAG```, ```CTRL+PIJLTJE_OMHOOG``` om zoekmachine te selecteren
+        - ```CTRL+↓```, ```CTRL+↑``` om zoekmachine te selecteren
 
-        - ```ALT+PIJLTJE_OMLAAG```, ```ALT+PIJLTJE_OMHOOG``` om zoekmachine te selecteren als u al iets ingetyped hebt
+        - ```ALT+↓```, ```ALT+↑``` om zoekmachine te selecteren als u al iets ingetyped hebt
 
     i. Nieuw venster ```CTRL+N```
 
@@ -291,7 +291,7 @@ a. Omlaag en omhoog navigeren
     
     - omhoog te navigeren door in de adresbalk op bovenliggende map te klikken
 
-        - ```ALT+PIJLTJE_OMHOOG```
+        - ```ALT+↑```
 
 a. Mappen maken
 
@@ -395,6 +395,46 @@ a. Hulp opvragen en sneltoetsen tonen
 
 #  Schakelen tussen vensters of werkbladen
 
+1.  Wisselen tussen geopende toepassingen
+
+    a. Activiteiten modus
+
+    a.  ```ALT+TAB```, ```SUPER+TAB``` wisselen tussen geopende toepassingen
+
+    a.  ```ALT+` ``` (alt backtick) wisselt tussen open vensters van de toepassing die nu de
+        focus heeft
+    
+    a. Wisselen tussen vensters op actieve werkblad ```ALT+ESC```
+
+    a. Focus bovenbalk ```ALT+CTRL+TAB```
+
+1.  Werkbladen
+
+    a.  Wat zijn werkbladen
+
+        - Groeperen van dingen die u doet
+
+    a.  Schakelen tussen werkbladen
+
+        - ```SUPER+PageDown```, ```SUPER+PageUp```
+
+        - Activiteiten modus
+
+            - ```PageDown```, ```PageUp```
+
+        - Applicatie modus
+    
+    a. Venster verplaatsen naar werkblad
+
+        - slepen in activiteiten modus
+
+        - venster menu
+    
+    a. Venster meenemen naar werkblad
+
+        - ```SUPER+SHIFT+PageDown```, ```SUPER+SHIFT+PageUp```
+    
+
 1.  Vensterbeheer
 
     a. Venster menu ![](img/venster-menu.png){height=200px}
@@ -403,7 +443,7 @@ a. Hulp opvragen en sneltoetsen tonen
 
         - ```ALT+SPATIEBALK```
 
-    a.  Maximaliseren ```SUPER+PIJLTJE_OMHOOG```/herstellen ```SUPER+PIJLTJE_OMLAAG```
+    a.  Maximaliseren ```SUPER+↑```/herstellen ```SUPER+↓```
 
         - Dubbelklikken op de titelbalk
 
@@ -429,7 +469,7 @@ a. Hulp opvragen en sneltoetsen tonen
 
         - ```ALT+F8``` of venstermenu
         
-            - muis bewegen, klik is plaatsen
+            - muis bewegen, klik is nieuwe grootte accepteren
 
             - ```SHIFT``` met pijltjes grote stappen
 
@@ -443,41 +483,16 @@ a. Hulp opvragen en sneltoetsen tonen
 
         - Terughalen 
              
-             - op klikken in activiteiten modus
+             - Erop klikken in activiteiten modus
 
              - ```ALT+TAB```, ```SUPER+TAB```
 
     a.  Helft scherm gebruiken
 
-        - Links ```SUPER+PIJLTJE_NAAR_LINKS```
+        - Links ```SUPER+←```
 
-        - Rechts ```SUPER+PIJLTJE_NAAR_RECHTS```
+        - Rechts ```SUPER+→```
 
-1.  Wisselen tussen open programma's
-
-    a. Activiteiten modus
-
-    a.  ```ALT+TAB```, ```SUPER+TAB``` wisselen tussen open programma
-
-    a.  ```ALT+ESC``` wisselt tussen open vensters van het programma dat nu de
-        focus heeft
-
-    a.  Focus bovenbalk ```ALT+CTRL+TAB```
-
-1.  Werkbladen
-
-    a.  Wat zijn werkbladen
-
-        - Groeperen van dingen die u doet
-
-    a.  Schakelen tussen werkbladen
-
-        - ```SUPER+PageDown```, ```SUPER+PageUp```
-
-        - Activiteiten modus
-
-        - Applicatie modus
-    
 1.  Achtergrond aanpassen
 
     - Context menu bureaublad ![](img/bureaublad-context-menu.png){width=200px}

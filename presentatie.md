@@ -518,9 +518,9 @@ __N.B.__ Niet iedere toepassing staat dit toe, bijvoorbeeld Kaarten niet.
 
 - Zoeken met een zoekmachine naar keuze ```CTRL+K```
     
-    - ```CTRL+PIJLTJE_OMLAAG```, ```CTRL+PIJLTJE_OMHOOG``` om zoekmachine te selecteren
+    - ```CTRL+↓```, ```CTRL+↑``` om zoekmachine te selecteren
 
-    - ```ALT+PIJLTJE_OMLAAG```, ```ALT+PIJLTJE_OMHOOG``` om zoekmachine te selecteren als u al iets ingetyped hebt
+    - ```ALT+↓```, ```ALT+↑``` om zoekmachine te selecteren als u al iets ingetyped hebt
 
 - Nieuw venster ```CTRL+N```
 
@@ -736,7 +736,7 @@ gaat automatisch akkoord met alle cookies
 
 - omhoog te navigeren door in de adresbalk op bovenliggende map te klikken
 
-    - ```ALT+PIJLTJE_OMHOOG```
+    - ```ALT+↑```
 ---
 ##### Voorbeeld navigeren in Afbeeldingen map
 
@@ -953,3 +953,5 @@ en "Verwijderen uit bladwijzers" in het popup menu te kiezen
 
 
 
+---
+## Arrow up ↑↓←→
