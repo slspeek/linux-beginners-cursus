@@ -9,7 +9,7 @@ date: \today{}
 # Notatie
 Het lettertype ```Courier``` wordt gebruikt om iets op te schrijven dat u op het toetsenbord kunt typen.
 Uitzondering hierop zijn de volgende speciale toetsen:
-```SPATIEBALK```, ```CTRL```, ```ALT```, ```SUPER```, ```ESC```, ```DELETE```, ```PageDown```, ```PageUp```, ```F1```, ```F2``` ... en ```ENTER```, hier dient u betreffende toets in te drukken in plaats van het woord in te typen.
+```SPATIEBALK```, ```CTRL```, ```ALT```, ```SUPER```, ```MENU```, ```TAB```, ```HOME```, ```END```, ```ESC```, ```DELETE```, ```PageDown```, ```PageUp```, ```PrintScreen```, ```F1```, ```F2``` ... en ```ENTER```, hier dient u betreffende toets in te drukken in plaats van het woord in te typen.
 
 # Rondleiding GNOME
 

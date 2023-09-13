@@ -950,8 +950,3 @@ en "Verwijderen uit bladwijzers" in het popup menu te kiezen
 ##### Voorbeeld sneltoetsen voor de bestandsbeheerder tonen
 
 ![width:1000px](img/bestanden-sneltoetsen-tonen.gif)
-
-
-
----
-## Arrow up ↑↓←→
