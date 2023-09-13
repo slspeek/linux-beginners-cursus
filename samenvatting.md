@@ -397,6 +397,8 @@ a. Hulp opvragen en sneltoetsen tonen
 
 1.  Wisselen tussen geopende toepassingen
 
+    a. Indien op zelfde werkblad door in het venster te klikken
+
     a. Activiteiten modus
 
     a.  ```ALT+TAB```, ```SUPER+TAB``` wisselen tussen geopende toepassingen

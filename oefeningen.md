@@ -969,6 +969,32 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 1. Met welke sneltoets kunt terug gaan naar de lokatie waar u was? En met welke weer vooruit  (*Hint: dit heet "Ga terug" en "Ga verder"*)?
 Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Documenten``` en dan naar ```Afbeeldingen/Schermafdrukken``` en probeert de gevonden sneltoetsen uit.
 
+#  Schakelen tussen vensters of werkbladen
+
+1. Schakelen tussen twee toepassingen op twee werkbladen
+
+    - Open Firefox met ```SUPER+1```
+
+    - Ga via activiteiten naar het werkblad rechts van het huidige werkblad
+
+        - ```SUPER```, ```PageDown```, ```SUPER```
+    
+    - Open bestandsbeheer ```SUPER+E```
+
+    - Schakel terug naar Firefox met ```ALT+TAB```
+
+        - Hoe had u dit anders kunnen doen met een sneltoets?
+    
+    - Schakel nu weer naar de bestandsbeheerder met ```ALT+TAB```
+
+    - Sluit beide toepassingen met ```ALT+F4```
+
+        - Sluit de bestandsbeheerder met ```ALT+F4```
+
+        - Schakel met ```SUPER+1``` naar Firefox
+
+        - Sluit deze met ```ALT+F4```
+
 # Toepassingen installeren
 
 1.  Standaard applicatie wijzigen
