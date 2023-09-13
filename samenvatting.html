@@ -24,7 +24,7 @@
  </div></p>
 </header>
 <h1 id="notatie">Notatie</h1>
-<p>Het lettertype <code>Courier</code> wordt gebruikt om iets op te schrijven dat u op het toetsenbord kunt typen. Uitzondering hierop zijn de volgende speciale toetsen: <code>SPATIEBALK</code>, <code>CTRL</code>, <code>ALT</code>, <code>SUPER</code>, <code>ESC</code>, <code>DELETE</code>, <code>PageDown</code>, <code>PageUp</code>, <code>F1</code>, <code>F2</code> … en <code>ENTER</code>, hier dient u betreffende toets in te drukken in plaats van het woord in te typen.</p>
+<p>Het lettertype <code>Courier</code> wordt gebruikt om iets op te schrijven dat u op het toetsenbord kunt typen. Uitzondering hierop zijn de volgende speciale toetsen: <code>SPATIEBALK</code>, <code>CTRL</code>, <code>ALT</code>, <code>SUPER</code>, <code>MENU</code>, <code>TAB</code>, <code>HOME</code>, <code>END</code>, <code>ESC</code>, <code>DELETE</code>, <code>PageDown</code>, <code>PageUp</code>, <code>PrintScreen</code>, <code>F1</code>, <code>F2</code> … en <code>ENTER</code>, hier dient u betreffende toets in te drukken in plaats van het woord in te typen.</p>
 <h1 id="rondleiding-gnome">Rondleiding GNOME</h1>
 <ol type="1">
 <li><p>Je meldt je aan in GDM3 met account (gebruikersnaam=<code>tux</code>, wachtwoord=<code>tux</code>)</p></li>
@@ -153,8 +153,8 @@
 <li><p>Focus naar adresbalk <code>CTRL+L</code></p></li>
 <li><p>Zoeken met een zoekmachine naar keuze <code>CTRL+K</code></p>
 <ul>
-<li><p><code>CTRL+PIJLTJE_OMLAAG</code>, <code>CTRL+PIJLTJE_OMHOOG</code> om zoekmachine te selecteren</p></li>
-<li><p><code>ALT+PIJLTJE_OMLAAG</code>, <code>ALT+PIJLTJE_OMHOOG</code> om zoekmachine te selecteren als u al iets ingetyped hebt</p></li>
+<li><p><code>CTRL+↓</code>, <code>CTRL+↑</code> om zoekmachine te selecteren</p></li>
+<li><p><code>ALT+↓</code>, <code>ALT+↑</code> om zoekmachine te selecteren als u al iets ingetyped hebt</p></li>
 </ul></li>
 <li><p>Nieuw venster <code>CTRL+N</code></p></li>
 <li><p>Afsluiten <code>CTRL+Q</code></p></li>
@@ -242,7 +242,7 @@
 <li><p>omlaag navigeren door op een map te dubbelklikken</p></li>
 <li><p>omhoog te navigeren door in de adresbalk op bovenliggende map te klikken</p>
 <ul>
-<li><code>ALT+PIJLTJE_OMHOOG</code></li>
+<li><code>ALT+↑</code></li>
 </ul></li>
 </ul></li>
 <li><p>Mappen maken</p>
@@ -335,6 +335,40 @@
 </ol>
 <h1 id="schakelen-tussen-vensters-of-werkbladen">Schakelen tussen vensters of werkbladen</h1>
 <ol type="1">
+<li><p>Wisselen tussen geopende toepassingen</p>
+<ol type="a">
+<li><p>Indien op zelfde werkblad door in het venster te klikken</p></li>
+<li><p>Activiteiten modus</p></li>
+<li><p><code>ALT+TAB</code>, <code>SUPER+TAB</code> wisselen tussen geopende toepassingen</p></li>
+<li><p><code>ALT+`</code> (alt backtick) wisselt tussen open vensters van de toepassing die nu de focus heeft</p></li>
+<li><p>Wisselen tussen vensters op actieve werkblad <code>ALT+ESC</code></p></li>
+<li><p>Focus bovenbalk <code>ALT+CTRL+TAB</code></p></li>
+</ol></li>
+<li><p>Werkbladen</p>
+<ol type="a">
+<li><p>Wat zijn werkbladen</p>
+<ul>
+<li>Groeperen van dingen die u doet</li>
+</ul></li>
+<li><p>Schakelen tussen werkbladen</p>
+<ul>
+<li><p><code>SUPER+PageDown</code>, <code>SUPER+PageUp</code></p></li>
+<li><p>Activiteiten modus</p>
+<ul>
+<li><code>PageDown</code>, <code>PageUp</code></li>
+</ul></li>
+<li><p>Applicatie modus</p></li>
+</ul></li>
+<li><p>Venster verplaatsen naar werkblad</p>
+<ul>
+<li><p>slepen in activiteiten modus</p></li>
+<li><p>venster menu</p></li>
+</ul></li>
+<li><p>Venster meenemen naar werkblad</p>
+<ul>
+<li><code>SUPER+SHIFT+PageDown</code>, <code>SUPER+SHIFT+PageUp</code></li>
+</ul></li>
+</ol></li>
 <li><p>Vensterbeheer</p>
 <ol type="a">
 <li><p>Venster menu <img src="img/venster-menu.png" height="200" /></p>
@@ -342,7 +376,7 @@
 <li><p>Context menu van titelbalk</p></li>
 <li><p><code>ALT+SPATIEBALK</code></p></li>
 </ul></li>
-<li><p>Maximaliseren <code>SUPER+PIJLTJE_OMHOOG</code>/herstellen <code>SUPER+PIJLTJE_OMLAAG</code></p>
+<li><p>Maximaliseren <code>SUPER+↑</code>/herstellen <code>SUPER+↓</code></p>
 <ul>
 <li><p>Dubbelklikken op de titelbalk</p></li>
 <li><p>Venstermenu</p></li>
@@ -363,7 +397,7 @@
 <li><p>Aan de randen slepen</p></li>
 <li><p><code>ALT+F8</code> of venstermenu</p>
 <ul>
-<li><p>muis bewegen, klik is plaatsen</p></li>
+<li><p>muis bewegen, klik is nieuwe grootte accepteren</p></li>
 <li><p><code>SHIFT</code> met pijltjes grote stappen</p></li>
 <li><p>pijltjes gewone stappen</p></li>
 <li><p><code>CTRL</code> met pijltjes kleine stapjes</p></li>
@@ -374,34 +408,14 @@
 <li><p><code>SUPER+H</code> of venstermenu</p></li>
 <li><p>Terughalen</p>
 <ul>
-<li><p>op klikken in activiteiten modus</p></li>
+<li><p>Erop klikken in activiteiten modus</p></li>
 <li><p><code>ALT+TAB</code>, <code>SUPER+TAB</code></p></li>
 </ul></li>
 </ul></li>
 <li><p>Helft scherm gebruiken</p>
 <ul>
-<li><p>Links <code>SUPER+PIJLTJE_NAAR_LINKS</code></p></li>
-<li><p>Rechts <code>SUPER+PIJLTJE_NAAR_RECHTS</code></p></li>
-</ul></li>
-</ol></li>
-<li><p>Wisselen tussen open programma’s</p>
-<ol type="a">
-<li><p>Activiteiten modus</p></li>
-<li><p><code>ALT+TAB</code>, <code>SUPER+TAB</code> wisselen tussen open programma</p></li>
-<li><p><code>ALT+ESC</code> wisselt tussen open vensters van het programma dat nu de focus heeft</p></li>
-<li><p>Focus bovenbalk <code>ALT+CTRL+TAB</code></p></li>
-</ol></li>
-<li><p>Werkbladen</p>
-<ol type="a">
-<li><p>Wat zijn werkbladen</p>
-<ul>
-<li>Groeperen van dingen die u doet</li>
-</ul></li>
-<li><p>Schakelen tussen werkbladen</p>
-<ul>
-<li><p><code>SUPER+PageDown</code>, <code>SUPER+PageUp</code></p></li>
-<li><p>Activiteiten modus</p></li>
-<li><p>Applicatie modus</p></li>
+<li><p>Links <code>SUPER+←</code></p></li>
+<li><p>Rechts <code>SUPER+→</code></p></li>
 </ul></li>
 </ol></li>
 <li><p>Achtergrond aanpassen</p>
