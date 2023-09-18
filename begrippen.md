@@ -8,7 +8,7 @@ date: \today{}
 
 Actiemenu
 
-: Menu in de bestandsbeheerder te activeren met ```F10``` of de drie puntjes bovenelkaar in de adresbalk
+: Menu in de bestandsbeheerder te activeren met ```F10``` of de drie puntjes boven elkaar in de adresbalk
 
 ![Actiemenu](img/actiemenu-geopend.png){width=300px}
 
@@ -38,7 +38,7 @@ Besturingssysteem
 
 Bovenbalk
 
-:	Onderdeel van de GNOME desktop. De zwarte balk aan de bovenzijde van het scherm met links activiteiten, in het midden de tijdsaanduiding en met systeemmenu rechts.
+:	Onderdeel van de GNOME desktop. De zwarte balk aan de bovenzijde van het scherm met links de activiteiten knop, in het midden de tijdsaanduiding en rechts het systeemmenu.
 
 ![Bovenbalk](img/bovenbalk.png){width=90%}
 
