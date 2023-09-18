@@ -93,7 +93,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     a. Druk ```CTRL+W``` om haar weer te sluiten
 
-1. Ga applicatie modus in en verlaat haar onverrichter zake weer
+1. Ga applicatie modus in en verlaat haar onverrichter zake weer (zes keer)
     
     a. Ga binnen via ```SUPER+A```
 
@@ -103,7 +103,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
         i. Verlaten via ![](img/activiteiten-knop.png){height=20px}
 
-    a. Ga binnen via ![](img/activiteiten-knop.png){height=20px}
+    a. Ga met behulp de muis binnen via ![](img/activiteiten-knop.png){height=20px} en ![](img/3x3-puntjes-op-dash.png){height=20px}
 
         i. Verlaten via ```SUPER```
 
@@ -257,11 +257,18 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     a.  Ken ```ALT+CTRL+T``` toe aan de opdracht ```gnome-terminal``` onder de naam ```Terminal```.
 
-1.  Sneltoetsen opzoeken. Open de sneltoetsen instellingen zoals in beschreven in de eerste oefening.
+1.  Sneltoetsen opzoeken. Open de sneltoetsen instellingen zoals in beschreven in de eerste oefening *(Hint: Afdeling "Vensters")*.
     
     a. Wat is de toets voor maximaliseren
 
     a. Wat is de toets voor herstellen
+
+1.  Sneltoetsen opzoeken. Open de sneltoetsen instellingen zoals in beschreven in de eerste oefening.
+Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
+    
+    a. Wat is de toets voor "Toepassingenmenu openen"
+
+    a. Wat is de toets voor "Afmelden"
 
 1.  Open en sluit terminal 1
 
@@ -738,7 +745,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     - Navigeer terug naar ```Documenten``` 
 
-    - Gooi de schermafdruk in de prullenbak met ```DELETE```
+    - Gooi de schermafdruk in de prullenbak door haar te selecteren en ```DELETE``` te drukken
 
     - Sluit de bestandsbeheerder met ```ALT+F4```
 
@@ -762,7 +769,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     - Sluit de bestandsbeheerder met ```ALT+F4```
 
-1. Een bestand in de prullenbak gooien en er weer uit terughalen.
+1. Een map in de prullenbak gooien en er weer uit terughalen.
 
     - Open bestandsbeheerder met ```SUPER+E```
 
@@ -817,8 +824,6 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     - ga met behulp van uw bladwijzer naar de eerder aangemaakt map ```werkstuk-protohistorie```
 
-    - maak mappen aan met de namen ```bronstijd``` en ```ijzertijd```
-
     - navigeer in de map ```bronstijd```
 
     - maak een bladwijzer aan met ```CTRL+D```
@@ -865,6 +870,8 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     - Zoek met Firefox op Wikipedia naar protohistorie
 
+        - Gebruik ```CTRL+K``` en ```CTRL+↑```, ```CTRL+↓```
+
     - Print de pagina [```https://nl.wikipedia.org/wiki/Protohistorie```](https://nl.wikipedia.org/wiki/Protohistorie) naar pdf en sla deze op in de map ```werkstuk-protohistorie``` gebruikmakend van de bladwijzer.
 
     - Sluit Firefox
@@ -894,7 +901,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     - Dubbelklik op ```bloemen.zip```
 
-    - In achiefbeheer kunt u het archief bezien, dubbelklik op ```bloemen``` om de familie mappen te zien, dubbelklik verder op bijvoorbeeld ```anjerfamilie`` om de anjers te zien.
+    - In achiefbeheer kunt u het archief bezien, dubbelklik op ```bloemen``` om de familie mappen te zien, dubbelklik verder op bijvoorbeeld ```anjerfamilie``` om de anjers te zien.
 
     - Sluit archiefbeheer met ```ALT+F4```
 
