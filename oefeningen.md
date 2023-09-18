@@ -113,9 +113,9 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
 1. Ga applicatie modus binnen op een wijze naar keuze en
     
-    a. Sleep firefox ![](img/firefox-icon.png){height=20px} naar het eerste (linker) werkblad
+    a. Sleep firefox ![](img/firefox-icon.png){width=40px} naar het eerste (linker) werkblad
 
-    a. Sleep kaarten ![](img/kaarten-icon.png){height=20px} naar het tweede (rechter) werkblad
+    a. Sleep kaarten ![](img/kaarten-icon.png){width=40px} naar het tweede (rechter) werkblad
 
     a. Ga naar gewone modus op een wijze naar keuze
 
@@ -151,7 +151,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
 1. Netwerk uitschakelen en opnieuw inschakelen
 
-    a. Start ![](img/firefox-icon.png){height=20px} en ga naar ```tldp.org```.
+    a. Start ![](img/firefox-icon.png){width=40px} en ga naar ```tldp.org```.
 
     a. Open het systeemmenu
 
@@ -159,13 +159,13 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     a. Sluit systeemmenu
 
-    a. Start ![](img/firefox-icon.png){height=20px} en ga naar ```debian.org```, dit zal niet gaan
+    a. Start ![](img/firefox-icon.png){width=40px} en ga naar ```debian.org```, dit zal niet gaan
     
     a. Klik ![](img/ethernet-in-uit-grijs.png){height=20px}, knop krijgt weer kleur
 
     a. Sluit systeemmenu
 
-    a. Ga naar ![](img/firefox-icon.png){height=20px} en herlaad de pagina met ```F5```
+    a. Ga naar ![](img/firefox-icon.png){width=40px} en herlaad de pagina met ```F5```
 
 1. Afmelden op twee manieren
 
@@ -431,11 +431,11 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     a. Ga activiteiten modus in door op ![](img/activiteiten-knop.png){width=100px} te klikken
 
-    a. Klik op ![](img/firefox-icon.png){width=50px} op de dash
+    a. Klik op ![](img/firefox-icon.png){width=40px} op de dash
 
     a. Ga opnieuw activiteiten modus in door op ![](img/activiteiten-knop.png){width=100px} te klikken
 
-    a. Klik met ```CTRL``` ingedrukt op ![](img/firefox-icon.png){width=50px} op de dash
+    a. Klik met ```CTRL``` ingedrukt op ![](img/firefox-icon.png){width=40px} op de dash
 
     a. Verlaat activiteiten modus door op ![](img/activiteiten-knop.png){width=100px} te klikken
 
