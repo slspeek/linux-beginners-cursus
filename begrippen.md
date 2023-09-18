@@ -88,6 +88,10 @@ Filesystem Hierarchy Standard
 
 Zie verder de [online-documentatie](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html).
 
+Focus
+
+: Één GUI-element (knop, lijst, invoerveld) of venster kan de focus hebben. Dit betekent dat invoer van het toetsenbord naar dat element of venster wordt gestuurd. U wisselt focus tussen toepassingen met ```ALT+TAB```. Tussen vensters op één scherm met ```ALT+ESC```. En tussen verschillende vensters van dezelfde toepassing met ```ALT+BACKTICK```. 
+
 GNOME
 
 :   Standaard desktop manager onder debian. Zie [GNOME docs](https://help.gnome.org/users/gnome-help/stable/index.html.nl)
