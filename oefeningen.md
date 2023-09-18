@@ -287,13 +287,13 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     a. Ga in applicatie modus met de muis:
 
-        i. Klik op ![](img/activiteiten-knop.png){width=100px}
+        i. Klik op ![](img/activiteiten-knop.png){height=20px}
 
         i. Klik op de 3x3 puntjes op de dash ![](img/3x3-puntjes-op-dash.png){width=100px}
     
     a. Sleep het ![](img/terminalvenster-icon.png){width=50px} naar het eerste werkblad
 
-    a. Klik op ![](img/activiteiten-knop.png){width=100px} om applicatie modus te verlaten
+    a. Klik op ![](img/activiteiten-knop.png){height=20px} om applicatie modus te verlaten
 
     a. Klik op een willekeurige plek van het terminalvenster 
 
@@ -429,15 +429,15 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
 1. Open en sluit twee firefox vensters met de muis
 
-    a. Ga activiteiten modus in door op ![](img/activiteiten-knop.png){width=100px} te klikken
+    a. Ga activiteiten modus in door op ![](img/activiteiten-knop.png){height=20px} te klikken
 
     a. Klik op ![](img/firefox-icon.png){width=40px} op de dash
 
-    a. Ga opnieuw activiteiten modus in door op ![](img/activiteiten-knop.png){width=100px} te klikken
+    a. Ga opnieuw activiteiten modus in door op ![](img/activiteiten-knop.png){height=20px} te klikken
 
     a. Klik met ```CTRL``` ingedrukt op ![](img/firefox-icon.png){width=40px} op de dash
 
-    a. Verlaat activiteiten modus door op ![](img/activiteiten-knop.png){width=100px} te klikken
+    a. Verlaat activiteiten modus door op ![](img/activiteiten-knop.png){height=20px} te klikken
 
     a. Klik de beide vensters dicht door op het kruisje rechtsboven te klikken 
 
