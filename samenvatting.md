@@ -39,11 +39,13 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
         - Toepassing wisselen
 
+        - Dash favoritieten verwijderen
+
         - Applicatie modus 
         
     a. Applicatie modus (```SUPER+A```)
 
-        - Toepassingen openen
+        - Toepassingen starten
            
         - Werkblad wisselen
 
@@ -79,6 +81,8 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 1.  Systeemmenu
 
     a. Volume regeling
+
+    a. Screenshots maken
     
     a. Instellingen
 
@@ -102,7 +106,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
 #### Dash
 
-3. Sneltoetsen: ```SUPER+1```, etc.
+3. Sneltoetsen: ```SUPER+1```, ```SUPER+2```, ```SUPER+3```, etc.
 
     a. Openen
 
@@ -159,14 +163,13 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
 - Via bestandsmenu van de toepassing
 
 
-<!-- tot hier gelijk -->
 # Veel gebruikte toepassingen
 
 a.  Internet browser: Firefox
 
 a.  Bestandsbeheer
 
-a.  LibreOffice
+<!-- a.  LibreOffice -->
 
 ## Internet browser: Firefox
 
@@ -342,7 +345,7 @@ a. Bladwijzer maken van map of lokatie
 
     - Navigeer naar map
 
-        - drie puntjes menu: "Toevoegen aan bladwijzers"
+        - Actiemenu: "Toevoegen aan bladwijzers"
 
         - ```CTRL+D```
 
