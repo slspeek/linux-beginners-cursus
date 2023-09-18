@@ -393,7 +393,7 @@ a. Hulp opvragen en sneltoetsen tonen
 
         - via hamburgermenu ![](img/firefox-hamburgermenu.png){height=20px}, en dan "Sneltoetsen"
 
-#  Schakelen tussen vensters of werkbladen
+#  Wisselen tussen vensters of werkbladen
 
 1.  Wisselen tussen geopende toepassingen
 
@@ -416,7 +416,7 @@ a. Hulp opvragen en sneltoetsen tonen
 
         - Groeperen van dingen die u doet
 
-    a.  Schakelen tussen werkbladen
+    a.  Wisselen tussen werkbladen
 
         - ```SUPER+PageDown```, ```SUPER+PageUp```
 
@@ -430,7 +430,7 @@ a. Hulp opvragen en sneltoetsen tonen
 
         - slepen in activiteiten modus
 
-        - venster menu
+        - venstermenu
     
     a. Venster meenemen naar werkblad
 
@@ -439,7 +439,7 @@ a. Hulp opvragen en sneltoetsen tonen
 
 1.  Vensterbeheer
 
-    a. Venster menu ![](img/venster-menu.png){height=200px}
+    a. Venstermenu ![](img/venster-menu.png){height=200px}
 
         - Context menu van titelbalk
 
