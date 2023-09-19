@@ -950,3 +950,158 @@ en "Verwijderen uit bladwijzers" in het popup menu te kiezen
 ##### Voorbeeld sneltoetsen voor de bestandsbeheerder tonen
 
 ![width:1000px](img/bestanden-sneltoetsen-tonen.gif)
+
+---
+#  Werkbladen en vensters
+
+-  Wisselen tussen geopende toepassingen
+
+-  Werkbladen
+
+-  Vensterbeheer
+
+---
+##  Wisselen tussen geopende toepassingen
+
+- Indien op hetzelfde werkblad (en zichtbaar) door in het venster te klikken 
+
+- Activiteiten modus
+
+-  ```ALT+TAB```, ```SUPER+TAB``` wisselen tussen geopende toepassingen
+
+-  ```ALT+` ``` (alt backtick) wisselt tussen open vensters van de toepassing die nu de focus heeft
+
+- Wisselen tussen vensters op actieve werkblad ```ALT+ESC```
+
+- Focus bovenbalk ```ALT+CTRL+TAB```
+
+---
+## Werkbladen
+
+-  Wat zijn werkbladen
+
+-  Wisselen tussen werkbladen
+
+- Venster verplaatsen naar werkblad
+
+- Venster meenemen naar werkblad
+
+---
+###  Wat zijn werkbladen
+
+- Virtuele monitoren of bureaubladen
+
+- Voor het groeperen van dingen die u doet
+
+![](img/werkbladen.png)
+
+---
+###  Wisselen tussen werkbladen
+
+- ```SUPER+PageDown```, ```SUPER+PageUp```
+
+- Activiteiten modus
+
+    - ```PageDown```, ```PageUp```
+
+- Applicatie modus
+---
+## Venster verplaatsen naar werkblad
+
+- slepen in activiteiten modus
+
+- venstermenu
+
+## Venster meenemen naar werkblad
+
+- ```SUPER+SHIFT+PageDown```, ```SUPER+SHIFT+PageUp```
+
+---
+##  Vensterbeheer
+
+- Venstermenu 
+
+- Maximaliseren 
+
+- Verplaatsen
+
+- Vergroten/verkleinen
+
+- Minimaliseren
+
+-  Helft van het scherm gebruiken
+---
+## Venstermenu 
+
+![bg right height:100%](img/venster-menu.png)
+
+- Context menu van titelbalk
+
+- ```ALT+SPATIEBALK```
+---
+##  Maximaliseren/herstellen 
+
+- Maximaliseren ```SUPER+↑```, herstellen ```SUPER+↓```
+
+- Dubbelklikken op de titelbalk
+
+- Venstermenu
+
+---
+## Verplaatsen
+
+- Aan de titelbalk slepen
+
+- ```ALT+F7``` of venstermenu
+
+    - muis bewegen, klik is plaatsen
+
+    - ```SHIFT``` met pijltjes grote stappen
+
+    - pijltjes gewone stappen
+
+    - ```CTRL``` met pijltjes kleine stapjes
+---
+## Vergroten/verkleinen
+
+- Aan de randen slepen
+
+- ```ALT+F8``` of venstermenu
+
+    - muis bewegen, klik is nieuwe grootte accepteren
+
+    - ```SHIFT``` met pijltjes grote stappen
+
+    - pijltjes gewone stappen
+
+    - ```CTRL``` met pijltjes kleine stapjes
+
+---
+## Minimaliseren
+
+- ```SUPER+H``` of venstermenu
+
+- Terughalen 
+        
+    - Erop klikken in activiteiten modus
+
+    - ```ALT+TAB```, ```SUPER+TAB```
+
+Merk op dat het niet nodig is omdat u meerdere werkbladen hebt
+
+---
+##  Helft scherm gebruiken
+
+- Links ```SUPER+←```
+
+- Rechts ```SUPER+→```
+
+---
+##  Achtergrond aanpassen
+
+- Context menu bureaublad 
+
+![bg right width:100%](img/bureaublad-context-menu.png)
+
+
+

@@ -396,11 +396,11 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
 
         - via hamburgermenu ![](img/firefox-hamburgermenu.png){height=20px}, en dan "Sneltoetsen"
 
-#  Wisselen tussen vensters of werkbladen
+#  Werkbladen en vensters
 
 -  Wisselen tussen geopende toepassingen
 
-    - Indien op zelfde werkblad door in het venster te klikken
+    - Indien op hetzelfde werkblad (en zichtbaar) door in het venster te klikken 
 
     - Activiteiten modus
 
