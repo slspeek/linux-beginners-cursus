@@ -974,6 +974,13 @@ en "Verwijderen uit bladwijzers" in het popup menu te kiezen
 - Wisselen tussen vensters op actieve werkblad ```ALT+ESC```
 
 - Focus bovenbalk ```ALT+CTRL+TAB```
+---
+##### Voorbeeld van toepassing wisselen via activiteiten
+![width:1000px](img/toepassing-wisselen-via-activiteiten.gif)
+
+---
+##### Voorbeeld van toepassing wisselen met ```ALT+TAB```
+![width:1000px](img/toepassing-wisselen-via-alt-tab.gif)
 
 ---
 ## Werkbladen
