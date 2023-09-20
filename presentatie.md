@@ -974,6 +974,7 @@ en "Verwijderen uit bladwijzers" in het popup menu te kiezen
 - Wisselen tussen vensters op actieve werkblad ```ALT+ESC```
 
 - Focus bovenbalk ```ALT+CTRL+TAB```
+
 ---
 ##### Voorbeeld van toepassing wisselen via activiteiten
 ![width:1000px](img/toepassing-wisselen-via-activiteiten.gif)
@@ -1023,6 +1024,11 @@ en "Verwijderen uit bladwijzers" in het popup menu te kiezen
 
 - Applicatie modus
 ---
+##### Voorbeeld van werkblad wisselen via activiteiten modus
+
+![width:1000px](img/activiteiten-modus-wisselen.gif)
+
+---
 ## Venster verplaatsen naar werkblad
 
 - slepen in activiteiten modus
@@ -1032,6 +1038,21 @@ en "Verwijderen uit bladwijzers" in het popup menu te kiezen
 ## Venster meenemen naar werkblad
 
 - ```SUPER+SHIFT+PageDown```, ```SUPER+SHIFT+PageUp```
+
+---
+##### Voorbeeld venster naar ander werkblad door slepen in activiteiten
+
+![width:1000px](img/venters-naar-ander-werkblad-via-activiteiten.gif)
+
+---
+##### Voorbeeld venster naar ander werkblad met het venstermenu
+
+![width:1000px](img/venster-naar-ander-werkblad-met-venstermenu.gif)
+
+---
+##### Voorbeeld venster meenemen met ```SUPER+SHIFT+PageDown```
+
+![width:1000px](img/venster-naar-ander-werkblad-meenemen.gif)
 
 ---
 ##  Vensterbeheer
