@@ -1085,6 +1085,18 @@ en "Verwijderen uit bladwijzers" in het popup menu te kiezen
 
 - Venstermenu
 
+- Slepen aan titelbalk tot boevn de bovenbalk
+
+---
+##### Voorbeeld maximaliseren en herstellen met venstermenu
+
+![width:1000px](img/venstermenu-maximaliseren-herstellen.gif)
+
+---
+#### Voorbeeld maximaliseren door over de bovenrand te slepen
+
+![width:1000px](img/maximaliseren-door-over-rand-te-slepen.gif)
+
 ---
 ## Verplaatsen
 
@@ -1100,6 +1112,12 @@ en "Verwijderen uit bladwijzers" in het popup menu te kiezen
 
     - ```CTRL``` met pijltjes kleine stapjes
 ---
+##### Voorbeeld verplaatsen door slepen aan de titelbalk
+
+![width:1000px](img/venster-verplaatsen-door-slepen-aan-titelbalk.gif)
+
+---
+
 ## Vergroten/verkleinen
 
 - Aan de randen slepen
