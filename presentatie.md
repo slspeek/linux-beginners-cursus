@@ -983,6 +983,16 @@ en "Verwijderen uit bladwijzers" in het popup menu te kiezen
 ![width:1000px](img/toepassing-wisselen-via-alt-tab.gif)
 
 ---
+##### Voorbeeld van venster wisselen met ```ALT+` ```
+
+![width:1000px](img/wisselen-tussen-twee-tekstbewerkers.gif)
+
+---
+##### Voorbeeld van venster wisselen met ```ALT+ESC```
+
+![width:1000px](img/wisselen-tussen-vensters-alt-esc.gif)
+
+---
 ## Werkbladen
 
 -  Wat zijn werkbladen
