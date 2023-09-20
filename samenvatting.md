@@ -556,6 +556,16 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
 
 -  Standaardtoepassingen
 
+- Standaardtoepassingen per bestandstype
+
+    - Context menu -> "Openen met"
+    
+    - Kies toepassing en zet schakelaar "Altijd gebruiken voor dit bestandstype"
+
+![Context menu van een PDF bestand](img/bestanden-contextmenu-pdf-bestand.png){width=200px}
+
+![Dialoogvenster "Openen met"](img/bestanden-dialoogvenster-openen-met.png){width=200px}
+
 -  [*Opstarttoepassingen*](https://help.gnome.org/users/gnome-help/stable/shell-apps-auto-start.html.en)
 
 # Online accounts
