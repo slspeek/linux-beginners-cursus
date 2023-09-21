@@ -16,7 +16,7 @@ serve:
 	docker run --rm --init -v $(PWD):/home/marp/app -e LANG=$(LANG) -p 8080:8080 -p 37717:37717 $(MARP) --allow-local-files -s .
 
 presentatie: prepare hbegrippen hsamenvatting hoefeningen
-	docker run --rm --init -e MARP_USER="$(id -u):$(id -g)" -v $(PWD):/home/marp/app/ -e LANG=$(LANG) $(MARP) --allow-local-files presentatie.md -o $(PRESENTATIE_DIR)/presentatie.html
+	docker run --rm --init -e MARP_USER=$(USER_ID) -v $(PWD):/home/marp/app/ -e LANG=$(LANG) $(MARP) --allow-local-files presentatie.md -o $(PRESENTATIE_DIR)/presentatie.html
 	cd build && zip -r presentatie.zip presentatie
 
 begrippen: prepare
