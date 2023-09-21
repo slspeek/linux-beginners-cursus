@@ -5,6 +5,7 @@ USER_ID=$(shell id -u):$(shell id -g)
 PANDOC_PDF_CMD=docker run --rm --init -v "$(PWD):/data" -u $(USER_ID)  $(PANDOC_IMAGE) --include-in-header=header.tex --from markdown layout.yaml 
 PANDOC_HTML_CMD=docker run --rm --init -v "$(PWD):/data" -u $(USER_ID) $(PANDOC_IMAGE) --standalone --from markdown --to html
 MARP=marpteam/marp-cli:v3.1.0
+MARP_CMD=docker run --rm --init -e MARP_USER=$(USER_ID) -v $(PWD):/home/marp/app/ -e LANG=$(LANG) $(MARP) --allow-local-files
 
 all: begrippen oefeningen presentatie samenvatting
 
@@ -16,8 +17,8 @@ serve:
 	docker run --rm --init -v $(PWD):/home/marp/app -e LANG=$(LANG) -p 8080:8080 -p 37717:37717 $(MARP) --allow-local-files -s .
 
 presentatie: prepare hbegrippen hsamenvatting hoefeningen
-	docker run --rm --init -e MARP_USER=$(USER_ID) -v $(PWD):/home/marp/app/ -e LANG=$(LANG) $(MARP) --allow-local-files presentatie.md -o $(PRESENTATIE_DIR)/presentatie.html
-	cd build && zip -r presentatie.zip presentatie
+	$(MARP_CMD) presentatie.md -o $(PRESENTATIE_DIR)/presentatie.html
+	cd build && zip -rq presentatie.zip presentatie
 
 begrippen: prepare
 	$(PANDOC_PDF_CMD) begrippen.md -o $(BUILD_DIR)/begrippen.pdf
