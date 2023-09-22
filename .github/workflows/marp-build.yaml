@@ -4,7 +4,7 @@ on: push
 
 env:
   BUILD_DIR: build
-  PRESENTATIE_DIR: $BUILD_DIR/presentatie
+  PRESENTATIE_DIR: ${{ env.$BUILD_DIR }}/presentatie
 
 jobs:
   marp:
