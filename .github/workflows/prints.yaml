@@ -1,4 +1,4 @@
-name: Pandoc builds
+name: Prints
 
 on: push
 

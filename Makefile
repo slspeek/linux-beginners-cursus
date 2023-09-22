@@ -16,8 +16,14 @@ install-deps:
 serve:
 	docker run --rm --init -v $(PWD):/home/marp/app -e LANG=$(LANG) -p 8080:8080 -p 37717:37717 $(MARP) --allow-local-files -s .
 
-presentatie: prepare hbegrippen hsamenvatting hoefeningen
-	$(MARP_CMD) presentatie.md -o $(PRESENTATIE_DIR)/presentatie.html
+presentatie: prepare hbegrippen hsamenvatting hoefeningen hpresentatieoverzicht
+	$(MARP_CMD) presentatie/rondleiding-gnome.md -o $(PRESENTATIE_DIR)/rondleiding-gnome.html
+	$(MARP_CMD) presentatie/toepassingen-starten-en-afsluiten.md -o $(PRESENTATIE_DIR)/toepassingen-starten-en-afsluiten.html
+	$(MARP_CMD) presentatie/firefox.md -o $(PRESENTATIE_DIR)/firefox.html
+	$(MARP_CMD) presentatie/bestanden.md -o $(PRESENTATIE_DIR)/bestanden.html
+	$(MARP_CMD) presentatie/vensters-en-werkbladen.md -o $(PRESENTATIE_DIR)/vensters-en-werkbladen.html
+	$(MARP_CMD) presentatie/toepassingen-installeren.md -o $(PRESENTATIE_DIR)/toepassingen-installeren.html
+	$(MARP_CMD) presentatie/instellingen.md -o $(PRESENTATIE_DIR)/instellingen.html
 	cd build && zip -rq presentatie.zip presentatie
 
 begrippen: prepare
@@ -37,6 +43,9 @@ hoefeningen: prepare
 
 hsamenvatting: prepare
 	$(PANDOC_HTML_CMD) samenvatting.md -o $(PRESENTATIE_DIR)/samenvatting.html
+
+hpresentatieoverzicht: prepare
+	$(PANDOC_HTML_CMD) presentatie/presentatie-overzicht.md -o $(PRESENTATIE_DIR)/index.html
 
 
 
