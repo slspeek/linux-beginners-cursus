@@ -16,21 +16,21 @@ jobs:
         run: make prepare
       - uses: docker://marpteam/marp-cli:v3.1.0
         with:
-          args: --allow-local-files presentatie.md -o $PRESENTATIE_DIR/index.html
+          args: --allow-local-files presentatie.md -o ${{ env.PRESENTATIE_DIR }}/index.html
         env: 
           LANG: "nl_NL.UTF-8"
           MARP_USER: "1001:115"
       - name: Copy images
-        run: cp -r img $PRESENTATIE_DIR
+        run: cp -r img ${{ env.PRESENTATIE_DIR }}
       - uses: docker://pandoc/latex:2.9
         with:
-          args: --standalone --from markdown samenvatting.md --to html --output=$PRESENTATIE_DIR/samenvatting.html
+          args: --standalone --from markdown samenvatting.md --to html --output=${{ env.PRESENTATIE_DIR }}/samenvatting.html
       - uses: docker://pandoc/latex:2.9
         with:
-          args: --standalone --from markdown begrippen.md --to html --output=$PRESENTATIE_DIR/begrippen.html
+          args: --standalone --from markdown begrippen.md --to html --output=${{ env.PRESENTATIE_DIR }}/begrippen.html
       - uses: docker://pandoc/latex:2.9
         with:
-          args: --standalone --from markdown oefeningen.md --to html --output=$PRESENTATIE_DIR/oefeningen.html
+          args: --standalone --from markdown oefeningen.md --to html --output=${{ env.PRESENTATIE_DIR }}/oefeningen.html
       - name: Zip the offline presentatie
         run: cd $BUILD_DIR && zip -rq presentatie.zip presentatie 
       - name: Deploy to github pages
@@ -38,7 +38,7 @@ jobs:
         if: startsWith(github.ref, 'refs/tags/')
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./$PRESENTATIE_DIR
+          publish_dir: ./${{ env.PRESENTATIE_DIR }}
       - name: Release presentatie.zip
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
