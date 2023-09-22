@@ -8,7 +8,8 @@ date: \today{}
 <!-- ## Linux beginners cursus
 ### GNOME op Debian 12
 ![](img/debian-logo.png){height=290px} -->
-## Onderdelen van de cursus
+## Lesmateriaal
+
 1. [Thuispagina](https://github.com/slspeek/linux-beginners-cursus)
 
 1. Presentatie ([download presentatie voor offline gebruik](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/presentatie.zip))
@@ -21,7 +22,9 @@ date: \today{}
 
 
 ## Presentaties
+
 1. [Rondleiding GNOME](rondleiding-gnome.html)
+
 1. [Toepassingen starten en afsluiten](toepassingen-starten-en-afsluiten.html)
 
 1. [Firefox](firefox.html)
