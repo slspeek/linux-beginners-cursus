@@ -260,11 +260,13 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
 
 ## Bestanden op Linux
 
--  geen drive-letters, maar ```/```, ```/``` heet root (spreek uit als __roet__).
+- fysieke volumes (indien er meerdere disks zijn)
 
-    - aankoppelpunten zijn (lege) mappen
+    - geen drive-letters ```C:```, ```D:``` etc.
 
--  geen backslashes, maar forward-slashes
+    - aankoppelpunten zijn (lege) mappen (bijvoorbeeld ```/mnt```, ```/media/<XXXX>```)
+
+-  geen backslashes (```\```), maar forward-slashes (```/```) als map scheidingsteken
 
 - [*Filesystem Hierarchy Standard*](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html)
 
@@ -274,7 +276,7 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
 
     - ```/media``` hieronder leven alle aankoppelbare media zoals USB-sticks
 
--  [*thuismap*](https://nl.wikipedia.org/wiki/Homedirectory) van gebruiker ```tux``` is ```/home/tux```
+-  [*thuismap*](https://nl.wikipedia.org/wiki/Homedirectory) van gebruiker ```tux``` is ```/home/tux```. Deze map heet "Persoonlijke map" in de bestandsbeheerder.
 
 ## Bestandsbeheerder
 
