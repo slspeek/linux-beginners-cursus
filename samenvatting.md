@@ -246,15 +246,35 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
 
 - Essentiële extensies installeren
 
-    - [Adblocker for Youtube](https://addons.mozilla.org/nl/firefox/addon/adblock-for-youtube/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+    - [*Adblocker for Youtube*](https://addons.mozilla.org/nl/firefox/addon/adblock-for-youtube/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
-    - [Adblocker Ultimate](https://addons.mozilla.org/nl/firefox/addon/adblocker-ultimate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+    - [*Adblocker Ultimate*](https://addons.mozilla.org/nl/firefox/addon/adblocker-ultimate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
-    - [I don't care about cookies](https://addons.mozilla.org/nl/firefox/addon/i-dont-care-about-cookies/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+    - [*I don't care about cookies*](https://addons.mozilla.org/nl/firefox/addon/i-dont-care-about-cookies/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
 - Hulp zoeken over Firefox
 
     - Via hamburgermenu ![](img/firefox-hamburgermenu.png){width=30px} "Help >", "Hulp verkrijgen"
+
+# Bestanden
+
+## Bestanden op Linux
+
+-  geen drive-letters, maar ```/```, ```/``` heet root (spreek uit als __roet__).
+
+    - aankoppelpunten zijn (lege) mappen
+
+-  geen backslashes, maar forward-slashes
+
+- [*Filesystem Hierarchy Standard*](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html)
+
+    -  ```/home``` hieronder staan alle thuismappen
+
+    - ```/usr/bin``` hieronder staan de toepassingen
+
+    - ```/media``` hieronder leven alle aankoppelbare media zoals USB-sticks
+
+-  [*thuismap*](https://nl.wikipedia.org/wiki/Homedirectory) van gebruiker ```tux``` is ```/home/tux```
 
 ## Bestandsbeheerder
 
@@ -522,6 +542,62 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
 
     - Instellingen -> Schermen -> Nachtlicht
 
+## Speciale tekens invoeren
+
+- Samensteltoets
+
+- Zoekvak
+
+- Tekens en symbolen
+
+Zie vooral ook deze webpagina [*GNOME tip speciale tekens*](https://help.gnome.org/users/gnome-help/stable/tips-specialchars.html.nl)
+
+### Speciale tekens via samensteltoets
+
+- Toetsenbord
+
+    - Invoer voor speciale tekens
+
+        - Samensteltoets op rechter alt zetten 
+
+        - [*Voor combinaties zie deze webpagina*](https://en.wikipedia.org/wiki/Compose_key#Common_compose_combinations)
+
+        - het euroteken € krijgt u door
+            
+            - ```COMPOSE = c```
+
+            - ```SUPER euro sign ↓ ENTER```
+
+            - ```CTRL+SHIFT+u 20AC SPATIEBALK```
+
+### Speciale tekens via het zoekvak
+
+Voor invoeren via het zoekveld kunt de volgende namen gebruiken
+
+|Teken|Naam|
+|:---:|:---| 
+| é| Acute|
+| è| Grave|
+| ë | Diaeresis|
+| ē | Macron|
+| ê | Circumflex|
+
+### Speciale tekens via "Tekens en symbolen" 
+
+![](img/tekens-symbolen-icon.png){width=60px}
+
+- ```SUPER sym ENTER```
+
+## Online account toevoegen
+
+-  Instellingen: voeg bij voorkeur een Google-account toe
+
+    -  toon kalender
+
+    -  drive
+
+__N.B.__ Microsoft account werkt **niet**.
+
 # Toepassingen installeren
 
 - Installeren 
@@ -568,69 +644,3 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
 
 -  [*Opstarttoepassingen*](https://help.gnome.org/users/gnome-help/stable/shell-apps-auto-start.html.en)
 
-# Online accounts
-
--  Online account toevoegen
-
-    -  Instellingen: voeg bij voorkeur een Google-account toe
-
-        -  toon kalender
-
-        -  drive
-
-    b.  helaas werkt Microsoft account **niet**
-
-# Gebruikersbeheer
-
--  Wachtwoord wijzigen
-
-    -  Via instellingen
-
-    b.  Plaatje veranderen
-
--  Gebruiker toevoegen
-
--  Beheerdersrechten toekennen
-
--  Automatisch aanmelden
-
-## Bestanden
-
--  Bestanden
-
-    -  geen drive-letters, maar ```/```, ```/``` heet root (spreek uit als __roet__).
-
-    -  geen backslashes, maar forward-slashes
-
-    - [Filesystem Hierarchy Standard](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html)
-
-        i.  ```/home```
-        ii. ```/usr/bin```
-        iii. ```/media```
-
-    -  [thuismap](https://nl.wikipedia.org/wiki/Homedirectory) ```/home/tux```
-
-    -  Starten ```SUPER+4```
-
--  Backups maken
-
-    -  Open bestanden (```SUPER+4```)
-
-    -  Rechtsklikken op map
-
-        i.  Versturen ...
-        ii. Inpakken ...
-
-# Speciale tekens
-
--  Euroteken invoeren 
-
-    - zoekvak 'euro sign'
-
-    - via speciale tekens toepassing
-
-    -  ```CTRL+SHIFT+U 20ac SPATIEBALK```
-
--  é (e acute) invoeren: ```CTRL+SHIFT+U 00e9 SPATIEBALK```
-
--  [GNOME tip speciale tekens](https://help.gnome.org/users/gnome-help/stable/tips-specialchars.html.nl)
