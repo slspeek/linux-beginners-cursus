@@ -420,109 +420,109 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
 
 #  Werkbladen en vensters
 
--  Wisselen tussen geopende toepassingen
+##  Wisselen tussen geopende toepassingen
 
-    - Indien op hetzelfde werkblad (en zichtbaar) door in het venster te klikken 
+- Indien op hetzelfde werkblad (en zichtbaar) door in het venster te klikken 
+
+- Activiteiten modus
+
+-  ```ALT+TAB```, ```SUPER+TAB``` wisselen tussen geopende toepassingen
+
+-  ```ALT+` ``` (alt backtick) wisselt tussen open vensters van de toepassing die nu de
+    focus heeft
+
+- Wisselen tussen vensters op actieve werkblad ```ALT+ESC```
+
+- Focus bovenbalk ```ALT+CTRL+TAB```
+
+##  Werkbladen
+
+-  Wat zijn werkbladen
+
+    - Groeperen van dingen die u doet
+
+-  Wisselen tussen werkbladen
+
+    - ```SUPER+PageDown```, ```SUPER+PageUp```
 
     - Activiteiten modus
 
-    -  ```ALT+TAB```, ```SUPER+TAB``` wisselen tussen geopende toepassingen
+        - ```PageDown```, ```PageUp```
 
-    -  ```ALT+` ``` (alt backtick) wisselt tussen open vensters van de toepassing die nu de
-        focus heeft
+    - Applicatie modus
+
+- Venster verplaatsen naar werkblad
+
+    - slepen in activiteiten modus
+
+    - venstermenu
+
+- Venster meenemen naar werkblad
+
+    - ```SUPER+SHIFT+PageDown```, ```SUPER+SHIFT+PageUp```
+
+
+## Vensterbeheer
+
+- Venstermenu ![](img/venster-menu.png){height=200px}
+
+    - Context menu van titelbalk
+
+    - ```ALT+SPATIEBALK```
+
+-  Maximaliseren ```SUPER+↑```/herstellen ```SUPER+↓```
+
+    - Dubbelklikken op de titelbalk
+
+    - Venstermenu
+
+- Verplaatsen
+
+    - Aan de titelbalk slepen
+
+    - ```ALT+F7``` of venstermenu
+
+        - muis bewegen, klik is plaatsen
+
+        - ```SHIFT``` met pijltjes grote stappen
+
+        - pijltjes gewone stappen
+
+        - ```CTRL``` met pijltjes kleine stapjes
+
+-  Vergroten/verkleinen
+
+    - Aan de randen slepen
+
+    - ```ALT+F8``` of venstermenu
     
-    - Wisselen tussen vensters op actieve werkblad ```ALT+ESC```
+        - muis bewegen, klik is nieuwe grootte accepteren
 
-    - Focus bovenbalk ```ALT+CTRL+TAB```
+        - ```SHIFT``` met pijltjes grote stappen
 
--  Werkbladen
+        - pijltjes gewone stappen
 
-    -  Wat zijn werkbladen
+        - ```CTRL``` met pijltjes kleine stapjes
 
-        - Groeperen van dingen die u doet
+-  Minimaliseren
 
-    -  Wisselen tussen werkbladen
+    - ```SUPER+H``` of venstermenu
 
-        - ```SUPER+PageDown```, ```SUPER+PageUp```
+    - Terughalen 
+            
+            - Erop klikken in activiteiten modus
 
-        - Activiteiten modus
+            - ```ALT+TAB```, ```SUPER+TAB```
 
-            - ```PageDown```, ```PageUp```
+-  Helft scherm gebruiken
 
-        - Applicatie modus
-    
-    - Venster verplaatsen naar werkblad
+    - Links ```SUPER+←```
 
-        - slepen in activiteiten modus
+    - Rechts ```SUPER+→```
 
-        - venstermenu
-    
-    - Venster meenemen naar werkblad
+##  Achtergrond aanpassen
 
-        - ```SUPER+SHIFT+PageDown```, ```SUPER+SHIFT+PageUp```
-    
-
--  Vensterbeheer
-
-    - Venstermenu ![](img/venster-menu.png){height=200px}
-
-        - Context menu van titelbalk
-
-        - ```ALT+SPATIEBALK```
-
-    -  Maximaliseren ```SUPER+↑```/herstellen ```SUPER+↓```
-
-        - Dubbelklikken op de titelbalk
-
-        - Venstermenu
-
-    - Verplaatsen
-
-        - Aan de titelbalk slepen
-
-        - ```ALT+F7``` of venstermenu
-
-            - muis bewegen, klik is plaatsen
-
-            - ```SHIFT``` met pijltjes grote stappen
-
-            - pijltjes gewone stappen
-
-            - ```CTRL``` met pijltjes kleine stapjes
-
-    -  Vergroten/verkleinen
-
-        - Aan de randen slepen
-
-        - ```ALT+F8``` of venstermenu
-        
-            - muis bewegen, klik is nieuwe grootte accepteren
-
-            - ```SHIFT``` met pijltjes grote stappen
-
-            - pijltjes gewone stappen
-
-            - ```CTRL``` met pijltjes kleine stapjes
-
-    -  Minimaliseren
-
-        - ```SUPER+H``` of venstermenu
-
-        - Terughalen 
-             
-             - Erop klikken in activiteiten modus
-
-             - ```ALT+TAB```, ```SUPER+TAB```
-
-    -  Helft scherm gebruiken
-
-        - Links ```SUPER+←```
-
-        - Rechts ```SUPER+→```
-
--  Achtergrond aanpassen
-
-    - Context menu bureaublad ![](img/bureaublad-context-menu.png){width=200px}
+- Context menu bureaublad ![](img/bureaublad-context-menu.png){width=200px}
 
 # Instellingen
 
