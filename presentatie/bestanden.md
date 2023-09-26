@@ -52,6 +52,11 @@ title: Bestanden
 -  [*thuismap*](https://nl.wikipedia.org/wiki/Homedirectory) van gebruiker ```tux``` is ```/home/tux```. Deze map heet "Persoonlijke map" in de bestandsbeheerder.
 
 ---
+##### Voorbeeld USB-stick onder ```/media/tux```
+
+![width:1000px](img/bestanden-usb-stick-pad.gif)
+
+---
 #### Wat kunt u met de bestandsbeheerder?
 
 - inhoud van een map bekijken
