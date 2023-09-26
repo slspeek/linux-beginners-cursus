@@ -282,7 +282,7 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
 
 - Wat kunt u met de bestandsbeheerder?
 
-    - inhoud van map bekijken
+    - inhoud van een map bekijken
 
     - bestanden of mappen verplaatsen, kopiëren en in de prullenbak gooien
 
@@ -524,25 +524,27 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
 
     - Context menu bureaublad ![](img/bureaublad-context-menu.png){width=200px}
 
-# Instellingen aanpassen
+# Instellingen
 
-- Schermvergrendeling uitschakelen
+## Schermvergrendeling uitschakelen
 
-    - Instellingen -> Privacy -> Scherm -> Automatische schermvergrendeling
+- Instellingen -> Privacy -> Scherm -> Automatische schermvergrendeling
 
 ![Schermvergrendeling in de instellingen toepassing](img/instellingen-privacy-scherm.png){width=400px}
 
-- Toegankelijkheid
+## Toegankelijkheid
 
-    - Menu in bovenbalk ![](img/toegankelijkheidsmenu.png){width=30px}
+- Instellingen -> Toegankelijkheid
 
-    - Grote letters
+- Menu in bovenbalk ![](img/toegankelijkheidsmenu.png){width=30px}
 
-- Nachtlicht
+- Grote letters
 
-    - via Systeemmenu
+## Nachtlicht
 
-    - Instellingen -> Schermen -> Nachtlicht
+- Via systeemmenu ![](img/systeem-menu-gesloten.png){height=25px}
+
+- Instellingen -> Schermen -> Nachtlicht
 
 ## Speciale tekens invoeren
 
@@ -556,21 +558,19 @@ Zie vooral ook deze webpagina [*GNOME tip speciale tekens*](https://help.gnome.o
 
 ### Speciale tekens via samensteltoets
 
-- Toetsenbord
+- Instellingen -> Toetsenbord -> Invoer voor speciale tekens
+    
+- Samensteltoets op rechter alt zetten 
 
-    - Invoer voor speciale tekens
+- [*Voor combinaties zie deze webpagina*](https://en.wikipedia.org/wiki/Compose_key#Common_compose_combinations)
 
-        - Samensteltoets op rechter alt zetten 
+- het euroteken € krijgt u door
+    
+    - ```COMPOSE = c```
 
-        - [*Voor combinaties zie deze webpagina*](https://en.wikipedia.org/wiki/Compose_key#Common_compose_combinations)
+    - ```SUPER euro sign ↓ ENTER```
 
-        - het euroteken € krijgt u door
-            
-            - ```COMPOSE = c```
-
-            - ```SUPER euro sign ↓ ENTER```
-
-            - ```CTRL+SHIFT+u 20AC SPATIEBALK```
+    - ```CTRL+SHIFT+u 20AC SPATIEBALK```
 
 ### Speciale tekens via het zoekvak
 
@@ -602,47 +602,45 @@ __N.B.__ Microsoft account werkt **niet**.
 
 # Toepassingen installeren
 
-- Installeren 
+## Installeren 
 
-    -  Via Software
+###  Via Software ![](img/software-icon.png){height=25px}
 
-        - Bladeren
+- Bladeren
 
-        - Zoeken (gewoon beginnen met typen van de zoekterm)
+- Zoeken (gewoon beginnen met typen van de zoekterm)
 
-        - Installeren
+- Installeren
 
-             -  VLC-player
+### Vanuit een .deb bestand
 
-             -  Chromium
+- download het .deb bestand
 
-             -  GIMP
+- open het in bestandsbeheerder
 
-             -  Inkscape
+- via context menu openen met Software
 
-             -  Stellarium/KStars
+- klik installeren
 
-             -  KDEnlive
+<!-- - Google chrome
 
-    - Vanuit een .deb bestand
+- Visual studio -->
 
-        - Google chrome
+### Standaardtoepassingen
 
-        - Edge
+![](img/standaardtoepassingen.png)
 
-        - Visual studio
+### Standaardtoepassing per bestandstype
 
--  Standaardtoepassingen
+- Context menu -> "Openen met"
 
-- Standaardtoepassingen per bestandstype
-
-    - Context menu -> "Openen met"
-    
-    - Kies toepassing en zet schakelaar "Altijd gebruiken voor dit bestandstype"
+- Kies toepassing en zet schakelaar "Altijd gebruiken voor dit bestandstype"
 
 ![Context menu van een PDF bestand](img/bestanden-contextmenu-pdf-bestand.png){width=200px}
 
 ![Dialoogvenster "Openen met"](img/bestanden-dialoogvenster-openen-met.png){width=200px}
 
--  [*Opstarttoepassingen*](https://help.gnome.org/users/gnome-help/stable/shell-apps-auto-start.html.en)
+###  [*Opstarttoepassingen*](https://help.gnome.org/users/gnome-help/stable/shell-apps-auto-start.html.en)
+
+![](img/opstarttoepassingen.png)
 

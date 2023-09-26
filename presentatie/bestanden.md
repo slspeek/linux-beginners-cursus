@@ -3,7 +3,10 @@ marp: true
 theme: gaia
 title: Bestanden
 ---
-### Bestandsbeheer ![width=50px](img/bestanden-icon.png)
+### Bestanden ![width=50px](img/bestanden-icon.png)
+
+- Bestanden op Linux
+
 - Wat kunt u met de bestandsbeheerder?
 
 - Openen
@@ -16,9 +19,10 @@ title: Bestanden
 
 - Bestanden of mappen verplaatsen
 
-- Eigenschappen van bestanden en mappen 
 ---
-### Bestandsbeheer ![width=50px](img/bestanden-icon.png) vervolg
+### Bestanden ![width=50px](img/bestanden-icon.png) vervolg
+
+- Eigenschappen van bestanden en mappen 
 
 - Zoeken van mappen of bestanden
     
@@ -27,9 +31,30 @@ title: Bestanden
 - Bestanden inpakken en uitpakken
 
 ---
+#### Bestanden op Linux
+- fysieke volumes (indien er meerdere disks zijn)
+
+    - geen drive-letters ```C:```, ```D:``` etc.
+
+    - aankoppelpunten zijn (lege) mappen (bijvoorbeeld ```/mnt```, ```/media/<XXXX>```)
+
+-  geen backslashes (```\```), maar forward-slashes (```/```) als map scheidingsteken
+
+---
+#### [Filesystem Hierarchy Standard](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html)
+
+-  ```/home``` hieronder staan alle thuismappen
+
+- ```/usr/bin``` hieronder staan de toepassingen
+
+- ```/media``` hieronder leven alle aankoppelbare media zoals USB-sticks
+
+-  [*thuismap*](https://nl.wikipedia.org/wiki/Homedirectory) van gebruiker ```tux``` is ```/home/tux```. Deze map heet "Persoonlijke map" in de bestandsbeheerder.
+
+---
 #### Wat kunt u met de bestandsbeheerder?
 
-- inhoud van map bekijken
+- inhoud van een map bekijken
 
 - bestanden of mappen verplaatsen of kopiëren
 
