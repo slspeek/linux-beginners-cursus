@@ -484,7 +484,7 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
 
         - muis bewegen, klik is plaatsen
 
-        - ```SHIFT``` met pijltjes grote stappen
+        - ```SHIFT``` met pijltjes direct naar de rand
 
         - pijltjes gewone stappen
 
@@ -498,7 +498,7 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
     
         - muis bewegen, klik is nieuwe grootte accepteren
 
-        - ```SHIFT``` met pijltjes grote stappen
+        - ```SHIFT``` met pijltjes direct tot de rand
 
         - pijltjes gewone stappen
 

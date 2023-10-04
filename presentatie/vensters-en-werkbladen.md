@@ -157,7 +157,7 @@ title: Vensters en werkbladen
 
     - muis bewegen, klik is plaatsen
 
-    - ```SHIFT``` met pijltjes grote stappen
+    - ```SHIFT``` met pijltjes direct naar de rand
 
     - pijltjes gewone stappen
 
@@ -177,7 +177,7 @@ title: Vensters en werkbladen
 
     - muis bewegen, klik is nieuwe grootte accepteren
 
-    - ```SHIFT``` met pijltjes grote stappen
+    - ```SHIFT``` met pijltjes direct tot de randen
 
     - pijltjes gewone stappen
 
