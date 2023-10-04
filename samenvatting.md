@@ -608,6 +608,12 @@ __N.B.__ Microsoft account werkt **niet**.
 
 # Toepassingen installeren
 
+## Updates uitvoeren
+
+- Downloaden in Software ![](img/software-icon.png){height=25px}
+
+- Herstarten en bijwerken
+
 ## Installeren 
 
 ###  Via Software ![](img/software-icon.png){height=25px}

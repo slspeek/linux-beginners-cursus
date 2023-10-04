@@ -1005,6 +1005,8 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
 # Toepassingen installeren
 
+1. Welke toepassing moet u starten om updates uit te voeren?
+
 1.  Standaard applicatie wijzigen
 
     a.  Web naar Chromium
