@@ -195,9 +195,9 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
     
     - ```CTRL+SHIFT``` met muisklik opent een link op een nieuw tabblad en schakelt naar het nieuw geopende tabblad
 
-    ii. ```CTRL``` met muisklik opent een link op een nieuw tabblad
+    - ```CTRL``` met muisklik opent een link op een nieuw tabblad
 
-    iii. Met ```CTRL+TAB``` wisselt u tussen de tabbladden. Met ```CTRL+SHIFT+TAB``` in tegengestelde richting.
+    - Met ```CTRL+TAB``` wisselt u tussen de tabbladden. Met ```CTRL+SHIFT+TAB``` in tegengestelde richting.
 
 - Plaatje openen in nieuw tabblad
 
@@ -590,9 +590,15 @@ Voor invoeren via het zoekveld kunt de volgende namen gebruiken
 
 - ```SUPER sym ENTER```
 
+## Gebruikers instellingen
+
+- Plaatje wijzigen
+
+- Eigennaam wijzigen
+
 ## Online account toevoegen
 
--  Instellingen: voeg bij voorkeur een Google-account toe
+-  Instellingen -> Online accounts -> Google
 
     -  toon kalender
 
