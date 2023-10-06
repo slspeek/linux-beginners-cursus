@@ -611,7 +611,13 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Sluit de browser af met ```CTRL+Q```
 
-## Bestandsbeheerder
+## Bestanden
+
+1. Waar staat de thuismap van tux?
+
+1. Wat is het map scheidingsteken op Linux?
+
+1. Onder welke map is een aangekoppelde USB-stick terug te vinden?
 
 1. Waarvoor hebt u een bestandsbeheerder nodig (noem vier redenen)? 
 
@@ -1066,50 +1072,6 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 1. Gebruiker wisselen (Van ```tux``` naar ```linus```)
 
 1. Log uit van ```linus```
-
-
-
-# Bestanden
-
-1.  Open bestanden (```SUPER+4```)
-
-    a.  schakel tussen list view ```CTRL+1``` en Icon view ```CTRL+2```
-
-    b.  verberg linker zijpaneel ```F9```
-
-    c.  schakel focus tussen linker en rechter paneel met ```F6```
-
-    d.  toon verberg verborgen bestanden ```CTRL+H```
-
-    e.  toon shortcuts ```CTRL+?```, schakel met ```ALT+1```, ```ALT+2```, ```ALT+3```
-
-    f.  zoeken
-
-        i.  ga naar home directory ```ALT+HOME```
-        ii. gebruik ```CTRL+F```
-
-2.  In en uitzoomen met plaatjes
-
-    a.  in zoomen met ```CTRL+PLUS```
-
-    b.  uitzoomen met ```CTRL+MINUS```
-
-    c.  terug naar standaard met ```CTRL+0```
-
-3.  Bestand aanmaken het gedit en verwijderen
-
-    a.  ```SUPER```, ```gedit```, ```ENTER```
-
-    b.  type je naam
-
-    c.  ```CTRL+S```
-
-    d.  sla het op in documenten, onder naam test
-
-        i.  type ```Do```
-        ii. druk pijltje naar beneden, en ```ENTER```
-        i.  voeg ```Test``` toe
-        ii. ```ENTER```
 
 # Speciale tekens
 
