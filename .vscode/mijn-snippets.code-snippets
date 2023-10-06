@@ -25,6 +25,15 @@
 		]
 	},
 
+	"code: ALT+F4": {
+		"scope": "markdown",
+		"prefix": "f4",
+		"body": [
+			"```ALT+F4```",
+			"$0"
+		]
+	},
+
 	"CONTROL Key": {
 		"scope": "markdown",
 		"prefix": "ct",

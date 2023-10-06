@@ -985,6 +985,74 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
 #  Werkbladen en vensters
 
+1. Wisselen tussen twee toepassingen op één werkblad
+
+    - Open Firefox met ```SUPER+1```
+
+    - Open bestandsbeheer ```SUPER+4```
+
+    - Wissel terug naar Firefox met ```ALT+TAB```
+
+        - Hoe had u dit anders kunnen doen met een sneltoets?
+    
+    - Wissel nu weer naar de bestandsbeheerder met ```ALT+TAB```
+
+    - Sluit beide toepassingen met ```ALT+F4```
+
+        - Sluit de bestandsbeheerder met ```ALT+F4```
+
+        - Sluit Firefox met ```ALT+F4```
+
+1. Wisselen tussen vier toepassingen op één werkblad
+
+    - Open Firefox met ```SUPER+1```
+
+    - Open bestandsbeheer ```SUPER+4```
+
+    - Open LibreOffice writer ```SUPER+3```
+
+    - Open Hulp met ```SUPER+6```
+
+    - Wissel nu de focus naar Firefox terug door ```ALT+[TAB TAB TAB]``` (u houdt ```ALT``` ingedrukt en drukt driemaal op ```TAB``` )
+
+    - Wissel nu de focus naar Hulp door ```ALT+TAB```
+
+    - Wissel focus naar Writer met ```ALT+[TAB TAB]```
+
+    - Zie wat er gebeurt met het popup venster met icons van de geopende toepassingen als u ```ALT+[TAB TAB TAB TAB]``` doet (als alles goed is houdt Writer de focus)
+
+    - Sluit alle toepassingen door viermaal ```ALT+F4``` te geven
+
+1. Wisselen tussen vier toepassingen op één werkblad
+
+    - Open Firefox met ```SUPER+1```
+
+    - Open bestandsbeheer ```SUPER+4```
+
+    - Open LibreOffice writer ```SUPER+3```
+
+    - Open Hulp met ```SUPER+6```
+
+    - Wissel naar via activiteiten modus naar Firefox
+
+        - ```SUPER```
+
+        - klik op Firefox
+
+    - Wissel naar via activiteiten modus naar bestandsbeheer
+
+        - ```SUPER```
+
+        - U gebruikt de pijltjes om bestandsbeheer te selecteren en u drukt dan ```ENTER```
+
+    - Wissel naar via activiteiten modus naar Hulp
+
+        - ```SUPER```
+
+        - U gebruikt de pijltjes om Hulp te selecteren en u drukt dan ```ENTER```
+
+    - Sluit alle toepassingen door viermaal ```ALT+F4``` te geven
+
 1. Wisselen tussen twee toepassingen op twee werkbladen
 
     - Open Firefox met ```SUPER+1```
@@ -1008,6 +1076,121 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
         - Wissel met ```SUPER+1``` naar Firefox
 
         - Sluit deze met ```ALT+F4```
+
+1. Wisselen tussen twee vensters van dezelfde toepassing
+
+    - Open Firefox met ```SUPER+1```
+
+    - Open LibreOffice writer ```SUPER+3```
+
+    - Open een extra writer venster met ```CTRL+N```
+
+    - Merk op dat u met ```ALT+TAB``` combinaties niet bij het "Geen titel 1" venster van writer kunt terugkomen
+
+    - Geef met ```ALT+TAB``` writer de focus
+
+    - Geef met ```ALT+` ``` het "Geen titel 1" venster van writer de focus
+
+    - Geef met ```ALT+` ``` het "Geen titel 2" venster van writer de focus
+
+    - Sluit alle vensters door driemaal ```ALT+F4``` te geven
+
+1. Snel wisselen tussen de vensters van één werkblad
+
+    - Open Firefox met ```SUPER+1```
+
+    - Open LibreOffice writer ```SUPER+3```
+
+    - Open een extra writer venster met ```CTRL+N```
+
+    - Ga naar het werkblad rechts van dit werkblad via activiteiten: ```SUPER```, ```PageDown```, ```SUPER```
+
+    - Open Hulp ```SUPER+6```
+
+    - Open Software ```SUPER+5```
+
+    - Wissel nu terug naar Hulp met ```ALT+ESC```
+
+    - Wissel terug naar Software met ```ALT+ESC```
+
+    - Ga terug naar het eerste werkblad met ```SUPER```, ```PageUp```, ```SUPER```
+
+    - Wissel met ```ALT+ESC``` naar het "Geen titel 1" venster van writer
+
+    - Wissel met ```ALT+[ESC ESC]``` naar Firefox
+
+    - Geef driemaal ```ALT+F4``` om de drie vensters op het eerste werkblad te sluiten
+
+    - Geef ```ALT+TAB``` om Software de focus te geven
+
+    - Geef tweemaal ```ALT+F4``` om Software en Hulp te sluiten
+
+1. Venster meenemen naar ander werkblad
+
+    - Open Firefox met ```SUPER+1```
+
+    - Open LibreOffice writer ```SUPER+3```
+
+    - Open een extra writer venster met ```CTRL+N```
+
+    - Ga met "Geen titel 2" naar het werkblad rechts van deze door ```SUPER+SHIFT+PageDown``` te geven
+
+    - Ga terug naar het eerste werkblad met ```SUPER```, ```PageUp```, ```SUPER```
+
+    - Welke venters staan hier?
+
+    - Ga weer terug naar het tweede werkblad met ```SUPER```, ```PageDown```, ```SUPER```
+
+    - Welke venster staat hier?
+
+    - Sluit al deze vensters met ```ALT+F4``` zonder de muis te gebruiken (*Hint*: ```SUPER```, ```PageUp```, ```SUPER``` )
+    
+1. Venster verplaatsen naar ander werkblad via venstermenu
+
+    - Open Firefox met ```SUPER+1```
+
+    - Open LibreOffice writer ```SUPER+3```
+
+    - Open een extra writer venster met ```CTRL+N```
+
+    - Open het venstermenu van het "Geen titel 2" venster met ```ALT+SPATIEBALK```
+
+    - Ga met de pijltjes naar "Naar werkblad rechts" en druk ```SPATIEBALK```
+
+    - Ga naar het tweede werkblad met ```SUPER+PageDown```
+
+    - Welk venster staat daar?
+
+    - Ga terug naar het eerste werkblad met ```SUPER```, ```PageUp```, ```SUPER```
+
+    - Welke venters staan hier?
+
+    - Sluit al deze vensters met ```ALT+F4``` zonder de muis te gebruiken (*Hint*: ```SUPER```, ```PageDown```, ```SUPER``` )
+
+1. In activiteiten modus focus wisselen tussen elementen
+
+    - Ga activiteiten modus in met ```SUPER```
+
+    - Druk ```ALT+CTRL+[TAB*]``` (```[TAB*]``` betekent hier 1 of meer keer ```TAB```)
+
+        - Houdt met de rechterhand ```CTRL``` ingedrukt
+
+        - Met de linkerhand ```ALT+[TAB*]```
+
+    - Noem de verschillende componenten op (vijf stuks) waar de focus naar toe kan
+
+    - Probeer al deze vijf componenten uit (met pijltjes toetsen en spatiebalk of enter)
+
+1. Omschrijf in uw eigen woorden wat een werkblad in GNOME is.
+
+1. Waarvoor kunt u werkbladen gebruiken?
+
+1. Noem twee manieren om tussen werkbladen te wisselen (er zijn er drie)?
+
+1. Welke twee manieren kent u om een venster naar een ander werkblad te verplaatsen (terwijl u op het huidige werkblad blijft)?
+
+1. Hoe wisselt u van werkblad terwijl u het venster dat de focus heeft meeneemt?
+
 
 # Toepassingen installeren
 
