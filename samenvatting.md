@@ -476,6 +476,8 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
 
     - Venstermenu
 
+    - Slepen aan titelbalk tot boven de bovenbalk
+
 - Verplaatsen
 
     - Aan de titelbalk slepen
@@ -504,7 +506,7 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
 
         - ```CTRL``` met pijltjes kleine stapjes
 
--  Minimaliseren
+-  Verbergen
 
     - ```SUPER+H``` of venstermenu
 

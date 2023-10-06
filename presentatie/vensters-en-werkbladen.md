@@ -116,7 +116,7 @@ title: Vensters en werkbladen
 
 - Vergroten/verkleinen
 
-- Minimaliseren
+- Verbergen
 
 -  Helft van het scherm gebruiken
 ---
@@ -136,7 +136,7 @@ title: Vensters en werkbladen
 
 - Venstermenu
 
-- Slepen aan titelbalk tot boevn de bovenbalk
+- Slepen aan titelbalk tot boven de bovenbalk
 
 ---
 ##### Voorbeeld maximaliseren en herstellen met venstermenu
@@ -168,7 +168,11 @@ title: Vensters en werkbladen
 ![width:1000px](img/venster-verplaatsen-door-slepen-aan-titelbalk.gif)
 
 ---
+##### Voorbeeld verplaatsen naar de rand met ```SHIFT+←→↑↓```
 
+![width:1000px](img/vensters-werkbladen-verplaatsen-met-shift.gif)
+
+---
 ## Vergroten/verkleinen
 
 - Aan de randen slepen
@@ -197,6 +201,16 @@ title: Vensters en werkbladen
 Merk op dat het niet nodig is omdat u meerdere werkbladen hebt
 
 ---
+##### Voorbeeld verbergen en terughalen met ```ALT+TAB```
+
+![width:1000px](img/vensters-werkbladen-verbergen-alt-tab.gif)
+
+---
+##### Voorbeeld verbergen en terughalen in activiteiten modus
+
+![width:1000px](img/vensters-werkbladen-verbergen-activiteiten.gif)
+
+---
 ##  Helft scherm gebruiken
 
 - Links ```SUPER+←```
@@ -204,8 +218,18 @@ Merk op dat het niet nodig is omdat u meerdere werkbladen hebt
 - Rechts ```SUPER+→```
 
 ---
+##### Voorbeeld helft van het scherm gebruiken met ```SUPER+←→```
+
+![width:1000px](img/vensters-werkbladen-helft-van-scherm.gif)
+
+---
 ##  Achtergrond aanpassen
 
 - Context menu bureaublad 
 
 ![bg right width:100%](img/bureaublad-context-menu.png)
+
+---
+##### Voorbeeld achtergrond aanpassen 
+
+![width:1000px](img/vensters-werkbladen-achtergrond-aanpassen.gif)
