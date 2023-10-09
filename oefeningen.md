@@ -1301,6 +1301,111 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Sluit Firefox met ```ALT+F4```
 
+1. Verplaatsen van LibreOffice writer via sneltoets
+
+    - Open writer met ```SUPER+3``` 
+
+    - Indien nodig herstel het venster met ```SUPER+↓``` 
+
+    - Ga naar verplaats modus met ```ALT+F7```
+
+    - Beweeg het venster naar de rechter benedenhoek van het scherm en klik eenmaal met de muis
+
+    - Ga naar verplaats modus met ```ALT+F7```
+
+    - Beweeg het venster naar de linker bovenhoek van het scherm en druk ```ESC```. Wat gebeurde er? Waarom gebeurde dit?
+
+    - Sluit het venster met ```ALT+F4```
+
+1. Verplaatsen van LibreOffice writer via sneltoetsen
+
+    - Open writer met ```SUPER+3``` 
+
+    - Indien nodig herstel het venster met ```SUPER+↓``` 
+
+    - Ga naar verplaats modus met ```ALT+F7```
+
+    - Geef het venster met de pijltjes een nieuwe plek op het scherm
+
+    - Wat gebeurt er als u ```ESC``` indrukt?
+
+    - Herhaal de laatste twee stappen, maar druk nu ```ENTER``` in plaats van ```ESC``` in de laatste stap
+
+    - Sluit het venster met ```ALT+F4```
+
+1. Verplaatsen van LibreOffice writer via sneltoets naar de randen van het scherm
+
+    - Open writer met ```SUPER+3``` 
+
+    - Indien nodig herstel het venster met ```SUPER+↓``` 
+
+    - Ga naar verplaats modus met ```ALT+F7```
+
+    - Verplaats het scherm naar de rechter rand met ```SHIFT+→```
+
+    - Verplaats het scherm naar de beneden rand met ```SHIFT+↓```
+
+    - Verplaats het scherm naar de linker benedenhoek met ```SHIFT+←```
+
+    - Verplaats het scherm naar de linker bovenhoek met ```SHIFT+↑```
+
+    - Wat gebeurt er als u ```ESC``` indrukt?
+
+    - Herhaal de laatste zes stappen, maar druk nu ```ENTER``` in plaats van ```ESC``` in de laatste stap
+
+    - Sluit het venster met ```ALT+F4```
+
+1. Precies verplaatsen van LibreOffice writer via sneltoetsen
+
+    - Open writer met ```SUPER+3``` 
+
+    - Indien nodig herstel het venster met ```SUPER+↓``` 
+
+    - Ga naar verplaats modus met ```ALT+F7```
+
+    - Geef het venster met de pijltjes een nieuwe plek op het scherm. En verfijn deze plek het de ```CTRL``` pijltjes combinaties.
+
+    - Druk ```ENTER```
+
+    - Sluit het venster met ```ALT+F4```
+
+1. Verplaatsen van LibreOffice writer via venstermenu
+
+    - Open writer met ```SUPER+3``` 
+
+    - Indien nodig herstel het venster met ```SUPER+↓``` 
+
+    - Open het venstermenu met ```ALT+SPATIEBALK```
+
+    - Activeer het "Verplaatsen" item door driemaal ```↓``` te geven, gevolgd door ```SPATIEBALK```. U bent nu in verplaatsen modus.
+
+    - Gebruik twee toetsencombinaties om het venster in de rechter benedenhoek van het scherm te krijgen en bevestig dit met ```ENTER```
+
+    - Sluit het venster met ```ALT+F4```
+
+1. Verplaatsen van de bestandsbeheerder door de titelbalk te slepen
+
+    - Open de bestandsbeheerder met ```SUPER+E``` 
+
+    - Sleep het venster aan de titelbalk naar een nieuwe plek. Merk op dat u geen vrije plek op de titelbalk nodig hebt. Probeer het ook eens door de adresbalk te verslepen.
+
+    - Sluit het venster met ```ALT+F4```
+    
+1. Slepen met de Firefox titelbalk
+
+    - Open Firefox ```SUPER+1``` 
+
+    - Zoek op met welke sneltoets u een nieuw tabblad opent
+
+    - Gebruik deze sneltoets tot de titelbalk vol zit met tabbladen
+
+    - Probeer nu het venster te verplaatsen door de titelbalk te verslepen. Wat gebeurt er allemaal?
+
+    - Wat gebeurt er als u een tabblad op de titelbalk versleept en loslaat?
+
+    - Sluit alle venster van Firefox met ```ALT+F4```
+
+
 # Toepassingen installeren
 
 1.  Welke toepassing moet u starten om updates uit te voeren?
