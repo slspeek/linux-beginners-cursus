@@ -15,6 +15,34 @@
 	// 	],
 	// 	"description": "Log output to console"
 	// }
+	"Down arrow": {
+		"scope": "markdown",
+		"prefix": "darr",
+		"body": [
+			"↓"
+		]
+	},
+	"Up arrow": {
+		"scope": "markdown",
+		"prefix": "uarr",
+		"body": [
+			"↑"
+		]
+	},
+	"Left arrow": {
+		"scope": "markdown",
+		"prefix": "larr",
+		"body": [
+			"←"
+		]
+	},
+	"Right arrow": {
+		"scope": "markdown",
+		"prefix": "rarr",
+		"body": [
+			"→"
+		]
+	},
 
 	"Fullscreen image": {
 		"scope": "markdown",

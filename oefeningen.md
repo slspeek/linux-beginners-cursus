@@ -983,7 +983,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 1. Met welke sneltoets kunt terug gaan naar de lokatie waar u was? En met welke weer vooruit  (*Hint: dit heet "Ga terug" en "Ga verder"*)?
 Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Documenten``` en dan naar ```Afbeeldingen/Schermafdrukken``` en probeert de gevonden sneltoetsen uit.
 
-#  Werkbladen en vensters
+#  Vensters en werkbladen
 
 1. Wisselen tussen twee toepassingen op één werkblad
 
@@ -1243,18 +1243,6 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
     a. verwijder het bestand weer
 
 1. Verwijder je online account
-
-# Gebruikersbeheer
-
-1. Gebruiker toevoegen (```Linus```)
-
-1. Wachtwoord veranderen (```linus```)
-
-1. Plaatje veranderen (```Linus```)
-
-1. Gebruiker wisselen (Van ```tux``` naar ```linus```)
-
-1. Log uit van ```linus```
 
 # Speciale tekens
 

@@ -34,3 +34,5 @@ date: \today{}
 1. [Vensters en werkbladen](vensters-en-werkbladen.html)
 
 1. [Instellingen](instellingen.html)
+
+1. [Toepassingen installeren](toepassingen-installeren.html)
