@@ -1191,10 +1191,119 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
 1. Hoe wisselt u van werkblad terwijl u het venster dat de focus heeft meeneemt?
 
+1. Op twee manieren openen van het venstermenu van LibreOffice writer
+
+    - Open de bestandsbeheerder met ```SUPER+3``` 
+
+    - Klik rechts in titelbalk om het venstermenu te openen
+
+    - Klik ergens naast het menu om het te sluiten
+
+    - Open het venstermenu met ```ALT+SPATIEBALK```
+
+    - Sluit het venster door op "Sluiten" in dit menu te klikken
+
+1. Op twee manieren openen van het venstermenu van de bestandsbeheerder
+
+    - Open de bestandsbeheerder met ```SUPER+E``` 
+
+    - Klik rechts op een vrij stukje in titelbalk om het venstermenu te openen
+
+    - Klik ergens naast het menu om het te sluiten
+
+    - Open het venstermenu met ```ALT+SPATIEBALK```
+
+    - Sluit het venster door op "Sluiten" in dit menu te klikken
+
+1. Op twee manieren openen van het venstermenu van Firefox
+
+    - Open de bestandsbeheerder met ```SUPER+1``` 
+
+    - Klik rechts op een vrij stukje in titelbalk. Merk op dat een ander menu gerelateerd aan de tabbladen wordt getoond. Klik nogmaals rechts om het venstermenu te openen.
+
+    - Klik ergens naast het menu om het te sluiten
+
+    - Open het venstermenu met ```ALT+SPATIEBALK```
+
+    - Sluit het venster door op "Sluiten" in dit menu te klikken
+
+1. Wat is de meest betrouwbare en eenduidige wijze om het verstermenu te openen?
+
+1. Maximaliseren en herstellen van LibreOffice writer
+
+    - Open LibreOffice writer met ```SUPER+3``` 
+
+    - Maximaliseer het venster met ```SUPER+↑``` 
+
+    - Herstel het venster met ```SUPER+↓``` 
+
+    - Maximaliseer het venster nu door op de titelbalk dubbel te klikken
+
+    - Herstel het venster door op de titelbalk dubbel te klikken
+
+    - Maximaliseer het venster door de titelbalk tot boven de bovenbalk te slepen (Merk op dat het hele scherm blauw wordt om aan te geven dat u op het punt staat het venster te maximaliseren).
+
+    - Herstel het venster door de titelbalk naar beneden te slepen
+
+    - Maximaliseer het venster nu via het venstermenu dat u met ```ALT+SPATIEBALK``` opent
+
+    - Herstel het venster via het venstermenu dat u met ```ALT+SPATIEBALK``` opent
+
+    - Sluit writer met ```ALT+F4```
+    
+1. Maximaliseren en herstellen van de bestandsbeheerder
+
+    - Open LibreOffice writer met ```SUPER+E``` 
+
+    - Maximaliseer het venster met ```SUPER+↑``` 
+
+    - Herstel het venster met ```SUPER+↓``` 
+
+    - Maximaliseer het venster nu door op een vrij stuk in de titelbalk dubbel te klikken
+
+    - Herstel het venster door op een vrij stuk in de titelbalk dubbel te klikken
+
+    - Maximaliseer het venster door een vrij stuk van de titelbalk tot boven de bovenbalk te slepen (Merk op dat het hele scherm blauw wordt om aan te geven dat u op het punt staat het venster te maximaliseren).
+
+    - Herstel het venster door een vrij stuk van de titelbalk naar beneden te slepen
+
+    - Maximaliseer het venster nu via het venstermenu dat u met ```ALT+SPATIEBALK``` opent
+
+    - Herstel het venster via het venstermenu dat u met ```ALT+SPATIEBALK``` opent
+
+    - Sluit de bestandsbeheerder met ```ALT+F4```
+
+1. Maximaliseren en herstellen van Firefox
+
+    - Open Firefox met ```SUPER+1``` 
+
+    - Maximaliseer het venster met ```SUPER+↑``` 
+
+    - Herstel het venster met ```SUPER+↓``` 
+
+    - Maximaliseer het venster nu door op een vrij stuk van de titelbalk dubbel te klikken
+
+    - Herstel het venster door op een vrij stuk van de titelbalk dubbel te klikken
+
+     - Maximaliseer het venster door een vrij stuk van de titelbalk tot boven de bovenbalk te slepen (Merk op dat het hele scherm blauw wordt om aan te geven dat u op het punt staat het venster te maximaliseren).
+
+    - Herstel het venster door een vrij stuk van de titelbalk naar beneden te slepen
+
+    - Open nu door zevenmaal ```CTRL+T``` in de drukken nog zeven lege tabbladen
+
+    - Lukt het u nog om ofwel via dubbelklikken op de titelbalk te maximaliseren en te herstellen of door het slepen van de titelbalk te maximaliseren en herstellen? Gebruik eventueel ```ALT+F4``` om onbedoeld onstane vensters te sluiten.
+
+    - Sluit de zeven extra lege tabbladen weer met ```CTRL+W```
+
+    - Maximaliseer het venster nu via het venstermenu dat u met ```ALT+SPATIEBALK``` opent
+
+    - Herstel het venster via het venstermenu dat u met ```ALT+SPATIEBALK``` opent
+
+    - Sluit Firefox met ```ALT+F4```
 
 # Toepassingen installeren
 
-1. Welke toepassing moet u starten om updates uit te voeren?
+1.  Welke toepassing moet u starten om updates uit te voeren?
 
 1.  Standaard applicatie wijzigen
 
