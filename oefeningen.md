@@ -1405,6 +1405,63 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Sluit alle venster van Firefox met ```ALT+F4```
 
+1. Grootte van LibreOffice writer venster aanpassen de met muis
+
+    - Open writer met ```SUPER+3``` 
+
+    - Ga na door de muis nauwkeurig boven de hoeken van het venster te bewegen dat u de volgende cursors kunt krijgen ![](img/resize-cursors/top_left_corner.png){width=25px} ![](img/resize-cursors/top_right_corner.png){width=25px} ![](img/resize-cursors/bottom_right_corner.png){width=25px} ![](img/resize-cursors/bottom_left_corner.png){width=25px}
+
+    - Ga na door de muis nauwkeurig boven de randen van het venster te bewegen dat u de volgende cursors kunt krijgen ![](img/resize-cursors/left_side.png){width=25px} ![](img/resize-cursors/right_side.png){width=25px} ![](img/resize-cursors/top_side.png){width=25px} ![](img/resize-cursors/bottom_side.png){width=25px}
+
+    - Merk op dat dit best iets vraagt van de fijne motoriek
+
+    - Sluit writer met ```ALT+F4```
+    
+1. Grootte van Firefox aanpassen via het venstermenu en muis.
+
+    - Open Firefox met ```SUPER+1``` 
+
+    - Open het venstermenu met ```ALT+SPATIEBALK```
+
+    - Druk viermaal ```↓``` gevolgd door ```SPATIEBALK```
+
+    - Beweeg nu de muis richting één van de hoeken om één van deze cursors te krijgen ![](img/resize-cursors/top_left_corner.png){width=25px} ![](img/resize-cursors/top_right_corner.png){width=25px} ![](img/resize-cursors/bottom_right_corner.png){width=25px} ![](img/resize-cursors/bottom_left_corner.png){width=25px} (*Hint*: Druk ```ESC``` als het fout gaat en ga opnieuw grootte aanpas modus in met ```ALT+F8```). Zorg dat alle vier de richtingen hebt geoefend.
+
+    - Ga grootte wijzigen modus in met ```ALT+F8```. Beweeg nu de muis richting één van de randen om één van de volgende cursors te krijgen ![](img/resize-cursors/left_side.png){width=25px} ![](img/resize-cursors/right_side.png){width=25px} ![](img/resize-cursors/top_side.png){width=25px} ![](img/resize-cursors/bottom_side.png){width=25px}. Herhaal deze stap totdat u alle richtingen hebt gehad.
+
+    - Sluit Firefox met ```ALT+F4```
+    
+1. Grootte van Firefox aanpassen met sneltoetsen
+
+    - Open Firefox met ```SUPER+1``` 
+
+    - Ga grootte aanpas modus in met ```ALT+F8```
+
+    - Gebruik de pijltjes om de grootte aan te passen. Wat kunt u zeggen over wat het eerste pijltje doet wat u indrukt? Gebruik ```ENTER``` om de nieuwe grootte te accepteren.
+
+    - Hoe had u de nieuwe grootte kunnen annuleren? Probeer dit uit.
+
+    - Sluit Firefox met ```ALT+F4```
+
+1. Grootte van Firefox aanpassen met grote stappen met sneltoetsen
+
+    - Open Firefox met ```SUPER+1``` 
+
+    - Ga grootte aanpas modus in met ```ALT+F8```
+
+    - Gebruik de ```SHIFT``` met de pijltjes om de grootte aan te passen. Gebruik ```ENTER``` om de nieuwe grootte te accepteren.
+
+    - Sluit Firefox met ```ALT+F4```
+
+1. Grootte van Firefox aanpassen per pixel met sneltoetsen
+
+    - Open Firefox met ```SUPER+1``` 
+
+    - Ga grootte aanpas modus in met ```ALT+F8```
+
+    - Gebruik de pijltjes om de grootte aan te passen. Gebruik nu ```CTRL``` met de pijltjes om het venster per pixel te vergroten of verkleinen. Gebruik ```ENTER``` om de nieuwe grootte te accepteren.
+
+    - Sluit Firefox met ```ALT+F4```
 
 # Toepassingen installeren
 
