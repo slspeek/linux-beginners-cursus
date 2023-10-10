@@ -1463,6 +1463,128 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Sluit Firefox met ```ALT+F4```
 
+1. Venster verbergen en terughalen via avtiviteiten modus
+
+    - Open Firefox met ```SUPER+1``` 
+
+    - Open de bestandsbeheerder ```SUPER+E``` 
+
+    - Open het venstermenu van de bestandsbeheerder met ```ALT+SPATIEBALK```
+
+    - Activeer het item "Verbergen" (```↓ SPATIEBALK```)
+
+    - Merk op dat u slechts het Firefox venster nog op het scherm ziet
+
+    - Ga met ```SUPER``` activiteiten modus in
+
+    - Selecteer met de pijltjes het bestandsbeheer venster en druk ```ENTER```
+
+    - Sluit beide vensters met ```ALT+F4```
+    
+1. Venster verbergen en terughalen met ```ALT+TAB```
+
+    - Open Firefox met ```SUPER+1``` 
+
+    - Open de bestandsbeheerder ```SUPER+E``` 
+
+    - Open het venstermenu van de bestandsbeheerder met ```ALT+SPATIEBALK```
+
+    - Activeer het item "Verbergen" (```↓ SPATIEBALK```)
+
+    - Merk op dat u slechts het Firefox venster nog op het scherm ziet
+
+    - Maak nu met ```ALT+TAB``` de bestandsbeheerder weer zichtbaar
+    
+    - Sluit beide vensters met ```ALT+F4```
+    
+1. Venster verbergen met sneltoets en terughalen met ```ALT+TAB```
+
+    - Open Firefox met ```SUPER+1``` 
+
+    - Open de bestandsbeheerder ```SUPER+E``` 
+
+    - Verberg de bestandsbeheerder met ```SUPER+H``` 
+
+    - Maak nu met ```ALT+TAB``` de bestandsbeheerder weer zichtbaar
+    
+    - Sluit beide vensters met ```ALT+F4```
+    
+1. Venster verbergen met sneltoets en terughalen via activiteiten modus
+
+    - Open Firefox met ```SUPER+1``` 
+
+    - Open de bestandsbeheerder ```SUPER+E``` 
+
+    - Verberg de bestandsbeheerder met ```SUPER+H``` 
+
+    - Ga met ```SUPER``` activiteiten modus in
+
+    - Selecteer met de pijltjes het bestandsbeheer venster en druk ```ENTER```
+
+    - Sluit beide vensters met ```ALT+F4```
+
+1. Twee writer vensters gelijk over het scherm verdelen
+
+    - Open LibreOffice writer ```SUPER+3``` 
+
+    - Geef dit venster de linkerhelft van het scherm met ```SUPER+←``` 
+
+    - Open een extra writer venster met ```CTRL+N```
+
+    - Geef dit venster de rechterhelft van het scherm met ```SUPER+→```
+
+    - Sluit beide vensters in één keer met ```CTRL+Q```
+    
+1. Twee vensters gelijk over het scherm verdelen
+
+    - Open LibreOffice writer ```SUPER+3``` 
+
+    - Geef dit venster de linkerhelft van het scherm met ```SUPER+←``` 
+
+    - Open Firefox met ```SUPER+1``` 
+
+    - Geef dit venster de rechterhelft van het scherm met ```SUPER+→```
+
+    - Sluit beide vensters met ```ALT+F4```
+
+1. Achtergrond aanpassen
+
+    - Zorg dat u de achtergrond kunt zien, ga eventueel naar een vers werkblad met ```SUPER+END``` 
+
+    - Open het context menu van het bureaublad (rechtsklikken op bureaublad)
+
+    - Activeer het item "Achtergrond aanpassen..."
+
+    - Zorg dat u de achtergrond kunt zien door het instellingens venster te herstellen met ```SUPER+↓``` 
+
+    - Kies een andere achtergrond en sluit het instellingen venster met ```ALT+F4```
+    
+    - Terugzetten van de originele achtergrond
+
+        - Open het context menu van het bureaublad (rechtsklikken op bureaublad)
+
+        - Activeer het item "Achtergrond aanpassen..."
+
+        - Zorg dat u de achtergrond kunt zien door het instellingens venster te herstellen met ```SUPER+↓``` 
+
+        - Kies de vijfde achtergrond uit de mogelijkheden en sluit het instellingen venster met ```ALT+F4```
+
+1. Achtergrond aanpassen met gedownloade afbeelding
+
+    - Open Firefox en zoek op "Debian background" en ga naar Google Afbeeldingen
+
+    - Kies er één uit en download deze in de map Afbeeldingen (Open het context menu op de afbeelding en kies "Afbeeldinge opslaan als...")
+
+    - Sluit Firefox met ```ALT+F4```
+    
+    - Open de bestandsbeheerder met ```SUPER+E``` 
+
+    - Ga naar "Afbeeldingen" door op linker paneel op "Afbeeldingen" te klikken
+
+    - Open het contextmenu van de afbeelding en kies "Instellen als bureaubladachtergrond..." en accepteer de afbeelding door op de knop "Instellen" te klikken
+
+    - Volg de stappen van "terugzetten van de originele achtergrond" van de vorige opgave
+
 # Toepassingen installeren
 
 1.  Welke toepassing moet u starten om updates uit te voeren?
