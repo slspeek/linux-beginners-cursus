@@ -528,11 +528,31 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
 
 # Instellingen
 
+## Instellingen toepassing openen
+
+- ```SUPER+I``` 
+
+- Systeemmenu ![](img/systeem-menu-gesloten.png){height=25px} -> ![](img/instellingen-knop.png){height=25px}
+
+- ```SUPER inst ENTER``` 
+
+## Donker thema inschakelen
+
+- Instellingen -> Weergave -> Stijl -> Donker
+
+![Weergave stijl](img/instellingen-weergave-stijl.png){width=400px}
+
 ## Schermvergrendeling uitschakelen
 
 - Instellingen -> Privacy -> Scherm -> Automatische schermvergrendeling
 
 ![Schermvergrendeling in de instellingen toepassing](img/instellingen-privacy-scherm.png){width=400px}
+
+## Nachtlicht
+
+- Via systeemmenu ![](img/systeem-menu-gesloten.png){height=25px}
+
+- Instellingen -> Schermen -> Nachtlicht
 
 ## Toegankelijkheid
 
@@ -541,12 +561,6 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
 - Menu in bovenbalk ![](img/toegankelijkheidsmenu.png){width=30px}
 
 - Grote letters
-
-## Nachtlicht
-
-- Via systeemmenu ![](img/systeem-menu-gesloten.png){height=25px}
-
-- Instellingen -> Schermen -> Nachtlicht
 
 ## Speciale tekens invoeren
 
@@ -602,11 +616,9 @@ Voor invoeren via het zoekveld kunt de volgende namen gebruiken
 
 -  Instellingen -> Online accounts -> Google
 
-    -  toon kalender
-
     -  drive
 
-__N.B.__ Microsoft account werkt **niet**.
+<!-- __N.B.__ Microsoft account werkt **niet**. -->
 
 # Toepassingen installeren
 

@@ -1573,7 +1573,7 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Open Firefox en zoek op "Debian background" en ga naar Google Afbeeldingen
 
-    - Kies er één uit en download deze in de map Afbeeldingen (Open het context menu op de afbeelding en kies "Afbeeldinge opslaan als...")
+    - Kies er één uit en download deze in de map Afbeeldingen (Open het context menu op de afbeelding en kies "Afbeelding opslaan als...")
 
     - Sluit Firefox met ```ALT+F4```
     
