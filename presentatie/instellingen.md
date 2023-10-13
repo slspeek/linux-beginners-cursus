@@ -130,6 +130,21 @@ Voor invoeren via het zoekveld kunt de volgende namen gebruiken
 - Eigennaam wijzigen
 
 ---
+##### Voorbeeld eigennaam aanpassen
+
+![width:1000px](img/instellingen-gebruikers-eigennaam.gif)
+
+---
+##### Voorbeeld gebruikers plaatje aanpassen
+
+![width:1000px](img/instellingen-gebruikers-plaatje.gif)
+
+---
+##### Resultaat op het vergrendelscherm
+
+![width:1000px](img/instellingen-gebruikers-resultaat.png)
+
+---
 ## Online account toevoegen
 
 -  Instellingen -> Online accounts -> Google
