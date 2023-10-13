@@ -83,24 +83,36 @@ title: Instellingen
 
 - Tekens en symbolen
 
+- Unicode code ```CTRL+SHIFT+U XXXX SPATIEBALK```
+
+- Via toepassing zelf (lang niet altijd mogelijk)
+
 Zie vooral ook deze webpagina [*GNOME tip speciale tekens*](https://help.gnome.org/users/gnome-help/stable/tips-specialchars.html.nl)
 
 ---
 ### Speciale tekens via samensteltoets
 
 - Instellingen -> Toetsenbord -> Invoer voor speciale tekens
+
+- Samensteltoets op Rechter alt zetten
+
+![bg right width:100%](img/instellingen-samensteltoets.png)
+
+---
+-  |Teken|Toetsencombinatie|
+    |:---:|:---| 
+    | é| ```COMPOSE ' e```|
+    | è| ```COMPOSE ` e```|
+    | ë |```COMPOSE " e```|
+    | ē | ```COMPOSE - e```|
+    | ê | ```COMPOSE ^ e```|
     
-- Samensteltoets op rechter alt zetten 
+-  [*Voor combinaties zie deze webpagina*](https://en.wikipedia.org/wiki/Compose_key#Common_compose_combinations)
 
-- [*Voor combinaties zie deze webpagina*](https://en.wikipedia.org/wiki/Compose_key#Common_compose_combinations)
+---
+##### Voorbeeld samensteltoets op rechter alt zetten
 
-- het euroteken € krijgt u door
-    
-    - ```COMPOSE = c```
-
-    - ```SUPER euro sign ↓ ENTER```
-
-    - ```CTRL+SHIFT+u 20AC SPATIEBALK```
+![width:1000px](img/instellingen-samensteltoets.gif)
 
 ---
 ### Speciale tekens via het zoekvak
@@ -114,6 +126,10 @@ Voor invoeren via het zoekveld kunt de volgende namen gebruiken
 | ë | Diaeresis|
 | ē | Macron|
 | ê | Circumflex|
+---
+##### Voorbeeld speciale tekens via het zoekvak
+
+![width:1000px](img/instellingen-speciale-tekens-zoekvak.gif)
 
 ---
 ### Speciale tekens via "Tekens en symbolen" 
@@ -121,6 +137,23 @@ Voor invoeren via het zoekveld kunt de volgende namen gebruiken
 ![](img/tekens-symbolen-icon.png)
 
 - ```SUPER sym ENTER```
+---
+##### Voorbeeld speciale tekens via "Tekens en symbolen"
+
+![width:1000px](img/instellingen-speciale-tekens-tekens-en-symbolen.gif)
+
+---
+### Euroteken € krijgt u door
+    
+- ```COMPOSE = c```
+
+- ```SUPER euro sign ↓ ENTER```
+
+- ```CTRL+SHIFT+u 20AC SPATIEBALK```
+
+- Tekens en symbolen ![](img/tekens-symbolen-icon.png)
+
+![bg right width:100%](img/euroteken-in-tekens-en-symbolen.png)
 
 ---
 ## Gebruikers instellingen

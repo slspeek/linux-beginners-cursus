@@ -570,6 +570,8 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
 
 - Tekens en symbolen
 
+- Unicode code ```CTRL+SHIFT+U XXXX SPATIEBALK```
+
 Zie vooral ook deze webpagina [*GNOME tip speciale tekens*](https://help.gnome.org/users/gnome-help/stable/tips-specialchars.html.nl)
 
 ### Speciale tekens via samensteltoets
@@ -578,15 +580,16 @@ Zie vooral ook deze webpagina [*GNOME tip speciale tekens*](https://help.gnome.o
     
 - Samensteltoets op rechter alt zetten 
 
+-   |Teken|Toetsencombinatie|
+    |:---:|:---| 
+    | é| ```COMPOSE ' e```|
+    | è| ```COMPOSE ` e```|
+    | ë |```COMPOSE " e```|
+    | ē | ```COMPOSE - e```|
+    | ê | ```COMPOSE ^ e```|
+
+
 - [*Voor combinaties zie deze webpagina*](https://en.wikipedia.org/wiki/Compose_key#Common_compose_combinations)
-
-- het euroteken € krijgt u door
-    
-    - ```COMPOSE = c```
-
-    - ```SUPER euro sign ↓ ENTER```
-
-    - ```CTRL+SHIFT+u 20AC SPATIEBALK```
 
 ### Speciale tekens via het zoekvak
 
@@ -605,6 +608,14 @@ Voor invoeren via het zoekveld kunt de volgende namen gebruiken
 ![](img/tekens-symbolen-icon.png){width=60px}
 
 - ```SUPER sym ENTER```
+
+### het euroteken € krijgt u door
+    
+- ```COMPOSE = c```
+
+- ```SUPER euro sign ↓ ENTER```
+
+- ```CTRL+SHIFT+u 20AC SPATIEBALK```
 
 ## Gebruikers instellingen
 
