@@ -629,6 +629,8 @@ Voor invoeren via het zoekveld kunt de volgende namen gebruiken
 
     -  drive
 
+    -  email
+
 <!-- __N.B.__ Microsoft account werkt **niet**. -->
 
 # Toepassingen installeren

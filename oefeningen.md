@@ -1585,6 +1585,177 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Volg de stappen van "terugzetten van de originele achtergrond" van de vorige opgave
 
+# Instellingen
+
+1. Op welke manieren kun je instellingen openen? Noem er drie (er zijn er minstens vier).
+
+1. Stel donker thema in
+
+    - Open instellingen met ```SUPER+I``` 
+
+    - Selecteer in het linkerpaneel "Weergave"
+
+    - Kies aan de rechterzijde onder "Stijl" de "Donker" optie
+
+    - Sluit instellingen met ```ALT+F4```
+
+1. Schakel schermvergrendeling uit
+
+    - Open instellingen met ```SUPER+I``` 
+
+    - Selecteer in het linkerpaneel "Privacy"
+
+    - Selecteer in het linkerpaneel "Scherm"
+
+    - Zet aan de rechterzijde de schakelaar "Automatische schermvergrendeling" uit (de schakelaar wordt dan grijs).
+
+    - Sluit instellingen met ```ALT+F4```
+
+1. Zet nachtlicht aan via instellingen
+
+    - Open instellingen met ```SUPER+I``` 
+
+    - Selecteer in het linkerpaneel "Schermen"
+
+    - Selecteer aan de rechterzijde "Nachtlicht"
+
+    - Schakel handmatige planning in 
+
+    - Stel de tijden in op 10:00 tot 22:00
+
+    - Schakel het nachtlicht in
+
+    - Sluit instellingen met ```ALT+F4```
+
+1. Schakel het nachtlicht uit via het systeemmenu
+
+1. Stel grote letters in
+
+    - Open instellingen met ```SUPER+I``` 
+
+    - Selecteer in het linkerpaneel "Toegankelijkheid"
+
+    - Schakel onder het kopje "Zicht" de "Grote letters" optie in
+
+    - Sluit instellingen met ```ALT+F4```
+
+1. Zet de standaard stijl terug in het "Weergave" deel van de instellingen
+
+1. Zet schermvergrendeling in op 30 minuten onder "Schermen" van de afdeling "Privacy"
+
+1. Zet grote letters uit via toegankelijkheidsmenu ![](img/toegankelijkheidsmenu.png){height=25px} in bovenbalk
+
+1. Stel samensteltoets in op rechter alt
+
+    - Open instellingen met ```SUPER+I``` 
+
+    - Selecteer in het linkerpaneel "Toetsenbord"
+
+    - Stel onder het kopje "Invoer voor speciale tekens" de "Samensteltoets" in op "Rechter Alt"
+
+    - Sluit instellingen met ```ALT+F4```
+
+1. Speciale tekens invoeren via zoekvak
+
+    - Open "Tekstbewerker" door ```SUPER teks ENTER```
+
+    - Voer de volgende teksten in op aparte regels:
+
+        - Esmé 
+
+            - Type ```Esm```, dan ```SUPER e acute ↓ ENTER``` en dan ```CTRL+V```
+
+        - Daniël
+
+            - Type ```Dani```, dan ```SUPER e diaere ↓↓ ENTER``` en dan ```CTRL+V```, type tenslotte een ```l```
+
+        - €42,-
+
+            - ```SUPER euro sign ↓ ENTER``` en type dan ```42,-```
+
+    - Sla het document op onder de naam "zoekvak.txt" in "Documenten"
+    
+    - Sluit de tekstbewerker met ```ALT+F4```
+    
+
+1. Speciale tekens invoeren via "Tekens en symbolen" ![](img/tekens-symbolen-icon.png){height=25px}
+
+    - Open "Tekstbewerker" door ```SUPER teks ENTER```
+
+    - Voer de volgende teksten in op aparte regels:
+
+        - Esmé 
+
+            - Type ```Esm```
+            
+            - Open "Tekens en symbolen" door ```SUPER sym ENTER```
+            
+            - Selecteer onder "Letters" é 
+
+            - Klik in de popup op "Teken kopiëren"
+
+            - Schakel met ```ALT+TAB``` naar de tekstbewerker terug 
+            
+            - ```CTRL+V```
+
+        - Daniël
+
+            - Type ```Dani```
+
+            - Schakel met ```ALT+TAB``` naar "Tekens en symbolen"
+
+            - Selecteer onder "Letters" ë
+
+            - Klik in de popup op "Teken kopiëren"
+            
+            - Schakel met ```ALT+TAB``` naar de tekstbewerker terug 
+            
+            - ```CTRL+V```
+
+            - Type ```l```
+
+        - €42,-
+
+            - Schakel met ```ALT+TAB``` naar "Tekens en symbolen"
+
+            - Selecteer onder "Valute" €
+
+            - Klik in de popup op "Teken kopiëren"
+            
+            - Schakel met ```ALT+TAB``` naar de tekstbewerker terug 
+            
+            - ```CTRL+V```
+
+            - Type ```42,-```
+
+    - Sla het document op onder de naam "tekens-en-symbolen.txt" in "Documenten"
+    
+    - Sluit de tekstbewerker met ```ALT+F4```
+
+    - Sluit "Tekens en symbolen" met ```ALT+F4```
+    
+1. Speciale tekens invoeren via samensteltoets
+
+    - Open "Tekstbewerker" door ```SUPER teks ENTER```
+
+    - Voer de volgende teksten in op aparte regels:
+
+        - Esmé 
+
+            - Type ```Esm```, dan ```RECHTER_ALT ' e```
+
+        - Daniël
+
+            - Type ```Dani```, dan ```RECHTER_ALT " e``` en type tenslotte een ```l```
+
+        - €42,-
+
+            - ```RECHTER_ALT = c``` en type dan ```42,-```
+
+    - Sla het document op onder de naam "samensteltoets.txt" in "Documenten"
+    
+    - Sluit de tekstbewerker met ```ALT+F4```
+    
 # Toepassingen installeren
 
 1.  Welke toepassing moet u starten om updates uit te voeren?
@@ -1601,20 +1772,6 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     a. verwijder terminal als opstart toepassing
 
-#  Vensters, werkbladen en bureaubladen
-
-1. Pas achtergrond aan:
-
-    i. Klik rechts op leeg stuk bureaublad
-
-    i. Kies 'Achtergrond aanpassen ...'
-
-1. Schermbeveiliging uitschakelen
-
-    i. open 'Scherm' in instellingen (```SUPER```, ```schermin``` ```ENTER```)
-
-    i. schakel schermbeveiliging uit
-    
 # Online accounts
 
 1. Voeg een online account toe

@@ -183,6 +183,8 @@ Voor invoeren via het zoekveld kunt de volgende namen gebruiken
 -  Instellingen -> Online accounts -> Google
 
     -  drive
+
+    -  email
 ---
 ##### Voorbeeld Google account toevoegen
 
