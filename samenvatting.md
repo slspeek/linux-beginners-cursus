@@ -683,3 +683,6 @@ Voor invoeren via het zoekveld kunt de volgende namen gebruiken
 
 ![](img/opstarttoepassingen.png)
 
+- Open Afstellingen (```SUPER+SHIFT+I``` )
+
+- "Opstarttoepassingen"

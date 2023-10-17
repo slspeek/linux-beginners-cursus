@@ -79,17 +79,31 @@ title: Toepassingen installeren
 
 ![](img/standaardtoepassingen.png)
 
+---
+##### Voorbeeld standaardtoepassing Web aanpassen
+
+![width:1000px](img/installeren-standaard-toepassing-browser.gif)
+
+---
 ### Standaardtoepassing per bestandstype
 
-- Context menu -> "Openen met"
+Context menu -> "Openen met"
 
-- Kies toepassing en zet schakelaar "Altijd gebruiken voor dit bestandstype"
+![bg right height:100%](img/bestanden-contextmenu-pdf-bestand.png)
 
-![Context menu van een PDF bestand](img/bestanden-contextmenu-pdf-bestand.png){width=200px}
+---
+Kies toepassing en zet schakelaar "Altijd gebruiken voor dit bestandstype"
 
-![Dialoogvenster "Openen met"](img/bestanden-dialoogvenster-openen-met.png){width=200px}
 
-##  [*Opstarttoepassingen*](https://help.gnome.org/users/gnome-help/stable/shell-apps-auto-start.html.en)
+![bg right height:100%](img/bestanden-dialoogvenster-openen-met.png)
 
-![](img/opstarttoepassingen.png)
+---
+
+##  [*Opstart toepassingen*](https://help.gnome.org/users/gnome-help/stable/shell-apps-auto-start.html.en)
+
+![bg right width:100%](img/opstarttoepassingen.png)
+
+- Open Afstellingen (```SUPER+SHIFT+I``` )
+
+- "Opstarttoepassingen"
 
