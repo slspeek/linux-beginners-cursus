@@ -665,7 +665,7 @@ Voor invoeren via het zoekveld kunt de volgende namen gebruiken
 
 - Visual studio -->
 
-### Standaardtoepassingen
+## Standaardtoepassingen
 
 ![](img/standaardtoepassingen.png)
 
@@ -679,7 +679,7 @@ Voor invoeren via het zoekveld kunt de volgende namen gebruiken
 
 ![Dialoogvenster "Openen met"](img/bestanden-dialoogvenster-openen-met.png){width=200px}
 
-###  [*Opstarttoepassingen*](https://help.gnome.org/users/gnome-help/stable/shell-apps-auto-start.html.en)
+##  [*Opstarttoepassingen*](https://help.gnome.org/users/gnome-help/stable/shell-apps-auto-start.html.en)
 
 ![](img/opstarttoepassingen.png)
 
