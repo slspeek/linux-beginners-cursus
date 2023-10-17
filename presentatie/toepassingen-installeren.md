@@ -64,10 +64,17 @@ title: Toepassingen installeren
 
 - klik installeren
 
-<!-- - Google chrome
+---
+##### Voorbeeld downloaden .deb bestand voor Zoom
 
-- Visual studio -->
+![width:1000px](img/installeren-deb-download-zoom.gif)
 
+---
+##### Voorbeeld installeren Zoom uit .deb bestand
+
+![width:1000px](img/installeren-deb-zoom.gif)
+
+---
 ## Standaardtoepassingen
 
 ![](img/standaardtoepassingen.png)
