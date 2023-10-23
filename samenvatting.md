@@ -586,9 +586,9 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
 
 - Instellingen -> Toegankelijkheid
 
-- Menu in bovenbalk ![](img/toegankelijkheidsmenu.png){width=30px}
-
 - Grote letters
+
+- Menu in bovenbalk ![](img/toegankelijkheidsmenu.png){width=30px}
 
 ## Speciale tekens invoeren
 
