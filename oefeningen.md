@@ -1818,6 +1818,55 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Sluit instellingen af met ```ALT+F4```
 
+1. Google account toevoegen
+
+    - Indien u geen Google account hebt vraagt u dat nu aan (u kunt het aan het eind van deze les weer vernietigen als u dat wilt)
+
+    - Open instelligen met ```SUPER+I``` 
+
+    - Klik in het linkerpaneel op "Online accounts"
+
+    - Klik onder het kopje "Een account toevoegen" op "Google"
+
+    - Volg de stappen
+
+        - email of telefoonnummer 
+
+        - wachtwoord
+
+        - toestaan van de machtiging
+    
+    - Sluit instellingen met ```ALT+F4```
+    
+    - Open de bestandbeheerder en ga na dat uw drive is aangekoppeld (xxx@gmail.com)
+
+        - Kopieer ```samenvatting.pdf``` uit "Downloads" naar uw drive
+
+        - Inspecteer op uw telefoon dat u daar het bestand kunt openen
+
+    - Open evolution mail met ```SUPER+2``` en ga na dat u uw gmail daar ziet
+
+        - Verstuur een email naar uwzelf 
+
+        - Inspecteer op uw telefoon dat 
+    
+    - Open Agenda ```SUPER Agen ENTER``` 
+
+        - Bekijk uw Google agenda
+
+    - Sluit alle toepassingen
+
+    - Open instelligen met ```SUPER+I``` 
+
+    - Klik in het linkerpaneel op "Online accounts"
+
+    - Klik op uw Google account bovenaan de pagina
+
+    - Klik op de rode knop "Account verwijderen" (dit verwijdert uiteraard niet uw Google account, maar alleen de koppeling tussen uw account en deze computer).
+
+    - Sluit instellingen met ```ALT+F4```
+
+
 # Toepassingen installeren
 
 1.  Welke toepassing moet u starten om updates uit te voeren?
