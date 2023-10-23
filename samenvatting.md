@@ -608,16 +608,15 @@ Zie vooral ook deze webpagina [*GNOME tip speciale tekens*](https://help.gnome.o
     
 - Samensteltoets op rechter alt zetten 
 
--   |Teken|Toetsencombinatie|
-    |:---:|:---| 
-    | é| ```COMPOSE ' e```|
-    | è| ```COMPOSE ` e```|
-    | ë |```COMPOSE " e```|
-    | ē | ```COMPOSE - e```|
-    | ê | ```COMPOSE ^ e```|
+|Teken|Toetsencombinatie|
+|:---:|:---| 
+| é| ```COMPOSE ' e```|
+| è| ```COMPOSE ` e```|
+| ë |```COMPOSE " e```|
+| ē | ```COMPOSE - e```|
+| ê | ```COMPOSE ^ e```|
 
-
-- [*Voor combinaties zie deze webpagina*](https://en.wikipedia.org/wiki/Compose_key#Common_compose_combinations)
+- [*Voor meer combinaties zie deze webpagina*](https://en.wikipedia.org/wiki/Compose_key#Common_compose_combinations)
 
 ### Speciale tekens via het zoekvak
 
