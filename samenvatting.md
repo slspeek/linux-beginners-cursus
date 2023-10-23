@@ -13,86 +13,113 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
 # Rondleiding GNOME
 
--  Aanmelden in de displaymanager met account (gebruikersnaam=```tux```, wachtwoord=```tux```)
+## Aanmelden in de displaymanager
+Met account (gebruikersnaam=```tux```, wachtwoord=```tux```)
 
--  Schermbeveiliging
+##  Schermbeveiliging
 
-    -  Expres aanzetten (```SUPER+L```)
+-  Expres aanzetten (```SUPER+L```)
 
-    -  Wachtwoord invoeren om verder te kunnen gaan
+-  Wachtwoord invoeren om verder te kunnen gaan
 
--  Hulp openen (```SUPER+F1```)
+## Hulp openen
 
-    -  Zoeken in Hulp met ```CTRL+S```, zoeken op één pagina met ```CTRL+F```
+- ```SUPER+F1```
 
--  GNOME is een desktop manager
+- Zoeken in Hulp met ```CTRL+S```
 
--  Modi
+- Zoeken op één pagina met ```CTRL+F```
 
-    - Normale modus
+## GNOME is een desktop manager
 
-    - Activiteiten modus (```SUPER```)
+- GNOME is de standaard **desktop-manager**
 
-        - Toepassingen starten
+- regelt het tekenen van de window decoraties
 
-        - Documenten zoeken
+- voorziet in icons, toolbars, wallpapers en desktop widgets
 
-        - Toepassing wisselen
+- werkt met twee modi:
 
-        - Dash favoritieten verwijderen
+    1. Normale modus
 
-        - Applicatie modus 
+    1. Activiteiten modus
+
+##  Modi
+
+- Normale modus
+
+- Activiteiten modus (```SUPER```)
+
+    - Toepassingen starten
+
+    - Documenten zoeken
+
+    - Toepassing wisselen
+
+    - Dash favoritieten verwijderen
+
+    - Applicatie modus 
+    
+- Applicatie modus (```SUPER+A```)
+
+    - Toepassingen starten
         
-    - Applicatie modus (```SUPER+A```)
+    - Werkblad wisselen
 
-        - Toepassingen starten
-           
-        - Werkblad wisselen
+    - Toepassing slepen naar werkblad
 
-        - Toepassing slepen naar werkblad
+    - Dash aanpassen
 
-        - Dash aanpassen
+## Dash
 
--  Dash
+-  snelstarters voor veelgebruikte programma's
 
-    -  snelstarters voor veelgebruikte programma's
+-  overzicht open programma's
 
-    -  overzicht open programma's
+-  Sneltoetsen ```SUPER+1```, ```SUPER+2```, ...
+    Om te openen en later focus terug te geven
 
-    -  Sneltoetsen ```SUPER+1```, ```SUPER+2```, ...
-        Om te openen en later focus terug te geven
+## Bovenbalk
 
--  Bovenbalk
+-  Activiteiten knop 
 
-    -  Activiteiten knop 
+-  Toepassingen menu (later)
 
-    -  Toepassingen menu (later)
+-  Notificatie venster / Kalender (```SUPER+V```)
 
-    -  Notificatie venster / Kalender (```SUPER+V```)
-
-    -  Toegankelijkheidsmenu (indien er een toegankelijkheids optie aanstaat)
-
-    -  Systeemmenu
-
--  Notificatie venster (```SUPER+V```)
-
-    - kalender activeren met online-account
+-  Toegankelijkheidsmenu (indien er een toegankelijkheids optie aanstaat)
 
 -  Systeemmenu
 
-    - Volume regeling
+##  Notificatie venster
 
-    - Screenshots maken
-    
-    - Instellingen
+- ```SUPER+V```
 
-    - Netwerk instellingen
+- kalender activeren met online-account
 
-    - Vergrendeling
+##  Systeemmenu
 
-    - Uitschakelen en afmelden
+- Volume regeling
 
--  Uitschakelen (```ALT+CTRL+DEL```)
+- Screenshots maken
+
+- Instellingen
+
+- Netwerk instellingen
+
+- Vergrendeling
+
+- Uitschakelen en afmelden
+
+##  Uitschakelen
+Om de computer uit te schakelen
+
+- drukt u op ```ALT+CTRL+DELETE``` 
+
+- klikt u in het systeemmenu ![](img/systeem-menu-gesloten.png) op ![](img/afsluit-menu-knop.png) en dan op "Uitschakelen"
+![bg right height:100%](img/systeemmenu-afsluiten.png)
+
+- ```SUPER uits ENTER```
 
 # Toepassingen starten en afsluiten 
 
