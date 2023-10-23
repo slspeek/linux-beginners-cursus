@@ -1869,52 +1869,118 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
 # Toepassingen installeren
 
-1.  Welke toepassing moet u starten om updates uit te voeren?
+1. Welke toepassing moet u starten om updates uit te voeren?
 
-1.  Standaard applicatie wijzigen
+1. Bladeren in Software
 
-    a.  Web naar Chromium
+    - Open Software ```SUPER+5``` 
+
+    - Klik op "Maken" (oefen geduld uit)
+
+    - Scroll door de lijst
+
+    - Sluit Software met ```ALT+F4```
+
+1. Installeren van xpdf
+
+    - Open Software ```SUPER+5``` 
+
+    - Type ```xpdf```
+
+    - Ga naar de details van xpdf door erop te klikken
+
+    - Klik op "Installeren"
+
+    - Wachtwoord van beheerder is ```root```
+
+    - Sluit Software met ```ALT+F4```
+
+1. Installeren van Chromium
+
+    - Open Software ```SUPER+5``` 
+
+    - Type ```chromium web```
+
+    - Ga naar de details van "Chromium Web Browser" door erop te klikken
+
+    - Klik op "Installeren"
+
+    - Wachtwoord van beheerder is ```root```
+
+    - Sluit Software met ```ALT+F4```
+
+1. Standaard applicatie Web wijzigen naar Chromium
+
+    - Open standaardtoepassingen in Instellingen met ```SUPER standaa ENTER```
+
+    - Klik het lijstje van "Web" open en kies "Chromium"
+
+    - Sluit instellingen af met ```ALT+F4```
+    
+    - Open de bestandsbeheerder met ```SUPER+E``` 
+
+    - Ga naar "Downloads"
+
+    - Dubbelklik op "samenvatting.pdf"
+
+    - Scroll naar "Bestanden" -> "Bestanden op Linux" 
+
+    - Klik op de link *thuismap*
+
+    - Overtuig uzelf ervan dat deze link nu in Chromium wordt geopend
+
+    - Sluit bestandsbeheerder, Chromium en samenvatting.pdf
+
+    - Open standaardtoepassingen in Instellingen met ```SUPER standaa ENTER```
+
+    - Klik het lijstje van "Web" open en kies "Firefox"
+
+    - Sluit instellingen af met ```ALT+F4```
+    
+    - Open de bestandsbeheerder met ```SUPER+E``` 
+
+    - Ga naar "Downloads"
+
+    - Dubbelklik op "samenvatting.pdf"
+
+    - Scroll naar "Bestanden" -> "Bestanden op Linux" 
+
+    - Klik op de link *thuismap*
+
+    - Overtuig uzelf ervan dat deze link nu in Firefox wordt geopend
+
+    - Sluit bestandsbeheerder, Chromium en samenvatting.pdf
 
 1. Terminal als opstart toepassing toevoegen
 
-    a. zet terminal als opstart toepassing
+    - Zet terminal als opstart toepassing
 
-    a. meld u af en weer aan en overtuig uzelf ervan dat de terminal toepassing is gestart
+        - Open "Afstellingen" met ```SUPER+SHIFT+I``` 
 
-    a. verwijder terminal als opstart toepassing
+        - Klik aan de linkerzijde met "Opstarttoepassingen"
 
-# Online accounts
+        - Klik op de +
 
-1. Voeg een online account toe
+        - Klik op ![](img/bestanden-vergrootglas.png){height=20px}
 
-1. Inspecteer de kalender
+        - Type ```term```
 
-    a. voeg een afspraak toe
+        - Klik "Terminalvenster" aan
 
-    a. controleer op een ander medium (telefoon) dat de afspraak is gemaakt
+        - Klik op "Toevoegen"
 
-    a. verwijder deze afspraak weer
-
-1. Bekijk je drive
-
-    a. maak een bestand aan in drive
-
-    a. controleer op een ander medium dat het bestand is aangemaakt
-
-    a. verwijder het bestand weer
-
-1. Verwijder je online account
-
-# Speciale tekens
-
-1.  Euroteken invoeren
-
-    a. via speciale tekens toepassing
-
-    a.  ```Ctrl-Shift-U 20ac SPATIEBALK```
-
-1. é (e accent) invoeren
-
-    a. via speciale tekens toepassing
+    - Sluit Afstellingen af met ```ALT+F4```
     
-    a. ```CTRL-SHIFT-U 00e9 SPATIEBALK```
+    - Meld u af en weer aan en overtuig uzelf ervan dat de terminal toepassing is gestart
+
+    - Verwijder terminal als opstart toepassing
+
+        - Open "Afstellingen" met "SUPER afstel ENTER"
+
+        - Klik aan de linkerzijde met "Opstarttoepassingen"
+
+        - Klik op "Verwijderen" naast "Terminalvenster"
+
+    - Sluit Afstellingen af met ```ALT+F4```
+
+    - Meld u af en weer aan en overtuig uzelf ervan dat de terminal toepassing niet meer wordt gestart
