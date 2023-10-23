@@ -116,10 +116,11 @@ Om de computer uit te schakelen
 
 - drukt u op ```ALT+CTRL+DELETE``` 
 
-- klikt u in het systeemmenu ![](img/systeem-menu-gesloten.png) op ![](img/afsluit-menu-knop.png) en dan op "Uitschakelen"
-![bg right height:100%](img/systeemmenu-afsluiten.png)
+- klikt u in het systeemmenu ![](img/systeem-menu-gesloten.png){height=20px} op ![](img/afsluit-menu-knop.png){height=20px} en dan op "Uitschakelen"
+![](img/systeemmenu-afsluiten.png){height=200px}
 
 - ```SUPER uits ENTER```
+
 
 # Toepassingen starten en afsluiten 
 
