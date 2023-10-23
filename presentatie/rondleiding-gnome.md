@@ -242,6 +242,7 @@ Om de computer af te sluiten
 - drukt u op ```ALT+CTRL+DELETE``` 
 - klikt u in het systeemmenu ![](img/systeem-menu-gesloten.png) op ![](img/afsluit-menu-knop.png) en dan op "Uitschakelen"
 ![bg right height:100%](img/systeemmenu-afsluiten.png)
+- ```SUPER uits ENTER```
 
 ---
 #### Voorbeeld

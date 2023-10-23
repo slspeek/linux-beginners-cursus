@@ -185,6 +185,8 @@ Voor invoeren via het zoekveld kunt de volgende namen gebruiken
     -  drive
 
     -  email
+    
+<!-- Microsoft account alleen email -->
 ---
 ##### Voorbeeld Google account toevoegen
 

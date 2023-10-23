@@ -1755,7 +1755,69 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
     - Sla het document op onder de naam "samensteltoets.txt" in "Documenten"
     
     - Sluit de tekstbewerker met ```ALT+F4```
-    
+
+1. Gebruikers plaatje wijzigen
+
+    - Open Instellingen ![](img/instellingen-knop.png){width=20px} via het systeemmenu ![](img/systeem-menu-gesloten.png){height=20px}
+
+    - Selecteer in het linker paneel "Gebruikers"
+
+    - Klik op het pennetje bij de afbeelding 
+
+    - Kies een nieuwe afbeelding
+
+    - Sluit instellingen af met ```ALT+F4```
+
+    - Vergrendel het scherm ```SUPER+L``` 
+
+    - Bekijk de nieuwe afbeelding
+
+    - Ontgrendel het scherm met het wachtwoord ```tux```
+
+    - Zet de oude afbeelding terug
+
+        - Open instellingen ```SUPER+I``` 
+
+        - Selecteer links "Gebruikers"
+
+        - Klik op het pennetje bij de afbeelding 
+
+        - Klik op "Selecteer bestand..."
+
+        - Selecteer uit de "Persoonlijke map" het verborgen bestand ```.face``` (wellicht moet u ```CTRL+H``` in drukken om de verborgen bestanden te tonen)
+
+    - Sluit instellingen af met ```ALT+F4```
+
+1. Gebruikers naam wijzigen
+
+    - Open Instellingen ![](img/instellingen-knop.png){width=20px} via het systeemmenu ![](img/systeem-menu-gesloten.png){height=20px}
+
+    - Selecteer in het linker paneel "Gebruikers"
+
+    - Klik op het pennetje aan de rechterzijde van de regel met "Naam"
+
+    - Type uw naam gevolgd door ```ENTER```
+
+    - Sluit instellingen af met ```ALT+F4```
+
+    - Vergrendel het scherm ```SUPER+L``` 
+
+    - Ga na dat uw naam nu vermeld wordt
+
+    - Ontgrendel het scherm met het wachtwoord ```tux```
+
+    - Zet de naam terug op "Tux"
+
+        - Open instellingen ```SUPER+I``` 
+
+        - Selecteer links "Gebruikers"
+
+        - Klik op het pennetje aan de rechterzijde van de regel met "Naam"
+
+        - Type ```Tux ENTER```
+
+    - Sluit instellingen af met ```ALT+F4```
+
 # Toepassingen installeren
 
 1.  Welke toepassing moet u starten om updates uit te voeren?
