@@ -98,7 +98,11 @@ Kies toepassing en zet schakelaar "Altijd gebruiken voor dit bestandstype"
 ![bg right height:100%](img/bestanden-dialoogvenster-openen-met.png)
 
 ---
+##### Voorbeeld xpdf in plaats van "Document weergave"
 
+![width:1000px](img/installeren-toepassing-per-type-pdf.gif)
+
+---
 ##  [*Opstart toepassingen*](https://help.gnome.org/users/gnome-help/stable/shell-apps-auto-start.html.en)
 
 ![bg right width:100%](img/opstarttoepassingen.png)
@@ -106,4 +110,10 @@ Kies toepassing en zet schakelaar "Altijd gebruiken voor dit bestandstype"
 - Open Afstellingen (```SUPER+SHIFT+I``` )
 
 - "Opstarttoepassingen"
+
+---
+##### Voorbeeld terminalvenster als opstarttoepassing
+
+![width:1000px](img/installeren-opstarttoepassing.gif)
+
 
