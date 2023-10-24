@@ -1926,6 +1926,8 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Klik op "Installeren"
 
+    - Wachtwoord van beheerder is ```root```
+
     - Sluit Software met ```ALT+F4```
     
     - Sluit de bestandsbeheerder met ```ALT+F4```
@@ -2071,6 +2073,8 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
     - Kies "Software-installatie"
 
     - Klik op ![](img/prullenbak.png){height=25px}
+
+    - Wachtwoord van beheerder is ```root```
 
     - Sluit Software met ```ALT+F4```
 
