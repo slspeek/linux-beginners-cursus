@@ -1908,6 +1908,35 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Sluit Software met ```ALT+F4```
 
+1. Discord installeren vanuit een .deb bestand []{#discord-installeren}
+
+    - Maak op discord.com een account aan als u dat nog niet hebt
+
+    - Meld u aan op discord.com
+
+    - Download de Deb voor Linux via het ![](img/discord-app-downloaden.png){height=20px} symbool aan de linkerzijde van de webpagina
+
+    - Open de bestandsbeheerder met ```SUPER+E``` 
+
+    - Ga naar "Downloads"
+
+    - Klik rechts op "discord-0.0.XX.deb" 
+
+    - Kies "Software-installatie"
+
+    - Klik op "Installeren"
+
+    - Sluit Software met ```ALT+F4```
+    
+    - Sluit de bestandsbeheerder met ```ALT+F4```
+    
+    - Sluit Firefox met ```ALT+F4```
+
+    - Open discord met ```SUPER disc ENTER``` 
+
+    - Sluit discord met ```ALT+F4```
+    
+
 1. Standaard applicatie Web wijzigen naar Chromium
 
     - Open standaardtoepassingen in Instellingen met ```SUPER standaa ENTER```
@@ -2007,7 +2036,7 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Klik "Chromium Web Browser" aan
 
-    - Klik op ![](img/prullenbak.png){height=20px}
+    - Klik op ![](img/prullenbak.png){height=25px}
 
     - Bevestig in het pop venster dat u Chromium wilt verwijderen
 
@@ -2023,13 +2052,27 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Klik "xpdf" aan
 
-    - Klik op ![](img/prullenbak.png){height=20px}
+    - Klik op ![](img/prullenbak.png){height=25px}
 
     - Bevestig in het pop venster dat u xpdf wilt verwijderen
 
     - Geef het beheerders wachtwoord op. Dat is ```root```
 
     - Sluit Software af met ```ALT+F4```
+
+1. Verwijder discord
+
+    - Open de bestandsbeheerder met ```SUPER+E``` 
+
+    - Ga naar "Downloads"
+
+    - Klik rechts op "discord-0.0.XX.deb"
+
+    - Kies "Software-installatie"
+
+    - Klik op ![](img/prullenbak.png){height=25px}
+
+    - Sluit Software met ```ALT+F4```
 
 1. Terminal als opstart toepassing toevoegen
 
@@ -2041,7 +2084,7 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
         - Klik op de +
 
-        - Klik op ![](img/bestanden-vergrootglas.png){height=20px}
+        - Klik op ![](img/bestanden-vergrootglas.png){height=25px}
 
         - Type ```term```
 
