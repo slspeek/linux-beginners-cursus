@@ -1866,7 +1866,6 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Sluit instellingen met ```ALT+F4```
 
-
 # Toepassingen installeren
 
 1. Welke toepassing moet u starten om updates uit te voeren?
@@ -1877,7 +1876,7 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Klik op "Maken" (oefen geduld uit)
 
-    - Scroll door de lijst
+    - Scroll door de lijst tot u Blender ziet staan
 
     - Sluit Software met ```ALT+F4```
 
@@ -1951,6 +1950,87 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Sluit bestandsbeheerder, Chromium en samenvatting.pdf
 
+1. xpdf als standaard voor PDF bestanden instellen
+
+    - Open de bestandsbeheerder met ```SUPER+4``` 
+
+    - Ga naar "Downloads" met de bladwijzer in het linker paneel
+
+    - Selecteer "samenvatting.pdf" en druk ```ENTER```
+
+    - Overtuig uzelf ervan dat "samenvatting.pdf" is geopend met "Document weergave" door 
+      het hamburgermenu ![](img/firefox-hamburgermenu.png){height=20px} te openen en het item "Over Document weergave" te selecteren
+
+    - Sluit "Document weergave" met ```ALT+F4```
+     
+    - Open het contextmenu van "samenvatting.pdf" (rechtsklikken)
+
+    - Kies "Openen met..."
+
+    - Zoek xpdf op in de lijst van toepassingen
+
+    - Selecteer xpdf
+
+    - Zet de knop "Altijd gebruiken voor dit bestandstype" om zodat die blauw kleurt
+
+    - Nu is "samenvatting.pdf" in xpdf geopend 
+
+    - U sluit xpdf door ```Q``` in te drukken
+
+    - Selecteer "samenvatting.pdf" en druk ```ENTER```
+
+    - U ziet dat "samenvatting.pdf" opnieuw met xpdf wordt geopend
+
+    - U sluit xpdf door ```Q``` in te drukken
+
+    - Open het contextmenu van "samenvatting.pdf" (Selecteer "samenvatting.pdf" en druk ```MENU```)
+
+    - Kies "Openen met..." ```M```
+
+    - Selecteer "Document weergave"
+
+    - Zet de knop "Altijd gebruiken voor dit bestandstype" om zodat die blauw kleurt
+
+    - Sluit "Document weergave" met ```ALT+F4```
+    
+    - Selecteer "samenvatting.pdf" en druk ```ENTER```
+
+    - U ziet dat "samenvatting.pdf" opnieuw met "Document weergave" wordt geopend
+
+    - Sluit "samenvatting.pdf" en de bestandsbeheerder beide met ```ALT+F4```
+
+1. Verwijder Chromium
+
+    - Open Software met ```SUPER+5``` 
+
+    - Type ```chromium web```
+
+    - Klik "Chromium Web Browser" aan
+
+    - Klik op ![](img/prullenbak.png){height=20px}
+
+    - Bevestig in het pop venster dat u Chromium wilt verwijderen
+
+    - Geef het beheerders wachtwoord op. Dat is ```root```
+
+    - Sluit Software af met ```ALT+F4```
+    
+1. Verwijder xpdf
+
+    - Open Software met ```SUPER+5``` 
+
+    - Type ```xpdf```
+
+    - Klik "xpdf" aan
+
+    - Klik op ![](img/prullenbak.png){height=20px}
+
+    - Bevestig in het pop venster dat u xpdf wilt verwijderen
+
+    - Geef het beheerders wachtwoord op. Dat is ```root```
+
+    - Sluit Software af met ```ALT+F4```
+
 1. Terminal als opstart toepassing toevoegen
 
     - Zet terminal als opstart toepassing
@@ -1975,7 +2055,7 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Verwijder terminal als opstart toepassing
 
-        - Open "Afstellingen" met "SUPER afstel ENTER"
+        - Open "Afstellingen" met ```SUPER afstel ENTER```
 
         - Klik aan de linkerzijde met "Opstarttoepassingen"
 
