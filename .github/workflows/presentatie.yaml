@@ -18,6 +18,12 @@ jobs:
         run: make prepare
       - uses: docker://marpteam/marp-cli:v3.1.0
         with:
+          args: --allow-local-files presentatie/wat-is-linux.md -o ${{ env.PRESENTATIE_DIR }}/wat-is-linux.html
+      - uses: docker://marpteam/marp-cli:v3.1.0
+        with:
+          args: --allow-local-files presentatie/waarom-debian.md -o ${{ env.PRESENTATIE_DIR }}/waarom-debian.html
+      - uses: docker://marpteam/marp-cli:v3.1.0
+        with:
           args: --allow-local-files presentatie/rondleiding-gnome.md -o ${{ env.PRESENTATIE_DIR }}/rondleiding-gnome.html
       - uses: docker://marpteam/marp-cli:v3.1.0
         with:

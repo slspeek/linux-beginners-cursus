@@ -11,6 +11,21 @@ Het lettertype ```Courier``` wordt gebruikt om iets op te schrijven dat u op het
 Uitzondering hierop zijn de volgende speciale toetsen:
 ```SPATIEBALK```, ```CTRL```, ```ALT```, ```SUPER```, ```MENU```, ```TAB```, ```HOME```, ```END```, ```ESC```, ```DELETE```, ```PageDown```, ```PageUp```, ```PrintScreen```, ```F1```, ```F2``` ... en ```ENTER```, hier dient u betreffende toets in te drukken in plaats van het woord in te typen.
 
+# Wat is Linux
+
+[*Linux*](https://www.computerhope.com/jargon/l/linux.htm) is een [*besturingssysteem*](https://www.computerhope.com/jargon/o/os.htm).
+Een besturingssysteem zorgt ervoor dat hardwarecomponenten worden aangestuurd en toepassingen kunnen draaien
+Voorbeelden van andere besturingssystemen zijn: Windows, MacOS, en Chromium OS
+
+## Linux is vrij
+Linux is gebaseerd op de filosofie dat software en ideeën vrij gedeeld moeten worden.
+
+Linux is vrije software onder de [*GNU Public License*](https://www.computerhope.com/jargon/g/gpl.htm).
+
+
+# Waarom Debian
+Daarom
+
 # Rondleiding GNOME
 
 ## Aanmelden in de displaymanager
