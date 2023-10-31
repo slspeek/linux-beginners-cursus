@@ -23,6 +23,8 @@ date: \today{}
 
 ## Presentaties
 
+1. [Waarom Debian Linux](https://docs.google.com/presentation/d/1jGO4bEBD3utfBr7wg9z-2b5DdCehr2GIATCu6nqmAK8/edit?usp=sharing)
+
 1. [Rondleiding GNOME](rondleiding-gnome.html)
 
 1. [Toepassingen starten en afsluiten](toepassingen-starten-en-afsluiten.html)
