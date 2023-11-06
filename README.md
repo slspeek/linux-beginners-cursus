@@ -9,3 +9,4 @@ Deze cursus is bedoeld voor mensen die zelfstandig hun Windows of Mac computer k
 1. [Samenvatting](https://slspeek.github.io/linux-beginners-cursus/samenvatting.html) [PDF versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/samenvatting.pdf)
 1. [Oefeningen](https://slspeek.github.io/linux-beginners-cursus/oefeningen.html) [PDF versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/oefeningen.pdf)
 1. [Begrippenlijst](https://slspeek.github.io/linux-beginners-cursus/begrippen.html) [PDF versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/begrippen.pdf)
+1. [Sneltoetsen kaart](https://github.com/slspeek/debian-gnome-sneltoetsen/releases/latest/download/debian-gnome-sneltoetsen.pdf)

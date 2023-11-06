@@ -20,6 +20,7 @@ date: \today{}
 
 1. [Begrippenlijst](begrippen.html) [PDF versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/begrippen.pdf)
 
+1. [Sneltoetsen kaart](https://github.com/slspeek/debian-gnome-sneltoetsen/releases/latest/download/debian-gnome-sneltoetsen.pdf)
 
 ## Presentaties
 
