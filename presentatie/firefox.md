@@ -3,8 +3,6 @@ marp: true
 theme: gaia
 title: Firefox
 ---
-
----
 ## Internet browser: Firefox ![height:100px](img/firefox-icon.png)
 
 - Belangrijke sneltoetsen
@@ -155,9 +153,9 @@ title: Firefox
 ![width:1000px](img/firefox-bladwijzermap-maken-slepen.gif)
 
 ---
-#### Essentiële extensies installeren
+#### Aanbevolen extensies installeren
 
-- [Adblocker for Youtube](https://addons.mozilla.org/nl/firefox/addon/adblock-for-youtube/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) houdt alle advertentie filmpjes tegen op Youtube
+<!-- - [Adblocker for Youtube](https://addons.mozilla.org/nl/firefox/addon/adblock-for-youtube/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) houdt alle advertentie filmpjes tegen op Youtube -->
 
 - [Adblocker Ultimate](https://addons.mozilla.org/nl/firefox/addon/adblocker-ultimate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) houdt advertenties tegen
 
@@ -166,7 +164,7 @@ gaat automatisch akkoord met alle cookies
 
 ---
 ##### Voorbeeld extensie installeren door te zoeken
-![width:1000px](img/firefox-adblocker-for-youtube-installeren.gif)
+![width:1000px](img/firefox-installeer-adblocker-ultimate.gif)
 
 ---
 ##### Hulp openen in Firefox

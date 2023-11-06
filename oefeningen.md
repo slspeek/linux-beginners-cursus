@@ -585,7 +585,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Selecteer aan de linkerzijde van de pagina 'Extensies'
 
-    - Type in het zoekvak ```Adblocker for Youtube``` en installeer deze extensie
+    - Type in het zoekvak ```Adblocker Ultimate``` en installeer deze extensie
 
     - Sluit de browser af met ```CTRL+Q```
 
@@ -593,7 +593,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Ga naar de URL: ```slspeek.github.io/linux-beginners-cursus/samenvatting.html```.
 
-    - Scroll omlaag naar "Internet browser: Firefox" en dan naar "Essentiële extensies installeren", klik op de link van "I don't care about cookies"
+    - Scroll omlaag naar "Internet browser: Firefox" en dan naar "Aanbevolen extensies installeren", klik op de link van "I don't care about cookies"
 
     - Klik op de knop "Toevoegen aan Firefox"
 

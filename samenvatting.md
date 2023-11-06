@@ -287,9 +287,9 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
 
         - Via slepen op de bladwijzerbalk
 
-- Essentiële extensies installeren
+- Aanbevolen extensies installeren
 
-    - [*Adblocker for Youtube*](https://addons.mozilla.org/nl/firefox/addon/adblock-for-youtube/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+    <!-- - [*Adblocker for Youtube*](https://addons.mozilla.org/nl/firefox/addon/adblock-for-youtube/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) -->
 
     - [*Adblocker Ultimate*](https://addons.mozilla.org/nl/firefox/addon/adblocker-ultimate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
