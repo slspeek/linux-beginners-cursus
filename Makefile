@@ -17,8 +17,8 @@ serve:
 	docker run --rm --init -v $(PWD):/home/marp/app -e LANG=$(LANG) -p 8080:8080 -p 37717:37717 $(MARP) --allow-local-files -s .
 
 presentatie: prepare hbegrippen hsamenvatting hoefeningen hpresentatieoverzicht
-	$(MARP_CMD) presentatie/wat-is-linux.md -o $(PRESENTATIE_DIR)/wat-is-linux.html
-	$(MARP_CMD) presentatie/waarom-debian.md -o $(PRESENTATIE_DIR)/waarom-debian.html
+	$(MARP_CMD) presentatie/inleiding.md -o $(PRESENTATIE_DIR)/inleiding.html
+	$(MARP_CMD) presentatie/verder-studeren.md -o $(PRESENTATIE_DIR)/verder-studeren.html
 	$(MARP_CMD) presentatie/rondleiding-gnome.md -o $(PRESENTATIE_DIR)/rondleiding-gnome.html
 	$(MARP_CMD) presentatie/toepassingen-starten-en-afsluiten.md -o $(PRESENTATIE_DIR)/toepassingen-starten-en-afsluiten.html
 	$(MARP_CMD) presentatie/firefox.md -o $(PRESENTATIE_DIR)/firefox.html

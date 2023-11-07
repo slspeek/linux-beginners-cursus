@@ -24,9 +24,7 @@ date: \today{}
 
 ## Presentaties
 
-1. [Wat is Linux](wat-is-linux.html)
-
-1. [Waarom Debian Linux](waarom-debian.html)
+1. [Inleiding](inleiding.html)
 
 1. [Motivatie (oude versie)](https://docs.google.com/presentation/d/1jGO4bEBD3utfBr7wg9z-2b5DdCehr2GIATCu6nqmAK8/edit?usp=sharing)
 
@@ -43,3 +41,5 @@ date: \today{}
 1. [Instellingen](instellingen.html)
 
 1. [Toepassingen installeren](toepassingen-installeren.html)
+
+1. [Verder studeren](verder-studeren.html)
