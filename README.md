@@ -2,7 +2,7 @@
 Rondleiding langs de standaard window manager [GNOME 43.6](https://help.gnome.org/) van [debian 12](https://debian.org). De cursus werkt uitsluitend met de graphische interface.
 
 ## Publiek
-Deze cursus is bedoeld voor mensen die zelfstandig hun Windows of Mac computer kunnen gebruiken.
+Deze cursus is bedoeld voor mensen die hun kennis over Linux willen vergroten. Er is geen voorkennis over Linux vereist.
 
 ## Lesmateriaal
 1. [Presentatie](https://slspeek.github.io/linux-beginners-cursus) ([download presentatie voor offline gebruik](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/presentatie.zip))
@@ -10,3 +10,5 @@ Deze cursus is bedoeld voor mensen die zelfstandig hun Windows of Mac computer k
 1. [Oefeningen](https://slspeek.github.io/linux-beginners-cursus/oefeningen.html) [PDF versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/oefeningen.pdf)
 1. [Begrippenlijst](https://slspeek.github.io/linux-beginners-cursus/begrippen.html) [PDF versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/begrippen.pdf)
 1. [Sneltoetsen kaart](https://github.com/slspeek/debian-gnome-sneltoetsen/releases/latest/download/debian-gnome-sneltoetsen.pdf)
+1. [Verder leren](https://slspeek.github.io/linux-beginners-cursus/verder-leren.html) [PDF versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/verder-leren.pdf)
+

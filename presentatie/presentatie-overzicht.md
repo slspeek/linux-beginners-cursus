@@ -22,6 +22,8 @@ date: \today{}
 
 1. [Sneltoetsen kaart](https://github.com/slspeek/debian-gnome-sneltoetsen/releases/latest/download/debian-gnome-sneltoetsen.pdf)
 
+1. [Verder leren](verder-leren.html) [PDF versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/verder-leren.pdf)
+
 ## Presentaties
 
 1. [Inleiding](inleiding.html)
@@ -42,4 +44,3 @@ date: \today{}
 
 1. [Toepassingen installeren](toepassingen-installeren.html)
 
-1. [Verder studeren](verder-studeren.html)

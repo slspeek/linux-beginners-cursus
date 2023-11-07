@@ -19,6 +19,9 @@ jobs:
       - uses: docker://pandoc/latex:2.9
         with:
           args: --include-in-header=header.tex --from markdown layout.yaml oefeningen.md --output=build/oefeningen.pdf
+      - uses: docker://pandoc/latex:2.9
+        with:
+          args: --include-in-header=header.tex --from markdown layout.yaml verder-leren.md --output=build/verder-leren.pdf
       - name: Release pandoc generated pdfs
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
@@ -27,3 +30,4 @@ jobs:
             build/samenvatting.pdf
             build/begrippen.pdf
             build/oefeningen.pdf
+            build/verder-leren.pdf

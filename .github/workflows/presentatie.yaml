@@ -21,9 +21,6 @@ jobs:
           args: --allow-local-files presentatie/inleiding.md -o ${{ env.PRESENTATIE_DIR }}/inleiding.html
       - uses: docker://marpteam/marp-cli:v3.1.0
         with:
-          args: --allow-local-files presentatie/verder-studeren.md -o ${{ env.PRESENTATIE_DIR }}/verder-studeren.html
-      - uses: docker://marpteam/marp-cli:v3.1.0
-        with:
           args: --allow-local-files presentatie/rondleiding-gnome.md -o ${{ env.PRESENTATIE_DIR }}/rondleiding-gnome.html
       - uses: docker://marpteam/marp-cli:v3.1.0
         with:
