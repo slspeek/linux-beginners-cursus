@@ -7,7 +7,7 @@ PANDOC_HTML_CMD=docker run --rm --init -v "$(PWD):/data" -u $(USER_ID) $(PANDOC_
 MARP=marpteam/marp-cli:v3.1.0
 MARP_CMD=docker run --rm --init -e MARP_USER=$(USER_ID) -v $(PWD):/home/marp/app/ -e LANG=$(LANG) $(MARP) --allow-local-files
 
-all: begrippen oefeningen presentatie verderstuderen samenvatting
+all: begrippen oefeningen presentatie verderleren samenvatting
 
 install-deps:
 	sudo apt-get install docker.io docker-compose
@@ -52,7 +52,7 @@ hpresentatieoverzicht: prepare
 	$(PANDOC_HTML_CMD) presentatie/presentatie-overzicht.md -o $(PRESENTATIE_DIR)/index.html
 
 hverderleren: prepare
-	$(PANDOC_HTML_CMD) verder-studeren.md -o $(PRESENTATIE_DIR)/verder-studeren.html
+	$(PANDOC_HTML_CMD) verder-leren.md -o $(PRESENTATIE_DIR)/verder-leren.html
 
 vbegrippen: begrippen
 	evince $(BUILD_DIR)/begrippen.pdf
