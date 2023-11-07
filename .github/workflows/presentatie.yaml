@@ -54,6 +54,9 @@ jobs:
       - uses: docker://pandoc/latex:2.9
         with:
           args: --standalone --from markdown oefeningen.md --to html --output=${{ env.PRESENTATIE_DIR }}/oefeningen.html
+      - uses: docker://pandoc/latex:2.9
+        with:
+          args: --standalone --from markdown verder-leren.md --to html --output=${{ env.PRESENTATIE_DIR }}/verder-leren.html
       - name: Zip the offline presentatie
         run: cd $BUILD_DIR && zip -rq presentatie.zip presentatie 
       - name: Deploy to github pages
