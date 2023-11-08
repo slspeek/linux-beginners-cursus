@@ -1,9 +1,9 @@
 ---
 marp: true
 theme: gaia
-title: Wat is Linux
+title: Inleiding
 ---
-# Samenvatting
+# Inleiding
 ![bg right width:100%](img/tux-gnu_linux.png)
 
 - Linux is een besturingssysteem
@@ -11,8 +11,8 @@ title: Wat is Linux
 - Geschiedenis van Linux
 - Waar draait Linux
 - Distributies
-- Belang van vrije softare
-- Voordelen van vrije software
+- Vrije software
+- Waarom speciaal Debian
 
 ---
 
@@ -175,3 +175,95 @@ Zo ontstond de combinatie GNU/Linux
 - Geen reclame of marketing in het systeem
 
 - Veranderingen aan software die een belangrijk deel van de gebruikers niet aanstaan zal leiden tot een afsplitsing die hen wel behaagd
+
+---
+## Waarom speciaal Debian
+
+Er zijn 600 Linux [distributies](https://distrowatch.com/) die worden onderhouden
+
+![bg right width:95%](img/dwbanner.png)
+
+Tien redenen voor  Debian
+
+![width:300px](img/debian-logo.png)
+
+---
+### Debian is vrije software
+![bg right](img/freedom.jpg)
+- Gemaakt van vrije bronnen
+- Zal altijd 100% vrij zijn
+- Vrij voor iedereen om te gebruiken, aangepast en verspreid te worden
+- Kosteloos
+
+---
+### Debian is stabiel en veilig
+![bg right width:95%](img/security.jpg)
+
+- Gefundeerde standaardconfiguratie voor alle pakketten
+- Geregelde veiligheidsupdates
+
+---
+### Uitgebreide ondersteuning voor hardware
+
+- Alle hardware die ondersteund wordt door de Linux kernel, wordt ook door Debian ondersteund.
+- Indien nodig zijn gepatenteerde stuurprogramma’s beschikbaar
+
+![bg right width:95%](img/computer-hardware.jpg)
+
+---
+### Flexibel installatiesysteem
+
+- Live-cd met installatie mogelijkheden
+- Debian installer voor meer opties voor ervaren gebruikers
+- Preseeded installatie (zonder vragen)
+- Geautomatiseerde netwerkinstallatie
+
+![bg right width:100%](img/calamares-installer.png)
+
+---
+### Debian biedt soepele opwaarderingen
+
+- Eenvoudige pakket opwaardering
+- Distributie opwaardering ongeveer elke twee jaar
+
+![width:450px](img/debian-11-logo.webp) => ![width:450px](img/debian-12-logo.png)
+
+---
+### Debian is de basis voor veel andere distributies
+
+![bg width:80%](img/debian-tree.png)
+
+---
+### Het Debian-project is een gemeenschap
+![bg right width:100%](img/debian-gemeenschap.jpg)
+
+- Democratische beleidsstructuur
+
+- Niet door één bedrijf gecontroleerd
+
+- Ontwikkelaars uit 60 landen
+
+- Vertaald naar meer dan 80 talen
+
+---
+### Debian heeft een enorm aantal softwarepakketten
+
+59000 pakketten die de .deb indeling gebruiken
+
+![bg right width:100%](img/software-geopend.png)
+
+---
+### Debian heeft beleidsrichtlijnen voor ontwikkelaars
+
+- Bevordert de kwaliteit van de software
+
+- Goede integratie van pakketten
+
+![height:350px](img/richtlijnen.jpg)
+
+---
+### Lange termijn ondersteuning
+
+Debian heeft lange termijn ondersteuning van minimaal 5 jaar op stabiele releases met lange termijn ondersteuning
+
+![height:350px](img/oude_computer.jpg)
