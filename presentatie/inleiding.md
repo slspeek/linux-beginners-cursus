@@ -86,7 +86,7 @@ Richard Stallman schreef de [GNU Public Licence](https://www.computerhope.com/ja
 Maar hij miste een kernel
 
 Linus Torvalds kwam in 1991 met zijn eerste versie van de Linux kernel
-gelincenseerd onder de GPL
+gelicenseerd onder de GPL
 
 Zo ontstond de combinatie GNU/Linux
 
