@@ -11,7 +11,7 @@ Het lettertype ```Courier``` wordt gebruikt om iets op te schrijven dat u op het
 Uitzondering hierop zijn de volgende speciale toetsen:
 ```SPATIEBALK```, ```CTRL```, ```ALT```, ```SUPER```, ```MENU```, ```TAB```, ```HOME```, ```END```, ```ESC```, ```DELETE```, ```PageDown```, ```PageUp```, ```PrintScreen```, ```F1```, ```F2``` ... en ```ENTER```, hier dient u betreffende toets in te drukken in plaats van het woord in te typen.
 
-# Wat is Linux
+# Inleiding
 
 [*Linux*](https://www.computerhope.com/jargon/l/linux.htm) is een [*besturingssysteem*](https://www.computerhope.com/jargon/o/os.htm).
 Een besturingssysteem zorgt ervoor dat hardwarecomponenten worden aangestuurd en toepassingen kunnen draaien
@@ -22,9 +22,128 @@ Linux is gebaseerd op de filosofie dat software en ideeën vrij gedeeld moeten w
 
 Linux is vrije software onder de [*GNU Public License*](https://www.computerhope.com/jargon/g/gpl.htm).
 
+## Geschiedenis van Linux
 
-# Waarom Debian
-Daarom
+In 1984 begint [*Richard Stallman*](https://nl.wikipedia.org/wiki/Richard_M._Stallman) het [*GNU-project*](https://www.gnu.org/)
+
+- GNU betekent "GNU is Not Unix"
+
+- GNU moet een vrije Unix worden 
+
+### Wat karakteriseert het [*Unix*](https://nl.wikipedia.org/wiki/Unix) besturingssysteem?
+
+- Multi tasking
+
+    - meerdere processen tegelijk draaien
+
+- Multi user
+
+    - meerdere gebruikers kunnen veilig naast elkaar werken
+
+## Hoe vrij?
+
+Richard Stallman schreef de [*GNU Public Licence*](https://www.computerhope.com/jargon/g/gpl.htm) om zijn software vrij te houden:
+
+- Broncode moet meegeleverd worden
+- Iedereen mag het draaien en aanpassen
+- Je mag een aanpassing alleen onder de GNU Public Licence verspreiden
+
+## Oké Stallman ging dus Unix namaken
+Maar hij miste een kernel
+
+Linus Torvalds kwam in 1991 met zijn eerste versie van de Linux kernel
+gelicenseerd onder de GPL
+
+Zo ontstond de combinatie GNU/Linux
+
+## Waar wordt Linux gebruikt
+
+- Android apparaten
+- Linux draait op de meerderheid van de internet servers
+- Linux draait op supercomputers
+- Linux draait op [*laptops in het ISS*](https://www.fsf.org/blogs/community/gnu-linux-chosen-as-operating-system-of-the-international-space-station)
+- Linux draait op de kassa's van Albert Heijn
+- Linux draait op TomToms
+
+## Linux distributie
+
+- Linux kernel
+
+- Toepassingen
+    
+    - Web browser ![](img/firefox-icon.png){width=30px}
+
+    - Office toepassingen ![](img/writer-icon.png){width=30px}
+
+    - Mail ![](img/thunderbird-icon.png){width=30px}
+
+    - Videospeler ![](img/VLC-logo.png){width=30px}
+    
+    - Foto bewerken ![](img/gimp-logo.png){width=30px}
+
+<!-- ## Distributies
+
+![width:300px](img/fedora-logo.png) ![width:300px](img/debian-logo.png) ![width:300px](img/ubuntu-logo.png) ![width:300px](img/knoppix-logo.gif) ![width:300px](img/opensuse-logo.png) ![width:300px](img/mint-logo.png) -->
+
+## Belang van vrije software
+
+- Met broncode kun je nagaan wat programmatuur doet
+- Programmeurs en gebruikers zijn de baas over de programmatuur
+
+## Belang dat u vrije software gebruikt
+
+- Voorleven aan anderen dat het kan
+- Rapporteren van fouten
+
+## Voordelen van vrije software
+
+- Kosteloos
+- Eenvoudige installatie van toepassingen
+- Geen reclame of marketing in het systeem
+- Veranderingen aan software die een belangrijk deel van de gebruikers niet aanstaan zal leiden tot een afsplitsing die hen wel behaagd
+
+## [*Redenen om Debian te gebruiken*](https://www.debian.org/intro/why_debian)
+
+- Debian is vrije software
+    - Gemaakt van vrije bronnen
+    - Zal altijd 100% vrij zijn
+    - Vrij voor iedereen om te gebruiken, aangepast en verspreid te worden
+    - Kosteloos
+
+- Debian is stabiel en veilig
+    - Gefundeerde standaardconfiguratie voor alle pakketten
+    - Geregelde veiligheidsupdates
+
+- Uitgebreide ondersteuning voor hardware
+    - Alle hardware die ondersteund wordt door de Linux kernel, wordt ook door Debian ondersteund.
+    - Indien nodig zijn gepatenteerde stuurprogramma’s beschikbaar
+
+- Flexibel installatiesysteem
+    - Live-cd met installatie mogelijkheden
+    - Debian installer voor meer opties voor ervaren gebruikers
+    - Preseeded installatie (zonder vragen)
+    - Geautomatiseerde netwerkinstallatie
+
+- Debian biedt soepele opwaarderingen
+    - Eenvoudige pakket opwaardering
+    - Distributie opwaardering ongeveer elke twee jaar
+
+- Debian is de basis voor veel andere distributies
+
+- Het Debian-project is een gemeenschap
+    - Democratische beleidsstructuur
+    - Niet door één bedrijf gecontroleerd
+    - Ontwikkelaars uit 60 landen
+    - Vertaald naar meer dan 80 talen
+
+- Debian heeft een enorm aantal softwarepakketten
+    - 59000 pakketten die de .deb indeling gebruiken
+
+- Debian heeft beleidsrichtlijnen voor ontwikkelaars
+    - Bevordert de kwaliteit van de software
+    - Goede integratie van pakketten
+
+- Lange termijn ondersteuning
 
 # Rondleiding GNOME
 

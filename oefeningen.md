@@ -11,6 +11,17 @@ Het lettertype ```Courier``` wordt gebruikt om iets op te schrijven dat u op het
 Uitzondering hierop zijn de volgende speciale toetsen:
 ```SPATIEBALK```, ```CTRL```, ```ALT```, ```SUPER```, ```MENU```, ```TAB```, ```HOME```, ```END```, ```ESC```, ```DELETE```, ```PageDown```, ```PageUp```, ```PrintScreen```, ```F1```, ```F2``` ... en ```ENTER```, hier dient u betreffende toets in te drukken in plaats van het woord in te typen.
 
+# Inleiding
+
+1. Op welke familie van besturingssystemen is Linux gebaseerd?
+
+1. Noem twee sleutelfiguren in het onstaan van Linux.
+
+1. Onder welke licensie is de Linux kernel gepubliceerd?
+
+1. Noem drie voordelen van vrije software.
+
+1. Uit welke twee onderdelen bestaat een Linux distributie grofweg gezegd?
 
 # Rondleiding GNOME
 1.  Aanmelden en afmelden

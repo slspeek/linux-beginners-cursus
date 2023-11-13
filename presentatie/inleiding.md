@@ -177,7 +177,7 @@ Zo ontstond de combinatie GNU/Linux
 - Veranderingen aan software die een belangrijk deel van de gebruikers niet aanstaan zal leiden tot een afsplitsing die hen wel behaagd
 
 ---
-## Waarom speciaal Debian
+## [Redenen om Debian te gebruiken](https://www.debian.org/intro/why_debian)
 
 Er zijn 600 Linux [distributies](https://distrowatch.com/) die worden onderhouden
 
