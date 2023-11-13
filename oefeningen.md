@@ -1919,6 +1919,30 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Sluit Software met ```ALT+F4```
 
+1. Google Chrome installeren vanuit een .deb bestand
+
+    - Download .deb bestand
+
+        - Zoek in Firefox (```SUPER+1``` ) ```download google chrome```
+
+        - Klik op bovenste resultaat
+
+        - Kies "Chrome downloaden"
+
+        - Kies de 64-bits .deb indeling voor Debian/Ubuntu
+    
+    - Open bestandsbeheerder met ```SUPER+E``` 
+
+    - Ga naar "Downloads"
+
+    - Klik rechts op "google-chrome_current_amd64.deb"
+
+    - Kies "Software-installatie"
+
+    - Klik op "Installeren"
+
+    - Sluit software met ```ALT+F4```
+
 1. Discord installeren vanuit een .deb bestand []{#discord-installeren}
 
     - Maak op discord.com een account aan als u dat nog niet hebt
@@ -2080,6 +2104,22 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
     - Ga naar "Downloads"
 
     - Klik rechts op "discord-0.0.XX.deb"
+
+    - Kies "Software-installatie"
+
+    - Klik op ![](img/prullenbak.png){height=25px}
+
+    - Wachtwoord van beheerder is ```root```
+
+    - Sluit Software met ```ALT+F4```
+
+1. Verwijder Google Chrome
+
+    - Open de bestandsbeheerder met ```SUPER+E``` 
+
+    - Ga naar "Downloads"
+
+    - Klik rechts op "google-chrome_current_amd64.deb"
 
     - Kies "Software-installatie"
 

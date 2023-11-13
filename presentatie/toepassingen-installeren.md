@@ -75,6 +75,36 @@ title: Toepassingen installeren
 ![width:1000px](img/installeren-deb-zoom.gif)
 
 ---
+##### Voorbeeld Google Chrome .deb downloaden
+
+![width:800px](img/google-chrome-01-search-download.png)
+
+---
+
+![width:950px](img/google-chrome-02-google-search-download.png)
+
+---
+
+![width:950px](img/google-chrome-03-download-page.png)
+
+---
+
+![width:950px](img/google-chrome-04-choose-deb-or-rpm.png)
+
+---
+##### Voorbeeld Google Chrome uit .deb installeren
+
+![width:1000px](img/google-chrome-05-deb-in-downloads.png)
+
+---
+
+![width:1000px](img/google-chrome-06-deb-in-software.png)
+
+---
+
+![width:950px](img/google-chrome-07-software-gereed.png)
+
+---
 ## Standaardtoepassingen
 
 ![](img/standaardtoepassingen.png)
