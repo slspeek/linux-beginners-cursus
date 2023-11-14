@@ -5,10 +5,9 @@ author: |
     |  \tt{slspeek@gmail.com}
 date: \today{}
 ...
-
 Actiemenu
 
-: Menu in de bestandsbeheerder te activeren met ```F10``` of de drie puntjes boven elkaar in de adresbalk
+: Menu in de bestandsbeheerder te activeren met ```F10``` of de drie puntjes boven elkaar in de adresbalk.
 
 ![Actiemenu](img/actiemenu-geopend.png){width=300px}
 
@@ -90,11 +89,11 @@ Zie verder de [online-documentatie](https://tldp.org/LDP/Linux-Filesystem-Hierar
 
 Focus
 
-: Één GUI-element (knop, lijst, invoerveld) of venster kan de focus hebben. Dit betekent dat invoer van het toetsenbord naar dat element of venster wordt gestuurd. U wisselt focus tussen toepassingen met ```ALT+TAB```. Tussen vensters op één scherm met ```ALT+ESC```. En tussen verschillende vensters van dezelfde toepassing met ```ALT+BACKTICK```. 
+: Eén GUI-element (knop, lijst, invoerveld) of venster kan de focus hebben. Dit betekent dat invoer van het toetsenbord naar dat element of venster wordt gestuurd. U wisselt focus tussen toepassingen met ```ALT+TAB```. Tussen vensters op één scherm met ```ALT+ESC```. En tussen verschillende vensters van dezelfde toepassing met ```ALT+BACKTICK```. 
 
 GNOME
 
-:   Standaard desktop manager onder debian. Zie [GNOME docs](https://help.gnome.org/users/gnome-help/stable/index.html.nl)
+:   Standaard desktop manager in Debian. Zie [GNOME docs](https://help.gnome.org/users/gnome-help/stable/index.html.nl).
 
 GUI
 
@@ -116,7 +115,7 @@ Notificatie venster
 
 ![Notificatie venster](img/notificatie-venster.png){width=400px}
 
-Open software
+Open source software
 
 :	Software met de broncode erbij. In tegenstelling tot gesloten software kan en mag een programmeur zien wat de software doet.
 
@@ -140,7 +139,7 @@ Systeemmenu
 
 Thuismap
 
-:   De gebruikers directorie. Hier worden documenten en afbeeldingen opgeslagen. De gebruiker van wie de thuismap is kan hier zelf mappen aanmaken. Bijvoorbeeld ```/home/tux```. Zie [online-documentatie](https://nl.wikipedia.org/wiki/Homedirectory).
+:   De gebruikers map. Hier worden documenten en afbeeldingen opgeslagen. De gebruiker van wie de thuismap is kan hier zelf mappen aanmaken. Bijvoorbeeld ```/home/tux```. Zie [online-documentatie](https://nl.wikipedia.org/wiki/Homedirectory).
 
 Toepassing
 
