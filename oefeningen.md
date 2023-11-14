@@ -5,7 +5,6 @@ author: |
     |  \tt{slspeek@gmail.com}
 date: \today{}
 ...
-
 # Notatie
 Het lettertype ```Courier``` wordt gebruikt om iets op te schrijven dat u op het toetsenbord kunt typen.
 Uitzondering hierop zijn de volgende speciale toetsen:
@@ -270,16 +269,16 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
 1.  Sneltoetsen opzoeken. Open de sneltoetsen instellingen zoals in beschreven in de eerste oefening *(Hint: Afdeling "Vensters")*.
     
-    a. Wat is de toets voor maximaliseren
+    a. Wat is de toets voor maximaliseren?
 
-    a. Wat is de toets voor herstellen
+    a. Wat is de toets voor herstellen?
 
 1.  Sneltoetsen opzoeken. Open de sneltoetsen instellingen zoals in beschreven in de eerste oefening.
 Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
     
-    a. Wat is de toets voor "Toepassingenmenu openen"
+    a. Wat is de toets voor "Toepassingenmenu openen"?
 
-    a. Wat is de toets voor "Afmelden"
+    a. Wat is de toets voor "Afmelden"?
 
 1.  Open en sluit terminal 1
 
@@ -335,9 +334,9 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
     
     a. Herhaal dit voor het eerste terminalvenster
 
-1. Open en sluit twee firefox vensters
+1. Open en sluit twee Firefox vensters
 
-    a. Druk ```SUPER+1``` om firefox te openen
+    a. Druk ```SUPER+1``` om Firefox te openen
 
     a. Maak een nieuw venster aan via het toepassingsmenu
 
@@ -445,7 +444,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     a. Sluit het venster met ```ALT+F4```
 
-1. Open en sluit twee firefox vensters met de muis
+1. Open en sluit twee Firefox vensters met de muis
 
     a. Ga activiteiten modus in door op ![](img/activiteiten-knop.png){height=20px} te klikken
 
@@ -485,13 +484,13 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Sluit de browser af met ```CTRL+Q```
 
-1. Start Firefox.
+1. Start Firefox met ```SUPER+1```.
 
     - Ga naar ```debian.org```. 
 
     - Open een extra tabblad met ```CTRL+T```, merk op dat u gelijk het webadres kunt intypen. Ga naar ```tldp.org```.
 
-    - Ga naar het eerste tabblad door ```CTRL+TAB``` in te drukken.
+    - Ga terug naar het eerste tabblad door ```CTRL+TAB``` in te drukken.
 
     - Sluit ```debian.org```, met ```CTRL+W```.
 
@@ -503,7 +502,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Scroll naar "Onderdelen"
 
-    - Op de Samenvatting en Oefeningen op een apart tabblad (en blijf op de eerste pagina)
+    - Open de Samenvatting en Oefeningen op een apart tabblad (en blijf op de eerste pagina)
 
     - Gebruik ```CTRL+TAB``` om de twee nieuwe pagina's te bekijken
 
@@ -511,11 +510,13 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
     
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga naar de URL: ```slspeek.github.io/linux-beginners-cursus/#14```
+    - Zet
+    [```slspeek.github.io/linux-beginners-cursus/toepassingen-starten-en-afsluiten.html#4```](https://slspeek.github.io/linux-beginners-cursus/toepassingen-starten-en-afsluiten.html#4)
+    in de locatiebalk
 
     - Klik rechts in de animatie om het context menu te openen en kies "Afbeelding openen in nieuw tabblad"
 
-    - Bekijk grotere animatie
+    - Bekijk de grotere animatie
 
     - Sluit de browser af met ```CTRL+Q```
 
@@ -543,9 +544,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga met behulp van de bladwijzer naar de "Presentatie" van de cursus
-
-    - Ga naar de tweede pagina
+    - Ga met behulp van de bladwijzer naar de "Presentatie" ("Overzicht Linux beginners cursus") van de cursus
 
     - Klik met op "Samenvatting"
 
@@ -566,7 +565,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga met behulp van de bladwijzer naar de "Presentatie" van de cursus
+    - Ga met behulp van de bladwijzer naar de "Presentatie" ("Overzicht Linux beginners cursus") van de cursus
 
     - Ga naar de tweede pagina
 
