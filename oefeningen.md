@@ -558,7 +558,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Sleep de drie bladwijzers over de cursus naar deze map
 
-    - En order ze zo dat het resultaat er zo uitziet:
+    - En orden ze zodanig dat het resultaat er zo uitziet:
     ![](img/firefox-bladwijzer-map-cursus-3-items.png){height=100px}
 
     - Sluit de browser af met ```CTRL+Q```
