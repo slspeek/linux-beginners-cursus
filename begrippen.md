@@ -22,6 +22,10 @@ naar activiteiten modus brengt en van daar weer terug naar normale modus.
 
 ![Activiteiten knop](img/activiteiten-knop.png)
 
+Adresbalk
+
+: Invulveld in de bestandsbeheerder ![](img/bestanden-adresbalk-documenten.png){height=25px} dat aangeeft in welke map u zich bevindt. In Firefox ![](img/firefox-adresbalk-debian-org.png){height=25px} geeft het aan naar welke website u kijkt. U kunt hier ook zelf in typen om naar een map, die u wilt zien, te gaan in de bestandsbeheerder. Of een webadres, wat u wilt bekijken, in Firefox.
+
 Applicatie
 
 : Zie toepassing

@@ -512,7 +512,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Zet
     [```slspeek.github.io/linux-beginners-cursus/toepassingen-starten-en-afsluiten.html#4```](https://slspeek.github.io/linux-beginners-cursus/toepassingen-starten-en-afsluiten.html#4)
-    in de locatiebalk
+    in de adresbalk
 
     - Klik rechts in de animatie om het context menu te openen en kies "Afbeelding openen in nieuw tabblad"
 
