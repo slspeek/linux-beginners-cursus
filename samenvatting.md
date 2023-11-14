@@ -12,7 +12,6 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 ```SPATIEBALK```, ```CTRL```, ```ALT```, ```SUPER```, ```MENU```, ```TAB```, ```HOME```, ```END```, ```ESC```, ```DELETE```, ```PageDown```, ```PageUp```, ```PrintScreen```, ```F1```, ```F2``` ... en ```ENTER```, hier dient u betreffende toets in te drukken in plaats van het woord in te typen.
 
 # Inleiding
-
 [*Linux*](https://www.computerhope.com/jargon/l/linux.htm) is een [*besturingssysteem*](https://www.computerhope.com/jargon/o/os.htm).
 Een besturingssysteem zorgt ervoor dat hardwarecomponenten worden aangestuurd en toepassingen kunnen draaien
 Voorbeelden van andere besturingssystemen zijn: Windows, MacOS, en Chromium OS
@@ -32,13 +31,8 @@ In 1984 begint [*Richard Stallman*](https://nl.wikipedia.org/wiki/Richard_M._Sta
 
 ### Wat karakteriseert het [*Unix*](https://nl.wikipedia.org/wiki/Unix) besturingssysteem?
 
-- Multi tasking
-
-    - meerdere processen tegelijk draaien
-
-- Multi user
-
-    - meerdere gebruikers kunnen veilig naast elkaar werken
+- Multi tasking: meerdere processen tegelijk draaien
+- Multi user: meerdere gebruikers kunnen veilig naast elkaar werken
 
 ## Hoe vrij?
 
