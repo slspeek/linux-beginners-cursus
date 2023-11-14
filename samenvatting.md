@@ -48,7 +48,7 @@ Richard Stallman schreef de [*GNU Public Licence*](https://www.computerhope.com/
 - Iedereen mag het draaien en aanpassen
 - Je mag een aanpassing alleen onder de GNU Public Licence verspreiden
 
-## Oké Stallman ging dus Unix namaken
+## Linus Torvalds
 Maar hij miste een kernel
 
 Linus Torvalds kwam in 1991 met zijn eerste versie van de Linux kernel
