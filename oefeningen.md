@@ -623,7 +623,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 ## Bestanden
 
-1. Waar staat de thuismap van tux?
+1. Waar staat de thuismap van gebruiker tux?
 
 1. Wat is het map scheidingsteken op Linux?
 
@@ -827,9 +827,9 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Open bestandsbeheerder met ```SUPER+E```
 
-    - Maak in ```Documenten``` een map ```werkstuk-protohistorie``` aan.
+    - Ga ```Documenten``` in.
 
-    - Sleep deze juist aangemaakte map naar het linkerpaneel boven het "Nieuwe bladwijzer"
+    - Sleep ```werkstuk-protohistorie``` naar het linkerpaneel boven het "Nieuwe bladwijzer"
     ![](img/bestanden-hint-nieuwe-bladwijzer.png){height=150px}
 
     - Sluit de bestandsbeheerder met ```ALT+F4```
@@ -878,9 +878,11 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Sluit de bestandsbeheerder met ```ALT+F4```
 
-1. Hoe groot in pixels is het plaatje ```blaassilene.jpg``` (anjerfamilie)?
+1. Hoe groot in pixels is het plaatje ```blaassilene.jpg``` (```Afbeeldingen/bloemen/anjerfamilie```)?
 
     - Gebruik "Eigenschappen" van het bestand
+
+    - Klik onderaan de "Eigenschappen" popup op "Afbeeldingseigenschappen"
 
 1. Werkstukje maken over protohistorie.
 
@@ -894,7 +896,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Open opnieuw bestandsbeheerder met ```SUPER+E```
 
-    - Zoek met ```CTRL+F``` naar het woord ```schrift```, het document ```Protohistorie - Wikipedia.pdf``` uit de map ```werkstuk-protohistorie```
+    - Zoek met ```CTRL+F``` naar het woord ```periode```, het document ```Protohistorie - Wikipedia.pdf``` uit de map ```werkstuk-protohistorie```
         moet zich onder de zoekresultaten moeten bevinden.
 
 1. Maak een archief ```bloemen.zip``` in de map ```Afbeeldingen``` van de map ```bloemen```.
@@ -935,7 +937,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Klik rechts op ```bloemen.zip``` en kies "Uitpakken". Er is nu een map ```bloemen``` in ```plaatjes``` gemaakt. Overtuig u ervan dat dit precies de families bevat die u gemaakt had.
 
-    - Gooi ```bloemen.zip``` en map ```bloemen``` uit ```plaatjes``` in de prullenbak. Door rechts te klikken en "In de prullenbak gooien" te kiezen.
+    - Gooi ```bloemen.zip``` en map ```bloemen``` uit ```plaatjes``` in de prullenbak. Door er rechts op te klikken en "In de prullenbak gooien" te kiezen.
 
     - Sluit de bestandsbeheerder met ```ALT+F4```
 
