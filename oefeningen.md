@@ -1635,6 +1635,16 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Sluit instellingen met ```ALT+F4```
 
+1. Deactiveer "Snelhoek" optie. Deze optie maakt dat u activiteiten modus ingaat of verlaat als de muis in linker bovenhoek van het scherm komt.
+
+    - Open instellingen met ```SUPER+I``` 
+
+    - Selecteer in het linkerpaneel "Multitasken"
+
+    - Schakel onder het kopje "Algemeen" de "Snelhoek" optie uit
+
+    - Sluit instellingen met ```ALT+F4```
+
 1. Zet nachtlicht aan via instellingen
 
     - Open instellingen met ```SUPER+I``` 

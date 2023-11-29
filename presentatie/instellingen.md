@@ -54,6 +54,15 @@ title: Instellingen
 ![width:1000px](img/instellingen-schermvergrendeling-uitschakelen.gif)
 
 ---
+## Snelhoek optie uitschakelen
+
+Deze optie brengt u in activiteiten modus als u de muis in de linker bovenhoek van het scherm brengt
+
+- Instellingen -> Multitasken -> Algemeen -> Snelhoek
+
+![bg right width:100%](img/instellingen-snelhoek.png)
+
+---
 
 ## Nachtlicht
 
