@@ -68,7 +68,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
     a.  Open de hulp door op ```SUPER``` te drukken, en dan op het reddingsboei
         symbool op de dash te klikken
 
-    a.  Gebruik ```CTRL-S``` en zoek op 'sneltoetsen', ga naar 'Sneltoetsen
+    a.  Gebruik ```CTRL+S``` en zoek op 'sneltoetsen', ga naar 'Sneltoetsen
         > instellen'
 
         i.  Ga naar beneden naar 'Vooraf gedefinieerde sneltoetsen'
@@ -81,45 +81,47 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
 1. Ga activiteiten modus in en verlaat haar onverrichter zake weer (zes keer)
 
-    a. Met het toetsenbord ```SUPER```
+    a. Ga activiteiten modus in met het toetsenbord ```SUPER``` (driemaal)
         
-        i. Verlaten met ```ESC``` of ```SUPER```
-
-        i. Verlaten via de knop ![](img/activiteiten-knop.png){height=20px}
-
-    a. Met de muis ![](img/activiteiten-knop.png){height=20px}
-
-        i. Verlaten met ```ESC```
+        i. Verlaat activiteiten modus met ```ESC```
         
-        i. Verlaten via ```SUPER```
+        i. Verlaat activiteiten modus met ```SUPER```
 
-        i. Verlaten via de knop ![](img/activiteiten-knop.png){height=20px}
+        i. Verlaat activiteiten modus via de knop ![](img/activiteiten-knop.png){height=20px}
+
+    a. Ga activiteiten modus in met de muis ![](img/activiteiten-knop.png){height=20px} (driemaal)
+
+        i. Verlaat activiteiten modus met ```ESC```
+        
+        i. Verlaat activiteiten modus met ```SUPER```
+
+        i. Verlaat activiteiten modus met de knop ![](img/activiteiten-knop.png){height=20px}
 
 1. Open de samenvatting van deze cursus:
     
-    a. Druk ```SUPER``` in
+    a. Druk ```SUPER``` in (en laat hem weer los)
 
-    a. Type ```samenv``` en ```ENTER```
+    a. Type ```samenv``` gevolgd door ```ENTER```
 
     a. Druk ```CTRL+W``` om haar weer te sluiten
 
 1. Ga applicatie modus in en verlaat haar onverrichter zake weer (zes keer)
     
-    a. Ga binnen via ```SUPER+A```
+    a. Ga applicatie modus binnen via ```SUPER+A```
 
-        i. Verlaten via ```SUPER```
+        i. Ga terug naar normale modus met ```SUPER```
 
-        i. Verlaten via ```ESC ESC```
+        i. Ga terug naar normale modus met ```ESC ESC```
 
-        i. Verlaten via ![](img/activiteiten-knop.png){height=20px}
+        i. Ga terug naar normale modus met ![](img/activiteiten-knop.png){height=20px}
 
-    a. Ga met behulp de muis binnen via ![](img/activiteiten-knop.png){height=20px} en ![](img/3x3-puntjes-op-dash.png){height=20px}
+    a. Ga met behulp de muis applicatie modus binnen door te klikken op ![](img/activiteiten-knop.png){height=20px} en daarna op ![](img/3x3-puntjes-op-dash.png){height=20px}
 
-        i. Verlaten via ```SUPER```
+        i. Ga terug naar normale modus met ```SUPER```
 
-        i. Verlaten via ```ESC ESC```
+        i. Ga terug naar normale modus met ```ESC ESC```
 
-        i. Verlaten via ![](img/activiteiten-knop.png){height=20px}
+        i. Ga terug naar normale modus met ![](img/activiteiten-knop.png){height=20px}
 
 1. Ga applicatie modus binnen op een wijze naar keuze en
     
@@ -130,6 +132,8 @@ Uitzondering hierop zijn de volgende speciale toetsen:
     a. Ga naar gewone modus op een wijze naar keuze
 
     a. Sluit beide toepassingen
+
+        i. Ga naar het eerste (linker) werkblad met ```SUPER+PageUp```
 
         i. ```ALT+F4``` om firefox te sluiten
 
@@ -157,6 +161,10 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     a. Open met klik op ![](img/systeem-menu-gesloten.png){height=20px}
 
+        i. Sluit met klik ergens buiten het menu
+
+    a. Open met klik op ![](img/systeem-menu-gesloten.png){height=20px}
+
         i. Sluit met ```ESC```
 
 1. Netwerk uitschakelen en opnieuw inschakelen
@@ -167,9 +175,11 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     a. Klik ![](img/ethernet-in-uit.png){height=20px}, knop wordt grijs
 
-    a. Sluit systeemmenu
+    a. Sluit het systeemmenu
 
     a. Start ![](img/firefox-icon.png){width=40px} en ga naar ```debian.org```, dit zal niet gaan
+
+    a. Open het systeemmenu
     
     a. Klik ![](img/ethernet-in-uit-grijs.png){height=20px}, knop krijgt weer kleur
 
@@ -177,6 +187,8 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     a. Ga naar ![](img/firefox-icon.png){width=40px} en herlaad de pagina met ```F5```
 
+    a. Sluit Firefox met ```ALT+F4```
+    
 1. Afmelden op twee manieren
 
     a. Met muis
@@ -243,7 +255,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     a. ```SUPER snelt ENTER```
 
-    a. Klik op "Sneltoetsen weergeven en aanpassen"
+    a. Klik op "Sneltoetsen bekijken en aanpassen"
         
     a. Ken onder de afdeling "Starters" ```SUPER+E``` aan "Persoonlijke map"
 
@@ -269,16 +281,16 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
 1.  Sneltoetsen opzoeken. Open de sneltoetsen instellingen zoals in beschreven in de eerste oefening *(Hint: Afdeling "Vensters")*.
     
-    a. Wat is de toets voor maximaliseren?
+    a. Wat is de toets voor "Venster maximaliseren"?
 
-    a. Wat is de toets voor herstellen?
+    a. Wat is de toets voor "Venster herstellen"?
 
 1.  Sneltoetsen opzoeken. Open de sneltoetsen instellingen zoals in beschreven in de eerste oefening.
 Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
     
-    a. Wat is de toets voor "Toepassingenmenu openen"?
+    a. Wat is de toets voor "Toepassingenmenu openen"? Type ```toepassingenmenu``` in het tekstvak naast het vergrootglas  en kijk in de zoekresultaten voor het antwoord
 
-    a. Wat is de toets voor "Afmelden"?
+    a. Wat is de toets voor "Afmelden"?  Type ```afmelden``` in het tekstvak naast het vergrootglas  en kijk in de zoekresultaten voor het antwoord
 
 1.  Open en sluit terminal 1
 

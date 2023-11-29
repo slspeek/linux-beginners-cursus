@@ -63,7 +63,7 @@ U opent het context menu van een item met ```MENU``` (menu toets) of ```SHIFT+F1
 
 Dash
 
-:	Onderdeel van de GNOME desktop. Hier staan je favoriete programma’s en je vindt hier de geopende programma’s.
+:	Onderdeel van de GNOME desktop. Alleen zichtbaar in activiteiten en applicatie modus. Hier staan je favoriete programma’s en je vindt hier de geopende programma’s.
 
 ![Dash](img/dash.png)
 
