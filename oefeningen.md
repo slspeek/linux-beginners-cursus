@@ -492,7 +492,11 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Ga naar de URL: ```github.com/slspeek/linux-beginners-cursus```.
 
-    - Scroll omlaag en ga via de link naar de presentatie van de cursus.
+    - Scroll naar het kopje "Lesmateriaal"
+
+    - Klik op de link van de HTML versie (tweede kolom) van "Presentaties"
+    
+    - Blader door enkele presentaties heen, nu weet u waar u het lesmateriaal online kunt vinden
 
     - Sluit de browser af met ```CTRL+Q```
 
@@ -512,9 +516,9 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Ga naar de URL: ```github.com/slspeek/linux-beginners-cursus```
 
-    - Scroll naar "Onderdelen"
+    - Scroll naar het kopje "Lesmateriaal"
 
-    - Open de Samenvatting en Oefeningen op een apart tabblad (en blijf op de eerste pagina)
+    - Open de HTML versie (tweede kolom) van Samenvatting en Oefeningen op een apart tabblad (en blijf op de eerste pagina)
 
     - Gebruik ```CTRL+TAB``` om de twee nieuwe pagina's te bekijken
 
@@ -546,9 +550,9 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
         - Maak bladwijzerbalk zichtbaar met ```CTRL+SHIFT+B``` als deze verborgen is
     
-    - Scroll naar beneden naar de README naar "Onderdelen"
+    - Scroll naar beneden naar de README naar het kopje "Lesmateriaal"
 
-    - Klik op de link "Presentatie"
+    - Klik op de link van de HTML versie van "Presentaties" (tweede kolom)
     
     - Maak een bladwijzer door op ![](img/firefox-bladwijzer-ster-leeg.png){width=30px} aan de rechterzijde te klikken
 
