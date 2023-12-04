@@ -9,7 +9,7 @@ title: Firefox
 
 - Link openen op nieuw tabblad
 
-- Essentiële extensies
+- Enkele extensies
 
 - Hulp over Firefox
 ---
@@ -153,7 +153,7 @@ title: Firefox
 ![width:1000px](img/firefox-bladwijzermap-maken-slepen.gif)
 
 ---
-#### Aanbevolen extensies installeren
+#### Extensies installeren
 
 <!-- - [Adblocker for Youtube](https://addons.mozilla.org/nl/firefox/addon/adblock-for-youtube/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) houdt alle advertentie filmpjes tegen op Youtube -->
 
