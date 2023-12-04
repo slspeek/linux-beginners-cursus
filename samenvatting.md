@@ -92,6 +92,7 @@ Zo ontstond de combinatie GNU/Linux
 ## Voordelen van vrije software
 
 - Kosteloos
+- Draait goed op oudere computers
 - Eenvoudige installatie van toepassingen
 - Geen reclame of marketing in het systeem
 - Veranderingen aan software die een belangrijk deel van de gebruikers niet aanstaan zal leiden tot een afsplitsing die hen wel behaagd

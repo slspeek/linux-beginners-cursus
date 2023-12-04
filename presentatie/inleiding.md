@@ -170,6 +170,8 @@ Zo ontstond de combinatie GNU/Linux
 
 - Kosteloos
 
+- Draait goed op oudere hardware
+
 - Eenvoudige installatie van toepassingen
 
 - Geen reclame of marketing in het systeem
