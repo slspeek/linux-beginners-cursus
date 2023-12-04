@@ -505,7 +505,7 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
     
     - Ga naar de "Prullenbak" in de bestandsbeheerder en kies "Prullenbak legen" uit het actiemenu
       
-      ![](img/bestanden-prullenbak-legen.png)
+      ![](img/bestanden-prullenbak-legen.png){width=400px}
 
 - Eigenschappen van bestanden en mappen 
 
@@ -822,7 +822,7 @@ Voor invoeren via het zoekveld kunt de volgende namen gebruiken
 
 ## Standaardtoepassingen
 
-![](img/standaardtoepassingen.png)
+![](img/standaardtoepassingen.png){width=400px}
 
 ### Standaardtoepassing per bestandstype
 
@@ -836,7 +836,7 @@ Voor invoeren via het zoekveld kunt de volgende namen gebruiken
 
 ##  [*Opstarttoepassingen*](https://help.gnome.org/users/gnome-help/stable/shell-apps-auto-start.html.en)
 
-![](img/opstarttoepassingen.png)
+![](img/opstarttoepassingen.png){width=400px}
 
 - Open Afstellingen (```SUPER+SHIFT+I``` )
 
