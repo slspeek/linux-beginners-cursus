@@ -8,21 +8,21 @@ date: \today{}
 <!-- ## Linux beginners cursus
 ### GNOME op Debian 12
 ![](img/debian-logo.png){height=290px} -->
+## Thuispagina
+De thuispagina van Linux beginners cursus bevindt zich op het volgende URL: [```https://github.com/slspeek/linux-beginners-cursus```](https://github.com/slspeek/linux-beginners-cursus).
+
 ## Lesmateriaal
 
-1. [Thuispagina](https://github.com/slspeek/linux-beginners-cursus)
 
-1. Presentatie ([download presentatie voor offline gebruik](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/presentatie.zip))
+| |Online versie|Printbare/Offline versie|
+|----|-------|-------------|
+|Presentaties| [HTML versie](#presentaties) |[Zipbestand](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/presentatie.zip) |
+|Samenvatting| [HMTL versie](samenvatting.html)| [Printbare versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/samenvatting.pdf)|
+|Oefeningen| [HMTL versie](oefeningen.html) |[Printbare versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/oefeningen.pdf)|
+|Begrippenlijst| [HMTL versie](begrippen.html) |[Printbare versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/begrippen.pdf)|
+|Sneltoetsen kaart| | [Printbare versie](https://github.com/slspeek/debian-gnome-sneltoetsen/releases/latest/download/debian-gnome-sneltoetsen.pdf)|
+|Verder leren| [HTML versie](verder-leren.html) |[Printbare versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/verder-leren.pdf)|
 
-1. [Samenvatting](samenvatting.html) [PDF versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/samenvatting.pdf)
-
-1. [Oefeningen](oefeningen.html) [PDF versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/oefeningen.pdf)
-
-1. [Begrippenlijst](begrippen.html) [PDF versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/begrippen.pdf)
-
-1. [Sneltoetsen kaart](https://github.com/slspeek/debian-gnome-sneltoetsen/releases/latest/download/debian-gnome-sneltoetsen.pdf)
-
-1. [Verder leren](verder-leren.html) [PDF versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/verder-leren.pdf)
 
 ## Presentaties
 

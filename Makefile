@@ -3,7 +3,7 @@ PRESENTATIE_DIR=$(BUILD_DIR)/presentatie
 PANDOC_IMAGE=pandoc/latex:2.9
 USER_ID=$(shell id -u):$(shell id -g)
 PANDOC_PDF_CMD=docker run --rm --init -v "$(PWD):/data" -u $(USER_ID)  $(PANDOC_IMAGE) --include-in-header=header.tex --from markdown layout.yaml 
-PANDOC_HTML_CMD=docker run --rm --init -v "$(PWD):/data" -u $(USER_ID) $(PANDOC_IMAGE) --standalone --from markdown --to html
+PANDOC_HTML_CMD=docker run --rm --init -v "$(PWD):/data" -u $(USER_ID) $(PANDOC_IMAGE) --standalone --css=css/custom.css --from markdown --to html
 MARP=marpteam/marp-cli:v3.1.0
 MARP_CMD=docker run --rm --init -e MARP_USER=$(USER_ID) -v $(PWD):/home/marp/app/ -e LANG=$(LANG) $(MARP) --allow-local-files
 
@@ -71,5 +71,5 @@ clean:
 
 prepare:
 	mkdir -p $(PRESENTATIE_DIR)
-	cp -r img $(PRESENTATIE_DIR)
+	cp -r img css $(PRESENTATIE_DIR)
 
