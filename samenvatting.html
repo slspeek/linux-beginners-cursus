@@ -356,19 +356,29 @@
 <h1 id="bestanden">Bestanden</h1>
 <h2 id="bestanden-op-linux">Bestanden op Linux</h2>
 <ul>
+<li><p>bovenste map in de bestandsstructuur is <code>/</code> (‘root’ genoemd)</p></li>
 <li><p>fysieke volumes (indien er meerdere disks zijn)</p>
 <ul>
 <li><p>geen drive-letters <code>C:</code>, <code>D:</code> etc.</p></li>
 <li><p>aankoppelpunten zijn (lege) mappen (bijvoorbeeld <code>/mnt</code>, <code>/media/&lt;XXXX&gt;</code>)</p></li>
 </ul></li>
 <li><p>geen backslashes (<code>\</code>), maar forward-slashes (<code>/</code>) als map scheidingsteken</p></li>
-<li><p><a href="https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html"><em>Filesystem Hierarchy Standard</em></a></p>
+</ul>
+<h2 id="bestands-of-map-locaties-als-paden">Bestands of map locaties als paden</h2>
+<p>Een pad is een aanduiding van bestands of map locatie in termen van bovenliggende mappen. Absolute paden beginnen met een <code>/</code> en relatieve paden niet.</p>
+<p>Voorbeelden:</p>
+<ul>
+<li><p><code>Documenten/Geschiedenis</code> is de map waar je komt door vanuit de huidige map de map <code>Documenten</code> in te gaan en dan de map <code>Geschiedenis</code> in te gaan. Merk op dat dit een relatief pad is omdat het niet met <code>/</code> begint.</p></li>
+<li><p><code>/usr/bin</code> is een absoluut pad waar je komt door vanuit <code>/</code> de map <code>usr</code> in te gaan en dan de map <code>bin</code> in te gaan.</p></li>
+<li><p><code>/home/tux/Documenten</code> is het absolute pad van de <code>Documenten</code> map in de thuismap van gebruiker <code>tux</code>.</p></li>
+</ul>
+<h2 id="filesystem-hierarchy-standard"><a href="https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html"><em>Filesystem Hierarchy Standard</em></a></h2>
+<p>De standaard die de paden van belangrijke mappen definieert voor Linux.</p>
 <ul>
 <li><p><code>/home</code> hieronder staan alle thuismappen</p></li>
+<li><p><a href="https://nl.wikipedia.org/wiki/Homedirectory"><em>thuismap</em></a> van gebruiker <code>tux</code> is <code>/home/tux</code>. Deze map heet “Persoonlijke map” in de bestandsbeheerder.</p></li>
 <li><p><code>/usr/bin</code> hieronder staan de toepassingen</p></li>
 <li><p><code>/media</code> hieronder leven alle aankoppelbare media zoals USB-sticks</p></li>
-</ul></li>
-<li><p><a href="https://nl.wikipedia.org/wiki/Homedirectory"><em>thuismap</em></a> van gebruiker <code>tux</code> is <code>/home/tux</code>. Deze map heet “Persoonlijke map” in de bestandsbeheerder.</p></li>
 </ul>
 <h2 id="bestandsbeheerder">Bestandsbeheerder</h2>
 <ul>
