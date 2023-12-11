@@ -35,6 +35,10 @@ Applicatie modus
 : Onderdeel van de activiteiten modus waarin alle geïnstalleerde programma's worden getoond.
 U komt in deze modus door ```SUPER+A``` in te drukken.
 
+Bestandsbeheerder
+
+: De toepassing "Betanden" ![](img/bestanden-icon.png) waarwee u bestandsbeheer (openen, kopiëren, verplaatsen en verwijderen van bestanden) kunt uitvoeren. Onder Windows heet deze toepassing "Verkenner".
+
 Besturingssysteem
 
 :	Verzameling programma’s die de hardware aanstuurt en zorgt dat toepassingen kunnen draaien.
