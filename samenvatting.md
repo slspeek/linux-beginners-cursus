@@ -417,6 +417,8 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
 
 ## Bestanden op Linux
 
+- bovenste map in de bestandsstructuur is ```/``` ('root' genoemd)
+
 - fysieke volumes (indien er meerdere disks zijn)
 
     - geen drive-letters ```C:```, ```D:``` etc.
@@ -425,15 +427,27 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
 
 -  geen backslashes (```\```), maar forward-slashes (```/```) als map scheidingsteken
 
-- [*Filesystem Hierarchy Standard*](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html)
+## Bestands of map locaties als paden
+Een pad is een aanduiding van bestands of map locatie in termen van bovenliggende mappen. Absolute paden beginnen met een ```/``` en relatieve paden niet.
 
-    -  ```/home``` hieronder staan alle thuismappen
+Voorbeelden:
 
-    - ```/usr/bin``` hieronder staan de toepassingen
+- ```Documenten/Geschiedenis``` is de map waar je komt door vanuit de huidige map de map ```Documenten``` in te gaan en dan de map ```Geschiedenis``` in te gaan. Merk op dat dit een relatief pad is omdat het niet met ```/``` begint.
 
-    - ```/media``` hieronder leven alle aankoppelbare media zoals USB-sticks
+- ```/usr/bin``` is een absoluut pad waar je komt door vanuit ```/``` de map ```usr``` in te gaan en dan de map ```bin``` in te gaan.
+
+- ```/home/tux/Documenten``` is het absolute pad van de ```Documenten``` map in de thuismap van gebruiker ```tux```.
+
+## [*Filesystem Hierarchy Standard*](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html)
+De standaard die de paden van belangrijke mappen definieert voor Linux.
+
+-  ```/home``` hieronder staan alle thuismappen
 
 -  [*thuismap*](https://nl.wikipedia.org/wiki/Homedirectory) van gebruiker ```tux``` is ```/home/tux```. Deze map heet "Persoonlijke map" in de bestandsbeheerder.
+
+- ```/usr/bin``` hieronder staan de toepassingen
+
+- ```/media``` hieronder leven alle aankoppelbare media zoals USB-sticks
 
 ## Bestandsbeheerder
 

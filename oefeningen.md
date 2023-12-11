@@ -472,9 +472,9 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
         i. Noem twee manieren waarop dit sluiten van beide vensters in één keer had gekunt (er zijn drie manieren)
 
-1. Som manieren waarop een toepassing, waaraan een sneltoets is toegekend, maar niet op de dash staat, kan worden gestart (vier manieren)
+1. Som manieren op waarop een toepassing, waaraan een sneltoets is toegekend, maar niet op de dash staat, kan worden gestart (vier manieren)
 
-1. Som manieren waarop een toepassing, waaraan een sneltoets is toegekend en op de dash staat, kan worden gestart (vijf manieren)
+1. Som manieren op waarop een toepassing, waaraan een sneltoets is toegekend en op de dash staat, kan worden gestart (vijf manieren)
 
 1. Op welke wijzen kan een extra venster worden geopend van toepassingen (die extra vensters toestaan)? (vier manieren)
 
@@ -548,7 +548,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Ga met behulp van de bladwijzer naar de URL: ```github.com/slspeek/linux-beginners-cursus```
 
-        - Maak bladwijzerbalk zichtbaar met ```CTRL+SHIFT+B``` als deze verborgen is
+    - Maak bladwijzerbalk zichtbaar met ```CTRL+SHIFT+B``` als deze verborgen is
     
     - Scroll naar beneden naar de README naar het kopje "Lesmateriaal"
 
@@ -560,15 +560,17 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga met behulp van de bladwijzer naar de "Presentatie" ("Overzicht Linux beginners cursus") van de cursus
+    - Ga met behulp van de bladwijzer naar de "Presentaties" ("Overzicht Linux beginners cursus") van de cursus
 
-    - Klik met op "Samenvatting"
+    - Klik op de HTML versie "Samenvatting" onder het kopje "Lesmateriaal"
 
     - Maak een bladwijzer door ![](img/firefox-slotje.png){width=30px} naar de bladwijzerbalk te slepen
 
     - Sluit de browser af met ```CTRL+Q```
 
 1. Start Firefox met ```SUPER+1```.
+
+    - Als de bladwijzerbalk niet zichtbaar is maakt u hem zichtbaar met ```SHIFT+CTRL+B```
 
     - Open het context menu (rechtsklikken) van de bladwijzerbalk en kies "Map toevoegen ..." en maak een map "cursus" aan
 
@@ -581,11 +583,11 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga met behulp van de bladwijzer naar de "Presentatie" ("Overzicht Linux beginners cursus") van de cursus
+    - Ga met behulp van de bladwijzer naar de "Presentaties" ("Overzicht Linux beginners cursus") van de cursus
 
-    - Ga naar de tweede pagina
+    - Ga naar het kopje "Lesmateriaal"
 
-    - Klik met ```CTRL``` ingedrukt op "Oefeningen" en "Begrippenlijst"
+    - Klik met ```CTRL``` ingedrukt op de HTML versies van "Oefeningen" en "Begrippenlijst"
 
     - Breng met behulp van ```CTRL+TAB``` de tabbladen 1 voor 1 naar voren en sleep ![](img/firefox-slotje.png){width=30px} naar de map "cursus" op de bladwijzerbalk
 
@@ -597,7 +599,9 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Ga naar "Bladwijzers beheren" met ```CTRL+SHIFT+O```
 
-    - Verwijder de bladwijzer naar ```kernel.org```
+    - Selecteer in het linkerpaneel "Bladwijzerbalk"
+
+    - Verwijder de bladwijzer naar ```kernel.org```, door rechts te klikken op de ```kernel.org``` bladwijzer en "Bladwijzer verwijderen" te kiezen
 
     - Sluit de browser af met ```CTRL+Q```
 
@@ -607,11 +611,19 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```
 
-    - Ga naar 'Add-ons en thema's' met ```CTRL+SHIFT+A``` of via het hamburger menu rechtbovenin.
+    - Ga naar 'Add-ons en thema's' met ```CTRL+SHIFT+A``` of via het hamburger menu ![](img/firefox-hamburgermenu.png) rechtbovenin.
 
     - Selecteer aan de linkerzijde van de pagina 'Extensies'
 
-    - Type in het zoekvak ```Adblocker Ultimate``` en installeer deze extensie
+    - Type in het zoekvak ```Adblocker Ultimate``` en installeer deze extensie:
+
+        - Kies het bovenste zoekresultaat
+
+        - Klik op de blauwe knop met opschrift "Toevoegen aan Firefox"
+
+        - Klik in popup die rechtbovenin verschijnt op "Toevoegen"
+
+        - Klik in de volgende popup die rechtbovenin verschijnt op "Oké"
 
     - Sluit de browser af met ```CTRL+Q```
 
@@ -619,7 +631,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Ga naar de URL: ```slspeek.github.io/linux-beginners-cursus/samenvatting.html```.
 
-    - Scroll omlaag naar "Internet browser: Firefox" en dan naar "Aanbevolen extensies installeren", klik op de link van "I don't care about cookies"
+    - Scroll omlaag naar "Internet browser: Firefox" en dan naar "Extensies installeren", klik op de link van "I don't care about cookies"
 
     - Klik op de knop "Toevoegen aan Firefox"
 
@@ -639,7 +651,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 ## Bestanden
 
-1. Waar staat de thuismap van gebruiker tux?
+1. Wat is het pad van de thuismap van gebruiker tux?
 
 1. Wat is het map scheidingsteken op Linux?
 
@@ -665,7 +677,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Open bestandsbeheerder met ```SUPER+E```
 
-    - Wissel naar de andere weergave met ![](img/knop-icon-weergave.png){width=20px} of ![](img/knop-lijst-weergave.png){width=20px}
+    - Wissel naar de andere weergave met één van de knoppen rechtsbovenin: ![](img/knop-icon-weergave.png){width=20px} of ![](img/knop-lijst-weergave.png){width=20px}
 
     - Keer terug naar eerste weergave
 
@@ -675,9 +687,8 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Open bestandsbeheerder met ```SUPER+E```
 
-    - Toon de verborgen bestanden met behulp van het menu met de drie puntjes boven elkaar rechts in de adresbalk
-    ![](img/persoonlijke-map-menu.png){height=20px} 
-
+    - Toon de verborgen bestanden met behulp van het hamburgermenu ![](img/firefox-hamburgermenu.png){height=20px}, het menuitem heet "Verborgen bestanden tonen"
+    
     - Wat voor soort namen hebben de verborgen bestanden? Ziet u een patroon? (Wissel eventueel meerdere malen met ```CTRL+H```)
 
     - Sluit de bestandsbeheerder met ```CTRL+W```
@@ -761,9 +772,9 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Open bestandsbeheerder met ```SUPER+E```
 
-    - Navigeer naar ```Afbeeldingen/Schermafdrukken```
-
     - Maak een schermafdruk met ```ALT+PrintScreen```
+
+    - Navigeer naar ```Afbeeldingen/Schermafdrukken```
 
     - Knip deze afbeelding via haar context menu
 
@@ -906,7 +917,15 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
         - Gebruik ```CTRL+K``` en ```CTRL+↑```, ```CTRL+↓```
 
-    - Print de pagina [```https://nl.wikipedia.org/wiki/Protohistorie```](https://nl.wikipedia.org/wiki/Protohistorie) naar pdf en sla deze op in de map ```werkstuk-protohistorie``` gebruikmakend van de bladwijzer.
+    - Druk de pagina [```https://nl.wikipedia.org/wiki/Protohistorie```](https://nl.wikipedia.org/wiki/Protohistorie) af naar pdf en sla deze op in de map ```werkstuk-protohistorie``` gebruikmakend van de bladwijzer.
+
+        - Kies uit het hamburgermenu ![](img/firefox-hamburgermenu.png) "Afdrukken..." 
+
+        - Zet het "Uitvoerapparaat" in het rechterpaneel op "Opslaan als PDF" en druk op "Opslaan"
+
+        - Kies in het linkerpaneel van het bestandsvenster de bladwijzer ```werkstuk-protohistorie```
+
+        - Klik op de blauwe knop "Opslaan" rechtsbovenin
 
     - Sluit Firefox
 
@@ -996,7 +1015,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Open bestandsbeheerder met ```SUPER+E```
 
-    - Gebruik ```CTRL+?``` om het sneltoetsen venster te openen
+    - Gebruik ```SHIFT+CTRL+?``` om het sneltoetsen venster te openen
 
     - Gebruikt ```PageDown``` om tweemaal verder te bladeren
 

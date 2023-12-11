@@ -103,6 +103,10 @@ GUI
 
 :	Graphical user interface.
 
+Hamburgermenu
+
+: Het hamburgermenu ![](img/firefox-hamburgermenu.png) geeft in een toepassing toegang tot de menu's van een toepassing en bevindt zich meestal rechtsbovenin het venster.
+
 Linux Documentation Project
 
 :   Documentatie (voor gevorderden) over je dingen op Linux voor elkaar krijgt, de zogeheten *Howtos*. Website [tldp.org](https://tldp.org) (afkorting van __The Linux Documentation Project__).
@@ -111,7 +115,7 @@ Menu toets
 
 : Toets op het toetsenbord die tussen de rechter super (windows) toets en de rechter control toets ligt. De toets activeert het context menu.
 
-![Menu key](img/menu-key.jpeg)
+![Menu toets](img/menu-key.jpeg)
 
 Notificatie venster
 
@@ -122,6 +126,16 @@ Notificatie venster
 Open source software
 
 :	Software met de broncode erbij. In tegenstelling tot gesloten software kan en mag een programmeur zien wat de software doet.
+
+Pad 
+
+:   Aanduiding van bestands of map locatie in termen van bovenliggende mappen. Absolute paden beginnen met een ```/``` en relatieve paden niet. Voorbeelden:
+
+- ```Documenten/Geschiedenis``` is de map waar je komt door vanuit de huidige map de map ```Documenten``` in te gaan en dan de map ```Geschiedenis``` in te gaan. Merk op dat dit een relatief pad is omdat het niet met ```/``` begint.
+
+- ```/usr/bin``` is een absoluut pad waar je komt door vanuit ```/``` de map ```usr``` in te gaan en dan de map ```bin``` in te gaan.
+
+- ```/home/tux/Documenten``` is het absolute pad van de ```Documenten``` map in de thuismap van gebruiker ```tux```.
 
 Programma
 
@@ -144,6 +158,12 @@ Systeemmenu
 Thuismap
 
 :   De gebruikers map. Hier worden documenten en afbeeldingen opgeslagen. De gebruiker van wie de thuismap is kan hier zelf mappen aanmaken. Bijvoorbeeld ```/home/tux```. Zie [online-documentatie](https://nl.wikipedia.org/wiki/Homedirectory).
+
+Titelbalk
+
+: De balk aan de bovenkant van een venster, met rechts het ![](img/kruisje-in-titelbalk-van-toepassing.png) om het venster te sluiten.
+
+![Titelbalk van de rekenmachine](img/titelbalk-rekenmachine.png)
 
 Toepassing
 

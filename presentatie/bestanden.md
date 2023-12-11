@@ -9,7 +9,7 @@ title: Bestanden
 
 - Wat kunt u met de bestandsbeheerder?
 
-- Openen
+- Openen en sluiten van de bestandsbeheerder
 
 - Verschillende views
 
@@ -32,6 +32,9 @@ title: Bestanden
 
 ---
 #### Bestanden op Linux
+
+- bovenste map in de bestandsstructuur is ```/``` ('root' genoemd)
+
 - fysieke volumes (indien er meerdere disks zijn)
 
     - geen drive-letters ```C:```, ```D:``` etc.
@@ -41,7 +44,20 @@ title: Bestanden
 -  geen backslashes (```\```), maar forward-slashes (```/```) als map scheidingsteken
 
 ---
+### Bestands of map locaties als paden
+Een pad is een aanduiding van bestands of map locatie in termen van bovenliggende mappen. Absolute paden beginnen met een ```/``` en relatieve paden niet.
+
+Voorbeelden:
+- ```Documenten/Geschiedenis``` is de map waar je komt door vanuit de huidige map de map ```Documenten``` in te gaan en dan de map ```Geschiedenis``` in te gaan. Merk op dat dit een relatief pad is omdat het niet met ```/``` begint.
+
+---
+### Meer pad voorbeelden
+- ```/usr/bin``` is een absoluut pad waar je komt door vanuit ```/``` de map ```usr``` in te gaan en dan de map ```bin``` in te gaan.
+- ```/home/tux/Documenten``` is het absolute pad van de ```Documenten``` map in de thuismap van gebruiker ```tux```.
+
+---
 #### [Filesystem Hierarchy Standard](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html)
+De standaard die de paden van belangrijke mappen definieert voor Linux.
 
 -  ```/home``` hieronder staan alle thuismappen
 
@@ -60,6 +76,8 @@ title: Bestanden
 #### Wat kunt u met de bestandsbeheerder?
 
 - inhoud van een map bekijken
+
+- bestanden openen
 
 - bestanden of mappen verplaatsen of kopiëren
 
@@ -312,7 +330,7 @@ en "Verwijderen uit bladwijzers" in het popup menu te kiezen
 
     - via het hamburgermenu ![height:40px](img/firefox-hamburgermenu.png) en dan "Sneltoetsen"
 
-    - sneltoets ```CTRL+?``` (betekent ```CTRL+SHIFT+/```)
+    - sneltoets ```SHIFT+CTRL+?```
 
         - ```PAGEUP``` en ```PAGEDOWN``` om te navigeren, ```ESC``` om te sluiten 
 ---
