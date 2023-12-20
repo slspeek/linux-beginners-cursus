@@ -1300,7 +1300,7 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
     
 1. Maximaliseren en herstellen van de bestandsbeheerder
 
-    - Open LibreOffice writer met ```SUPER+E``` 
+    - Open de bestandsbeheerder met ```SUPER+E``` 
 
     - Maximaliseer het venster met ```SUPER+↑``` 
 
@@ -1356,11 +1356,11 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Ga naar verplaats modus met ```ALT+F7```
 
-    - Beweeg het venster naar de rechter benedenhoek van het scherm en klik eenmaal met de muis
+    - Beweeg het venster naar de rechter benedenhoek van het scherm door de muis in die richting te bewegen en klik eenmaal met de muis
 
     - Ga naar verplaats modus met ```ALT+F7```
 
-    - Beweeg het venster naar de linker bovenhoek van het scherm en druk ```ESC```. Wat gebeurde er? Waarom gebeurde dit?
+    - Beweeg het venster naar de linker bovenhoek van het scherm door de muis in die richting te bewegen en druk ```ESC```. Wat gebeurde er? Waarom gebeurde dit?
 
     - Sluit het venster met ```ALT+F4```
 
@@ -1698,7 +1698,7 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
 1. Zet de standaard stijl terug in het "Weergave" deel van de instellingen
 
-1. Zet schermvergrendeling in op 30 minuten onder "Schermen" van de afdeling "Privacy"
+1. Zet schermvergrendeling in op 15 minuten onder "Schermen" van de afdeling "Privacy"
 
 1. Zet grote letters uit via toegankelijkheidsmenu ![](img/toegankelijkheidsmenu.png){height=25px} in bovenbalk
 
@@ -1720,15 +1720,27 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
         - Esmé 
 
-            - Type ```Esm```, dan ```SUPER e acute ↓ ENTER``` en dan ```CTRL+V```
+            - Type ```Esm```
+            
+            - ```SUPER e acute ↓ ENTER```
+            
+            - ```CTRL+V```
 
         - Daniël
 
-            - Type ```Dani```, dan ```SUPER e diaere ↓↓ ENTER``` en dan ```CTRL+V```, type tenslotte een ```l```
+            - Type ```Dani```
+            
+            - ```SUPER e diaere ↓↓ ENTER```
+            
+            - ```CTRL+V```
+            
+            - Type ```l```
 
         - €42,-
 
-            - ```SUPER euro sign ↓ ENTER``` en type dan ```42,-```
+            - ```SUPER euro sign ↓ ENTER```
+            
+            - ```42,-```
 
     - Sla het document op onder de naam "zoekvak.txt" in "Documenten"
     
@@ -1799,11 +1811,17 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
         - Esmé 
 
-            - Type ```Esm```, dan ```RECHTER_ALT ' e```
+            - Type ```Esm```
+            
+            - ```RECHTER_ALT ' e```
 
         - Daniël
 
-            - Type ```Dani```, dan ```RECHTER_ALT " e``` en type tenslotte een ```l```
+            - Type ```Dani```
+            
+            - ```RECHTER_ALT " e```
+            
+            - Type ```l```
 
         - €42,-
 
@@ -1983,6 +2001,8 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Klik rechts op "google-chrome_current_amd64.deb"
 
+    - Kies "Openen met..."
+
     - Kies "Software-installatie"
 
     - Klik op "Installeren"
@@ -2002,6 +2022,8 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
     - Ga naar "Downloads"
 
     - Klik rechts op "discord-0.0.XX.deb" 
+
+    - Kies "Openen met..."
 
     - Kies "Software-installatie"
 
@@ -2121,7 +2143,7 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Klik op ![](img/prullenbak.png){height=25px}
 
-    - Bevestig in het pop venster dat u Chromium wilt verwijderen
+    - Bevestig in het popup-venster dat u Chromium wilt verwijderen
 
     - Geef het beheerders wachtwoord op. Dat is ```root```
 
@@ -2137,7 +2159,7 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Klik op ![](img/prullenbak.png){height=25px}
 
-    - Bevestig in het pop venster dat u xpdf wilt verwijderen
+    - Bevestig in het popup-venster dat u xpdf wilt verwijderen
 
     - Geef het beheerders wachtwoord op. Dat is ```root```
 
@@ -2151,9 +2173,13 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Klik rechts op "discord-0.0.XX.deb"
 
+    - Kies "Openen met..."
+
     - Kies "Software-installatie"
 
     - Klik op ![](img/prullenbak.png){height=25px}
+
+    - Bevestig in het popup-venster dat u discord wilt verwijderen
 
     - Wachtwoord van beheerder is ```root```
 
@@ -2167,9 +2193,13 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Klik rechts op "google-chrome_current_amd64.deb"
 
+    - Kies "Openen met..."
+
     - Kies "Software-installatie"
 
     - Klik op ![](img/prullenbak.png){height=25px}
+
+    - Bevestig in het popup-venster dat u Google Chrome wilt verwijderen
 
     - Wachtwoord van beheerder is ```root```
 
