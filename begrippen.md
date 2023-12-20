@@ -37,7 +37,7 @@ U komt in deze modus door ```SUPER+A``` in te drukken.
 
 Bestandsbeheerder
 
-: De toepassing "Betanden" ![](img/bestanden-icon.png) waarwee u bestandsbeheer (openen, kopiëren, verplaatsen en verwijderen van bestanden) kunt uitvoeren. Onder Windows heet deze toepassing "Verkenner".
+: De toepassing "Bestanden" ![](img/bestanden-icon.png){width=40px} waarwee u bestandsbeheer (openen, kopiëren, verplaatsen en verwijderen van bestanden) kunt uitvoeren. Onder Windows heet deze toepassing "Verkenner".
 
 Besturingssysteem
 
