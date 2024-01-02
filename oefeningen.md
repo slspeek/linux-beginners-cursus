@@ -1040,7 +1040,7 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Wissel terug naar Firefox met ```ALT+TAB```
 
-        - Hoe had u dit anders kunnen doen met een sneltoets?
+        - Met welke andere sneltoets had dit ook gekunt?
     
     - Wissel nu weer naar de bestandsbeheerder met ```ALT+TAB```
 
