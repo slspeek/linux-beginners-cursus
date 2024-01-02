@@ -994,7 +994,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Open bestandsbeheerder met ```SUPER+E```
 
-    - Ga naar pictogram weergave
+    - Ga naar raster weergave
 
     - Open de hulp functie ```F1```
 
