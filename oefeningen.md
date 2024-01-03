@@ -2049,20 +2049,14 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
     - Klik het lijstje van "Web" open en kies "Chromium"
 
     - Sluit instellingen af met ```ALT+F4```
-    
-    - Open de bestandsbeheerder met ```SUPER+E``` 
 
-    - Ga naar "Downloads"
+    - Type ```SUPER verder ENTER``` om met behulp van het zoekvak "verder-leren.pdf" te openen
 
-    - Dubbelklik op "samenvatting.pdf"
-
-    - Scroll naar "Bestanden" -> "Bestanden op Linux" 
-
-    - Klik op de koppeling *thuismap*
+    - Klik op de koppeling "GNOME online help" onder het kopje "Desktop"
 
     - Overtuig uzelf ervan dat deze koppeling nu in Chromium wordt geopend
 
-    - Sluit bestandsbeheerder, Chromium en samenvatting.pdf
+    - Sluit bestandsbeheerder, Chromium en verder-leren.pdf
 
     - Open standaardtoepassingen in Instellingen met ```SUPER standaa ENTER```
 
@@ -2070,19 +2064,13 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Sluit instellingen af met ```ALT+F4```
     
-    - Open de bestandsbeheerder met ```SUPER+E``` 
+    - Type ```SUPER verder ENTER``` om met behulp van het zoekvak "verder-leren.pdf" te openen
 
-    - Ga naar "Downloads"
-
-    - Dubbelklik op "samenvatting.pdf"
-
-    - Scroll naar "Bestanden" -> "Bestanden op Linux" 
-
-    - Klik op de koppeling *thuismap*
+    - Klik op de koppeling "GNOME online help" onder het kopje "Desktop"
 
     - Overtuig uzelf ervan dat deze koppeling nu in Firefox wordt geopend
 
-    - Sluit bestandsbeheerder, Chromium en samenvatting.pdf
+    - Sluit bestandsbeheerder, Firefox en verder-leren.pdf
 
 1. xpdf als standaard voor PDF bestanden instellen
 
