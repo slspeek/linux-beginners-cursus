@@ -6,7 +6,7 @@ author: |
 date: \today{}
 ...
 
-# Verder leren
+# Aanbevolen bronnen
 
 Alle bronnen die u hier vindt zijn kosteloos.
 
