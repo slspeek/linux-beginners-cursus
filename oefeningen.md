@@ -494,7 +494,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Scroll naar het kopje "Lesmateriaal"
 
-    - Klik op de link van de HTML versie (tweede kolom) van "Presentaties"
+    - Klik op de koppeling van de HTML versie (tweede kolom) van "Presentaties"
     
     - Blader door enkele presentaties heen, nu weet u waar u het lesmateriaal online kunt vinden
 
@@ -552,7 +552,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
     
     - Scroll naar beneden naar de README naar het kopje "Lesmateriaal"
 
-    - Klik op de link van de HTML versie van "Presentaties" (tweede kolom)
+    - Klik op de koppeling van de HTML versie van "Presentaties" (tweede kolom)
     
     - Maak een bladwijzer door op ![](img/firefox-bladwijzer-ster-leeg.png){width=30px} aan de rechterzijde te klikken
 
@@ -631,7 +631,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Ga naar de URL: ```slspeek.github.io/linux-beginners-cursus/samenvatting.html```.
 
-    - Scroll omlaag naar "Internet browser: Firefox" en dan naar "Extensies installeren", klik op de link van "I don't care about cookies"
+    - Scroll omlaag naar "Internet browser: Firefox" en dan naar "Extensies installeren", klik op de koppeling van "I don't care about cookies"
 
     - Klik op de knop "Toevoegen aan Firefox"
 
@@ -2058,9 +2058,9 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Scroll naar "Bestanden" -> "Bestanden op Linux" 
 
-    - Klik op de link *thuismap*
+    - Klik op de koppeling *thuismap*
 
-    - Overtuig uzelf ervan dat deze link nu in Chromium wordt geopend
+    - Overtuig uzelf ervan dat deze koppeling nu in Chromium wordt geopend
 
     - Sluit bestandsbeheerder, Chromium en samenvatting.pdf
 
@@ -2078,9 +2078,9 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Scroll naar "Bestanden" -> "Bestanden op Linux" 
 
-    - Klik op de link *thuismap*
+    - Klik op de koppeling *thuismap*
 
-    - Overtuig uzelf ervan dat deze link nu in Firefox wordt geopend
+    - Overtuig uzelf ervan dat deze koppeling nu in Firefox wordt geopend
 
     - Sluit bestandsbeheerder, Chromium en samenvatting.pdf
 

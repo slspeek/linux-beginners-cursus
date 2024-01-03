@@ -348,11 +348,13 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
 
     - Afsluiten ```CTRL+Q```
 
-- Links openen op een nieuw tabblad
+- Koppelingen openen op een nieuw tabblad
     
-    - ```CTRL+SHIFT``` met muisklik opent een link op een nieuw tabblad en schakelt naar het nieuw geopende tabblad
+    - Op een koppeling klikken met ```CTRL+SHIFT``` ingedrukt opent de koppeling op een nieuw tabblad en navigeert naar dat tabblad toe
 
-    - ```CTRL``` met muisklik opent een link op een nieuw tabblad
+    - Op een koppeling klikken met ```CTRL``` ingedrukt opent de koppeling op een nieuw tabblad
+
+    - Context menu van de koppeling openen en "Koppeling openen in nieuw tabblad"
 
     - Met ```CTRL+TAB``` wisselt u tussen de tabbladden. Met ```CTRL+SHIFT+TAB``` in tegengestelde richting.
 

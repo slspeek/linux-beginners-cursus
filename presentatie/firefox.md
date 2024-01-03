@@ -7,7 +7,7 @@ title: Firefox
 
 - Belangrijke sneltoetsen
 
-- Link openen op nieuw tabblad
+- Koppeling openen op nieuw tabblad
 
 - Enkele extensies
 
@@ -43,16 +43,18 @@ title: Firefox
 ![width:1000px](img/firefox-zoeken-op-wikipedia.gif)
 
 ---
-#### Links openen op nieuw tabblad
+#### Koppelingen openen op nieuw tabblad
 
-- Op een link klikken met ```CTRL+SHIFT``` ingedrukt opent de link op een nieuw tabblad en navigeert naar dat tabblad toe
+- Op een koppeling klikken met ```CTRL+SHIFT``` ingedrukt opent de koppeling op een nieuw tabblad en navigeert naar dat tabblad toe
 
-- Op een link klikken met ```CTRL``` ingedrukt opent de link op een nieuw tabblad
+- Op een koppeling klikken met ```CTRL``` ingedrukt opent de koppeling op een nieuw tabblad
+
+- Context menu van de koppeling openen en "Koppeling openen in nieuw tabblad"
 
 - Met ```CTRL+TAB``` wisselt u tussen de tabbladden. Met ```CTRL+SHIFT+TAB``` in tegengestelde richting.
 
 ---
-##### Voorbeeld link op een nieuw tabblad openen
+##### Voorbeeld koppeling op een nieuw tabblad openen
 ![width:1000px](img/firefox-openen-op-nieuw-tabblad.gif)
 
 ---
