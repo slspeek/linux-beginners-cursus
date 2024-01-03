@@ -1,12 +1,14 @@
 #!/bin/bash
 
-GITHUB_SLSPEEK=https://raw.githubusercontent.com/slspeek/linux-beginners-cursus/main
+GITHUB_RAW=https://raw.githubusercontent.com/slspeek/linux-beginners-cursus/main
 
+GITHUB_RELEASES=https://github.com/slspeek/linux-beginners-cursus/releases/latest/download
 # Run as non-privileged user
 
 cd ~/Downloads
-wget $GITHUB_SLSPEEK/resources/bloemen.zip 
-wget https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/samenvatting.pdf
+wget $GITHUB_RAW/resources/bloemen.zip 
+wget $GITHUB_RELEASES/samenvatting.pdf
+wget $GITHUB_RELEASES/verder-leren.pdf
 
 cd ~/Afbeeldingen
 unzip ~/Downloads/bloemen.zip
