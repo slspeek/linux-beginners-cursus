@@ -2074,16 +2074,16 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
 1. xpdf als standaard voor PDF bestanden instellen
 
+    - Open samenvatting.pdf met behulp van het zoekvak door  ```SUPER samenva ENTER```
+
+    - Overtuig uzelf ervan dat "samenvatting.pdf" is geopend met "Documentweergave" door 
+      het hamburgermenu ![](img/firefox-hamburgermenu.png){height=20px} te openen en het item "Over Documentweergave" te selecteren
+
+    - Sluit "Document weergave" met ```ALT+F4```
+
     - Open de bestandsbeheerder met ```SUPER+4``` 
 
     - Ga naar "Downloads" met de bladwijzer in het linker paneel
-
-    - Selecteer "samenvatting.pdf" en druk ```ENTER```
-
-    - Overtuig uzelf ervan dat "samenvatting.pdf" is geopend met "Document weergave" door 
-      het hamburgermenu ![](img/firefox-hamburgermenu.png){height=20px} te openen en het item "Over Document weergave" te selecteren
-
-    - Sluit "Document weergave" met ```ALT+F4```
      
     - Open het contextmenu van "samenvatting.pdf" (rechtsklikken)
 
@@ -2095,31 +2095,45 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Zet de knop "Altijd gebruiken voor dit bestandstype" om zodat die blauw kleurt
 
+    - Klik op de blauwe knop "Openen"
+
     - Nu is "samenvatting.pdf" in xpdf geopend 
 
     - U sluit xpdf door ```Q``` in te drukken
 
-    - Selecteer "samenvatting.pdf" en druk ```ENTER```
+    - Sluit de bestandsbeheerder met ```ALT+F4```
+    
+    - Open samenvatting.pdf opnieuw met behulp van het zoekvak door  ```SUPER samenva ENTER```
 
-    - U ziet dat "samenvatting.pdf" opnieuw met xpdf wordt geopend
+    - U ziet dat "samenvatting.pdf" weer met xpdf wordt geopend
 
     - U sluit xpdf door ```Q``` in te drukken
+
+    - Open de bestandsbeheerder met ```SUPER+4``` 
+
+    - Ga naar "Downloads" met de bladwijzer in het linker paneel
 
     - Open het contextmenu van "samenvatting.pdf" (Selecteer "samenvatting.pdf" en druk ```MENU```)
 
     - Kies "Openen met..." ```M```
 
-    - Selecteer "Document weergave"
+    - Selecteer "Documentweergave"
 
     - Zet de knop "Altijd gebruiken voor dit bestandstype" om zodat die blauw kleurt
 
+    - Klik op de blauwe knop "Openen"
+
+    - Nu is "samenvatting.pdf" in "Documentweergave" geopend 
+
     - Sluit "Document weergave" met ```ALT+F4```
+
+    - Sluit de bestandsbeheerder met ```ALT+F4```
     
-    - Selecteer "samenvatting.pdf" en druk ```ENTER```
+    - Open samenvatting.pdf opnieuw met behulp van het zoekvak door  ```SUPER samenva ENTER```
 
-    - U ziet dat "samenvatting.pdf" opnieuw met "Document weergave" wordt geopend
+    - U ziet dat "samenvatting.pdf" weer met "Documentweergave" wordt geopend
 
-    - Sluit "samenvatting.pdf" en de bestandsbeheerder beide met ```ALT+F4```
+    - Sluit "samenvatting.pdf" met ```ALT+F4```
 
 1. Verwijder Chromium
 
