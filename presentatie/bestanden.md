@@ -103,6 +103,14 @@ De standaard die de paden van belangrijke mappen definieert voor Linux.
     - ```CTRL+Q``` af te sluiten (alle vensters sluiten)
 
 ---
+##### Voorbeeld een afbeelding openen
+![width:1000px](img/bestanden-open-afbeelding.gif)
+
+---
+##### Voorbeeld de begrippenlijst openen
+![width:1000px](img/bestanden-open-begrippen-pdf.gif)
+
+---
 #### Verschillende views
 
 - rasterweergave ![width:50px](img/knop-icon-weergave.png) ```CTRL+2```
