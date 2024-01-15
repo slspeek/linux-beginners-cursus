@@ -70,7 +70,7 @@ clean:
 	rm -rf $(BUILD_DIR)
 
 diagram: prepare
-	cat diagram/gnome-states.dot | docker run --rm -i nshine/dot dot -Tsvg > build/presentatie/img/gnome-states.svg
+	docker run --user $(shell id -u):$(shell id -g) --workdir /work -v $(PWD):/work --rm -i nshine/dot dot -T png -o build/presentatie/img/gnome-states.png  diagram/gnome-states.gv
 
 
 prepare:
