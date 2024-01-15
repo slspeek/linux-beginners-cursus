@@ -16,8 +16,7 @@ title: Rondleiding GNOME
 ![bg right](img/GNOME-logo.png)
 
 ---
-### Inloggen in GDM
-- GDM is de **display manager**, die regelt de graphische logins
+### Inloggen
 - Inloggen met ```(gebruikersnaam='tux', wachtwoord='tux')```
 - GNOME desktopmanager opent in activiteiten modus
 ---

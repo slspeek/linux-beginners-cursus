@@ -142,7 +142,7 @@ Zo ontstond de combinatie GNU/Linux
 
 # Rondleiding GNOME
 
-## Aanmelden in de displaymanager
+## Aanmelden
 Met account (gebruikersnaam=```tux```, wachtwoord=```tux```)
 
 ##  Schermbeveiliging
