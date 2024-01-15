@@ -1,0 +1,16 @@
+digraph {
+	graph [bb="0,0,304.7,53.74",
+		rankdir=LR
+	];
+	node [label="\N"];
+	activiteiten	 [height=0.74639,
+		label="Activiteiten\nmodus",
+		pos="71.418,26.87",
+		width=1.9838];
+	applicatie	 [height=0.74639,
+		label="Applicatie\nmodus",
+		pos="241.77,26.87",
+		width=1.7481];
+	activiteiten -> applicatie	 [pos="e,180.48,20.362 140.71,20.226 150.48,20.094 160.55,20.086 170.36,20.199"];
+	applicatie -> activiteiten	 [pos="e,140.71,33.515 180.48,33.378 170.9,33.577 160.89,33.653 150.98,33.607"];
+}
