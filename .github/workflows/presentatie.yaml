@@ -18,10 +18,6 @@ jobs:
         run: make prepare
       - name: loosen permissions
         run: chmod g+wx,o+wx build/presentatie/img
-      - name: loosen permissions
-        run: chmod g+wx,o+wx build/presentatie/
-      - name: loosen permissions
-        run: chmod g+wx,o+wx build/
       - uses: docker://nshine/dot
         with:
           args: dot -T png -o ${{ env.PRESENTATIE_DIR }}/img/gnome-states.png diagram/gnome-states.gv 
