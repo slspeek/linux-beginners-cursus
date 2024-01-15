@@ -18,7 +18,7 @@ jobs:
         run: make prepare
       - uses: docker://nshine/dot
         with:
-          args: dot diagram/gnome-states.dot > ${{ env.PRESENTATIE_DIR }}/img/gnome-states.png
+          args: dot diagram/gnome-states.dot -o ${{ env.PRESENTATIE_DIR }}/img/gnome-states.png
       - uses: docker://marpteam/marp-cli:v3.1.0
         with:
           args: --allow-local-files presentatie/inleiding.md -o ${{ env.PRESENTATIE_DIR }}/inleiding.html
