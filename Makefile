@@ -69,6 +69,10 @@ vverderleren: verderleren
 clean: 
 	rm -rf $(BUILD_DIR)
 
+diagram: prepare
+	cat diagram/gnome-states.dot | docker run --rm -i nshine/dot dot -Tsvg > build/presentatie/img/gnome-states.svg
+
+
 prepare:
 	mkdir -p $(PRESENTATIE_DIR)
 	cp -r img css $(PRESENTATIE_DIR)
