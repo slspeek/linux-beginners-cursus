@@ -16,7 +16,7 @@ install-deps:
 serve:
 	docker run --rm --init -v $(PWD):/home/marp/app -e LANG=$(LANG) -p 8080:8080 -p 37717:37717 $(MARP) --allow-local-files -s .
 
-presentatie: prepare hbegrippen hsamenvatting hoefeningen hpresentatieoverzicht hverderleren
+presentatie: prepare hbegrippen hsamenvatting hoefeningen hreadme hverderleren
 	$(MARP_CMD) presentatie/inleiding.md -o $(PRESENTATIE_DIR)/inleiding.html
 	$(MARP_CMD) presentatie/rondleiding-gnome.md -o $(PRESENTATIE_DIR)/rondleiding-gnome.html
 	$(MARP_CMD) presentatie/toepassingen-starten-en-afsluiten.md -o $(PRESENTATIE_DIR)/toepassingen-starten-en-afsluiten.html
@@ -48,8 +48,8 @@ hoefeningen: prepare
 hsamenvatting: prepare
 	$(PANDOC_HTML_CMD) samenvatting.md -o $(PRESENTATIE_DIR)/samenvatting.html
 
-hpresentatieoverzicht: prepare
-	$(PANDOC_HTML_CMD) presentatie/presentatie-overzicht.md -o $(PRESENTATIE_DIR)/index.html
+hreadme: prepare
+	$(PANDOC_HTML_CMD) README.md -o $(PRESENTATIE_DIR)/index.html
 
 hverderleren: prepare
 	$(PANDOC_HTML_CMD) verder-leren.md -o $(PRESENTATIE_DIR)/verder-leren.html

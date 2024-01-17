@@ -490,7 +490,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga naar de URL: ```github.com/slspeek/linux-beginners-cursus```.
+    - Ga naar de URL: ```slspeek.github.io/linux-beginners-cursus ```.
 
     - Scroll naar het kopje "Lesmateriaal"
 
@@ -514,7 +514,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga naar de URL: ```github.com/slspeek/linux-beginners-cursus```
+    - Ga naar de URL: ```slspeek.github.io/linux-beginners-cursus ```
 
     - Scroll naar het kopje "Lesmateriaal"
 
@@ -538,7 +538,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga naar de URL: ```github.com/slspeek/linux-beginners-cursus```
+    - Ga naar de URL: ```slspeek.github.io/linux-beginners-cursus ```
 
     - Maak een bladwijzer met ```CTRL+D```
 
@@ -546,7 +546,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga met behulp van de bladwijzer naar de URL: ```github.com/slspeek/linux-beginners-cursus```
+    - Ga met behulp van de bladwijzer naar de URL: ```slspeek.github.io/linux-beginners-cursus ```
 
     - Maak bladwijzerbalk zichtbaar met ```CTRL+SHIFT+B``` als deze verborgen is
     

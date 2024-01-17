@@ -47,7 +47,7 @@ jobs:
           args: --allow-local-files presentatie/instellingen.md -o ${{ env.PRESENTATIE_DIR }}/instellingen.html
       - uses: docker://pandoc/latex:2.9
         with:
-          args: --standalone --css=css/custom.css --from markdown presentatie/presentatie-overzicht.md --to html --output=${{ env.PRESENTATIE_DIR }}/index.html
+          args: --standalone --css=css/custom.css --from markdown README.md --to html --output=${{ env.PRESENTATIE_DIR }}/index.html
       - name: Copy images
         run: cp -r img ${{ env.PRESENTATIE_DIR }}
       - uses: docker://pandoc/latex:2.9
