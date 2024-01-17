@@ -1,9 +1,4 @@
----
-title: Linux beginners cursus
-author: |
-    | Steven Speek 
-    |  \tt{slspeek@gmail.com}
-...
+# Linux beginners cursus
 Rondleiding langs de [GNOME 43.6](https://help.gnome.org/) desktop van [Debian 12](https://debian.org). In de cursus wordt uitsluitend met de graphische interface gewerkt.
 
 ## Publiek
