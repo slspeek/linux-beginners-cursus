@@ -83,15 +83,17 @@ Losmaken door je wachtwoord in te voeren
 - ```SUPER``` in te drukken
 
 ![width:300px](img/super-toets.jpeg)
+- de muis naar de linkerbovenhoek van het scherm te bewegen (snelhoek optie onder Multitasken in de instellingen)
 
 ---
 ### Activiteiten modus verlaat u door
-- op de activiteiten knop linksboven op de bovenbalk te klikken
+- op ![](img/activiteiten-knop.png) linksboven op de bovenbalk te klikken
 
-![](img/activiteiten-knop.png)
+
 - ```SUPER``` of ```ESC``` in te drukken
 
 ![width:300px](img/super-toets.jpeg) ![width:300px](img/ESC-toets.jpeg)
+- de muis naar de linkerbovenhoek van het scherm te bewegen 
 
 ---
 
