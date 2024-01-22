@@ -45,9 +45,11 @@ jobs:
       - uses: docker://marpteam/marp-cli:v3.1.0
         with:
           args: --allow-local-files presentatie/instellingen.md -o ${{ env.PRESENTATIE_DIR }}/instellingen.html
+      - name: Convert absolute URL to relative URL in README.md for offline usage
+        run: make relative_urls
       - uses: docker://pandoc/latex:2.9
         with:
-          args: --standalone --title-prefix="Linux beginners cursus" --css=css/custom.css --from markdown README.md --to html --output=${{ env.PRESENTATIE_DIR }}/index.html
+          args: --standalone --title-prefix="Linux beginners cursus" --css=css/custom.css --from markdown ${{ env.BUILD_DIR }}/README.relative-url.md --to html --output=${{ env.PRESENTATIE_DIR }}/index.html
       - name: Copy images
         run: cp -r img ${{ env.PRESENTATIE_DIR }}
       - uses: docker://pandoc/latex:2.9

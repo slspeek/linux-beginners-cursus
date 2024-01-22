@@ -48,8 +48,11 @@ hoefeningen: prepare
 hsamenvatting: prepare
 	$(PANDOC_HTML_CMD) samenvatting.md -o $(PRESENTATIE_DIR)/samenvatting.html
 
-hreadme: prepare
-	$(PANDOC_HTML_CMD) README.md -o $(PRESENTATIE_DIR)/index.html
+relative_urls:
+	sed -e 's|https://slspeek.github.io/linux-beginners-cursus/||g' README.md > $(BUILD_DIR)/README.relative-url.md
+
+hreadme: prepare relative_urls
+	$(PANDOC_HTML_CMD)  $(BUILD_DIR)/README.relative-url.md -o $(PRESENTATIE_DIR)/index.html
 
 hverderleren: prepare
 	$(PANDOC_HTML_CMD) verder-leren.md -o $(PRESENTATIE_DIR)/verder-leren.html
@@ -71,7 +74,6 @@ clean:
 
 diagram: prepare
 	docker run --user $(shell id -u):$(shell id -g) --workdir /work -v $(PWD):/work --rm -i nshine/dot dot -T png -o build/presentatie/img/gnome-states.png  diagram/gnome-states.gv
-
 
 prepare:
 	mkdir -p $(PRESENTATIE_DIR)
