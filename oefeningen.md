@@ -1965,7 +1965,7 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Klik op "Installeren"
 
-    - Wachtwoord van beheerder is ```root```
+    - Wachtwoord van tux is ```tux```
 
     - Sluit Software met ```ALT+F4```
 
@@ -1979,7 +1979,7 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Klik op "Installeren"
 
-    - Wachtwoord van beheerder is ```root```
+    - Wachtwoord van tux is ```tux```
 
     - Sluit Software met ```ALT+F4```
 
@@ -2029,7 +2029,7 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Klik op "Installeren"
 
-    - Wachtwoord van beheerder is ```root```
+    - Wachtwoord van tux is ```tux```
 
     - Sluit Software met ```ALT+F4```
     
@@ -2147,7 +2147,7 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Bevestig in het popup-venster dat u Chromium wilt verwijderen
 
-    - Geef het beheerders wachtwoord op. Dat is ```root```
+    - Geef het wachtwoord van tux. Dat is ```tux```
 
     - Sluit Software af met ```ALT+F4```
     
@@ -2163,7 +2163,7 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Bevestig in het popup-venster dat u xpdf wilt verwijderen
 
-    - Geef het beheerders wachtwoord op. Dat is ```root```
+    - Geef het wachtwoord van tux. Dat is ```tux```
 
     - Sluit Software af met ```ALT+F4```
 
@@ -2183,7 +2183,7 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Bevestig in het popup-venster dat u discord wilt verwijderen
 
-    - Wachtwoord van beheerder is ```root```
+    - Wachtwoord van tux is ```tux```
 
     - Sluit Software met ```ALT+F4```
 
@@ -2203,7 +2203,7 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Bevestig in het popup-venster dat u Google Chrome wilt verwijderen
 
-    - Wachtwoord van beheerder is ```root```
+    - Wachtwoord van tux is ```tux```
 
     - Sluit Software met ```ALT+F4```
 
