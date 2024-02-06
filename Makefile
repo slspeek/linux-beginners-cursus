@@ -1,6 +1,7 @@
 BUILD_DIR=build
 PRESENTATIE_DIR=$(BUILD_DIR)/presentatie
 PANDOC_IMAGE=pandoc/latex:2.9
+METADATA=--metadata author='Steven Speek' --metadata date="$$(LANG=nl_NL.UTF-8 date +'%A %-d %B %Y')"
 USER_ID=$(shell id -u):$(shell id -g)
 PANDOC_PDF_CMD=docker run --rm --init -v "$(PWD):/data" -u $(USER_ID)  $(PANDOC_IMAGE) --include-in-header=header.tex --from markdown layout.yaml 
 PANDOC_HTML_CMD=docker run --rm --init -v "$(PWD):/data" -u $(USER_ID) $(PANDOC_IMAGE) --standalone --css=css/custom.css --from markdown --to html
@@ -40,13 +41,13 @@ verderleren: prepare
 	$(PANDOC_PDF_CMD) verder-leren.md -o $(BUILD_DIR)/verder-leren.pdf
 
 hbegrippen: prepare
-	$(PANDOC_HTML_CMD) begrippen.md -o $(PRESENTATIE_DIR)/begrippen.html
+	$(PANDOC_HTML_CMD) begrippen.md -o $(PRESENTATIE_DIR)/begrippen.html $(METADATA)
 
 hoefeningen: prepare
-	$(PANDOC_HTML_CMD) oefeningen.md -o $(PRESENTATIE_DIR)/oefeningen.html
+	$(PANDOC_HTML_CMD) oefeningen.md -o $(PRESENTATIE_DIR)/oefeningen.html $(METADATA)
 
 hsamenvatting: prepare
-	$(PANDOC_HTML_CMD) samenvatting.md -o $(PRESENTATIE_DIR)/samenvatting.html
+	$(PANDOC_HTML_CMD) samenvatting.md -o $(PRESENTATIE_DIR)/samenvatting.html $(METADATA)
 
 relative_urls:
 	sed -e 's|https://slspeek.github.io/linux-beginners-cursus/||g' README.md |sed -e '1 d'> $(BUILD_DIR)/README.relative-url.md
@@ -55,7 +56,7 @@ hreadme: prepare relative_urls
 	$(PANDOC_HTML_CMD)  $(BUILD_DIR)/README.relative-url.md -o $(PRESENTATIE_DIR)/index.html --metadata title="Linux beginners cursus" 
 
 hverderleren: prepare
-	$(PANDOC_HTML_CMD) verder-leren.md -o $(PRESENTATIE_DIR)/verder-leren.html
+	$(PANDOC_HTML_CMD) verder-leren.md -o $(PRESENTATIE_DIR)/verder-leren.html $(METADATA)
 
 vbegrippen: begrippen
 	evince $(BUILD_DIR)/begrippen.pdf
