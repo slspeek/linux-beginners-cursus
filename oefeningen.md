@@ -490,7 +490,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga naar de URL: ```slspeek.github.io/linux-beginners-cursus ```.
+    - Ga naar de URL: [```slspeek.github.io/linux-beginners-cursus```](https://slspeek.github.io/linux-beginners-cursus).
 
     - Scroll naar het kopje "Lesmateriaal"
 
@@ -502,7 +502,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga naar ```debian.org```. 
+    - Ga naar [```debian.org```](http://debian.org). 
 
     - Open een extra tabblad met ```CTRL+T```, merk op dat u gelijk het webadres kunt intypen. Ga naar ```tldp.org```.
 
@@ -510,11 +510,11 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Sluit ```debian.org```, met ```CTRL+W```.
 
-    - Sluit de browser af door het laatste tabblad te sluiten
+    - Sluit de browser af door het laatste tabblad te sluiten (```CTRL+W```)
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga naar de URL: ```slspeek.github.io/linux-beginners-cursus ```
+    - Ga naar de URL: [```slspeek.github.io/linux-beginners-cursus```](https://slspeek.github.io/linux-beginners-cursus)
 
     - Scroll naar het kopje "Lesmateriaal"
 
@@ -538,7 +538,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga naar de URL: ```slspeek.github.io/linux-beginners-cursus ```
+    - Ga naar de URL: [```slspeek.github.io/linux-beginners-cursus```](https://slspeek.github.io/linux-beginners-cursus)
 
     - Maak een bladwijzer met ```CTRL+D```
 
@@ -546,13 +546,11 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga met behulp van de bladwijzer naar de URL: ```slspeek.github.io/linux-beginners-cursus ```
+    - Ga met behulp van de bladwijzer naar de URL: [```slspeek.github.io/linux-beginners-cursus```](https://slspeek.github.io/linux-beginners-cursus) ("Linux beginners cursus")
+        
+    - Scroll naar het kopje "Lesmateriaal"
 
-    - Maak bladwijzerbalk zichtbaar met ```CTRL+SHIFT+B``` als deze verborgen is
-    
-    - Scroll naar beneden naar de README naar het kopje "Lesmateriaal"
-
-    - Klik op de koppeling van de HTML versie van "Presentaties" (tweede kolom)
+    - Klik op de koppeling van de HTML versie van "Verder leren" (tweede kolom)
     
     - Maak een bladwijzer door op ![](img/firefox-bladwijzer-ster-leeg.png){width=30px} aan de rechterzijde te klikken
 
@@ -560,9 +558,11 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga met behulp van de bladwijzer naar de "Presentaties" ("Overzicht Linux beginners cursus") van de cursus
+    - Ga met behulp van de bladwijzer naar de URL [```slspeek.github.io/linux-beginners-cursus```](https://slspeek.github.io/linux-beginners-cursus) ("Linux beginners cursus")
 
-    - Klik op de HTML versie "Samenvatting" onder het kopje "Lesmateriaal"
+    - Klik op de HTML versie van "Samenvatting" onder het kopje "Lesmateriaal"
+
+    - Maak bladwijzerbalk zichtbaar met ```CTRL+SHIFT+B``` als deze verborgen is
 
     - Maak een bladwijzer door ![](img/firefox-slotje.png){width=30px} naar de bladwijzerbalk te slepen
 
@@ -574,7 +574,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Open het context menu (rechtsklikken) van de bladwijzerbalk en kies "Map toevoegen ..." en maak een map "cursus" aan
 
-    - Sleep de drie bladwijzers over de cursus naar deze map
+    - Sleep de drie bladwijzers over de cursus naar deze map ("Linux beginners cursus", "Verder leren" en "Samenvatting voor de Linux beginners cursus")
 
     - En orden ze zodanig dat het resultaat er zo uitziet:
     ![](img/firefox-bladwijzer-map-cursus-3-items.png){height=100px}
@@ -583,25 +583,31 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga met behulp van de bladwijzer naar de "Presentaties" ("Overzicht Linux beginners cursus") van de cursus
+    - Ga met behulp van de bladwijzer naar de URL [```slspeek.github.io/linux-beginners-cursus```](https://slspeek.github.io/linux-beginners-cursus) ("Linux beginners cursus")
 
     - Ga naar het kopje "Lesmateriaal"
 
     - Klik met ```CTRL``` ingedrukt op de HTML versies van "Oefeningen" en "Begrippenlijst"
 
+    - Als de bladwijzerbalk niet zichtbaar is maakt u hem zichtbaar met ```SHIFT+CTRL+B```
+
     - Breng met behulp van ```CTRL+TAB``` de tabbladen 1 voor 1 naar voren en sleep ![](img/firefox-slotje.png){width=30px} naar de map "cursus" op de bladwijzerbalk
+
+    - Sluit de browser af met ```CTRL+Q```
 
 1. Start Firefox met ```SUPER+1```
 
-    - Ga naar ```kernel.org```
+    - Ga naar [```kernel.org```](https://kernel.org)
 
     - Maak een bladwijzer met ```CTRL+D```
 
-    - Ga naar "Bladwijzers beheren" met ```CTRL+SHIFT+O```
+    - Ga naar "Bladwijzers beheren" met ```CTRL+SHIFT+O```. Er opent een popup venster met de titel "Bibliotheek".
 
     - Selecteer in het linkerpaneel "Bladwijzerbalk"
 
     - Verwijder de bladwijzer naar ```kernel.org```, door rechts te klikken op de ```kernel.org``` bladwijzer en "Bladwijzer verwijderen" te kiezen
+
+    - Sluit het "Bibliotheek" venster met ```CTRL+W```
 
     - Sluit de browser af met ```CTRL+Q```
 
@@ -611,11 +617,11 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```
 
-    - Ga naar 'Add-ons en thema's' met ```CTRL+SHIFT+A``` of via het hamburger menu ![](img/firefox-hamburgermenu.png) rechtbovenin.
+    - Ga naar 'Add-ons en thema's' met ```CTRL+SHIFT+A``` of via het hamburger menu ![](img/firefox-hamburgermenu.png){height=20px} rechtbovenin.
 
     - Selecteer aan de linkerzijde van de pagina 'Extensies'
 
-    - Type in het zoekvak ```Adblocker Ultimate``` en installeer deze extensie:
+    - Type in het zoekvak met label "Meer add-ons zoeken" ```Adblocker Ultimate``` en installeer deze extensie:
 
         - Kies het bovenste zoekresultaat
 
@@ -629,9 +635,9 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga naar de URL: ```slspeek.github.io/linux-beginners-cursus/samenvatting.html```.
+    - Ga naar de URL: [```slspeek.github.io/linux-beginners-cursus/samenvatting.html#internet-browser-firefox```](https://slspeek.github.io/linux-beginners-cursus/samenvatting.html#internet-browser-firefox).
 
-    - Scroll omlaag naar "Internet browser: Firefox" en dan naar "Extensies installeren", klik op de koppeling van "I don't care about cookies"
+    - Scroll omlaag naar "Extensies installeren", klik op de koppeling van "I don't care about cookies"
 
     - Klik op de knop "Toevoegen aan Firefox"
 
@@ -641,9 +647,9 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```
 
-    - Ga via het hamburgermenu rechtsboven naar 'Hulp' en dan naar 'Hulp verkrijgen'
+    - Ga via het hamburgermenu rechtsboven ![](img/firefox-hamburgermenu.png){height=20px} naar 'Hulp' en dan naar 'Hulp verkrijgen'
 
-    - Type ```navigatiegeschiedenis```
+    - Type ```navigatiegeschiedenis``` in het zoekvak midden op de pagina
 
     - Wat betekent geschiedenis in Firefox?
 

@@ -9,6 +9,8 @@ title: Firefox
 
 - Koppeling openen op nieuw tabblad
 
+- Bladwijzers
+
 - Enkele extensies
 
 - Hulp over Firefox
