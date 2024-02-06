@@ -49,10 +49,10 @@ hsamenvatting: prepare
 	$(PANDOC_HTML_CMD) samenvatting.md -o $(PRESENTATIE_DIR)/samenvatting.html
 
 relative_urls:
-	sed -e 's|https://slspeek.github.io/linux-beginners-cursus/||g' README.md > $(BUILD_DIR)/README.relative-url.md
+	sed -e 's|https://slspeek.github.io/linux-beginners-cursus/||g' README.md |sed -e '1 d'> $(BUILD_DIR)/README.relative-url.md
 
 hreadme: prepare relative_urls
-	$(PANDOC_HTML_CMD)  $(BUILD_DIR)/README.relative-url.md -o $(PRESENTATIE_DIR)/index.html
+	$(PANDOC_HTML_CMD)  $(BUILD_DIR)/README.relative-url.md -o $(PRESENTATIE_DIR)/index.html --metadata title="Linux beginners cursus" 
 
 hverderleren: prepare
 	$(PANDOC_HTML_CMD) verder-leren.md -o $(PRESENTATIE_DIR)/verder-leren.html

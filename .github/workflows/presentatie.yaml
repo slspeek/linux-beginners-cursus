@@ -12,6 +12,8 @@ jobs:
   marp:
     runs-on: ubuntu-latest
     steps:
+      - name: Date format test
+        run: echo $(LANG=nl_NL.UTF-8 date +'%A %-d %B %Y')
       - name: Checkout 
         uses: actions/checkout@v3
       - name: Prepare
@@ -49,7 +51,7 @@ jobs:
         run: make relative_urls
       - uses: docker://pandoc/latex:2.9
         with:
-          args: --standalone --title-prefix="Linux beginners cursus" --css=css/custom.css --from markdown ${{ env.BUILD_DIR }}/README.relative-url.md --to html --output=${{ env.PRESENTATIE_DIR }}/index.html
+          args: --standalone  --metadata title="Linux beginners cursus" --css=css/custom.css --from markdown ${{ env.BUILD_DIR }}/README.relative-url.md --to html --output=${{ env.PRESENTATIE_DIR }}/index.html
       - name: Copy images
         run: cp -r img ${{ env.PRESENTATIE_DIR }}
       - uses: docker://pandoc/latex:2.9
