@@ -19,7 +19,7 @@ jobs:
       - name: All locales
         run: locale -a
       - name: Generate dutch
-        run: locale-gen nl_NL.UTF-8
+        run: sudo locale-gen nl_NL.UTF-8
       - name: Date format test
         run: echo $(LANG=nl_NL.UTF-8 date +'%A %-d %B %Y')
       - name: Checkout 
