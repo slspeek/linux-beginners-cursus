@@ -12,70 +12,16 @@ jobs:
   marp:
     runs-on: ubuntu-latest
     steps:
-      - name: Locales
-        run: locale
-      - name: Locale status
-        run: localectl status
-      - name: All locales
-        run: locale -a
       - name: Generate dutch
         run: sudo locale-gen nl_NL.UTF-8
-      - name: Date format test
-        run: echo $(LANG=nl_NL.UTF-8 date +'%A %-d %B %Y')
       - name: Checkout 
         uses: actions/checkout@v3
       - name: Prepare
         run: make prepare
-      - name: loosen permissions
-        run: chmod g+wx,o+wx build/presentatie/img
-      - uses: docker://nshine/dot
-        with:
-          args: dot -T png -o ${{ env.PRESENTATIE_DIR }}/img/gnome-states.png diagram/gnome-states.gv 
-      # - uses: docker://marpteam/marp-cli:v3.1.0
-      #   with:
-      #     args: --allow-local-files presentatie/inleiding.md -o ${{ env.PRESENTATIE_DIR }}/inleiding.html
-      # - uses: docker://marpteam/marp-cli:v3.1.0
-      #   with:
-      #     args: --allow-local-files presentatie/rondleiding-gnome.md -o ${{ env.PRESENTATIE_DIR }}/rondleiding-gnome.html
-      # - uses: docker://marpteam/marp-cli:v3.1.0
-      #   with:
-      #     args: --allow-local-files presentatie/toepassingen-starten-en-afsluiten.md -o ${{ env.PRESENTATIE_DIR }}/toepassingen-starten-en-afsluiten.html
-      # - uses: docker://marpteam/marp-cli:v3.1.0
-      #   with:
-      #     args: --allow-local-files presentatie/firefox.md -o ${{ env.PRESENTATIE_DIR }}/firefox.html
-      # - uses: docker://marpteam/marp-cli:v3.1.0
-      #   with:
-      #     args: --allow-local-files presentatie/bestanden.md -o ${{ env.PRESENTATIE_DIR }}/bestanden.html
-      # - uses: docker://marpteam/marp-cli:v3.1.0
-      #   with:
-      #     args: --allow-local-files presentatie/vensters-en-werkbladen.md -o ${{ env.PRESENTATIE_DIR }}/vensters-en-werkbladen.html
-      # - uses: docker://marpteam/marp-cli:v3.1.0
-      #   with:
-      #     args: --allow-local-files presentatie/toepassingen-installeren.md -o ${{ env.PRESENTATIE_DIR }}/toepassingen-installeren.html
-      # - uses: docker://marpteam/marp-cli:v3.1.0
-      #   with:
-      #     args: --allow-local-files presentatie/instellingen.md -o ${{ env.PRESENTATIE_DIR }}/instellingen.html
-      # - name: Convert absolute URL to relative URL in README.md for offline usage
-      #   run: make relative_urls
-      # - uses: docker://pandoc/latex:2.9
-      #   with:
-      #     args: --standalone  --metadata title="Linux beginners cursus" --css=css/custom.css --from markdown ${{ env.BUILD_DIR }}/README.relative-url.md --to html --output=${{ env.PRESENTATIE_DIR }}/index.html
-      # - name: Copy images
-      #   run: cp -r img ${{ env.PRESENTATIE_DIR }}
-      # - uses: docker://pandoc/latex:2.9
-      #   with:
-      #     args: --standalone --css=css/custom.css --from markdown samenvatting.md --to html --output=${{ env.PRESENTATIE_DIR }}/samenvatting.html
-      # - uses: docker://pandoc/latex:2.9
-      #   with:
-      #     args: --standalone --css=css/custom.css --from markdown begrippen.md --to html --output=${{ env.PRESENTATIE_DIR }}/begrippen.html
-      # - uses: docker://pandoc/latex:2.9
-      #   with:
-      #     args: --standalone --css=css/custom.css --from markdown oefeningen.md --to html --output=${{ env.PRESENTATIE_DIR }}/oefeningen.html
-      # - uses: docker://pandoc/latex:2.9
-      #   with:
-      #     args: --standalone --css=css/custom.css --from markdown verder-leren.md --to html --output=${{ env.PRESENTATIE_DIR }}/verder-leren.html
-      # - name: Zip the offline presentatie
-      #   run: cd $BUILD_DIR && zip -rq presentatie.zip presentatie 
+      # - name: loosen permissions
+      #   run: chmod g+wx,o+wx build/presentatie/img
+      - name: Diagram
+        run: make diagram
       - name: Run makefile target presentatie
         run: make presentatie
       - name: Deploy to github pages

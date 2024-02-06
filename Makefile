@@ -8,7 +8,11 @@ PANDOC_HTML_CMD=docker run --rm --init -v "$(PWD):/data" -u $(USER_ID) $(PANDOC_
 MARP=marpteam/marp-cli:v3.1.0
 MARP_CMD=docker run --rm --init -e MARP_USER=$(USER_ID) -v $(PWD):/home/marp/app/ -e LANG=$(LANG) $(MARP) --allow-local-files
 
-all: begrippen oefeningen presentatie verderleren samenvatting
+default: clean all
+
+all: print presentatie
+
+print: begrippen oefeningen verderleren samenvatting
 
 install-deps:
 	sudo apt-get install docker.io docker-compose

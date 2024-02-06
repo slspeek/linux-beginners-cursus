@@ -8,20 +8,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Create build directory
-        run: mkdir build
-      - uses: docker://pandoc/latex:2.9
-        with:
-          args: --include-in-header=header.tex --from markdown layout.yaml samenvatting.md -o build/samenvatting.pdf
-      - uses: docker://pandoc/latex:2.9
-        with:
-          args: --include-in-header=header.tex --from markdown layout.yaml begrippen.md --output=build/begrippen.pdf
-      - uses: docker://pandoc/latex:2.9
-        with:
-          args: --include-in-header=header.tex --from markdown layout.yaml oefeningen.md --output=build/oefeningen.pdf
-      - uses: docker://pandoc/latex:2.9
-        with:
-          args: --include-in-header=header.tex --from markdown layout.yaml verder-leren.md --output=build/verder-leren.pdf
+      - name: Make print
+        run: make print
       - name: Release pandoc generated pdfs
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
