@@ -667,6 +667,32 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Noem drie manieren waarop u de bestandsbeheerder kunt openen.
 
+1. Een plaatje openen
+
+    - Open bestandsbeheerder met ```SUPER+E```
+
+    - Klik in het linker paneel op "Afbeeldingen"
+
+    - Dubbelklik in het grote paneel op de map "bloemen"
+
+    - Dubbelklik in het grote paneel op "akkerdistel.jpeg"
+
+    - Sluit "Afbeeldingsweergave" met ```ALT+F4```
+    
+    - Sluit de bestandbeheerder met ```ALT+F4```
+
+1. De samenvatting openen 
+
+    - Open bestandsbeheerder met ```SUPER+E```
+
+    - Klik in het linker paneel op "Downloads"
+
+    - Dubbelklik in het grote paneel op "samenvatting.pdf"
+
+    - Sluit "Documentweergave" met ```ALT+F4```
+    
+    - Sluit de bestandbeheerder met ```ALT+F4```
+
 1. Wisselen tussen raster- en lijstweergave.
 
     - Open bestandsbeheerder met ```SUPER+E```
