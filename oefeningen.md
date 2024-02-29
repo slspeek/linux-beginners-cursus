@@ -856,6 +856,26 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Sluit de bestandsbeheerder met ```ALT+F4```
 
+1. Gebruik eigenschappen in bestandsbeheerder
+
+    - Open bestandsbeheerder met ```SUPER+E```
+
+    - Navigeer naar ```Afbeeldingen```
+
+    - Hoe groot is de map ```bloemen```.
+        
+        -  Selecteer ```bloemen```
+
+        -  Open het context menu en kies "Eigenschappen"
+
+    - Sluit de bestandsbeheerder met ```ALT+F4```
+
+1. Hoe groot in pixels is het plaatje ```blaassilene.jpg``` (```Afbeeldingen/bloemen/anjerfamilie```)?
+
+    - Gebruik "Eigenschappen" van het bestand
+
+    - Klik onderaan de "Eigenschappen" popup op "Afbeeldingseigenschappen"
+
 1. Bladwijzer van een map maken van één uw projecten
 
     - Open bestandsbeheerder met ```SUPER+E```
@@ -896,26 +916,6 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
     - Overtuig uzelf ervan dat in de map ```werkstuk-protohistorie``` de mappen ```ijzertijd``` en ```bronstijd``` nog bestaan.
     
     - Sluit de bestandsbeheerder met ```ALT+F4```
-
-1. Gebruik eigenschappen in bestandsbeheerder
-
-    - Open bestandsbeheerder met ```SUPER+E```
-
-    - Navigeer naar ```Afbeeldingen```
-
-    - Hoe groot is de map ```bloemen```.
-        
-        -  Selecteer ```bloemen```
-
-        -  Open het context menu en kies "Eigenschappen"
-
-    - Sluit de bestandsbeheerder met ```ALT+F4```
-
-1. Hoe groot in pixels is het plaatje ```blaassilene.jpg``` (```Afbeeldingen/bloemen/anjerfamilie```)?
-
-    - Gebruik "Eigenschappen" van het bestand
-
-    - Klik onderaan de "Eigenschappen" popup op "Afbeeldingseigenschappen"
 
 1. Werkstukje maken over protohistorie.
 
