@@ -48,10 +48,10 @@ hbegrippen: prepare
 	$(PANDOC_HTML_CMD) begrippen.md -o $(PRESENTATIE_DIR)/begrippen.html $(METADATA)
 
 hoefeningen: prepare
-	$(PANDOC_HTML_CMD) oefeningen.md -o $(PRESENTATIE_DIR)/oefeningen.html $(METADATA)
+	$(PANDOC_HTML_CMD) oefeningen.md -o $(PRESENTATIE_DIR)/oefeningen.html --shift-heading-level-by=1 $(METADATA)
 
 hsamenvatting: prepare
-	$(PANDOC_HTML_CMD) samenvatting.md -o $(PRESENTATIE_DIR)/samenvatting.html $(METADATA)
+	$(PANDOC_HTML_CMD) samenvatting.md -o $(PRESENTATIE_DIR)/samenvatting.html --shift-heading-level-by=1 $(METADATA)
 
 relative_urls:
 	sed -e 's|https://slspeek.github.io/linux-beginners-cursus/||g' README.md |sed -e '1 d'> $(BUILD_DIR)/README.relative-url.md

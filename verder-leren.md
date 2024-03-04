@@ -6,8 +6,6 @@ author: |
 date: \today{}
 ...
 
-# Aanbevolen bronnen
-
 Alle bronnen die u hier vindt zijn kosteloos.
 
 ## Desktop
