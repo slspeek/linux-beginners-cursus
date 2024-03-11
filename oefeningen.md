@@ -1708,11 +1708,15 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Selecteer aan de rechterzijde "Nachtlicht"
 
+    - Schakel het nachtlicht in
+
     - Schakel handmatige planning in 
 
     - Stel de tijden in op 10:00 tot 22:00
 
-    - Schakel het nachtlicht in
+    - Zie wat het effect van de nachtlicht instelling is
+
+    - Zet de planning van "Handmatige planning" weer terug op "Zonsondergang tot zonsopgang"
 
     - Sluit instellingen met ```ALT+F4```
 
@@ -1774,7 +1778,9 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
             
             - ```42,-```
 
-    - Sla het document op onder de naam "zoekvak.txt" in "Documenten"
+    - Sla het document op (```CTRL+S```) onder de naam "zoekvak.txt" in "Documenten"
+
+    - Sluit het gemaakte document met ```CTRL+W```
     
     - Sluit de tekstbewerker met ```ALT+F4```
     
@@ -1829,7 +1835,9 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
             - Type ```42,-```
 
-    - Sla het document op onder de naam "tekens-en-symbolen.txt" in "Documenten"
+    - Sla het document op (```CTRL+S```) onder de naam "tekens-en-symbolen.txt" in "Documenten"
+
+    - Sluit het gemaakte document met ```CTRL+W```
     
     - Sluit de tekstbewerker met ```ALT+F4```
 
@@ -1859,7 +1867,9 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
             - ```RECHTER_ALT = c``` en type dan ```42,-```
 
-    - Sla het document op onder de naam "samensteltoets.txt" in "Documenten"
+    - Sla het document (```CTRL+S```) op onder de naam "samensteltoets.txt" in "Documenten".
+
+    - Sluit het gemaakte document met ```CTRL+W```
     
     - Sluit de tekstbewerker met ```ALT+F4```
 

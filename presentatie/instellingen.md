@@ -8,6 +8,8 @@ title: Instellingen
 
 - Schermbeveiliging uitschakelen
 
+- Snelhoek uitschakelen
+
 - Nachtlicht inschakelen
 
 - Grote letters
