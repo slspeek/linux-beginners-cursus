@@ -218,7 +218,7 @@ bestaat uit
 - ![](img/afsluit-menu-knop.png) opent het submenu om te kunnen
     - gaan naar pauzestand
     - herstarten
-    - afsluiten (```ALT+CTRL+DEL```)
+    - afsluiten (```CTRL+ALT+DELETE```)
     - afmelden
 
 ---
@@ -240,7 +240,7 @@ bestaat uit
 ---
 ### Uitschakelen
 Om de computer af te sluiten 
-- drukt u op ```ALT+CTRL+DELETE``` 
+- drukt u op ```CTRL+ALT+DELETE``` 
 - klikt u in het systeemmenu ![](img/systeem-menu-gesloten.png) op ![](img/afsluit-menu-knop.png) en dan op "Uitschakelen"
 ![bg right height:100%](img/systeemmenu-afsluiten.png)
 - ```SUPER uits ENTER```
