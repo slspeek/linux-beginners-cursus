@@ -1138,7 +1138,7 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Ga via activiteiten naar het werkblad rechts van het huidige werkblad
 
-        - ```SUPER```, ```PageDown```, ```SUPER```
+        - ```SUPER PageDown SUPER```
     
     - Open bestandsbeheer ```SUPER+E```
 
@@ -1182,7 +1182,7 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Open een extra writer venster met ```CTRL+N```
 
-    - Ga naar het werkblad rechts van dit werkblad via activiteiten: ```SUPER```, ```PageDown```, ```SUPER```
+    - Ga naar het werkblad rechts van dit werkblad via activiteiten: ```SUPER PageDown SUPER```
 
     - Open Hulp ```SUPER+6```
 
@@ -1192,7 +1192,7 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Wissel terug naar Software met ```ALT+ESC```
 
-    - Ga terug naar het eerste werkblad met ```SUPER```, ```PageUp```, ```SUPER```
+    - Ga terug naar het eerste werkblad met ```SUPER PageUp SUPER```
 
     - Wissel met ```ALT+ESC``` naar het "Geen titel 1" venster van writer
 
@@ -1214,15 +1214,15 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Ga met "Geen titel 2" naar het werkblad rechts van deze door ```SUPER+SHIFT+PageDown``` te geven
 
-    - Ga terug naar het eerste werkblad met ```SUPER```, ```PageUp```, ```SUPER```
+    - Ga terug naar het eerste werkblad met ```SUPER PageUp SUPER```
 
     - Welke venters staan hier?
 
-    - Ga weer terug naar het tweede werkblad met ```SUPER```, ```PageDown```, ```SUPER```
+    - Ga weer terug naar het tweede werkblad met ```SUPER PageDown SUPER```
 
     - Welke venster staat hier?
 
-    - Sluit al deze vensters met ```ALT+F4``` zonder de muis te gebruiken (*Hint*: ```SUPER```, ```PageUp```, ```SUPER``` )
+    - Sluit al deze vensters met ```ALT+F4``` zonder de muis te gebruiken (*Hint*: ```SUPER PageUp SUPER``` )
     
 1. Venster verplaatsen naar ander werkblad via venstermenu
 
@@ -1244,7 +1244,7 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Welke venters staan hier?
 
-    - Sluit al deze vensters met ```ALT+F4``` zonder de muis te gebruiken (*Hint*: ```SUPER```, ```PageDown```, ```SUPER``` )
+    - Sluit al deze vensters met ```ALT+F4``` zonder de muis te gebruiken (*Hint*: ```SUPER PageDown SUPER``` )
 
 1. In activiteiten modus focus wisselen tussen elementen
 
