@@ -12,7 +12,7 @@ default: clean all
 
 all: print presentatie
 
-print: begrippen oefeningen verderleren samenvatting
+print: begrippen oefeningen verderleren samenvatting sneltoetsenperonderdeel begrippenperonderdeel
 
 install-deps:
 	sudo apt-get install docker.io docker-compose
@@ -21,7 +21,7 @@ install-deps:
 serve:
 	docker run --rm --init -v $(PWD):/home/marp/app -e LANG=$(LANG) -p 8080:8080 -p 37717:37717 $(MARP) --allow-local-files -s .
 
-presentatie: prepare hbegrippen hsamenvatting hoefeningen hreadme hverderleren
+presentatie: prepare hbegrippen hsamenvatting hoefeningen hreadme hverderleren hbegrippenperonderdeel hsneltoetsenperonderdeel
 	$(MARP_CMD) presentatie/inleiding.md -o $(PRESENTATIE_DIR)/inleiding.html
 	$(MARP_CMD) presentatie/rondleiding-gnome.md -o $(PRESENTATIE_DIR)/rondleiding-gnome.html
 	$(MARP_CMD) presentatie/toepassingen-starten-en-afsluiten.md -o $(PRESENTATIE_DIR)/toepassingen-starten-en-afsluiten.html
@@ -35,6 +35,12 @@ presentatie: prepare hbegrippen hsamenvatting hoefeningen hreadme hverderleren
 begrippen: prepare
 	$(PANDOC_PDF_CMD) begrippen.md -o $(BUILD_DIR)/begrippen.pdf
 
+begrippenperonderdeel: prepare
+	$(PANDOC_PDF_CMD) begrippen-per-onderdeel.md -o $(BUILD_DIR)/begrippen-per-onderdeel.pdf
+
+sneltoetsenperonderdeel: prepare
+	$(PANDOC_PDF_CMD) sneltoetsen-per-onderdeel.md -o $(BUILD_DIR)/sneltoetsen-per-onderdeel.pdf
+
 oefeningen: prepare
 	$(PANDOC_PDF_CMD) oefeningen.md -o $(BUILD_DIR)/oefeningen.pdf
 
@@ -46,6 +52,12 @@ verderleren: prepare
 
 hbegrippen: prepare
 	$(PANDOC_HTML_CMD) begrippen.md -o $(PRESENTATIE_DIR)/begrippen.html $(METADATA)
+
+hbegrippenperonderdeel: prepare
+	$(PANDOC_HTML_CMD) begrippen-per-onderdeel.md -o $(PRESENTATIE_DIR)/begrippen-per-onderdeel.html $(METADATA)
+
+hsneltoetsenperonderdeel: prepare
+	$(PANDOC_HTML_CMD) sneltoetsen-per-onderdeel.md -o $(PRESENTATIE_DIR)/sneltoetsen-per-onderdeel.html $(METADATA)
 
 hoefeningen: prepare
 	$(PANDOC_HTML_CMD) oefeningen.md -o $(PRESENTATIE_DIR)/oefeningen.html --shift-heading-level-by=1 $(METADATA)

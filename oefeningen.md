@@ -249,7 +249,7 @@ Uitzondering hierop zijn de volgende speciale toetsen:
         i. Annuleer in de popup door ```SPATIEBALK``` of ```ESC```
 
 
-# Toepassingen openen en afsluiten
+# Toepassingen starten en afsluiten
 
 1.  Sneltoetsen toevoegen. Open sneltoetsen in de Instellingen door:
 

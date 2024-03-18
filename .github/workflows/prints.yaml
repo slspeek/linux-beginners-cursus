@@ -17,5 +17,7 @@ jobs:
           files: |
             build/samenvatting.pdf
             build/begrippen.pdf
+            build/begrippen-per-onderdeel.pdf
             build/oefeningen.pdf
+            build/sneltoetsen-per-onderdeel.pdf
             build/verder-leren.pdf
