@@ -80,6 +80,10 @@ date: \today{}
 
 ## Vensters en werkbladen
 
+- Activiteiten modus
+
+- Werkbladen
+
 ## Instellingen
 
 ## Toepassingen installeren

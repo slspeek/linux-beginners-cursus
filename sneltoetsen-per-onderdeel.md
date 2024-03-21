@@ -89,6 +89,28 @@ date: \today{}
 |```CTRL+SHIFT+?```|Sneltoetsen tonen|
 
 ## Vensters en werkbladen
+|Sneltoets|Functie|
+|-----------|---------|
+|```ALT+TAB```||
+|```SUPER+TAB```|Wisselen tussen geopende toepassingen|
+|```ALT+` ``` (alt backtick) |Wisselen tussen open vensters van de toepassing die nu de focus heeft|
+|```ALT+ESC```| Wisselen tussen vensters op actieve werkblad|
+|```SUPER+PageDown```|Schakel naar werkblad rechts|
+|```SUPER+PageUp```|Schakel naar werkblad links|
+|```SUPER+SHIFT+PageDown```|Venster meenemen naar werkblad rechts|
+|```SUPER+SHIFT+PageUp```|Venster meenemen naar werkblad links|
+|```ALT+CTRL+TAB```|Focus bovenbalk|
+|```ALT+SPATIEBALK```|Vensterbeheermenu openen|
+|```SUPER+↑```|Maximaliseren|
+|```SUPER+↓```|Herstellen|
+|```SUPER+H```|Minimaliseren|
+|```SUPER+←```|Linker helft van het scherm gebruiken|
+|```SUPER+→```|Rechter helft van het scherm gebruiken|
+|```ALT+F7```/```ALT+F8```|Verplaatsen/Grootte wijzigen|
+|```←↑↓→```|Verplaatsen/Grootte wijzingen|
+|```SHIFT+←↑↓→```|Naar de randen|
+|```CTRL+←↑↓→```|Kleine stap|
+
 
 ## Instellingen
 
