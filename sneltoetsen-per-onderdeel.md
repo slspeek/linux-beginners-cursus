@@ -42,6 +42,25 @@ date: \today{}
 
 
 ## Firefox
+|Sneltoets|Functie|
+|-----------|---------|
+|```SUPER+1```|Firefox|
+|```CTRL+T```|Nieuw tabblad openen|
+|```CTRL+W```|Tabblad sluiten|
+|```CTRL+L```|Focus naar adresbalk|
+|```CTRL+K```|Zoeken|
+|```CTRL+↓```||
+|```CTRL+↑```| zoekmachine te selecteren|
+|```ALT+↓```||
+|```ALT+↑```|zoekmachine te selecteren als u al iets ingetyped hebt|
+|```CTRL+SHIFT+Click```|open koppeling op nieuw tabblad en ga naar dat tabblad|
+|```CTRL+Click```|open koppeling op nieuw tabblad|
+|```CLTR+TAB```|Wissel tussen tabbladen|
+|```CLTR+SHIFT+TAB```|Wissel tussen tabbladen (omgekeerde volgorde)|
+|```CTRL+N```|Nieuw venster openen|
+|```ALT+F4```|Venster sluiten|
+|```CTRL+Q```|Toepassing afsluiten|
+
 
 ## Bestandsbeheerder
 

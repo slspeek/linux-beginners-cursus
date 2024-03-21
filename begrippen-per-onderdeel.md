@@ -50,6 +50,12 @@ date: \today{}
 
 ## Firefox
 
+- Adresbalk
+
+- Context menu
+
+- Focus
+
 ## Bestandsbeheerder
 
 ## Vensters en werkbladen
