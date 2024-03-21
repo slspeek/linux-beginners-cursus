@@ -75,10 +75,6 @@ Desktop manager
 
 :	Systeemprogramma dat het bureaublad beheert en andere programma’s kan openen en sluiten. Tevens regelt het de plaatsing van vensters.
 
-Display manager
-
-:	Graphisch inlogscherm. Als een geldige gebruikersnaam en wachtwoord wordt ingevoerd wordt daarna een bureaublad getoond.
-
 Filesystem Hierarchy Standard
 
 :  Afspraak die op UNIX vastlegt wat in welke map dient te staan. Bijvoorbeeld:
