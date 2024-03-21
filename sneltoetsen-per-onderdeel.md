@@ -39,8 +39,6 @@ date: \today{}
 |```ALT+F4```|Venster sluiten|
 |```CTRL+Q```|Toepassing afsluiten|
 
-
-
 ## Firefox
 |Sneltoets|Functie|
 |-----------|---------|
@@ -57,12 +55,38 @@ date: \today{}
 |```CTRL+Click```|open koppeling op nieuw tabblad|
 |```CLTR+TAB```|Wissel tussen tabbladen|
 |```CLTR+SHIFT+TAB```|Wissel tussen tabbladen (omgekeerde volgorde)|
+|```CTRL+D```|Bladwijzer maken|
+|```CTRL+SHIFT+O```|Bladwijzers organiseren|
 |```CTRL+N```|Nieuw venster openen|
 |```ALT+F4```|Venster sluiten|
 |```CTRL+Q```|Toepassing afsluiten|
 
 
-## Bestandsbeheerder
+## Bestanden
+|Sneltoets|Functie|
+|-----------|---------|
+|```SUPER+E```||
+|```SUPER+4```|Bestandsbeheerder|
+|```CTRL+L```|Focus naar adresbalk|
+|```CTRL+1```|Lijstweergave|
+|```CTRL+2```|Rasterweergave|
+|```CTRL+H```|Verborgen bestanden tonen/verbergen|
+|```F10```|Actiemenu openen|
+|```CTRL+SHIFT+N```|Nieuwe map maken|
+|```CTRL+X```|Knippen|
+|```CTRL+C```|Kopiëren|
+|```CTRL+V```|Plakken|
+|```DELETE```|Naar de prullenbak verplaatsen|
+|```ALT+ENTER```|Eigenschappen|
+|```ALT+↑```|Ga naar bovenliggende map|
+|```CTRL+F```|Zoeken|
+|```CTRL+D```|Bladwijzer maken|
+|```CTRL+N```|Nieuw venster openen|
+|```CTRL+W```||
+|```ALT+F4```|Venster sluiten|
+|```CTRL+Q```|Toepassing afsluiten|
+|```F1```|Hulp|
+|```CTRL+SHIFT+?```|Sneltoetsen tonen|
 
 ## Vensters en werkbladen
 

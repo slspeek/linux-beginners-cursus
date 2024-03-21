@@ -26,6 +26,8 @@ date: \today{}
 
 - Desktop manager
 
+- GNOME
+
 - Notificatie venster
 
 - Super toets
@@ -56,7 +58,25 @@ date: \today{}
 
 - Focus
 
-## Bestandsbeheerder
+- Hamburgermenu
+
+## Bestanden
+
+- Actiemenu
+
+- Adresbalk
+
+- Bestandsbeheerder
+
+- Context menu
+
+- Filesystem Hierarchy Standard
+
+- Hamburgermenu
+
+- Pad
+
+- Thuismap
 
 ## Vensters en werkbladen
 
