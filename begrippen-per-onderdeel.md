@@ -28,11 +28,25 @@ date: \today{}
 
 - Notificatie venster
 
-- SUPER
+- Super toets
 
 - Systeemmenu
 
 ## Toepassingen starten en afsluiten 
+
+- Activiteiten modus
+
+- Applicatie modus
+
+- Dash
+
+- Focus
+
+- Super toets
+
+- Toepassing
+
+- Zoekvak
 
 ## Firefox
 

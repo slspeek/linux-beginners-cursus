@@ -174,6 +174,7 @@ __N.B.__ Niet iedere toepassing staat dit toe, bijvoorbeeld Kaarten niet.
 - via het toepassingsmenu
 - via de toepassing zelf (bestandsmenu)
 - in applicatie modus het icon naar een werkblad slepen
+- vaak sneltoets ```CTRL+N```
 
 ---
 ##### Voorbeeld extra venster met ```CTRL+Click``` op dash

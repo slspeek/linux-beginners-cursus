@@ -22,6 +22,24 @@ date: \today{}
 
 
 ## Toepassingen starten en afsluiten 
+|Sneltoets|Functie|
+|-----------|---------|
+|```SUPER```|Activiteiten modus in/uit|
+|```SUPER+A```|Applicatie modus in|
+|```ESCAPE```|Verlaten/annuleren|
+|```SUPER <naam programma> ENTER```|Start \<naam programma\>|
+|```SUPER+1```|Firefox|
+|```SUPER+3```|Writer|
+|```SUPER+E```| |
+|```SUPER+4```|Bestandsbeheer|
+|```SUPER+5```|Software|
+|```CTRL+ALT+T```|Terminal|
+|```SUPER+F10```|Toepassingsmenu openen|
+|```CTRL+N```|Nieuw venster openen|
+|```ALT+F4```|Venster sluiten|
+|```CTRL+Q```|Toepassing afsluiten|
+
+
 
 ## Firefox
 
