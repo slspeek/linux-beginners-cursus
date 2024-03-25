@@ -320,15 +320,7 @@ Indien u het laatste open venster van een toepassing sluit, sluit u ook de toepa
 - Via bestandsmenu van de toepassing
 
 
-# Veel gebruikte toepassingen
-
--  Internet browser: Firefox
-
--  Bestandsbeheer
-
-<!-- -  LibreOffice -->
-
-## Internet browser: Firefox
+# Firefox
 
 - Belangrijkste sneltoetsen
     

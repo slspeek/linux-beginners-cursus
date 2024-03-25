@@ -8,6 +8,7 @@ Deze cursus is bedoeld voor mensen die hun kennis over Linux willen vergroten. E
 
 | |Online versie|Printbare/Offline versie|
 |----|-------|-------------|
+|Hoe de cursus te volgen|[HTML versie](https://slspeek.github.io/linux-beginners-cursus/hoe-de-cursus-te-volgen.html)|[Printbare versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/hoe-de-cursus-te-volgen.pdf)|
 |Presentaties| [HTML versie](#presentaties) |[Zipbestand](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/presentatie.zip) |
 |Samenvatting| [HMTL versie](https://slspeek.github.io/linux-beginners-cursus/samenvatting.html)| [Printbare versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/samenvatting.pdf)|
 |Oefeningen| [HMTL versie](https://slspeek.github.io/linux-beginners-cursus/oefeningen.html) |[Printbare versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/oefeningen.pdf)|

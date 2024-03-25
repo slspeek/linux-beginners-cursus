@@ -15,6 +15,7 @@ jobs:
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: |
+            build/hoe-de-cursus-te-volgen.pdf
             build/samenvatting.pdf
             build/begrippen.pdf
             build/begrippen-per-onderdeel.pdf
