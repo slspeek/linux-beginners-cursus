@@ -90,7 +90,7 @@ date: \today{}
 
 ## Vensters en werkbladen
 |Sneltoets|Functie|
-|-----------|---------|
+|-----|---------|
 |```ALT+TAB```||
 |```SUPER+TAB```|Wisselen tussen geopende toepassingen|
 |```ALT+` ``` (alt backtick) |Wisselen tussen open vensters van de toepassing die nu de focus heeft|
@@ -113,5 +113,25 @@ date: \today{}
 
 
 ## Instellingen
+
+|Sneltoets|Functie|
+|-----------|---------|
+|```SUPER+I```|Instellingen|
+|```COMPOSE ' e```| é|
+|```COMPOSE ` e```| è|
+|```COMPOSE " e```| ë|
+|```COMPOSE - e```| ē|
+|```COMPOSE ^ e```| ê|
+
+Via zoekvak:
+
+|Teken|Naam|
+|:---:|:---| 
+| é| Acute|
+| è| Grave|
+| ë | Diaeresis|
+| ē | Macron|
+| ê | Circumflex|
+
 
 ## Toepassingen installeren

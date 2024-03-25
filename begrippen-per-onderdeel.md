@@ -86,5 +86,9 @@ date: \today{}
 
 ## Instellingen
 
+- Systeemmenu
+
+- Zoekvak
+
 ## Toepassingen installeren
 
