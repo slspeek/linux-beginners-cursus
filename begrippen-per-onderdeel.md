@@ -92,3 +92,7 @@ date: \today{}
 
 ## Toepassingen installeren
 
+- Bestandsbeheerder
+
+- Context menu
+

@@ -133,5 +133,8 @@ Via zoekvak:
 | ē | Macron|
 | ê | Circumflex|
 
-
 ## Toepassingen installeren
+|Sneltoets|Functie|
+|-------|---------|
+|```SUPER+5```|Software|
+|```SHIFT+SUPER+I```|Afstellingen|

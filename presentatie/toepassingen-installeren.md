@@ -137,7 +137,7 @@ Kies toepassing en zet schakelaar "Altijd gebruiken voor dit bestandstype"
 
 ![bg right width:100%](img/opstarttoepassingen.png)
 
-- Open Afstellingen (```SUPER+SHIFT+I``` )
+- Open Afstellingen (```SHIFT+SUPER+I``` )
 
 - "Opstarttoepassingen"
 
