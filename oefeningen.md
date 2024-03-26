@@ -2149,7 +2149,7 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - U ziet dat "samenvatting.pdf" weer met xpdf wordt geopend
 
-    - U sluit xpdf door ```Q``` in te drukken
+    - U sluit xpdf door ```ALT+F4``` in te drukken
 
     - Open de bestandsbeheerder met ```SUPER+4``` 
 
@@ -2157,7 +2157,7 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Open het contextmenu van "samenvatting.pdf" (Selecteer "samenvatting.pdf" en druk ```MENU```)
 
-    - Kies "Openen met..." ```M```
+    - Kies "Openen met..."
 
     - Selecteer "Documentweergave"
 
