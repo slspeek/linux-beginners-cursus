@@ -12,6 +12,7 @@ title: Toepassingen starten en afsluiten
 - Applicatie modus
 - Sneltoetsen
 ### Toepassingsmenu
+- Zien welke toepassing de focus heeft
 - Snelle toegang tot afsluiten en nieuw venster
 ---
 ### Toepassingen afsluiten of vensters sluiten
@@ -68,8 +69,12 @@ Naast het starten van het eerste programma van links met ```SUPER+1``` kunt u oo
 ![width:900px](img/applicatie-modus.png)
 
 ---
-- sleep een icon naar de dash
+- sleep een icon naar de dash in applicatie modus
 ![width:1000px](img/dash-toepassing-toevoegen.gif)
+
+---
+- sleep een icon naar de dash met het zoekvak
+![width:1000px](img/vastmaken-dash-zoekvak.gif)
 
 ---
 - sleep een icon naar de 3x3 puntjes rechts
@@ -108,10 +113,10 @@ Kaarten op eerste werkblad en firefox op het tweede werkblad
 
 ---
 #### Toepassing aan een sneltoets koppelen
-- Druk ```SUPER``` in
-- type ```snel```
+- Druk ```SUPER``` kort in
+- Type ```snel```
 ![](img/instellingen-sneltoetsen-openen.png)
-- druk ```ENTER``` in
+- Druk op ```ENTER```
 
 ---
 ![height:500px](img/instellingen-toetsenbord.png)
@@ -145,6 +150,7 @@ Voorbeeld: terminal aan sneltoets ```CTRL+ALT+T```
 
 ---
 #### Wat kunt u met het toepassingsmenu ```SUPER+F10```
+- Zien welke toepassing de focus heeft
 - Wisselen tussen vensters
 - Extra venster openen
 - Details in de Software toepassing zien
