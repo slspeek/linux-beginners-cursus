@@ -518,7 +518,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Scroll naar het kopje "Lesmateriaal"
 
-    - Open de Webversie (tweede kolom) van Samenvatting en Oefeningen op een apart tabblad (en blijf op de eerste pagina)
+    - Open de Webversie van de Samenvatting en de Oefeningen op een apart tabblad (en blijf op de eerste pagina), door ```CTRL``` in gedrukt te houden terwijl u op de koppelingen van de Webversie  (tweede kolom) van de Samenvatting en de Oefeningen klikt
 
     - Gebruik ```CTRL+TAB``` om de twee nieuwe pagina's te bekijken
 
@@ -635,7 +635,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga naar de URL: [```slspeek.github.io/linux-beginners-cursus/samenvatting.html#internet-browser-firefox```](https://slspeek.github.io/linux-beginners-cursus/samenvatting.html#internet-browser-firefox).
+    - Ga naar de URL: [```slspeek.github.io/linux-beginners-cursus/samenvatting.html#firefox```](https://slspeek.github.io/linux-beginners-cursus/samenvatting.html#firefox).
 
     - Scroll omlaag naar "Extensies installeren", klik op de koppeling van "I don't care about cookies"
 
