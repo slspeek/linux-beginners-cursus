@@ -36,6 +36,10 @@ title: Firefox
 
     - ```ALT+↓```, ```ALT+↑``` om zoekmachine te selecteren als u al iets ingetyped hebt
 
+- Volledig scherm ```F11```
+
+- Navigatiegeschiedenis ```CTRL+H```
+
 - Nieuw venster ```CTRL+N```
 
 - Afsluiten ```CTRL+Q```
