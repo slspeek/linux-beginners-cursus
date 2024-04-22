@@ -115,18 +115,20 @@ title: Firefox
 ![width:1000px](img/firefox-bladwijzer-verwijderen-uit-map.gif)
 
 ---
-##### Bladwijzers beheren in Firefox
+##### Bladwijzers beheren
+![bg width:100% right](img/firefox-bibliotheek.png)
+
+- venster heet 'Bibliotheek'
+
+    - hamburgermenu ![width:50px](img/firefox-hamburgermenu.png) "Bladwijzers >" "Bladwijzers beheren"
+
+    - ```CTRL+SHIFT+O```
 
 - origaniseren van bladwijzers
 
     - verwijderen
 
     - ordenen in mappen
-
-- te bereiken met 
-    - hamburgermenu ![width:50px](img/firefox-hamburgermenu.png) "Bladwijzers >" "Bladwijzers beheren"
-
-    - ```CTRL+SHIFT+O```
 
 ---
 ###### Voorbeeld bladwijzers beheren, een bladwijzer verwijderen
