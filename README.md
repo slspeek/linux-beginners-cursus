@@ -8,15 +8,15 @@ Deze cursus is bedoeld voor mensen die hun kennis over Linux willen vergroten. E
 
 | |Online versie|Printbare/Offline versie|
 |----|-------|-------------|
-|Hoe de cursus te volgen|[HTML versie](https://slspeek.github.io/linux-beginners-cursus/hoe-de-cursus-te-volgen.html)|[Printbare versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/hoe-de-cursus-te-volgen.pdf)|
-|Presentaties| [HTML versie](#presentaties) |[Zipbestand](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/presentatie.zip) |
+|Hoe de cursus te volgen|[Webversie](https://slspeek.github.io/linux-beginners-cursus/hoe-de-cursus-te-volgen.html)|[Printbare versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/hoe-de-cursus-te-volgen.pdf)|
+|Presentaties| [Webversie](#presentaties) |[Zipbestand](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/presentatie.zip) |
 |Samenvatting| [HMTL versie](https://slspeek.github.io/linux-beginners-cursus/samenvatting.html)| [Printbare versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/samenvatting.pdf)|
 |Oefeningen| [HMTL versie](https://slspeek.github.io/linux-beginners-cursus/oefeningen.html) |[Printbare versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/oefeningen.pdf)|
 |Begrippenlijst| [HMTL versie](https://slspeek.github.io/linux-beginners-cursus/begrippen.html) |[Printbare versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/begrippen.pdf)|
 |Begrippen per onderdeel|[HMTL versie](https://slspeek.github.io/linux-beginners-cursus/begrippen-per-onderdeel.html)|[Printbare versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/begrippen-per-onderdeel.pdf)|
 |Sneltoetsen kaart| | [Printbare versie](https://github.com/slspeek/debian-gnome-sneltoetsen/releases/latest/download/debian-gnome-sneltoetsen.pdf)|
 |Sneltoetsen per onderdeel|[HMTL versie](https://slspeek.github.io/linux-beginners-cursus/sneltoetsen-per-onderdeel.html)|[Printbare versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/sneltoetsen-per-onderdeel.pdf) |
-|Verder leren| [HTML versie](https://slspeek.github.io/linux-beginners-cursus/verder-leren.html) |[Printbare versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/verder-leren.pdf)|
+|Verder leren| [Webversie](https://slspeek.github.io/linux-beginners-cursus/verder-leren.html) |[Printbare versie](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/verder-leren.pdf)|
 
 ### Presentaties
 

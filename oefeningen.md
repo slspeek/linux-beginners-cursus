@@ -494,7 +494,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Scroll naar het kopje "Lesmateriaal"
 
-    - Klik op de koppeling van de HTML versie (tweede kolom) van "Presentaties"
+    - Klik op de koppeling van de Webversie (tweede kolom) van "Presentaties"
     
     - Blader door enkele presentaties heen, nu weet u waar u het lesmateriaal online kunt vinden
 
@@ -518,7 +518,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Scroll naar het kopje "Lesmateriaal"
 
-    - Open de HTML versie (tweede kolom) van Samenvatting en Oefeningen op een apart tabblad (en blijf op de eerste pagina)
+    - Open de Webversie (tweede kolom) van Samenvatting en Oefeningen op een apart tabblad (en blijf op de eerste pagina)
 
     - Gebruik ```CTRL+TAB``` om de twee nieuwe pagina's te bekijken
 
@@ -550,7 +550,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
         
     - Scroll naar het kopje "Lesmateriaal"
 
-    - Klik op de koppeling van de HTML versie van "Verder leren" (tweede kolom)
+    - Klik op de koppeling van de Webversie van "Verder leren" (tweede kolom)
     
     - Maak een bladwijzer door op ![](img/firefox-bladwijzer-ster-leeg.png){width=30px} aan de rechterzijde te klikken
 
@@ -560,7 +560,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Ga met behulp van de bladwijzer naar de URL [```slspeek.github.io/linux-beginners-cursus```](https://slspeek.github.io/linux-beginners-cursus) ("Linux beginners cursus")
 
-    - Klik op de HTML versie van "Samenvatting" onder het kopje "Lesmateriaal"
+    - Klik op de Webversie van "Samenvatting" onder het kopje "Lesmateriaal"
 
     - Maak bladwijzerbalk zichtbaar met ```CTRL+SHIFT+B``` als deze verborgen is
 
@@ -587,7 +587,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Ga naar het kopje "Lesmateriaal"
 
-    - Klik met ```CTRL``` ingedrukt op de HTML versies van "Oefeningen" en "Begrippenlijst"
+    - Klik met ```CTRL``` ingedrukt op de Webversies van "Oefeningen" en "Begrippenlijst"
 
     - Als de bladwijzerbalk niet zichtbaar is maakt u hem zichtbaar met ```SHIFT+CTRL+B```
 
