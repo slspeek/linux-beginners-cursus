@@ -1252,7 +1252,7 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Druk ```ALT+CTRL+[TAB*]``` (```[TAB*]``` betekent hier 1 of meer keer ```TAB```)
 
-        - Houdt met de rechterhand ```CTRL``` ingedrukt
+        - Houdt met de rechterhand de rechter ```CTRL``` ingedrukt
 
         - Met de linkerhand ```ALT+[TAB*]```
 
@@ -1488,6 +1488,8 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Open writer met ```SUPER+3``` 
 
+    - Indien het venster gemaximaliseerd (het hele scherm gebruikt), herstelt u het met ```SUPER+↓```
+
     - Ga na door de muis nauwkeurig boven de hoeken van het venster te bewegen dat u de volgende cursors kunt krijgen ![](img/resize-cursors/top_left_corner.png){width=25px} ![](img/resize-cursors/top_right_corner.png){width=25px} ![](img/resize-cursors/bottom_right_corner.png){width=25px} ![](img/resize-cursors/bottom_left_corner.png){width=25px}
 
     - Ga na door de muis nauwkeurig boven de randen van het venster te bewegen dat u de volgende cursors kunt krijgen ![](img/resize-cursors/left_side.png){width=25px} ![](img/resize-cursors/right_side.png){width=25px} ![](img/resize-cursors/top_side.png){width=25px} ![](img/resize-cursors/bottom_side.png){width=25px}
@@ -1499,6 +1501,8 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 1. Grootte van Firefox aanpassen via het venstermenu en muis.
 
     - Open Firefox met ```SUPER+1``` 
+
+    - Indien het venster gemaximaliseerd (het hele scherm gebruikt), herstelt u het met ```SUPER+↓```
 
     - Open het venstermenu met ```ALT+SPATIEBALK```
 
@@ -1514,6 +1518,8 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Open Firefox met ```SUPER+1``` 
 
+    - Indien het venster gemaximaliseerd (het hele scherm gebruikt), herstelt u het met ```SUPER+↓```
+
     - Ga grootte aanpas modus in met ```ALT+F8```
 
     - Gebruik de pijltjes om de grootte aan te passen. Wat kunt u zeggen over wat het eerste pijltje doet wat u indrukt? Gebruik ```ENTER``` om de nieuwe grootte te accepteren.
@@ -1526,6 +1532,8 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
     - Open Firefox met ```SUPER+1``` 
 
+    - Indien het venster gemaximaliseerd (het hele scherm gebruikt), herstelt u het met ```SUPER+↓```
+
     - Ga grootte aanpas modus in met ```ALT+F8```
 
     - Gebruik de ```SHIFT``` met de pijltjes om de grootte aan te passen. Gebruik ```ENTER``` om de nieuwe grootte te accepteren.
@@ -1535,6 +1543,8 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 1. Grootte van Firefox aanpassen per pixel met sneltoetsen
 
     - Open Firefox met ```SUPER+1``` 
+
+    - Indien het venster gemaximaliseerd (het hele scherm gebruikt), herstelt u het met ```SUPER+↓```
 
     - Ga grootte aanpas modus in met ```ALT+F8```
 

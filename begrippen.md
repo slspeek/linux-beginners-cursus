@@ -157,7 +157,7 @@ Systeemmenu
 
 Thuismap
 
-:   De gebruikers map. Hier worden documenten en afbeeldingen opgeslagen. De gebruiker van wie de thuismap is kan hier zelf mappen aanmaken. Bijvoorbeeld ```/home/tux```. Zie [online-documentatie](https://nl.wikipedia.org/wiki/Homedirectory).
+:   De gebruikers map. In de bestandsbeheerder wordt deze 'Persoonlijke map' genoemd. Hier worden documenten en afbeeldingen van de gebruiker opgeslagen. De gebruiker van wie de thuismap is kan hier zelf mappen aanmaken. Bijvoorbeeld ```/home/tux```. Zie [online-documentatie](https://nl.wikipedia.org/wiki/Homedirectory).
 
 Titelbalk
 

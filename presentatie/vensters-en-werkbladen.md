@@ -22,7 +22,7 @@ title: Vensters en werkbladen
 
 -  ```ALT+` ``` (alt backtick) wisselt tussen open vensters van de toepassing die nu de focus heeft
 
-- Wisselen tussen vensters op actieve werkblad ```ALT+ESC```
+- Wisselen tussen vensters op het zichtbare werkblad ```ALT+ESC```
 
 - Focus bovenbalk ```ALT+CTRL+TAB```
 
