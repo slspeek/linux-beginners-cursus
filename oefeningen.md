@@ -1,5 +1,5 @@
 ---
-title: Oefeningen voor de Linux beginners cursus
+title: Oefeningen voor de Linux beginnerscursus
 author: |
     | Steven Speek 
     |  \tt{slspeek@gmail.com}
@@ -546,7 +546,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga met behulp van de bladwijzer naar de URL: [```slspeek.github.io/linux-beginners-cursus```](https://slspeek.github.io/linux-beginners-cursus) ("Linux beginners cursus")
+    - Ga met behulp van de bladwijzer naar de URL: [```slspeek.github.io/linux-beginners-cursus```](https://slspeek.github.io/linux-beginners-cursus) ("Linux beginnerscursus")
         
     - Scroll naar het kopje "Lesmateriaal"
 
@@ -558,7 +558,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga met behulp van de bladwijzer naar de URL [```slspeek.github.io/linux-beginners-cursus```](https://slspeek.github.io/linux-beginners-cursus) ("Linux beginners cursus")
+    - Ga met behulp van de bladwijzer naar de URL [```slspeek.github.io/linux-beginners-cursus```](https://slspeek.github.io/linux-beginners-cursus) ("Linux beginnerscursus")
 
     - Klik op de Webversie van "Samenvatting" onder het kopje "Lesmateriaal"
 
@@ -574,7 +574,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
     - Open het context menu (rechtsklikken) van de bladwijzerbalk en kies "Map toevoegen ..." en maak een map "cursus" aan
 
-    - Sleep de drie bladwijzers over de cursus naar deze map ("Linux beginners cursus", "Verder leren" en "Samenvatting voor de Linux beginners cursus")
+    - Sleep de drie bladwijzers over de cursus naar deze map ("Linux beginnerscursus", "Verder leren" en "Samenvatting voor de Linux beginnerscursus")
 
     - En orden ze zodanig dat het resultaat er zo uitziet:
     ![](img/firefox-bladwijzer-map-cursus-3-items.png){height=100px}
@@ -583,7 +583,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga met behulp van de bladwijzer naar de URL [```slspeek.github.io/linux-beginners-cursus```](https://slspeek.github.io/linux-beginners-cursus) ("Linux beginners cursus")
+    - Ga met behulp van de bladwijzer naar de URL [```slspeek.github.io/linux-beginners-cursus```](https://slspeek.github.io/linux-beginners-cursus) ("Linux beginnerscursus")
 
     - Ga naar het kopje "Lesmateriaal"
 

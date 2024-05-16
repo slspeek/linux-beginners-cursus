@@ -1,5 +1,5 @@
 ---
-title: Hoe de Linux beginners cursus te volgen
+title: Hoe de Linux beginnerscursus te volgen
 author: |
     | Steven Speek 
     |  \tt{slspeek@gmail.com}

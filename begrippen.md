@@ -1,5 +1,5 @@
 ---
-title: Begrippenlijst voor Linux beginners cursus
+title: Begrippenlijst voor Linux beginnerscursus
 author: |
     | Steven Speek 
     |  \tt{slspeek@gmail.com}

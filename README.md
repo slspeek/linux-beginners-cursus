@@ -1,4 +1,4 @@
-# Linux beginners cursus
+# Linux beginnerscursus
 Rondleiding langs de [GNOME 43.6](https://help.gnome.org/) desktop van [Debian 12](https://debian.org). In de cursus wordt uitsluitend met de graphische interface gewerkt.
 
 ## Publiek
@@ -32,4 +32,4 @@ Deze cursus is bedoeld voor mensen die hun kennis over Linux willen vergroten. E
 |8|[Toepassingen installeren](https://slspeek.github.io/linux-beginners-cursus/toepassingen-installeren.html)|[Oefeningen](https://slspeek.github.io/linux-beginners-cursus/oefeningen.html#toepassingen-installeren)|[Samenvatting](https://slspeek.github.io/linux-beginners-cursus/samenvatting.html#toepassingen-installeren)|[Begrippen](https://slspeek.github.io/linux-beginners-cursus/begrippen-per-onderdeel.html#toepassingen-installeren)|[Sneltoetsen](https://slspeek.github.io/linux-beginners-cursus/sneltoetsen-per-onderdeel.html#toepassingen-installeren)|
 
 ## Broncode
-De broncode van Linux beginners cursus bevindt zich op het volgende URL: [```https://github.com/slspeek/linux-beginners-cursus```](https://github.com/slspeek/linux-beginners-cursus).
+De broncode van Linux beginnerscursus bevindt zich op het volgende URL: [```https://github.com/slspeek/linux-beginners-cursus```](https://github.com/slspeek/linux-beginners-cursus).
