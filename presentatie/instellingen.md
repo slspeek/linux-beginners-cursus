@@ -29,12 +29,23 @@ title: Instellingen
 
 - ```SUPER inst ENTER``` 
 
+- Met het zoekvak om direct naar een specifiek onderdeel te gaan:
+
+    - ```SUPER weergave ↓ ENTER``` om Weergave te openen
+
+    - ```SUPER snelhoek ENTER``` om Multitasking te openen
+
+    - ```SUPER online ENTER``` om Online accounts te openen
+
+
 ---
 ## Donker thema inschakelen
 
+- Systeemmenu
+
 - Instellingen -> Weergave -> Stijl -> Donker
 
-![width:800px](img/instellingen-weergave-stijl.png)
+![bg right width:100%](img/instellingen-weergave-stijl.png)
 
 ---
 ##### Voorbeeld donker thema inschakelen

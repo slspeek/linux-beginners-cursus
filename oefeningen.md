@@ -1744,7 +1744,7 @@ Probeer dit uitvoerig uit. U opent de bestandsbeheerder en gaat naar ```Document
 
 1. Zet de standaard stijl terug in het "Weergave" deel van de instellingen
 
-1. Zet schermvergrendeling in op 15 minuten onder "Schermen" van de afdeling "Privacy"
+1. Zet schermvergrendeling in op 5 minuten onder "Schermen" van de afdeling "Privacy"
 
 1. Zet grote letters uit via toegankelijkheidsmenu ![](img/toegankelijkheidsmenu.png){height=25px} in bovenbalk
 
