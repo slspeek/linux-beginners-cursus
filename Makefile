@@ -76,7 +76,7 @@ relative_urls:
 	sed -e 's|https://slspeek.github.io/linux-beginners-cursus/||g' hoe-de-cursus-te-volgen.md > $(BUILD_DIR)/hoe-de-cursus-te-volgen.relative-url.md
 
 hreadme: prepare relative_urls
-	$(PANDOC_HTML_CMD)  $(BUILD_DIR)/README.relative-url.md -o $(PRESENTATIE_DIR)/index.html --metadata title="Linux beginners cursus" 
+	$(PANDOC_HTML_CMD)  $(BUILD_DIR)/README.relative-url.md -o $(PRESENTATIE_DIR)/index.html --metadata title="Linux beginnerscursus" 
 
 hverderleren: prepare
 	$(PANDOC_HTML_CMD) verder-leren.md -o $(PRESENTATIE_DIR)/verder-leren.html $(METADATA)
