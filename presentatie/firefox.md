@@ -23,6 +23,8 @@ title: Firefox
 
 - Tabblad sluiten ```CTRL+W```
 
+- Gesloten tabblad opnieuw openen ```CTRL+SHIFT+T```
+
 - Focus naar adresbalk ```CTRL+L``` (locatie)
 
 ![](img/firefox-locatiebalk.png)

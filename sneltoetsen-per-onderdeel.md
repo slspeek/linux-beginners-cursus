@@ -44,6 +44,7 @@ date: \today{}
 |-----------|---------|
 |```SUPER+1```|Firefox|
 |```CTRL+T```|Nieuw tabblad openen|
+|```CTRL+SHIFT+T```|Gesloten tabblad heropenen|
 |```CTRL+W```|Tabblad sluiten|
 |```CTRL+L```|Focus naar adresbalk|
 |```CTRL+K```|Zoeken|
