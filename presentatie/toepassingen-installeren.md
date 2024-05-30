@@ -8,11 +8,9 @@ title: Toepassingen installeren
 
 - Updates uitvoeren
 
+- Alternatief zoeken
+
 - Installeren
-
-    - Software ![](img/software-icon.png)
-
-    - .deb bestand
 
 ---
 ## Updates uitvoeren
@@ -28,8 +26,36 @@ title: Toepassingen installeren
 ![width:1000px](img/installeren-updates-uitvoeren.gif)
 
 ---
+## Alternatief zoeken
+
+- Gebruik een zoekmachine (```SUPER+1``` ```CTRL+K```) met ```linux alternative <programma dat u zoekt>```
+
+    - ```linux alternative photoshop``` suggereert GIMP
+
+    - ```linux alternative moviemaker``` suggereert Openshot
+---
 ## Installeren 
 
+- Via zoekvak ![](img/zoekvak.png)
+
+- Software ![](img/software-icon.png)
+
+- .deb bestand
+
+---
+## Installeren via het zoekvak
+
+- ```SUPER``` om in activiteiten modus te komen
+
+- Type de naam van het programma dat u wilt installeren
+
+    - bv. ```gimp``` voor fotobewerkings programma ![width:1100px](img/installeren-zoekvak-gimp.png)
+
+---
+##### Voorbeeld Openshot 
+![width:1000px](img/installeren-zoekvak-openshot.gif)
+
+---
 ###  Via Software ![](img/software-icon.png)
 
 - Bladeren
