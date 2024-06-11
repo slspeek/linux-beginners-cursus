@@ -1,9 +1,9 @@
 #!/bin/bash
-
-GITHUB_RAW=https://raw.githubusercontent.com/slspeek/linux-beginners-cursus/main
-
-GITHUB_RELEASES=https://github.com/slspeek/linux-beginners-cursus/releases/latest/download
 # Run as non-privileged user
+
+GITHUB_RAW=https://raw.githubusercontent.com/$GITHUB_USER/$GITHUB_REPO_NAME/main
+
+GITHUB_RELEASES=$REPO/releases/latest/download
 
 cd ~/Downloads
 wget $GITHUB_RAW/resources/bloemen.zip 

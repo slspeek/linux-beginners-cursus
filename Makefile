@@ -1,9 +1,15 @@
 BUILD_DIR=build
-PRESENTATIE_DIR=$(BUILD_DIR)/presentatie
+WEBSITE_SUBDIR=website
+WEBSITE_DIR=$(BUILD_DIR)/$(WEBSITE_SUBDIR)
+PRINT_SUBDIR=print
+PRINT_DIR=$(BUILD_DIR)/$(PRINT_SUBDIR)
+PP_SUBDIR=preprocessed
+PP_DIR=$(BUILD_DIR)/$(PP_SUBDIR)
 GITHUB_USER=slspeek
 GITHUB_REPO_NAME=linux-beginners-cursus
 REPO=https://github.com/$(GITHUB_USER)/$(GITHUB_REPO_NAME)
-GH_PAGES=https://$(GITHUB_USER).github.io/$(GITHUB_REPO_NAME)
+GH_PAGES_WOP=$(GITHUB_USER).github.io/$(GITHUB_REPO_NAME)
+GH_PAGES=https://$(GH_PAGES_WOP)
 PANDOC_IMAGE=pandoc/latex:2.9
 METADATA=--metadata author='Steven Speek' --metadata date="$$(LANG=nl_NL.UTF-8 date +'%A %-d %B %Y')"
 USER_ID=$(shell id -u):$(shell id -g)
@@ -14,7 +20,7 @@ MARP_CMD=docker run --rm --init -e MARP_USER=$(USER_ID) -v $(PWD):/home/marp/app
 
 default: clean all
 
-all: print presentatie
+all: print website
 
 print: begrippen oefeningen verderleren samenvatting sneltoetsenperonderdeel begrippenperonderdeel hoedecursustevolgen
 
@@ -25,85 +31,102 @@ install-deps:
 serve:
 	docker run --rm --init -v $(PWD):/home/marp/app -e LANG=$(LANG) -p 8080:8080 -p 37717:37717 $(MARP) --allow-local-files -s .
 
-presentatie: prepare hbegrippen hsamenvatting hoefeningen hreadme hverderleren hbegrippenperonderdeel hsneltoetsenperonderdeel hhoedecursustevolgen
-	$(MARP_CMD) presentatie/inleiding.md -o $(PRESENTATIE_DIR)/inleiding.html
-	$(MARP_CMD) presentatie/rondleiding-gnome.md -o $(PRESENTATIE_DIR)/rondleiding-gnome.html
-	$(MARP_CMD) presentatie/toepassingen-starten-en-afsluiten.md -o $(PRESENTATIE_DIR)/toepassingen-starten-en-afsluiten.html
-	$(MARP_CMD) presentatie/firefox.md -o $(PRESENTATIE_DIR)/firefox.html
-	$(MARP_CMD) presentatie/bestanden.md -o $(PRESENTATIE_DIR)/bestanden.html
-	$(MARP_CMD) presentatie/vensters-en-werkbladen.md -o $(PRESENTATIE_DIR)/vensters-en-werkbladen.html
-	$(MARP_CMD) presentatie/toepassingen-installeren.md -o $(PRESENTATIE_DIR)/toepassingen-installeren.html
-	$(MARP_CMD) presentatie/instellingen.md -o $(PRESENTATIE_DIR)/instellingen.html
-	cd build && zip -rq presentatie.zip presentatie
+website: prepare hbegrippen hsamenvatting hoefeningen hreadme hverderleren hbegrippenperonderdeel hsneltoetsenperonderdeel hhoedecursustevolgen
+	$(MARP_CMD) $(PP_DIR)/inleiding.md -o $(WEBSITE_DIR)/inleiding.html
+	$(MARP_CMD) $(PP_DIR)/rondleiding-gnome.md -o $(WEBSITE_DIR)/rondleiding-gnome.html
+	$(MARP_CMD) $(PP_DIR)/toepassingen-starten-en-afsluiten.md -o $(WEBSITE_DIR)/toepassingen-starten-en-afsluiten.html
+	$(MARP_CMD) $(PP_DIR)/firefox.md -o $(WEBSITE_DIR)/firefox.html
+	$(MARP_CMD) $(PP_DIR)/bestanden.md -o $(WEBSITE_DIR)/bestanden.html
+	$(MARP_CMD) $(PP_DIR)/vensters-en-werkbladen.md -o $(WEBSITE_DIR)/vensters-en-werkbladen.html
+	$(MARP_CMD) $(PP_DIR)/toepassingen-installeren.md -o $(WEBSITE_DIR)/toepassingen-installeren.html
+	$(MARP_CMD) $(PP_DIR)/instellingen.md -o $(WEBSITE_DIR)/instellingen.html
+	cd $(BUILD_DIR) && zip -rq $(WEBSITE_SUBDIR).zip $(WEBSITE_SUBDIR)
 
-hoedecursustevolgen: prepare
-	$(PANDOC_PDF_CMD) hoe-de-cursus-te-volgen.md -o $(BUILD_DIR)/hoe-de-cursus-te-volgen.pdf
+# PREPROCESSING
 
-begrippen: prepare
-	$(PANDOC_PDF_CMD) begrippen.md -o $(BUILD_DIR)/begrippen.pdf
+.ONESHELL:
+preprocess: prepare
+	for MARKDOWN_FILE in $(shell ls *.md presentatie/*.md);
+	do
+		WEBSITE=$(GH_PAGES) WEBSITE_WOP=$(GH_PAGES_WOP) envsubst '$$WEBSITE $$WEBSITE_WOP' < $$MARKDOWN_FILE > $(PP_DIR)/$$(basename $$MARKDOWN_FILE)
+	done
+	REPO=$(REPO) GITHUB_REPO_NAME=$(GITHUB_REPO_NAME) GITHUB_USER=$(GITHUB_USER) envsubst < bin/prepare-education-box.sh > $(BUILD_DIR)/prepare-education-box.sh
 
-begrippenperonderdeel: prepare
-	$(PANDOC_PDF_CMD) begrippen-per-onderdeel.md -o $(BUILD_DIR)/begrippen-per-onderdeel.pdf
+# PRINTS
+hoedecursustevolgen: preprocess
+	$(PANDOC_PDF_CMD) $(PP_DIR)/hoe-de-cursus-te-volgen.md -o $(PRINT_DIR)/hoe-de-cursus-te-volgen.pdf
 
-sneltoetsenperonderdeel: prepare
-	$(PANDOC_PDF_CMD) sneltoetsen-per-onderdeel.md -o $(BUILD_DIR)/sneltoetsen-per-onderdeel.pdf
+begrippen: preprocess
+	$(PANDOC_PDF_CMD) $(PP_DIR)/begrippen.md -o $(PRINT_DIR)/begrippen.pdf
 
-oefeningen: prepare
-	$(PANDOC_PDF_CMD) oefeningen.md -o $(BUILD_DIR)/oefeningen.pdf
+begrippenperonderdeel: preprocess
+	$(PANDOC_PDF_CMD) $(PP_DIR)/begrippen-per-onderdeel.md -o $(PRINT_DIR)/begrippen-per-onderdeel.pdf
 
-samenvatting: prepare
-	$(PANDOC_PDF_CMD) samenvatting.md -o $(BUILD_DIR)/samenvatting.pdf
+sneltoetsenperonderdeel: preprocess
+	$(PANDOC_PDF_CMD) $(PP_DIR)/sneltoetsen-per-onderdeel.md -o $(PRINT_DIR)/sneltoetsen-per-onderdeel.pdf
 
-verderleren: prepare
-	$(PANDOC_PDF_CMD) verder-leren.md -o $(BUILD_DIR)/verder-leren.pdf
+oefeningen: preprocess
+	$(PANDOC_PDF_CMD) $(PP_DIR)/oefeningen.md -o $(PRINT_DIR)/oefeningen.pdf
 
-hhoedecursustevolgen: prepare relative_urls
-	$(PANDOC_HTML_CMD) $(BUILD_DIR)/hoe-de-cursus-te-volgen.relative-url.md -o $(PRESENTATIE_DIR)/hoe-de-cursus-te-volgen.html $(METADATA)
+samenvatting: preprocess
+	$(PANDOC_PDF_CMD) $(PP_DIR)/samenvatting.md -o $(PRINT_DIR)/samenvatting.pdf
 
-hbegrippen: prepare
-	$(PANDOC_HTML_CMD) begrippen.md -o $(PRESENTATIE_DIR)/begrippen.html $(METADATA)
+verderleren: preprocess
+	$(PANDOC_PDF_CMD) $(PP_DIR)/verder-leren.md -o $(PRINT_DIR)/verder-leren.pdf
 
-hbegrippenperonderdeel: prepare
-	$(PANDOC_HTML_CMD) begrippen-per-onderdeel.md -o $(PRESENTATIE_DIR)/begrippen-per-onderdeel.html $(METADATA)
+# WEBVERSIONS
 
-hsneltoetsenperonderdeel: prepare
-	$(PANDOC_HTML_CMD) sneltoetsen-per-onderdeel.md -o $(PRESENTATIE_DIR)/sneltoetsen-per-onderdeel.html $(METADATA)
+hhoedecursustevolgen: relative_urls
+	$(PANDOC_HTML_CMD) $(PP_DIR)//hoe-de-cursus-te-volgen.relative-url.md -o $(WEBSITE_DIR)/hoe-de-cursus-te-volgen.html $(METADATA)
 
-hoefeningen: prepare
-	$(PANDOC_HTML_CMD) oefeningen.md -o $(PRESENTATIE_DIR)/oefeningen.html --shift-heading-level-by=1 $(METADATA)
+hbegrippen: preprocess
+	$(PANDOC_HTML_CMD) $(PP_DIR)/begrippen.md -o $(WEBSITE_DIR)/begrippen.html $(METADATA)
 
-hsamenvatting: prepare
-	$(PANDOC_HTML_CMD) samenvatting.md -o $(PRESENTATIE_DIR)/samenvatting.html --shift-heading-level-by=1 $(METADATA)
+hbegrippenperonderdeel: preprocess
+	$(PANDOC_HTML_CMD) $(PP_DIR)/begrippen-per-onderdeel.md -o $(WEBSITE_DIR)/begrippen-per-onderdeel.html $(METADATA)
 
-relative_urls:
-	sed -e 's|https://slspeek.github.io/linux-beginners-cursus/||g' README.md |sed -e '1 d'> $(BUILD_DIR)/README.relative-url.md
-	sed -e 's|https://slspeek.github.io/linux-beginners-cursus/||g' hoe-de-cursus-te-volgen.md > $(BUILD_DIR)/hoe-de-cursus-te-volgen.relative-url.md
+hsneltoetsenperonderdeel: preprocess
+	$(PANDOC_HTML_CMD) $(PP_DIR)/sneltoetsen-per-onderdeel.md -o $(WEBSITE_DIR)/sneltoetsen-per-onderdeel.html $(METADATA)
 
-hreadme: prepare relative_urls
-	$(PANDOC_HTML_CMD)  $(BUILD_DIR)/README.relative-url.md -o $(PRESENTATIE_DIR)/index.html --metadata title="Linux beginnerscursus" 
+hoefeningen: preprocess
+	$(PANDOC_HTML_CMD) $(PP_DIR)/oefeningen.md -o $(WEBSITE_DIR)/oefeningen.html --shift-heading-level-by=1 $(METADATA)
 
-hverderleren: prepare
-	$(PANDOC_HTML_CMD) verder-leren.md -o $(PRESENTATIE_DIR)/verder-leren.html $(METADATA)
+hsamenvatting: preprocess
+	$(PANDOC_HTML_CMD) $(PP_DIR)/samenvatting.md -o $(WEBSITE_DIR)/samenvatting.html --shift-heading-level-by=1 $(METADATA)
+
+relative_urls: preprocess
+	sed -e 's|$(GH_PAGES)/||g' $(PP_DIR)/README.md |sed -e '1 d'> $(PP_DIR)/README.relative-url.md
+	sed -e 's|$(GH_PAGES)/||g' $(PP_DIR)/hoe-de-cursus-te-volgen.md > $(PP_DIR)/hoe-de-cursus-te-volgen.relative-url.md
+
+hreadme: relative_urls
+	$(PANDOC_HTML_CMD)  $(PP_DIR)/README.relative-url.md -o $(WEBSITE_DIR)/index.html --metadata title="Linux beginnerscursus" 
+
+hverderleren: preprocess
+	$(PANDOC_HTML_CMD) $(PP_DIR)/verder-leren.md -o $(WEBSITE_DIR)/verder-leren.html $(METADATA)
+
+# VIEW TARGETS
 
 vbegrippen: begrippen
-	evince $(BUILD_DIR)/begrippen.pdf
+	open $(PRINT_DIR)/begrippen.pdf
 
 voefeningen: oefeningen
-	evince $(BUILD_DIR)/oefeningen.pdf
+	open $(PRINT_DIR)/oefeningen.pdf
 
 vsamenvatting: samenvatting
-	evince $(BUILD_DIR)/samenvatting.pdf
+	open $(PRINT_DIR)/samenvatting.pdf
 
 vverderleren: verderleren
-	evince $(BUILD_DIR)/verder-leren.pdf
+	open $(PRINT_DIR)/verder-leren.pdf
 
 clean: 
 	rm -rf $(BUILD_DIR)
 
 diagram: prepare
-	docker run --user $(shell id -u):$(shell id -g) --workdir /work -v $(PWD):/work --rm -i nshine/dot dot -T png -o build/presentatie/img/gnome-states.png  diagram/gnome-states.gv
+	docker run --user $(shell id -u):$(shell id -g) --workdir /work -v $(PWD):/work --rm -i nshine/dot dot -T png -o $(WEBSITE_DIR)/img/gnome-states.png  diagram/gnome-states.gv
 
 prepare:
-	mkdir -p $(PRESENTATIE_DIR)
-	cp -r img css $(PRESENTATIE_DIR)
+	mkdir -p $(WEBSITE_DIR)
+	mkdir -p $(PRINT_DIR)
+	mkdir -p $(PP_DIR)
+	cp -r img css $(WEBSITE_DIR)
 

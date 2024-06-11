@@ -490,7 +490,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga naar de URL: [```slspeek.github.io/linux-beginners-cursus```](https://slspeek.github.io/linux-beginners-cursus).
+    - Ga naar de URL: [```$WEBSITE_WOP```]($WEBSITE).
 
     - Scroll naar het kopje "Lesmateriaal"
 
@@ -514,7 +514,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga naar de URL: [```slspeek.github.io/linux-beginners-cursus```](https://slspeek.github.io/linux-beginners-cursus)
+    - Ga naar de URL: [```$WEBSITE_WOP```]($WEBSITE)
 
     - Scroll naar het kopje "Lesmateriaal"
 
@@ -527,7 +527,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 1. Start Firefox met ```SUPER+1```.
 
     - Zet
-    [```slspeek.github.io/linux-beginners-cursus/toepassingen-starten-en-afsluiten.html#4```](https://slspeek.github.io/linux-beginners-cursus/toepassingen-starten-en-afsluiten.html#4)
+    [```$WEBSITE_WOP/toepassingen-starten-en-afsluiten.html#4```]($WEBSITE/toepassingen-starten-en-afsluiten.html#4)
     in de adresbalk
 
     - Klik rechts in de animatie om het context menu te openen en kies "Afbeelding openen in nieuw tabblad"
@@ -538,7 +538,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga naar de URL: [```slspeek.github.io/linux-beginners-cursus```](https://slspeek.github.io/linux-beginners-cursus)
+    - Ga naar de URL: [```$WEBSITE_WOP```]($WEBSITE)
 
     - Maak een bladwijzer met ```CTRL+D```
 
@@ -546,7 +546,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga met behulp van de bladwijzer naar de URL: [```slspeek.github.io/linux-beginners-cursus```](https://slspeek.github.io/linux-beginners-cursus) ("Linux beginnerscursus")
+    - Ga met behulp van de bladwijzer naar de URL: [```$WEBSITE_WOP```]($WEBSITE) ("Linux beginnerscursus")
         
     - Scroll naar het kopje "Lesmateriaal"
 
@@ -558,7 +558,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga met behulp van de bladwijzer naar de URL [```slspeek.github.io/linux-beginners-cursus```](https://slspeek.github.io/linux-beginners-cursus) ("Linux beginnerscursus")
+    - Ga met behulp van de bladwijzer naar de URL [```$WEBSITE_WOP```]($WEBSITE) ("Linux beginnerscursus")
 
     - Klik op de Webversie van "Samenvatting" onder het kopje "Lesmateriaal"
 
@@ -583,7 +583,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga met behulp van de bladwijzer naar de URL [```slspeek.github.io/linux-beginners-cursus```](https://slspeek.github.io/linux-beginners-cursus) ("Linux beginnerscursus")
+    - Ga met behulp van de bladwijzer naar de URL [```$WEBSITE_WOP```]($WEBSITE) ("Linux beginnerscursus")
 
     - Ga naar het kopje "Lesmateriaal"
 
@@ -635,7 +635,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```.
 
-    - Ga naar de URL: [```slspeek.github.io/linux-beginners-cursus/samenvatting.html#firefox```](https://slspeek.github.io/linux-beginners-cursus/samenvatting.html#firefox).
+    - Ga naar de URL: [```$WEBSITE_WOP/samenvatting.html#firefox```]($WEBSITE/samenvatting.html#firefox).
 
     - Scroll omlaag naar "Extensies installeren", klik op de koppeling van "I don't care about cookies"
 
