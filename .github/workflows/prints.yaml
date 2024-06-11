@@ -3,8 +3,7 @@ name: Prints
 on: push
 
 env:
-  BUILD_DIR: build
-  PRINT_DIR: ${{ env.BUILD_DIR }}/print
+  PRINT_DIR: build/print
   
 jobs:
   pandoc:
