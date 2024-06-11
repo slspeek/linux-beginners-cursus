@@ -1,5 +1,9 @@
 BUILD_DIR=build
 PRESENTATIE_DIR=$(BUILD_DIR)/presentatie
+GITHUB_USER=slspeek
+GITHUB_REPO_NAME=linux-beginners-cursus
+REPO=https://github.com/$(GITHUB_USER)/$(GITHUB_REPO_NAME)
+GH_PAGES=https://$(GITHUB_USER).github.io/$(GITHUB_REPO_NAME)
 PANDOC_IMAGE=pandoc/latex:2.9
 METADATA=--metadata author='Steven Speek' --metadata date="$$(LANG=nl_NL.UTF-8 date +'%A %-d %B %Y')"
 USER_ID=$(shell id -u):$(shell id -g)
