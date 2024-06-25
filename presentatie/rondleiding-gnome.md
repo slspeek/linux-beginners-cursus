@@ -246,6 +246,15 @@ Om de computer af te sluiten
 - ```SUPER uits ENTER```
 
 ---
+#### Enkele belangrijke sneltoetsen
+
+- navigeren
+    - ```TAB``` en ```SHIFT+TAB``` 
+    - ```→```, ```←```, ```↑``` en ```↓```
+- selecteren, indrukken ```SPATIEBALK```
+- bevestigen ```ENTER```
+
+---
 #### Voorbeeld
 ![width:960px](img/uitschakelen.gif)
 

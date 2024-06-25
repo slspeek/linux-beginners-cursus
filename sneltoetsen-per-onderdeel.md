@@ -19,6 +19,11 @@ date: \today{}
 |```PrintScreen```|Schermafdruk maken|
 |```CTRL+ALT+SHIFT+R```|Screenrecording maken|
 |```CTRL+ALT+DELETE```|Computer uitschakelen|
+|```TAB``` en ```SHIFT+TAB```|| 
+|```→```, ```←```, ```↑``` en ```↓```|Navigeren|
+|```SPATIEBALK```|Selecteren, indrukken, activeren| 
+|```ENTER```|Bevestigen|
+|```ESC```|Annuleren| 
 
 
 ## Toepassingen starten en afsluiten 
