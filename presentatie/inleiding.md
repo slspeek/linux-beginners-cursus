@@ -150,14 +150,6 @@ Zo ontstond de combinatie GNU/Linux
 ![width:300px](img/fedora-logo.png) ![width:300px](img/debian-logo.png) ![width:300px](img/ubuntu-logo.png) ![width:300px](img/knoppix-logo.gif) ![width:300px](img/opensuse-logo.png) ![width:300px](img/mint-logo.png)
 
 ---
-## Belang van vrije software
-![bg right width:90%](img/broncode.jpg)
-
-- Met broncode kun je nagaan wat programmatuur doet
-
-- Programmeurs en gebruikers zijn de baas over de programmatuur
-
----
 ## Belang dat u vrije software gebruikt
 ![bg right width:90%](img/bug.jpg)
 
@@ -168,15 +160,19 @@ Zo ontstond de combinatie GNU/Linux
 ---
 ## Voordelen van vrije software
 
-- Kosteloos
+- Programmeurs en gebruikers zijn de baas over de programmatuur
 
-- Draait goed op oudere hardware
+    - Software kan zomaar worden veranderd
+
+- Met broncode kun je nagaan wat programmatuur doet
 
 - Eenvoudige installatie van toepassingen
 
+- Draait goed op oudere hardware
+
 - Geen reclame of marketing in het systeem
 
-- Veranderingen aan software die een belangrijk deel van de gebruikers niet aanstaan zal leiden tot een afsplitsing die hen wel behaagd
+- Kosteloos
 
 ---
 ## [Redenen om Debian te gebruiken](https://www.debian.org/intro/why_debian)
