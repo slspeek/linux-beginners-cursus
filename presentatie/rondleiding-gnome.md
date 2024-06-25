@@ -116,6 +116,13 @@ Losmaken door je wachtwoord in te voeren
     - zien welke programma's er zijn geopend
     - op de 3x3 puntjes aan de rechterzijde klikken op applicatie modus in te gaan
     ![width:200px](img/3x3-puntjes-op-dash.png)
+
+---
+- kunt u een programma van de dash losmaken door:
+    -  het naar de 3x3 puntjes rechts te slepen
+    -  uit het context menu 'Losmaken' te kiezen
+![width:840px](img/dash-toepassing-verwijderen.gif)
+
 ---
 ### Met de dash kunt u
 - een programma openen door met de muis op het icon te klikken
@@ -169,10 +176,6 @@ Is een onderdeel van activiteiten modus
 ---
 - kunt u een programma toevoegen aan de dash
 ![width:1000px](img/dash-toepassing-toevoegen.gif)
-
----
-- kunt u een programma uit de dash verwijderen door het naar de 3x3 puntjes rechts te slepen
-![width:960px](img/dash-toepassing-verwijderen.gif)
 
 --- 
 ### Bovenbalk

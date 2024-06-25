@@ -22,6 +22,8 @@ date: \today{}
 
 - Bovenbalk
 
+- Context menu
+
 - Dash
 
 - Desktop manager
