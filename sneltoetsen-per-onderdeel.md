@@ -14,7 +14,6 @@ date: \today{}
 |```CTRL+F```|Zoeken op 1 pagina|
 |```SUPER```|Activiteiten modus in/uit|
 |```SUPER+A```|Applicatie modus in|
-|```ESCAPE```|Verlaten/annuleren|
 |```SUPER+V```|Notificatie venster tonen/verbergen|
 |```PrintScreen```|Schermafdruk maken|
 |```CTRL+ALT+SHIFT+R```|Screenrecording maken|
@@ -23,7 +22,7 @@ date: \today{}
 |```→```, ```←```, ```↑``` en ```↓```|Navigeren|
 |```SPATIEBALK```|Selecteren, indrukken, activeren| 
 |```ENTER```|Bevestigen|
-|```ESC```|Annuleren| 
+|```ESC```|Annuleren/Verlaten| 
 
 
 ## Toepassingen starten en afsluiten 

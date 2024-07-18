@@ -50,7 +50,7 @@ preprocess: prepare
 	do
 		WEBSITE=$(GH_PAGES) WEBSITE_WOP=$(GH_PAGES_WOP) envsubst '$$WEBSITE $$WEBSITE_WOP' < $$MARKDOWN_FILE > $(PP_DIR)/$$(basename $$MARKDOWN_FILE)
 	done
-	REPO=$(REPO) GITHUB_REPO_NAME=$(GITHUB_REPO_NAME) GITHUB_USER=$(GITHUB_USER) envsubst < bin/prepare-education-box.sh > $(BUILD_DIR)/prepare-education-box.sh
+	REPO=$(REPO) GITHUB_REPO_NAME=$(GITHUB_REPO_NAME) GITHUB_USER=$(GITHUB_USER) envsubst '$$GITHUB_USER $$GITHUB_REPO_NAME' < bin/prepare-education-box.sh > $(BUILD_DIR)/prepare-education-box.sh
 
 # PRINTS
 hoedecursustevolgen: preprocess

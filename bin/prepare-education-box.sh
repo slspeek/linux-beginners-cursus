@@ -3,7 +3,7 @@
 
 GITHUB_RAW=https://raw.githubusercontent.com/$GITHUB_USER/$GITHUB_REPO_NAME/main
 
-GITHUB_RELEASES=$REPO/releases/latest/download
+GITHUB_RELEASES=https://github.com/$GITHUB_USER/$GITHUB_REPO_NAME/releases/latest/download
 
 cd ~/Downloads
 wget $GITHUB_RAW/resources/bloemen.zip 

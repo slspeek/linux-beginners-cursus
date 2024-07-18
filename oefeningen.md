@@ -263,13 +263,15 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
     a. Ken onder de afdeling "Starters" ```SUPER+I``` aan Instellingen
 
-1.  Aangepaste sneltoetsen toevoegen. Open sneltoetsen in de Instellingen.
+1.  Aangepaste sneltoetsen toevoegen.
+
+    a. Open sneltoetsen in de Instellingen.
 
     a. Open de afdeling "Aangepaste sneltoets" (onderaan).
 
     a.  ```SUPER+SHIFT+I``` toekennen aan "Afstellingen"
 
-        i. Klik op de + onderaan
+        i. Klik op de knop 'Sneltoets toevoegen'
 
         i. Vul onder "Naam" ```Afstellingen``` in
 
@@ -277,7 +279,27 @@ Uitzondering hierop zijn de volgende speciale toetsen:
 
         i. Klik op "Sneltoets instellen" en druk ```SUPER+SHIFT+I```
 
-    a.  Ken ```ALT+CTRL+T``` toe aan de opdracht ```gnome-terminal``` onder de naam ```Terminal```.
+        i. Klik op 'Toevoegen' om te bevestigen
+
+        i. ```ALT+F4``` om instellingen te sluiten
+
+2.  ```CTRL+ALT+T``` toekennen aan de opdracht ```gnome-terminal``` onder de naam ```Terminal```.
+
+    a. Open sneltoetsen in de Instellingen.
+
+    a. Open de afdeling "Aangepaste sneltoets" (onderaan).
+
+        i. Klik op de + onderaan
+
+        i. Vul onder "Naam" ```Terminal``` in
+
+        i. Vul onder "Opdracht" ```gnome-terminal``` in
+
+        i. Klik op "Sneltoets instellen" en druk ```CTRL+ALT+T```
+
+        i. Klik op 'Toevoegen' om te bevestigen
+
+        i. ```ALT+F4``` om instellingen te sluiten
 
 1.  Sneltoetsen opzoeken. Open de sneltoetsen instellingen zoals in beschreven in de eerste oefening *(Hint: Afdeling "Vensters")*.
     
@@ -647,7 +669,7 @@ Gebruik nu het vergrootglas bovenaan het venster om te zoeken.
 
 1. Start Firefox met ```SUPER+1```
 
-    - Ga via het hamburgermenu rechtsboven ![](img/firefox-hamburgermenu.png){height=20px} naar 'Hulp' en dan naar 'Hulp verkrijgen'
+    - Ga via het hamburgermenu rechtsboven ![](img/firefox-hamburgermenu.png){height=20px} naar 'Help' en dan naar 'Hulp verkrijgen'
 
     - Type ```navigatiegeschiedenis``` in het zoekvak midden op de pagina
 
