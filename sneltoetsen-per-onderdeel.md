@@ -58,8 +58,8 @@ date: \today{}
 |```ALT+↑```|zoekmachine te selecteren als u al iets ingetyped hebt|
 |```CTRL+SHIFT+Click```|open koppeling op nieuw tabblad en ga naar dat tabblad|
 |```CTRL+Click```|open koppeling op nieuw tabblad|
-|```CLTR+TAB```|Wissel tussen tabbladen|
-|```CLTR+SHIFT+TAB```|Wissel tussen tabbladen (omgekeerde volgorde)|
+|```CTRL+TAB```|Wissel tussen tabbladen|
+|```CTRL+SHIFT+TAB```|Wissel tussen tabbladen (omgekeerde volgorde)|
 |```CTRL+D```|Bladwijzer maken|
 |```CTRL+SHIFT+O```|Bladwijzers organiseren|
 |```CTRL+N```|Nieuw venster openen|
