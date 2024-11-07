@@ -29,7 +29,7 @@ Het huiswerk zal u ongeveer één tot twee uur per les kosten. Maak hier tijd vo
     |7|[Instellingen]($WEBSITE/instellingen.html)|[Samenvatting]($WEBSITE/samenvatting.html#instellingen)|
     |8|[Toepassingen installeren]($WEBSITE/toepassingen-installeren.html)|[Samenvatting]($WEBSITE/samenvatting.html#toepassingen-installeren)|
     
-1.  Neem de presentatie van de laatste les thuis door.
+1.  Neem de presentatie van de laatst behandelde les thuis door.
 
     |Les |Presentatie|
     |----|--------|
