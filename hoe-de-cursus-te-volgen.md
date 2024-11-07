@@ -16,7 +16,7 @@ de antwoorden op de open vragen moet u opschrijven.
 Het huiswerk zal u ongeveer één tot twee uur per les kosten. Maak hier tijd voor vrij in uw agenda.
 
 1.  Lees de
-    [*samenvatting*](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/samenvatting.pdf) van de laatste les door.
+    [*samenvatting*](https://github.com/slspeek/linux-beginners-cursus/releases/latest/download/samenvatting.pdf) van de laatst behandelde les door.
 
     |Les |Presentatie|Samenvatting|
     |----|--------|-------|
