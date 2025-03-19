@@ -31,5 +31,14 @@ Deze cursus is bedoeld voor mensen die hun kennis over Linux willen vergroten. E
 |7|[Instellingen](https://slspeek.github.io/linux-beginners-cursus/instellingen.html)|[Oefeningen](https://slspeek.github.io/linux-beginners-cursus/oefeningen.html#instellingen)|[Samenvatting](https://slspeek.github.io/linux-beginners-cursus/samenvatting.html#instellingen)|[Begrippen](https://slspeek.github.io/linux-beginners-cursus/begrippen-per-onderdeel.html#instellingen)|[Sneltoetsen](https://slspeek.github.io/linux-beginners-cursus/sneltoetsen-per-onderdeel.html#instellingen)|
 |8|[Toepassingen installeren](https://slspeek.github.io/linux-beginners-cursus/toepassingen-installeren.html)|[Oefeningen](https://slspeek.github.io/linux-beginners-cursus/oefeningen.html#toepassingen-installeren)|[Samenvatting](https://slspeek.github.io/linux-beginners-cursus/samenvatting.html#toepassingen-installeren)|[Begrippen](https://slspeek.github.io/linux-beginners-cursus/begrippen-per-onderdeel.html#toepassingen-installeren)|[Sneltoetsen](https://slspeek.github.io/linux-beginners-cursus/sneltoetsen-per-onderdeel.html#toepassingen-installeren)|
 
+## Computer gereed maken voor de cursus
+Installeer je computer met het cursus profiel van de [Nederlandse Debian Preseeds](https://slspeek.github.io/debian/). Volg de instructies op [https://slspeek.github.io/debian/#gebruik](https://slspeek.github.io/debian/#gebruik) met ```https://slspeek.github.io/debian/cursus.cfg``` in plaats van ```https://slspeek.github.io/debian/gnome-personal.cfg```.
+
+Dan log in je in als ```tux``` met wachtwoord ```tux```. En draai je in terminal
+```
+$prepare-education-box.sh
+```
+Nu zal het er bij jou precies zo uitzien als in de presentaties.
+
 ## Broncode
 De broncode van Linux beginnerscursus bevindt zich op het volgende URL: [```https://github.com/slspeek/linux-beginners-cursus```](https://github.com/slspeek/linux-beginners-cursus).
