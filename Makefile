@@ -10,12 +10,12 @@ GITHUB_REPO_NAME=linux-beginners-cursus
 REPO=https://github.com/$(GITHUB_USER)/$(GITHUB_REPO_NAME)
 GH_PAGES_WOP=$(GITHUB_USER).github.io/$(GITHUB_REPO_NAME)
 GH_PAGES=https://$(GH_PAGES_WOP)
-PANDOC_IMAGE=pandoc/latex:2.9
+PANDOC_IMAGE=pandoc/latex:3.8
 METADATA=--metadata author='Steven Speek' --metadata date="$$(LANG=nl_NL.UTF-8 date +'%A %-d %B %Y')"
 USER_ID=$(shell id -u):$(shell id -g)
 PANDOC_PDF_CMD=docker run --rm --init -v "$(PWD):/data" -u $(USER_ID)  $(PANDOC_IMAGE) --include-in-header=header.tex --from markdown layout.yaml 
 PANDOC_HTML_CMD=docker run --rm --init -v "$(PWD):/data" -u $(USER_ID) $(PANDOC_IMAGE) --standalone --css=css/custom.css --from markdown --to html
-MARP=marpteam/marp-cli:v3.1.0
+MARP=marpteam/marp-cli:v4.2.3
 MARP_CMD=docker run --rm --init -e MARP_USER=$(USER_ID) -v $(PWD):/home/marp/app/ -e LANG=$(LANG) $(MARP) --allow-local-files
 
 default: clean all

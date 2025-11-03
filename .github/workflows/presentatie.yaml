@@ -6,14 +6,13 @@ env:
   BUILD_DIR: build
   WEBSITE_DIR: build/website
   LANG: "nl_NL.UTF-8"
-  MARP_USER: "1001:115"
 
 jobs:
   marp:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate dutch
-        run: sudo locale-gen nl_NL.UTF-8
+      - name: Generate dutch locale
+        run: sudo locale-gen ${{ env.LANG }}
       - name: Checkout 
         uses: actions/checkout@v3
       - name: Prepare
